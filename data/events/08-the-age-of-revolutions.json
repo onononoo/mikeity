@@ -35,5 +35,17 @@
   {"date": "1844", "region": "north america", "text": "samuel morse sends a telegraph message from washington to baltimore", "tags": ["technology"]},
   {"date": "1845-1852", "region": "europe", "text": "the great famine in ireland: about a million die and a million emigrate", "tags": ["disaster", "migration"]},
   {"date": "1848", "region": "europe", "text": "revolutions break out across europe; marx and engels publish the communist manifesto", "tags": ["revolution", "socialism"]},
-  {"date": "1848", "region": "north america", "text": "the seneca falls convention demands equal rights for women, including the vote", "tags": ["rights"]}
+  {"date": "1848", "region": "north america", "text": "the seneca falls convention demands equal rights for women, including the vote", "tags": ["rights"]},
+  {"date": "1762-1796", "region": "europe", "text": "catherine the great rules russia, expanding it to the black sea", "tags": ["empire"]},
+  {"date": "1780-1783", "region": "south america", "text": "tupac amaru ii leads a great indigenous uprising against spanish rule in peru; it is crushed and he is executed", "tags": ["revolution"]},
+  {"date": "1793", "region": "east asia", "text": "the qianlong emperor turns away a british embassy asking for more trade, writing that china needs nothing from britain", "tags": ["diplomacy", "trade"]},
+  {"date": "1798", "region": "europe", "text": "thomas malthus argues that population will always grow faster than the food supply", "tags": ["economy"]},
+  {"date": "1803", "region": "north america", "text": "the united states buys the vast louisiana territory from france, doubling its size", "tags": ["politics"]},
+  {"date": "1820", "region": "the arctic and antarctica", "text": "russian and british expeditions make the first confirmed sightings of antarctica", "tags": ["exploration"]},
+  {"date": "1829", "region": "south asia", "text": "after a campaign by ram mohan roy and others, british india bans sati, the burning of widows", "tags": ["rights"]},
+  {"date": "1830", "region": "africa", "text": "france invades algeria, beginning more than 130 years of french rule", "tags": ["empire", "war"]},
+  {"date": "1831-1836", "region": "the whole world", "text": "charles darwin sails around the world on hms beagle, collecting the evidence for his theory of evolution", "tags": ["science", "exploration"]},
+  {"date": "1843", "region": "europe", "text": "ada lovelace publishes notes on babbage's analytical engine, including what is often called the first computer program", "tags": ["computers", "science"]},
+  {"date": "1846", "region": "north america", "text": "surgeons in boston operate on a patient put to sleep with ether, the first public demonstration of anesthesia", "tags": ["medicine"]},
+  {"date": "1847", "region": "europe", "text": "ignaz semmelweis shows that doctors washing their hands saves mothers from childbed fever", "tags": ["medicine"]}
 ]

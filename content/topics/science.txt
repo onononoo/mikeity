@@ -1,0 +1,41 @@
+# topic: science.
+
+== watching the sky {#sky}
+
+long before anything like modern science, people studied nature closely, because their lives depended on it. hunters knew the habits of animals, farmers knew the seasons, and sailors knew the stars. the babylonians kept careful records of the moon and planets for centuries and could predict eclipses. they counted in base sixty, which is why we still have sixty minutes in an hour and 360 degrees in a circle. the egyptians used geometry to measure fields after the nile flood and to build pyramids.
+
+== the greeks and after {#greeks}
+
+greek thinkers from about 600 bce tried to explain nature without calling on the gods. [[@aristotle]] studied animals, plants, and logic. [[@euclid]] built up geometry from a few starting rules. [[@archimedes]] worked out the laws of levers and floating objects. [[@eratosthenes]] measured the size of the earth using shadows, and came close to the right answer. [[@hippocrates]] and [[@galen]] did the same for medicine. most of this was worked out by thinking and observing, and only rarely by experiment.
+
+china and india made their own advances. [[@zhang heng]] built a device to detect distant earthquakes in 132 ce. indian mathematicians like [[@aryabhata]] worked out astronomy and trigonometry, and by the 600s they treated zero as a number in its own right. with the decimal place system, this is the way we write numbers today.
+
+== the house of wisdom {#wisdom}
+
+from the 800s, scholars in baghdad's house of wisdom translated greek, persian, and indian works into arabic and built on them. [[@al-khwarizmi]] wrote the book that gave us the word algebra; his own name gave us "algorithm". [[@ibn al-haytham]] tested his ideas about light with experiments. [[@ibn sina]] wrote on medicine and philosophy. in song china, [[@shen kuo]] described the magnetic compass needle and how rocks are worn down over long ages. much of this knowledge later reached europe through spain and sicily.
+
+== the scientific revolution {#revolution}
+
+in 1543, [[@nicolaus copernicus]] argued that the earth goes around the sun ([[heliocentrism]]). [[@johannes kepler]] showed that the planets move in ellipses, and [[@galileo galilei]] turned a telescope on the sky and saw jupiter's moons. in 1687, [[@isaac newton]] explained that the same force, gravity, makes an apple fall and keeps the moon in orbit.
+
+what was new in the [[scientific revolution]] was not just the discoveries but the method: test ideas with experiments and measurements, publish the results, and let others check them. this [[scientific method]], supported by printing and by new societies of scientists, made knowledge grow faster than ever before.
+
+== the age of discovery in science {#modern}
+
+| when | who | what |
+|---|---|---|
+| 1859 | [[@charles darwin]] | [[evolution]] by [[natural selection]] |
+| 1869 | dmitri mendeleev | the periodic table of the elements |
+| 1860s-1880s | [[@louis pasteur]], robert koch | [[germ theory]] |
+| 1843 | [[@ada lovelace]] | the idea of a general-purpose computing machine |
+| 1898-1911 | [[@marie curie]] | radioactivity |
+| 1905-1915 | [[@albert einstein]] | relativity: space, time, and gravity |
+| 1936 | [[@alan turing]] | the theory of the modern computer |
+| 1938 | [[@lise meitner]] and others | nuclear fission |
+| 1953 | [[@rosalind franklin]], watson, crick | the structure of [[dna]] |
+
+== science today {#today}
+
+science has given us antibiotics, electricity, flight, computers, and a picture of the universe going back 13.8 billion years to the [[big bang]]. it has also given us nuclear weapons, and it has shown the dangers of [[climate change]]. science is never finished: the best current explanation is always open to being tested, and replaced if something better comes along.
+
+see also: [[part:the-early-modern-world|part 7]] for the scientific revolution, and [[part:the-beginning|part 1]] for what science tells us about the beginning of everything.

@@ -1,0 +1,28 @@
+{# one page per topic: a single thread followed through every part #}
+<h1>{{ topic.title }}</h1>
+
+<p><b>{{ topic.summary }}</b></p>
+
+<table class="grid box"><tr><td>
+<b>contents</b>
+<ol>
+{% for sec in toc %}<li><a href="#{{ sec.id }}">{{ sec.text }}</a>{% if sec.subs %}
+<ol type="a">{% for sub in sec.subs %}<li><a href="#{{ sub.id }}">{{ sub.text }}</a></li>{% endfor %}</ol>{% endif %}</li>
+{% endfor %}<li><a href="#see-also">see also</a></li>
+</ol>
+</td></tr></table>
+
+{{ topic.doc.html|raw }}
+
+<h2 id="see-also">see also</h2>
+
+<ul>
+{% if topic.parts %}<li>parts: {% for e in topic.parts %}<a href="{{ e.slug }}.html">{{ e.number }}. {{ e.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</li>
+{% endif %}{% if topic.people %}<li>people: {% for p in topic.people %}<a href="people.html#{{ p.slug }}">{{ p.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</li>
+{% endif %}{% if topic.terms %}<li>terms: {% for t in topic.terms %}<a href="glossary.html#{{ t.slug }}">{{ t.term }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</li>
+{% endif %}</ul>
+
+<hr>
+<p>{% if topic.prev %}&laquo; <a href="{{ topic.prev.slug }}.html">{{ topic.prev.title }}</a>{% else %}&laquo; <a href="topics.html">all topics</a>{% endif %}
+ | <a href="#top">top</a> |
+{% if topic.next %}<a href="{{ topic.next.slug }}.html">{{ topic.next.title }}</a> &raquo;{% else %}<a href="topics.html">all topics</a> &raquo;{% endif %}</p>

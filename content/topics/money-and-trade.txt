@@ -1,0 +1,39 @@
+# topic: money and trade.
+
+== trade before money {#before}
+
+trade is far older than money. obsidian, a sharp volcanic glass, was carried hundreds of kilometers from its sources in the stone age, and shells from the coast turn up far inland. most early exchange was probably based on gifts, favors, and trust between people who knew each other, not on one-for-one swaps.
+
+the first records of money are records of debt. in mesopotamian temples and palaces, scribes wrote down what people owed in weights of silver or measures of barley, even when no silver changed hands. [[@hammurabi]]'s laws set interest rates and rules for loans.
+
+== the first coins {#coins}
+
+around 600 bce, the kingdom of lydia in anatolia began stamping lumps of electrum, a natural mix of gold and silver, with a lion's head. this was [[coinage]]: pieces of metal whose weight and purity were guaranteed by a ruler. coins spread quickly to the greek cities and persia. in india, punch-marked silver coins appeared at about the same time, and in china, bronze coins shaped like spades and knives gave way to round coins with a square hole, which were used for two thousand years.
+
+coins made it easy to pay soldiers, collect taxes, and buy and sell in markets. they also carried propaganda: rulers from [[@alexander the great]] to [[@augustus]] put their faces on them.
+
+== the great routes {#routes}
+
+three great networks carried goods across the old world:
+
+- the [[silk roads]], chains of overland routes across central asia, carried silk, horses, paper, glass, and ideas. few people traveled the whole way; goods passed from [[caravan]] to caravan.
+- the indian ocean trade used the [[monsoon]] winds to cross between east africa, arabia, india, and southeast asia. swahili cities like kilwa and trading states like srivijaya grew rich on it.
+- across the sahara, camel caravans carried salt south and gold north. the empires of ghana, mali, and songhai rose on this trade, and [[@mansa musa]]'s pilgrimage in 1324 showed the world how rich mali was.
+
+== paper money and credit {#credit}
+
+carrying heavy coins was risky. in 1024 the song government of china issued the first official [[paper money]]. printing too much of it later caused [[inflation]], a problem every paper currency since has faced. in medieval italy, bankers in florence, genoa, and venice used the [[bill of exchange]] so merchants could pay across europe without moving coins.
+
+== one world economy {#world}
+
+after 1492, trade became truly global. silver from potosí in bolivia and from mexico, mined by forced native labor, was shipped both across the atlantic and across the pacific to manila, where it paid for chinese silk and porcelain. china, which collected its taxes in silver, absorbed a huge share of the world's supply.
+
+new kinds of business grew up. the dutch east india company, founded in 1602, was a [[joint-stock company]] whose shares were traded on the amsterdam exchange. this was the beginning of modern [[capitalism]]. it was also a world built on violence: the atlantic [[slavery|slave trade]] carried about 12.5 million africans in chains, and [[plantation]] sugar, tobacco, and cotton were among the most valuable goods on earth.
+
+in the 1800s, steamships, railways, and the telegraph tied markets closer together, and most big economies tied their money to gold, the [[gold standard]]. [[@adam smith]] argued for free trade; [[@karl marx]] argued that capitalism exploited workers. the arguments have never really stopped.
+
+== money today {#today}
+
+after the [[great depression]] and the second world war, the major currencies were linked to the us dollar, and the dollar to gold. that link was cut in 1971, and since then most money has been backed only by trust in governments and central banks. shipping containers, invented in the 1950s, made moving goods across the world cheap, and [[globalization]] followed. today most money is not coins or paper at all, but numbers in computers.
+
+see also: [[part:the-classical-world|part 5]] for the first coins and the silk roads, and [[part:the-early-modern-world|part 7]] for the first global economy.

@@ -12,6 +12,11 @@ from .util import read, slugify
 
 # ids the era page template uses itself (see templates/era.html)
 era_page_ids = ("top", "part-timeline", "part-people", "part-terms")
+# the same for topic pages (see templates/topic.html)
+topic_page_ids = ("top", "see-also")
+# pages the builder writes itself, so no part or topic may use these names
+page_names = ("index", "timeline", "topics", "regions", "people", "glossary", "search",
+              "statistics", "about")
 
 
 class load_error(Exception):
@@ -50,6 +55,8 @@ class site:
         self.term_by_slug = {}
         self.regions = []
         self.region_by_slug = {}
+        self.topics = []
+        self.topic_by_slug = {}
         self.problems = []
 
     def problem(self, where, what):
@@ -180,23 +187,51 @@ def load(root):
             if slugify(other) not in s.term_by_slug:
                 s.problem(f"glossary.json ({t.term})", f"'see' points at missing term {other!r}")
 
+    # ---------------------------------------------------------- topics
+    # essays that follow one thread (writing, disease, money...) through every part
+    for i, t in enumerate(_json(os.path.join(data, "topics.json")), 1):
+        t = record(t, number=i)
+        where = f"topics.json ({t['slug']})"
+        if t.slug in s.era_by_slug or t.slug in page_names or t.slug in s.topic_by_slug:
+            s.problem(where, f"the name {t.slug!r} is already used by another page")
+            continue
+        path = os.path.join(root, "content", "topics", f"{t.slug}.txt")
+        if not os.path.exists(path):
+            s.problem(where, f"missing text file {os.path.relpath(path, root)}")
+            continue
+        t.doc = markup.parse(read(path), reserved=topic_page_ids)
+        s.topics.append(t)
+        s.topic_by_slug[t.slug] = t
+    for a, b in zip([None] + s.topics, s.topics + [None]):
+        if a:
+            a.next = b
+        if b:
+            b.prev = a
+
     # ---------------------------------------------------------- cross links in text
+    def check_links(doc, where):
+        people = [s.person_by_slug[x] for x in sorted(doc.people) if x in s.person_by_slug]
+        terms = [s.term_by_slug[x] for x in sorted(doc.terms) if x in s.term_by_slug]
+        parts = [s.era_by_slug[x] for x in sorted(doc.parts) if x in s.era_by_slug]
+        for slug in sorted(doc.people - set(s.person_by_slug)):
+            s.problem(where, f"links to unknown person {slug!r}")
+        for slug in sorted(doc.terms - set(s.term_by_slug)):
+            s.problem(where, f"links to unknown glossary term {slug!r}")
+        for slug in sorted(doc.parts - set(s.era_by_slug)):
+            s.problem(where, f"links to unknown part {slug!r}")
+        return people, terms, parts
+
     for e in s.eras:
-        where = f"content/eras/{e.number:02d}-{e.slug}.txt"
-        for slug in sorted(e.doc.people):
-            if slug not in s.person_by_slug:
-                s.problem(where, f"links to unknown person {slug!r}")
-        for slug in sorted(e.doc.terms):
-            t = s.term_by_slug.get(slug)
-            if not t:
-                s.problem(where, f"links to unknown glossary term {slug!r}")
-            else:
-                e.terms.append(t)
-                t.used_in.append(e)
-        for slug in sorted(e.doc.parts):
-            if slug not in s.era_by_slug:
-                s.problem(where, f"links to unknown part {slug!r}")
-        e.terms.sort(key=lambda t: t.term)
+        _, terms, _ = check_links(e.doc, f"content/eras/{e.number:02d}-{e.slug}.txt")
+        e.terms = terms
+        for t in terms:
+            t.used_in.append(e)
+
+    for t in s.topics:
+        people, terms, parts = check_links(t.doc, f"content/topics/{t.slug}.txt")
+        t.people = sorted(people, key=lambda p: p.life.start)
+        t.terms = terms
+        t.parts = sorted(parts, key=lambda e: e.number)
 
     if s.problems:
         raise load_error(s.problems)

@@ -16,9 +16,9 @@ from .database import life_known
 from .util import strip_tags, write
 
 
-def _sections(era):
-    """split an era's html into (id, heading, plain text) chunks at each heading."""
-    parts = re.split(r'<h[23] id="([^"]+)">(.*?)</h[23]>', era.doc.html)
+def _sections(page):
+    """split a part's or topic's html into (id, heading, plain text) chunks at each heading."""
+    parts = re.split(r'<h[23] id="([^"]+)">(.*?)</h[23]>', page.doc.html)
     out = []
     for hid, head, body in zip(parts[1::3], parts[2::3], parts[3::3]):
         out.append((hid, strip_tags(head), strip_tags(body)))
@@ -33,6 +33,10 @@ def search_index(s):
         for hid, head, text in _sections(e):
             items.append(dict(k="section", t=head, d=f"part {e.number}", x=text[:600],
                               u=f"{e.slug}.html#{hid}"))
+    for t in s.topics:
+        items.append(dict(k="topic", t=t.title, d="topic", x=t.summary, u=f"{t.slug}.html"))
+        for hid, head, text in _sections(t):
+            items.append(dict(k="section", t=head, d=t.title, x=text[:600], u=f"{t.slug}.html#{hid}"))
     for ev in s.events:
         items.append(dict(k="event", t=ev.text, d=str(ev.when), x=" ".join(ev.tags),
                           u=f"timeline.html#event-{ev.id}", y=ev.when.start))
@@ -62,6 +66,7 @@ def write_all(s, out):
                      known=life_known(p), role=p.role, about=p.about, era=p.era,
                      region=p.region_rec.slug) for p in s.people],
         glossary=[dict(term=t.term, definition=t.definition) for t in s.terms],
+        topics=[dict(slug=t.slug, title=t.title, summary=t.summary) for t in s.topics],
     )
     write(os.path.join(out, "data", "history.json"),
           json.dumps(everything, ensure_ascii=False, indent=1) + "\n")

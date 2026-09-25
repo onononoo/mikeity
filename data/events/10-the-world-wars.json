@@ -33,5 +33,10 @@
   {"date": "1942-1943", "region": "europe", "text": "the soviets destroy a german army at stalingrad", "tags": ["war"]},
   {"date": "1944", "region": "europe", "text": "d-day: allied forces land in normandy", "tags": ["war"]},
   {"date": "1945", "region": "europe", "text": "soviet troops liberate auschwitz; hitler kills himself; germany surrenders in may", "tags": ["war"]},
-  {"date": "1945", "region": "east asia", "text": "the united states drops atomic bombs on hiroshima and nagasaki; japan surrenders", "tags": ["war", "nuclear"]}
+  {"date": "1945", "region": "east asia", "text": "the united states drops atomic bombs on hiroshima and nagasaki; japan surrenders", "tags": ["war", "nuclear"]},
+  {"date": "1919", "region": "mesoamerica and the caribbean", "text": "emiliano zapata, who fought for land for mexico's poor farmers, is assassinated", "tags": ["revolution"]},
+  {"date": "1927", "region": "the whole world", "text": "the world's population reaches two billion", "tags": ["humans"]},
+  {"date": "1936", "region": "europe", "text": "alan turing describes a universal computing machine, the idea behind every modern computer", "tags": ["computers", "science"]},
+  {"date": "1938", "region": "europe", "text": "otto hahn and fritz strassmann split uranium atoms; lise meitner and otto frisch explain it as nuclear fission", "tags": ["science", "nuclear"]},
+  {"date": "1943", "region": "south asia", "text": "the bengal famine kills about three million people under british wartime rule", "tags": ["disaster"]}
 ]

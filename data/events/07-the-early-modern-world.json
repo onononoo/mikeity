@@ -38,5 +38,17 @@
   {"date": "1683", "region": "europe", "text": "the ottomans are defeated at the second siege of vienna", "tags": ["war"]},
   {"date": "1687", "region": "europe", "text": "isaac newton publishes the principia, explaining gravity and the laws of motion", "tags": ["science"]},
   {"date": "1688", "region": "europe", "text": "the glorious revolution in england limits the power of the crown; a bill of rights follows", "tags": ["politics", "rights"]},
-  {"date": "1712", "region": "europe", "text": "thomas newcomen builds the first practical steam engine, to pump water from mines", "tags": ["technology"]}
+  {"date": "1712", "region": "europe", "text": "thomas newcomen builds the first practical steam engine, to pump water from mines", "tags": ["technology"]},
+  {"date": "1464-1492", "region": "africa", "text": "sonni ali builds the songhai empire along the niger river, taking timbuktu and djenné", "tags": ["empire", "war"]},
+  {"date": "c. 1500", "region": "south asia", "text": "guru nanak begins teaching in the punjab; his followers become the sikhs", "tags": ["religion"]},
+  {"date": "1520", "region": "mesoamerica and the caribbean", "text": "smallpox, brought by the spanish, kills a huge share of the people of tenochtitlan", "tags": ["disease"]},
+  {"date": "1550-1551", "region": "europe", "text": "in the valladolid debate, bartolomé de las casas argues against the enslavement and abuse of the peoples of the americas", "tags": ["rights"]},
+  {"date": "1606", "region": "oceania", "text": "the dutch sailor willem janszoon makes the first recorded european landing in australia", "tags": ["exploration"]},
+  {"date": "1609", "region": "europe", "text": "johannes kepler shows that the planets move around the sun in ellipses, not perfect circles", "tags": ["science"]},
+  {"date": "1642", "region": "oceania", "text": "abel tasman reaches tasmania and new zealand", "tags": ["exploration"]},
+  {"date": "1665", "region": "europe", "text": "the great plague of london kills about 100,000 people, nearly a quarter of the city", "tags": ["disease"]},
+  {"date": "1661-1722", "region": "east asia", "text": "the kangxi emperor rules qing china for 61 years, one of the longest reigns in history", "tags": ["empire"]},
+  {"date": "1689", "region": "east asia", "text": "the treaty of nerchinsk sets the border between russia and qing china, china's first treaty with a european power", "tags": ["diplomacy"]},
+  {"date": "c. 1700", "region": "africa", "text": "osei tutu founds the asante kingdom in the gold-rich forests of modern ghana, united by the golden stool", "tags": ["empire"]},
+  {"date": "1741", "region": "the arctic and antarctica", "text": "vitus bering, sailing for russia, reaches alaska", "tags": ["exploration"]}
 ]

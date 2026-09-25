@@ -1,0 +1,10 @@
+[
+  {"slug": "writing", "title": "writing", "summary": "how people learned to store words outside their heads: from clay tokens to alphabets, paper, printing, and screens."},
+  {"slug": "money-and-trade", "title": "money and trade", "summary": "debts in silver, the first coins, camel caravans and monsoon ships, paper money, and a world economy tied together by silver, slavery, and steam."},
+  {"slug": "energy", "title": "energy", "summary": "every age of history has run on some source of power: muscle, fire, wind and water, coal, oil, the atom, and now the sun again."},
+  {"slug": "disease-and-medicine", "title": "disease and medicine", "summary": "plagues have killed more people than wars. this is the story of how they spread, and how people slowly learned to fight back."},
+  {"slug": "migration", "title": "migration", "summary": "humans have always been on the move: out of africa, across oceans, along the steppe, in chains, and in search of a better life."},
+  {"slug": "belief", "title": "belief", "summary": "from careful burials and painted caves to the great world religions and modern secular states: how people have answered the biggest questions."},
+  {"slug": "science", "title": "science", "summary": "how many peoples, over thousands of years, built up a way of finding out how the world works by watching, measuring, and testing."},
+  {"slug": "cities", "title": "cities", "summary": "from the first walled towns to megacities of thirty million: why people crowd together, and what it has cost and given them."}
+]

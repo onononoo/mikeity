@@ -1,0 +1,35 @@
+# topic: migration.
+
+== out of africa {#africa}
+
+every person alive today is descended from people who lived in africa. our species, homo sapiens, appeared there around 300,000 years ago. earlier kinds of human, like homo erectus, had already spread into asia, where the remains of [[@turkana boy]]'s relatives turn up from georgia to java.
+
+around 60,000 years ago, small groups of modern humans left africa and spread across the world. they reached australia, crossing open sea by boat, perhaps as early as 65,000 years ago; [[@mungo man]] was buried there about 40,000 years ago. they reached europe about 45,000 years ago, where they met the [[neanderthals]]. they had children with neanderthals and with the denisovans of asia, and a girl nicknamed [[@denny]] was born to one parent of each kind. finally, people crossed the land bridge of beringia from siberia into the americas, and by about 14,500 years ago they were living at monte verde in southern chile.
+
+== farmers and herders on the move {#farmers}
+
+after the [[agricultural revolution]], farming peoples slowly spread out, taking their crops, animals, and languages with them. farmers from anatolia moved into europe after 6500 bce, largely replacing the hunters there. the [[bantu expansion]] carried farming and ironworking across most of central, eastern, and southern africa over three thousand years. herders from the [[steppe]], riding horses and driving wagons, spread the indo-european languages from ireland to india.
+
+the most daring migration of all was [[austronesian]]. starting from taiwan around 3000 bce, seafarers in outrigger canoes settled the philippines and indonesia, then the remote pacific, and finally hawaii, new zealand, and rapa nui (easter island) around 1000 to 1250 ce. others sailed west across the indian ocean to settle madagascar.
+
+== nomads and conquerors {#nomads}
+
+the steppe of central asia produced wave after wave of mounted [[nomads]]: scythians, xiongnu, huns, turks, and mongols. some came as raiders, some as conquerors, and many settled among the peoples they conquered. vikings from scandinavia raided and settled from newfoundland to the rivers of russia. arab armies after 632, and turkish peoples after about 1000, carried islam and their languages far from their homelands.
+
+== in chains {#chains}
+
+the largest forced migration in history was the atlantic [[slavery|slave trade]]. between about 1501 and 1866, around 12.5 million africans were shipped across the ocean on the [[middle passage]], and about two million died on the way. their descendants form a great [[diaspora]] across the americas.
+
+after slavery was abolished, [[indentured labor|indentured laborers]] took their place on many plantations. over a million indians went to the caribbean, mauritius, fiji, and south africa, and many chinese went to southeast asia, the americas, and beyond. britain also shipped about 160,000 convicts to australia.
+
+== the great migrations {#great}
+
+between the 1840s and 1940, some 55 million europeans left for the americas and australia, pushed by poverty, famine, and persecution and pulled by land and jobs. the irish famine of 1845-1852 alone sent a million abroad. millions of chinese, japanese, and indians also moved across the pacific and indian oceans.
+
+the 1900s added huge numbers of [[refugee|refugees]]. the partition of india in 1947 uprooted about fifteen million people. wars in europe, africa, the middle east, and asia forced tens of millions more from their homes.
+
+== migration today {#today}
+
+today about 280 million people live outside the country where they were born, and more than a hundred million have been forced from their homes. the biggest movement of all is inside countries: from the countryside to the cities. migration has always brought conflict, but also new foods, languages, religions, and ideas. every society on earth was built by people who came from somewhere else.
+
+see also: [[part:the-first-humans|part 2]] for the first journeys, and [[part:industry-and-empire|part 9]] for the age of mass migration.

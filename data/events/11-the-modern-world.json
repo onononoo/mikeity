@@ -51,5 +51,20 @@
   {"date": "2020-2023", "region": "the whole world", "text": "the covid-19 pandemic kills millions and shuts down much of the world", "tags": ["disease", "disaster"]},
   {"date": "2022", "region": "europe", "text": "russia launches a full-scale invasion of ukraine", "tags": ["war"]},
   {"date": "2022", "region": "the whole world", "text": "the world's population passes 8 billion; ai chat programs become widely used", "tags": ["technology", "computers"]},
-  {"date": "2024", "region": "the whole world", "text": "the hottest year on record so far, and the first calendar year more than 1.5 degrees above pre-industrial levels", "tags": ["environment"]}
+  {"date": "2024", "region": "the whole world", "text": "the hottest year on record so far, and the first calendar year more than 1.5 degrees above pre-industrial levels", "tags": ["environment"]},
+  {"date": "1945", "region": "southeast asia", "text": "sukarno declares indonesia independent; the dutch fight to hold on until 1949", "tags": ["independence"]},
+  {"date": "1945", "region": "southeast asia", "text": "ho chi minh declares the independence of vietnam; war with france follows", "tags": ["independence", "war"]},
+  {"date": "1955", "region": "north america", "text": "jonas salk's polio vaccine is declared safe and effective", "tags": ["medicine"]},
+  {"date": "1959", "region": "mesoamerica and the caribbean", "text": "fidel castro's revolutionaries take power in cuba", "tags": ["revolution"]},
+  {"date": "1959", "region": "the arctic and antarctica", "text": "twelve countries sign the antarctic treaty, keeping the continent for peaceful science", "tags": ["diplomacy"]},
+  {"date": "1962", "region": "north america", "text": "rachel carson's silent spring warns about pesticides and helps start the modern environmental movement", "tags": ["environment"]},
+  {"date": "1963", "region": "the universe", "text": "valentina tereshkova becomes the first woman in space", "tags": ["space"]},
+  {"date": "c. 1965", "region": "south asia", "text": "high-yield wheat and rice spread across india and pakistan in the green revolution, ending the threat of mass famine there", "tags": ["farming"]},
+  {"date": "1967", "region": "southeast asia", "text": "five countries found asean, the association of southeast asian nations", "tags": ["diplomacy"]},
+  {"date": "1972", "region": "east asia", "text": "tu youyou's team finds artemisinin, which becomes the main treatment for malaria", "tags": ["medicine"]},
+  {"date": "1973", "region": "south america", "text": "a military coup overthrows chile's elected president salvador allende", "tags": ["politics"]},
+  {"date": "1981", "region": "the whole world", "text": "doctors first describe aids; hiv goes on to kill more than 40 million people", "tags": ["disease"]},
+  {"date": "1992", "region": "oceania", "text": "in the mabo case, australia's high court recognizes that indigenous peoples held land before british colonization", "tags": ["rights"]},
+  {"date": "1997", "region": "east asia", "text": "britain hands hong kong back to china", "tags": ["empire"]},
+  {"date": "2004", "region": "southeast asia", "text": "an earthquake off sumatra sets off an indian ocean tsunami that kills about 230,000 people", "tags": ["disaster"]}
 ]

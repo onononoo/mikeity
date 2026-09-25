@@ -1,0 +1,11 @@
+<h1>topics</h1>
+
+<p>the parts of this site tell history in order. these pages do it the other way: each one follows a single thread, like writing or disease, from its beginning to the present, linking back to the parts where it matters most.</p>
+
+<ol>
+{% for item in topics %}<li>
+<p><a href="{{ item.topic.slug }}.html"><b>{{ item.topic.title }}</b></a><br>
+{{ item.topic.summary }}<br>
+<span class="small">{% for sec in item.toc %}<a href="{{ item.topic.slug }}.html#{{ sec.id }}">{{ sec.text }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</span></p>
+</li>
+{% endfor %}</ol>

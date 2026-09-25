@@ -37,5 +37,10 @@
   {"date": "c. 1000 bce", "region": "the middle east", "text": "david rules a kingdom of israel from jerusalem; his son solomon is said to build the first temple", "tags": ["religion", "politics"]},
   {"date": "c. 1000 bce", "region": "africa", "text": "bantu-speaking farmers begin spreading south and east from west-central africa, carrying farming and later iron", "tags": ["migration", "farming"]},
   {"date": "c. 900 bce", "region": "south america", "text": "the temple center of chavín de huántar spreads a shared religion and art style through the andes", "tags": ["religion", "art"]},
-  {"date": "c. 814 bce", "region": "africa", "text": "phoenicians from tyre found carthage in north africa, according to tradition", "tags": ["cities", "trade"]}
+  {"date": "c. 814 bce", "region": "africa", "text": "phoenicians from tyre found carthage in north africa, according to tradition", "tags": ["cities", "trade"]},
+  {"date": "c. 2650 bce", "region": "africa", "text": "the architect imhotep builds the step pyramid of djoser at saqqara, the first large building made entirely of stone", "tags": ["architecture"]},
+  {"date": "c. 2500 bce", "region": "south asia", "text": "the indus cities use short written signs on stamp seals and a standard set of stone weights; the script has never been deciphered", "tags": ["writing", "trade"]},
+  {"date": "c. 1850 bce", "region": "africa", "text": "semitic-speaking workers in egypt scratch the earliest known alphabet onto rocks in sinai and the western desert", "tags": ["writing"]},
+  {"date": "c. 1800 bce", "region": "the middle east", "text": "babylonian scribes do advanced mathematics in base sixty; we still use it for 60 minutes and 360 degrees", "tags": ["science", "writing"]},
+  {"date": "c. 1450 bce", "region": "europe", "text": "mycenaean greeks take over knossos and write an early form of greek in the script called linear b", "tags": ["writing"]}
 ]

@@ -2,7 +2,7 @@
 
 <p>this site tells the story of everything that has ever happened, from the big bang to the present, in eleven parts. each part is a long chapter. read them in order, or jump to whatever you want.</p>
 
-<p>in total there are {{ counts.words|commas }} words of history, {{ counts.events|commas }} dated events on the <a href="timeline.html">timeline</a>, {{ counts.people|commas }} <a href="people.html">people</a>, {{ counts.terms|commas }} <a href="glossary.html">glossary terms</a>, and {{ counts.regions }} <a href="regions.html">regions</a>.</p>
+<p>in total there are {{ counts.words|commas }} words of history, {{ counts.events|commas }} dated events on the <a href="timeline.html">timeline</a>, {{ counts.topics }} <a href="topics.html">topics</a>, {{ counts.people|commas }} <a href="people.html">people</a>, {{ counts.terms|commas }} <a href="glossary.html">glossary terms</a>, and {{ counts.regions }} <a href="regions.html">regions</a>.</p>
 
 <form action="search.html" method="get">
 <input type="text" name="q" size="30"> <input type="submit" value="search">
@@ -17,6 +17,14 @@
 <span class="small">{% for sec in item.toc %}<a href="{{ item.era.slug }}.html#{{ sec.id }}">{{ sec.text }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</span></p>
 </li>
 {% endfor %}</ol>
+
+<h2>topics</h2>
+
+<p>{{ counts.topics }} shorter pages that each follow one thread through all of history:</p>
+
+<ul>
+{% for t in topics %}<li><a href="{{ t.slug }}.html">{{ t.title }}</a>: {{ t.summary }}</li>
+{% endfor %}</ul>
 
 <h2>other pages</h2>
 

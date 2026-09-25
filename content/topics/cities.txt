@@ -1,0 +1,41 @@
+# topic: cities.
+
+== the first towns {#towns}
+
+for almost all of human history, nobody lived in a town. the first permanent settlements came with farming, or just before it. jericho had a stone wall and tower by about 8000 bce. çatalhöyük in anatolia, around 7100 bce, was a crowded town of mud-brick houses packed so tightly that people walked across the roofs and climbed in through holes.
+
+these were large villages, not cities. a city is different: many of its people do not grow their own food but work as craftsmen, priests, soldiers, merchants, or officials, fed by farmers around them.
+
+== the first cities {#first}
+
+around 3500 bce, uruk in southern mesopotamia grew into perhaps the first true city, with tens of thousands of people, huge temples, and a wall later said to have been built by gilgamesh. cities grew up, apparently on their own, along the great rivers of egypt, the indus, and china, and later in peru, where caral had pyramids by 2600 bce, and in mesoamerica.
+
+the indus cities of harappa and mohenjo-daro were laid out on grids, with brick houses, wells, and covered drains, a level of [[sanitation]] many cities would not reach again for four thousand years. mesopotamian cities, each a [[city-state]], were built around a temple on its [[ziggurat]].
+
+== cities of a million {#million}
+
+| city | when | about how many people |
+|---|---|---|
+| rome | 1st century ce | about a million |
+| chang'an, china | 700s | about a million |
+| baghdad | 800s-900s | perhaps a million |
+| kaifeng and hangzhou, china | 1000s-1200s | around a million |
+| tenochtitlan, mexico | 1519 | perhaps 200,000, larger than any city in spain |
+| london | 1900 | about 6.5 million, the largest city in the world |
+| tokyo | today | about 37 million in the whole urban area |
+
+rome fed its million people with grain shipped from egypt and africa, and brought in fresh water on [[aqueduct|aqueducts]]. tang dynasty chang'an was laid out on a vast grid with walled markets for traders from across asia. tenochtitlan, built on an island in a lake, amazed the spanish with its causeways, canals, markets, and gardens.
+
+== cities of death {#death}
+
+until the late 1800s, most cities were unhealthy places. crowding, dirty water, and waste meant that disease killed people faster than they were born, and cities only grew because of a steady flow of people moving in from the countryside. plague, cholera, smallpox, and tuberculosis all spread fastest in cities. cities also burned: rome in 64 ce, london in 1666, chicago in 1871.
+
+the cure came in the 1800s: sewers, clean piped water, rubbish collection, and later vaccines. [[@john snow]]'s work on cholera in london in 1854 helped show why this mattered.
+
+== the urban world {#urban}
+
+the [[industrial revolution]] set off the greatest wave of [[urbanization]] in history. factories drew millions of people into places like manchester, chicago, and osaka. railways, then trams, subways, and cars let cities spread outward.
+
+in 2007, for the first time, more than half of all humans lived in towns and cities. there were two [[megacity|megacities]] of over ten million in 1950; today there are more than thirty, most of them in asia, africa, and latin america, like tokyo, delhi, shanghai, são paulo, cairo, and lagos. cities use most of the world's energy and produce most of its wealth, its new ideas, and its pollution. the story that began with a few mud-brick houses in anatolia now shapes the lives of four billion people.
+
+see also: [[part:the-first-civilizations|part 4]] for the first cities, and [[part:industry-and-empire|part 9]] for the industrial city.

@@ -52,5 +52,15 @@
   {"date": "c. 330 ce", "region": "africa", "text": "king ezana of aksum converts to christianity", "tags": ["religion"]},
   {"date": "380 ce", "region": "europe", "text": "christianity becomes the official religion of the roman empire", "tags": ["religion", "law"]},
   {"date": "395 ce", "region": "europe", "text": "the roman empire is permanently divided into eastern and western halves", "tags": ["politics", "empire"]},
-  {"date": "410 ce", "region": "europe", "text": "the visigoths under alaric sack the city of rome", "tags": ["war"]}
+  {"date": "410 ce", "region": "europe", "text": "the visigoths under alaric sack the city of rome", "tags": ["war"]},
+  {"date": "c. 600 bce", "region": "the middle east", "text": "the kingdom of lydia in anatolia strikes the first coins, lumps of electrum stamped with a lion's head", "tags": ["economy", "trade"]},
+  {"date": "c. 500 bce", "region": "southeast asia", "text": "the dong son culture of northern vietnam casts large bronze drums that are traded across southeast asia", "tags": ["metal", "art"]},
+  {"date": "c. 400 bce", "region": "europe", "text": "hippocrates and his followers teach that illnesses have natural causes, not punishments from the gods", "tags": ["medicine", "science"]},
+  {"date": "c. 300 bce", "region": "africa", "text": "euclid writes the elements in alexandria, a textbook of geometry used for more than two thousand years", "tags": ["science"]},
+  {"date": "c. 240 bce", "region": "africa", "text": "eratosthenes measures the size of the earth using the shadows cast in two egyptian cities", "tags": ["science"]},
+  {"date": "209 bce", "region": "central asia", "text": "modu chanyu unites the xiongnu nomads of the mongolian steppe into an empire strong enough to make the han pay tribute", "tags": ["empire", "war"]},
+  {"date": "1st century ce", "region": "southeast asia", "text": "the kingdom of funan grows rich in the mekong delta, trading between india and china", "tags": ["trade"]},
+  {"date": "132 ce", "region": "east asia", "text": "zhang heng builds a bronze seismoscope that shows the direction of a distant earthquake", "tags": ["science", "technology"]},
+  {"date": "c. 162 ce", "region": "europe", "text": "the greek doctor galen begins working in rome; his books on medicine are followed for over a thousand years", "tags": ["medicine"]},
+  {"date": "165-180 ce", "region": "europe", "text": "the antonine plague, probably smallpox, spreads through the roman empire and kills millions", "tags": ["disease"]}
 ]

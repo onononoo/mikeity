@@ -17,6 +17,7 @@ def _nav(s):
     return [
         ("index.html", "home"),
         ("timeline.html", "timeline"),
+        ("topics.html", "topics"),
         ("regions.html", "regions"),
         ("people.html", "people"),
         ("glossary.html", "glossary"),
@@ -35,6 +36,10 @@ def _toc(headings):
         else:
             out[-1]["subs"].append({"id": hid, "text": text})
     return out
+
+
+def _words(s):
+    return sum(e.doc.words for e in s.eras) + sum(t.doc.words for t in s.topics)
 
 
 def _bar(n, biggest, width=40):
@@ -86,8 +91,9 @@ class renderer:
             "index.html", "index.html", site_name,
             eras=[dict(era=e, toc=_toc(e.doc.headings),
                        span=dates.span_label(e.start_date.start, e.end_date.end)) for e in s.eras],
+            topics=s.topics,
             counts=dict(events=len(s.events), people=len(s.people), terms=len(s.terms),
-                        words=sum(e.doc.words for e in s.eras), regions=len(s.regions)),
+                        words=_words(s), regions=len(s.regions), topics=len(s.topics)),
         )
 
     def eras(self):
@@ -109,6 +115,21 @@ class renderer:
             events=s.events,
             scripts=["dates.js", "sort.js", "timeline.js"],
         )
+
+    def topics(self):
+        s = self.s
+        self.page(
+            "topics.html", "topics.html", "topics",
+            crumbs=[("index.html", "home")],
+            topics=[dict(topic=t, toc=_toc(t.doc.headings)) for t in s.topics],
+        )
+        for t in s.topics:
+            self.page(
+                f"{t.slug}.html", "topic.html", t.title,
+                crumbs=[("index.html", "home"), ("topics.html", "topics")],
+                topic=t,
+                toc=_toc(t.doc.headings),
+            )
 
     def regions(self):
         s = self.s
@@ -171,7 +192,7 @@ class renderer:
             reports=self.reports,
             extras=self.more,
             crowded=self._crowded(),
-            totals=dict(words=sum(e.doc.words for e in s.eras), events=len(s.events),
+            totals=dict(words=_words(s), events=len(s.events),
                         people=len(s.people), terms=len(s.terms)),
             scripts=["sort.js"],
         )
@@ -195,6 +216,7 @@ class renderer:
         self.index()
         self.eras()
         self.timeline()
+        self.topics()
         self.regions()
         self.people()
         self.glossary()
@@ -210,5 +232,6 @@ def summary(s):
         plural(len(s.events), "event"),
         plural(len(s.people), "person", "people"),
         plural(len(s.terms), "glossary term"),
-        plural(sum(e.doc.words for e in s.eras), "word"),
+        plural(len(s.topics), "topic"),
+        plural(_words(s), "word"),
     ])

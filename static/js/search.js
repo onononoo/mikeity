@@ -11,8 +11,8 @@
 
 	var input = document.getElementById("q");
 	var results = document.getElementById("results");
-	var kinds = ["part", "section", "event", "person", "term"];
-	var names = { part: "parts", section: "sections", event: "events", person: "people", term: "glossary" };
+	var kinds = ["part", "topic", "section", "event", "person", "term"];
+	var names = { part: "parts", topic: "topics", section: "sections", event: "events", person: "people", term: "glossary" };
 	var limit = 30;
 
 	function esc(s) {
@@ -59,7 +59,7 @@
 			total += s;
 		}
 		// whole parts and people are usually what someone means
-		if (item.k === "part" || item.k === "person") { total += 2; }
+		if (item.k === "part" || item.k === "topic" || item.k === "person") { total += 2; }
 		return total;
 	}
 

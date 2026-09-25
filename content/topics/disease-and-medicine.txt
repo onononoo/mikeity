@@ -1,0 +1,41 @@
+# topic: disease and medicine.
+
+== how farming made us sick {#farming}
+
+[[hunter-gatherers]] suffered injuries and parasites, but they lived in small, moving groups, so many diseases could not spread far. farming changed that. people began living in crowded villages, next to their own waste and close to cattle, pigs, chickens, and ducks. many of the worst human diseases, including measles, influenza, and probably [[smallpox]], began as animal diseases that jumped to people. skeletons from early farming villages are often shorter and show more signs of disease than those of hunters.
+
+the rise of cities and trade made things worse. an [[epidemic]] needs a large enough population to keep spreading, and big cities and busy trade routes provided exactly that.
+
+== the first doctors {#first}
+
+every early civilization had healers. an egyptian papyrus from about 1600 bce describes how to treat wounds and broken bones calmly and practically. india's ayurveda and china's traditional medicine developed long, detailed theories of the body.
+
+in greece, [[@hippocrates]] and his followers taught that illness has natural causes, not divine ones, and that doctors should observe patients carefully. [[@galen]], a greek doctor in rome, dissected animals and wrote books that were followed for over a thousand years, though many of his ideas were wrong. [[@ibn sina]]'s canon of medicine, completed around 1025, combined greek and islamic learning and was used in europe until the 1600s. islamic cities also built large hospitals, open to rich and poor.
+
+== the great plagues {#plagues}
+
+| when | what | what happened |
+|---|---|---|
+| 165-180 ce | the antonine plague | probably smallpox; killed millions in the roman empire |
+| 541 ce | the plague of justinian | the first known [[pandemic]] of bubonic plague |
+| 1347-1351 | the black death | plague killed roughly a third to a half of europe, and huge numbers in asia and africa |
+| after 1492 | the [[columbian exchange]] | smallpox, measles, and other diseases killed most of the native peoples of the americas |
+| 1918-1920 | influenza | about 50 million deaths worldwide |
+| from 1981 | hiv and aids | more than 40 million deaths |
+| 2020-2023 | covid-19 | millions of deaths and a world shut down |
+
+the disaster in the americas was the largest of all. smallpox reached tenochtitlan in 1520, in the middle of the spanish siege. within a century, the population of the americas may have fallen by as much as ninety percent. cities like venice fought plague with [[quarantine]], the forty days that ships had to wait before landing.
+
+== germs and vaccines {#germs}
+
+people in china, india, africa, and the ottoman empire had long protected themselves against smallpox by deliberately infecting people with a mild dose, a risky method called inoculation. in 1796 edward jenner showed that cowpox, a much milder disease, gave the same protection. this was the first [[vaccine]].
+
+in the 1800s came [[germ theory]]. ignaz semmelweis showed in 1847 that doctors washing their hands saved mothers' lives. [[@john snow]] traced cholera to a dirty water pump in 1854, founding [[epidemiology]]. [[@florence nightingale]] used statistics to prove that clean hospitals saved soldiers. [[@louis pasteur]] and robert koch showed that particular germs cause particular diseases. anesthesia, first shown in public in 1846, made surgery bearable.
+
+== the medical century {#century}
+
+the 1900s saw the greatest gains in health in history. [[sanitation]], clean water, and better food did the most. penicillin, the first [[antibiotic]], was found in 1928. [[@jonas salk]]'s polio vaccine arrived in 1955. [[@tu youyou]] found artemisinin, the key malaria drug, in 1972. in 1980, smallpox became the only human disease ever wiped out. the structure of [[dna]], revealed with the help of [[@rosalind franklin]]'s images, opened the way to modern genetics.
+
+in 1900, the average person in the world could expect to live about thirty years, mostly because so many children died young. today the figure is over seventy. new diseases still appear, and bacteria are learning to resist antibiotics, but the fight is being won more often than lost.
+
+see also: [[part:the-middle-ages|part 6]] for the black death, and [[part:industry-and-empire|part 9]] for germ theory.

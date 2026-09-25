@@ -1,0 +1,39 @@
+# topic: belief.
+
+== the first signs {#first}
+
+we cannot know what the first humans believed, but we can see traces. some neanderthals and early modern humans buried their dead with care. by 40,000 years ago people were carving figures like the lion man of hohlenstein-stadel, half animal and half human, and painting animals deep inside caves where few could see them. many scholars think the oldest religion was a form of [[animism]], seeing spirits in animals, plants, and places.
+
+around 9500 bce, [[hunter-gatherers]] at göbekli tepe in turkey raised huge carved stone pillars in circles. it looks like a place of ritual, and it was built before farming. some archaeologists think the need to gather for worship helped push people toward settling down.
+
+== gods of the city {#city}
+
+the first states had many gods, a pattern called [[polytheism]]. each mesopotamian city had its own god, housed in a temple on a [[ziggurat]]. egypt's [[pharaoh]] was himself treated as a god. religion and power went together: kings claimed that the gods chose them, like the chinese idea of the [[mandate of heaven]].
+
+one pharaoh, [[@akhenaten]], tried to make egypt worship only the sun disk, the aten, but his change did not outlive him. the hebrews developed a lasting [[monotheism]], the belief in one god, which became the root of [[judaism]], [[christianity]], and [[islam]].
+
+== the axial age {#axial}
+
+between about 800 and 200 bce, thinkers across the world asked new questions about how to live. in china, [[@confucius]] taught duty and good government ([[confucianism]]), and [[@laozi]] taught harmony with the natural way ([[daoism]]). in india, the upanishads explored the soul, and [[@siddhartha gautama]] founded [[buddhism]], while [[@mahavira]] taught non-violence. [[@zoroaster]] in persia and the hebrew prophets spoke of one good god and of justice. in greece, [[@socrates]] and [[@plato]] questioned everything. this period is called the [[axial age]].
+
+== the great faiths spread {#spread}
+
+| faith | began | how it spread |
+|---|---|---|
+| [[hinduism]] | roots in the [[vedas]], c. 1500 bce | across south asia and into southeast asia with traders |
+| buddhism | 5th century bce, india | helped by [[@ashoka]]; along the silk roads to china, korea, and japan |
+| christianity | c. 30 ce, judea | by [[@paul of tarsus]] and missionaries; made the roman religion under [[@constantine]] and his successors |
+| islam | 610 ce, arabia | with arab conquests, then with traders across africa and the indian ocean |
+| [[sikhism]] | c. 1500, the punjab | taught by [[@guru nanak]] and nine gurus after him |
+
+religions spread by conquest, but even more by trade, marriage, and example. merchants carried islam to west africa and indonesia; monks like [[@xuanzang]] walked thousands of kilometers to bring back sacred texts. [[pilgrimage]], from mecca to varanasi to rome, drew believers from across the known world.
+
+== tolerance and conflict {#conflict}
+
+some rulers welcomed many faiths. [[@cyrus the great]] let exiles return to their temples, [[@ashoka]] asked his people to respect all sects, and [[@akbar]] held debates between hindus, muslims, christians, jains, and zoroastrians. others persecuted. the [[crusades]], the expulsion of jews and muslims from spain, and the wars that followed the [[reformation]] left millions dead. within religions, mystics like [[@rumi]] of [[sufism]] and scholars like [[@maimonides]] and [[@ibn rushd]] tried to reconcile faith and reason.
+
+== belief in the modern world {#modern}
+
+the [[enlightenment]] questioned the authority of churches, and many modern states adopted [[secularism]], separating religion from government. some thinkers expected religion to fade away. it has not. today about 2.4 billion people are christian, about 2 billion muslim, about 1.2 billion hindu, and about half a billion buddhist, while over a billion follow no religion. the questions the first grave-diggers and cave painters faced, about death, meaning, and how to live, are still being asked.
+
+see also: [[part:the-classical-world|part 5]] for the axial age, and [[part:the-middle-ages|part 6]] for the rise of islam.

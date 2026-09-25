@@ -36,5 +36,17 @@
   {"date": "1908", "region": "north america", "text": "ford begins making the model t, soon on a moving assembly line", "tags": ["industry", "technology"]},
   {"date": "1910-1920", "region": "mesoamerica and the caribbean", "text": "the mexican revolution overthrows porfirio díaz", "tags": ["revolution"]},
   {"date": "1911-1912", "region": "east asia", "text": "the xinhai revolution ends the qing dynasty and more than 2,000 years of imperial rule in china", "tags": ["revolution"]},
-  {"date": "1914", "region": "mesoamerica and the caribbean", "text": "the panama canal opens", "tags": ["trade", "technology"]}
+  {"date": "1914", "region": "mesoamerica and the caribbean", "text": "the panama canal opens", "tags": ["trade", "technology"]},
+  {"date": "1854", "region": "europe", "text": "john snow traces a london cholera outbreak to a single water pump, a founding moment of epidemiology", "tags": ["disease", "science"]},
+  {"date": "1854-1856", "region": "europe", "text": "during the crimean war, florence nightingale cuts deaths in army hospitals and uses statistics to push for reform", "tags": ["medicine", "war"]},
+  {"date": "1859", "region": "north america", "text": "the first commercial oil well is drilled in pennsylvania, beginning the age of oil", "tags": ["industry", "technology"]},
+  {"date": "1882", "region": "north america", "text": "edison's pearl street station in new york begins supplying electricity to paying customers", "tags": ["technology", "industry"]},
+  {"date": "1883", "region": "southeast asia", "text": "krakatoa erupts in indonesia; the blast is heard nearly 5,000 kilometers away", "tags": ["disaster"]},
+  {"date": "1885", "region": "europe", "text": "louis pasteur gives the first rabies vaccine to a boy bitten by a rabid dog", "tags": ["medicine"]},
+  {"date": "1890", "region": "north america", "text": "us soldiers kill about 250 to 300 lakota men, women, and children at wounded knee", "tags": ["war"]},
+  {"date": "1893", "region": "oceania", "text": "american businessmen backed by us marines overthrow queen liliuokalani of hawaii; the united states annexes the islands in 1898", "tags": ["empire"]},
+  {"date": "1896", "region": "southeast asia", "text": "the philippine revolution against spain begins; the spanish execute the writer josé rizal", "tags": ["revolution"]},
+  {"date": "1898", "region": "africa", "text": "samori ture, who fought the french conquest of west africa for nearly two decades, is captured", "tags": ["war", "empire"]},
+  {"date": "1908", "region": "the middle east", "text": "oil is struck in persia, the first great oil find in the middle east", "tags": ["industry"]},
+  {"date": "1911", "region": "the arctic and antarctica", "text": "roald amundsen's norwegian team is the first to reach the south pole", "tags": ["exploration"]}
 ]

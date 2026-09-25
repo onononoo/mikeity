@@ -1,0 +1,37 @@
+# topic: energy.
+
+== muscle and fire {#fire}
+
+almost all the energy people have ever used comes, in the end, from the sun. for most of human history it reached us in two ways: as food, which powers muscles, and as wood, which burns.
+
+controlling fire was one of the great steps in the story of the first humans. burned bone and ash in wonderwerk cave in south africa are about a million years old. fire gave warmth, light, protection, and above all cooked food, which is easier to digest and may have helped our ancestors grow bigger brains.
+
+[[domestication|farming]] was, among other things, a new way of capturing the sun's energy: fields of wheat, rice, or maize turned sunlight into food far more densely than wild land did. tamed animals added their muscle. an ox pulling a plow, a horse pulling a cart, or a camel carrying salt across the sahara could do far more work than a person. many societies also forced other people to do the hardest work: [[slavery]] was, among other things, a way of taking energy from human beings.
+
+== wind and water {#wind}
+
+sails harnessed the wind for travel and trade from at least 3000 bce, carrying egyptian boats on the nile, [[austronesian]] canoes across the pacific, and dhows across the indian ocean on the [[monsoon]]. water wheels were turning in the greek and chinese worlds by the last centuries bce, grinding grain and later working bellows and hammers. windmills spread from persia across the islamic world and into europe in the middle ages.
+
+these were real advances, but they could only be used where the wind blew or the river ran. for thousands of years, the amount of energy a society could use set hard limits on how many people it could feed and how rich it could become.
+
+== coal and steam {#coal}
+
+coal is the remains of forests from 300 million years ago, and its energy is the sunlight of that time. song dynasty china burned coal to make iron in the 1000s. but the great change came in britain, which had plenty of coal near the surface and a shortage of wood.
+
+in 1712 thomas newcomen built a [[steam engine]] to pump water out of coal mines. [[@james watt]] made it far more efficient in 1769. steam engines soon drove factories, then railways and ships. this was the heart of the [[industrial revolution]]: for the first time, people could tap huge stores of energy that did not depend on the weather, the seasons, or muscle.
+
+== oil and electricity {#oil}
+
+the first commercial oil well was drilled in pennsylvania in 1859. oil is easy to move and very rich in energy, and the internal combustion engine turned it into the fuel of cars, trucks, ships, and planes. by the mid-1900s, control of oil shaped wars and diplomacy, from the middle east to the oil embargo of 1973.
+
+electricity is not a source of energy but a way of moving it. when [[@thomas edison]]'s pearl street station began supplying customers in new york in 1882, it began a change that reached almost every home in rich countries by the mid-1900s. electric light, motors, radio, refrigerators, and computers followed.
+
+in 1938, scientists including [[@lise meitner]] worked out how to split the atom. that discovery led to both the atomic bomb and nuclear power stations, which make electricity without burning anything, but carry risks shown by the disaster at chernobyl in 1986.
+
+== the price of power {#price}
+
+[[fossil fuels]] made the modern world. they fed billions through fertilizers and machines, and lifted most of humanity out of poverty. but burning them releases carbon dioxide. its share of the air has risen from about 280 parts per million before industry to over 420 today, and the earth is warming as a result. [[climate change]] brings rising seas, heat waves, droughts, and floods.
+
+since the paris agreement of 2015, most countries have promised to cut their emissions. the cost of solar panels fell by about ninety percent in the 2010s, and [[renewable energy]] from sun and wind is now the fastest growing source of power. after two centuries of burning ancient sunlight, the world is trying to go back to using today's.
+
+see also: [[part:the-first-humans|part 2]] for fire, [[part:the-age-of-revolutions|part 8]] for steam, and [[part:the-modern-world|part 11]] for climate change.

@@ -1,0 +1,44 @@
+# topic: writing. follows one thread through all eleven parts.
+
+== before writing {#before}
+
+people spoke for hundreds of thousands of years before anyone wrote. but they did make marks. the engraved ochre at blombos cave in south africa, about 75,000 years old, shows that people were making patterns on purpose long before writing. later, notched bones and tally sticks kept count of days or animals.
+
+in the near east, from about 8000 bce, farmers used small clay tokens shaped like cones, spheres, and disks to keep track of grain and animals. many historians think writing grew out of these tokens. when people began pressing the tokens into clay envelopes, and then simply drawing their shapes on clay, they were very close to writing.
+
+== at least four inventions {#inventions}
+
+writing was not invented once. as far as we know, it was invented from scratch at least four times, in places with no contact with each other:
+
+| where | when | what it looked like |
+|---|---|---|
+| mesopotamia | c. 3200 bce | [[cuneiform]]: wedge-shaped marks pressed into wet clay |
+| egypt | c. 3200 bce | [[hieroglyphs]]: pictures standing for words and sounds, carved and painted |
+| china | by c. 1250 bce | characters scratched on [[oracle bones]], the ancestors of chinese writing today |
+| mesoamerica | by c. 500 bce | zapotec and later maya glyphs, carved on stone monuments and painted in bark-paper books |
+
+the first writing in sumer was not poetry or law but accounts: lists of barley, beer, sheep, and workers. stories, letters, and law codes came later. the earliest writers we know by name include [[@enheduanna]], a priestess of ur who composed hymns around 2300 bce.
+
+the indus cities also used a script, on stamp seals, but the inscriptions are very short and no one has been able to read them.
+
+== the alphabet {#alphabet}
+
+early scripts needed hundreds of signs, so only trained scribes could use them. around 1850 bce, semitic-speaking workers in egypt borrowed a few hieroglyphs and used each one for a single sound. this was the first [[alphabet]]. the phoenicians spread their version around the mediterranean, the greeks added vowels, and from greek came latin and cyrillic. the hebrew, arabic, and many scripts of india and southeast asia also descend from it.
+
+other peoples found other solutions. chinese kept a writing system of [[logogram|logograms]], which let speakers of very different chinese languages read the same texts. japanese added [[syllabary|syllabaries]]. in 1443, [[@sejong the great]] of korea had [[hangul]] created, an alphabet so simple that "a wise man can learn it in a morning".
+
+== paper and print {#print}
+
+writing needs something to write on: clay, stone, [[papyrus]], bamboo strips, animal skin. in 105 ce, the chinese official [[@cai lun]] presented an improved way of making paper. it spread west slowly, reaching samarkand and baghdad in the 700s and europe by the 1100s.
+
+printing began in china too. the diamond sutra, printed in 868, is the oldest dated printed book. around 1040, [[@bi sheng]] made [[movable type]] from baked clay, and korean printers used metal type by the 1200s. in europe, [[@johannes gutenberg]] built his [[printing press]] around 1450. with an alphabet of a few dozen letters, movable type worked especially well, and within fifty years europe had printed millions of books. printing helped spread the [[reformation]] and the [[scientific revolution]].
+
+== who could read {#reading}
+
+for most of history, [[literacy]] was rare. scribes, priests, officials, and merchants could read; almost everyone else could not. as late as 1820, only about one adult in eight in the world could read and write. mass schooling in the 1800s and 1900s changed that, and today more than eight in ten adults can.
+
+== writing today {#today}
+
+the telegraph, the typewriter, the telephone, and finally the computer changed writing more in two centuries than in the five thousand years before. the world wide web, proposed by [[@tim berners-lee]] in 1989, put more text in front of more people than every library in history combined. the scribe with a stylus and the person with a phone are doing the same thing: storing words so they outlast the moment.
+
+see also: [[part:the-first-civilizations|part 4]] for the invention of writing, and [[part:the-early-modern-world|part 7]] for the printing revolution.

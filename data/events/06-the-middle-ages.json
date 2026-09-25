@@ -51,5 +51,20 @@
   {"date": "1368", "region": "east asia", "text": "the ming dynasty drives out the mongols and rules china", "tags": ["empire"]},
   {"date": "1405-1433", "region": "east asia", "text": "admiral zheng he leads seven giant treasure fleets as far as east africa", "tags": ["exploration", "trade"]},
   {"date": "1429", "region": "europe", "text": "joan of arc leads the french to lift the siege of orléans", "tags": ["war"]},
-  {"date": "c. 1438", "region": "south america", "text": "pachacuti becomes ruler of the inca and begins their rapid expansion", "tags": ["empire"]}
+  {"date": "c. 1438", "region": "south america", "text": "pachacuti becomes ruler of the inca and begins their rapid expansion", "tags": ["empire"]},
+  {"date": "629-645 ce", "region": "central asia", "text": "the monk xuanzang travels from china to india along the silk roads and returns with hundreds of buddhist texts", "tags": ["religion", "exploration"]},
+  {"date": "c. 670 ce", "region": "southeast asia", "text": "srivijaya, a trading empire based on sumatra, controls the strait of malacca and becomes a center of buddhist learning", "tags": ["trade", "empire", "religion"]},
+  {"date": "c. 700 ce", "region": "africa", "text": "the empire of ghana, the \"land of gold\", grows rich on camel caravans carrying gold and salt across the sahara", "tags": ["trade", "empire"]},
+  {"date": "c. 1015", "region": "africa", "text": "ibn al-haytham writes his book of optics in cairo, testing ideas about light and sight with careful experiments", "tags": ["science"]},
+  {"date": "1024", "region": "east asia", "text": "the song government issues the jiaozi in sichuan, the world's first official paper money", "tags": ["economy"]},
+  {"date": "c. 1040", "region": "east asia", "text": "bi sheng invents movable type made of baked clay", "tags": ["technology", "writing"]},
+  {"date": "1044", "region": "east asia", "text": "a chinese military handbook records the earliest known formula for gunpowder", "tags": ["technology", "war"]},
+  {"date": "c. 1200", "region": "oceania", "text": "polynesian voyagers reach rapa nui (easter island), where their descendants carve the giant moai statues", "tags": ["migration", "art"]},
+  {"date": "c. 1250", "region": "north america", "text": "ancestral puebloans build cliff dwellings at mesa verde in colorado; by 1300 they have moved away", "tags": ["architecture"]},
+  {"date": "c. 1250", "region": "the arctic and antarctica", "text": "the thule people, ancestors of the inuit, spread east across arctic canada to greenland, hunting whales from skin boats", "tags": ["migration"]},
+  {"date": "1325-1354", "region": "the whole world", "text": "ibn battuta travels about 120,000 kilometers through the islamic world and beyond, from west africa to china", "tags": ["exploration"]},
+  {"date": "c. 1350", "region": "southeast asia", "text": "the majapahit empire, based on java, reaches its height and claims much of modern indonesia", "tags": ["empire"]},
+  {"date": "1370-1405", "region": "central asia", "text": "timur conquers an empire from his capital at samarkand, from anatolia to india, at a terrible cost in lives", "tags": ["empire", "war"]},
+  {"date": "c. 1390", "region": "africa", "text": "the kingdom of kongo takes shape south of the congo river", "tags": ["empire"]},
+  {"date": "1443", "region": "east asia", "text": "king sejong of korea has hangul created, a simple alphabet for the korean language", "tags": ["writing"]}
 ]
