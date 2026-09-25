@@ -4,6 +4,10 @@ a plain html website that tells the whole history of the world, from the big ban
 
 the finished site is in `site/`. open `site/index.html` in any browser. no server is needed.
 
+## putting it online
+
+the finished site is committed in `site/`, so it can be hosted anywhere that serves plain files. on vercel, import the repository and deploy: `vercel.json` tells vercel to serve `site/` as it is, with no install or build step. after changing the data, run the build locally and commit `site/` again.
+
 ## building
 
 you need python 3.9 or newer. everything else is optional: node, gcc, g++, awk, perl, and the .net 10 sdk. the build skips any step whose tool is missing, and the pages leave that part out.
@@ -51,6 +55,7 @@ python -m builder query "select name, dates from people where region = 'africa'"
 | `tools/stats.pl` | perl | word counts, link counts, and reading ease for each part |
 | `tests/` | python + javascript | unit tests for dates, markup, templates, the tool output parsers, and the browser date parser |
 | `build.sh`, `build.ps1`, `makefile` | shell, powershell, make | run every step in order |
+| `vercel.json` | json | tells vercel to serve `site/` with no build |
 
 ## the terminal timeline
 
