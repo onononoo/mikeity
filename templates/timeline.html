@@ -1,0 +1,24 @@
+<h1>the whole timeline</h1>
+
+<p>every dated event on the site, from the big bang to the present, in one table ({{ events|length|commas }} events). dates marked "c." are approximate. dates before the common era are marked "bce". the oldest events are given in years ago.</p>
+
+<form id="filters" class="hidden" action="#" onsubmit="return false;">
+<table class="grid box">
+<tr><td>words:</td><td><input type="text" id="f-text" size="24"></td>
+<td>part:</td><td><select id="f-era"><option value="">all parts</option>
+{% for e in site.eras %}<option value="{{ e.slug }}">{{ e.number }}. {{ e.title }}</option>
+{% endfor %}</select></td></tr>
+<tr><td>from:</td><td><input type="text" id="f-from" size="12"> <span class="small">e.g. 500 bce</span></td>
+<td>region:</td><td><select id="f-region"><option value="">all regions</option>
+{% for r in site.regions %}{% if r.events %}<option value="{{ r.slug }}">{{ r.name }}</option>
+{% endif %}{% endfor %}</select></td></tr>
+<tr><td>to:</td><td><input type="text" id="f-to" size="12"> <span class="small">e.g. 1500</span></td>
+<td colspan="2"><input type="button" id="f-reset" value="show everything"> <span id="f-count" class="small"></span></td></tr>
+</table>
+</form>
+<noscript><p class="small">(turn on javascript to filter and sort this table.)</p></noscript>
+
+<table class="grid sortable" id="timeline">
+<tr><th data-sort="number">date</th><th>event</th><th data-sort="number">part</th><th>region</th></tr>
+{% for ev in events %}<tr id="event-{{ ev.id }}" data-start="{{ ev.when.start }}" data-end="{{ ev.when.end }}" data-era="{{ ev.era }}" data-region="{{ ev.region_rec.slug }}"><td data-value="{{ ev.when.start }}" class="nowrap">{{ ev.when }}</td><td>{{ ev.text }}</td><td data-value="{{ ev.era_rec.number }}"><a href="{{ ev.era }}.html">{{ ev.era_rec.number }}</a></td><td>{{ ev.region_rec.name }}</td></tr>
+{% endfor %}</table>

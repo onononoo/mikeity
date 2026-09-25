@@ -1,0 +1,13 @@
+<h1>glossary</h1>
+
+<p>short explanations of the harder words used on this site ({{ site.terms|length }} terms). words linked in the text of each part point here.</p>
+
+<p>{% for letter, terms in letters %}<a href="#letter-{{ letter }}">{{ letter }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+
+{% for letter, terms in letters %}
+<h2 id="letter-{{ letter }}">{{ letter }}</h2>
+<dl>
+{% for t in terms %}<dt id="{{ t.slug }}"><b>{{ t.term }}</b></dt>
+<dd>{{ t.definition }}{% if t.see %} <span class="small">see also: {% for other in t.see %}<a href="#{{ other|slug }}">{{ other }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</span>{% endif %}{% if t.used_in %} <span class="small">used in: {% for e in t.used_in %}<a href="{{ e.slug }}.html">part {{ e.number }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</span>{% endif %}</dd>
+{% endfor %}</dl>
+{% endfor %}

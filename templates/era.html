@@ -1,0 +1,50 @@
+{# one page per part of the story #}
+<h1>part {{ era.number }}: {{ era.title }}</h1>
+
+<p><i>{{ era.start_date }} – {{ era.end_date }} ({{ span }})</i></p>
+
+<p><b>{{ era.summary }}</b></p>
+
+<table class="grid box"><tr><td>
+<b>contents</b>
+<ol>
+{% for sec in toc %}<li><a href="#{{ sec.id }}">{{ sec.text }}</a>{% if sec.subs %}
+<ol type="a">{% for sub in sec.subs %}<li><a href="#{{ sub.id }}">{{ sub.text }}</a></li>{% endfor %}</ol>{% endif %}</li>
+{% endfor %}<li><a href="#part-timeline">timeline of this part</a></li>
+<li><a href="#part-people">people in this part</a></li>
+<li><a href="#part-terms">key terms</a></li>
+</ol>
+</td></tr></table>
+
+{{ era.doc.html|raw }}
+
+<h2 id="part-timeline">timeline of this part</h2>
+
+<p class="small">{{ era.events|length }} events. click a column heading to sort. the <a href="timeline.html">whole timeline</a> has every part together.</p>
+
+<table class="grid sortable">
+<tr><th data-sort="number">date</th><th>event</th><th>region</th></tr>
+{% for ev in era.events %}<tr id="event-{{ ev.id }}"><td data-value="{{ ev.when.start }}" class="nowrap">{{ ev.when }}</td><td>{{ ev.text }}</td><td><a href="regions.html#{{ ev.region_rec.slug }}">{{ ev.region_rec.name }}</a></td></tr>
+{% endfor %}</table>
+
+<h2 id="part-people">people in this part</h2>
+
+{% if era.people %}<table class="grid sortable">
+<tr><th>name</th><th data-sort="number">lived</th><th>who they were</th></tr>
+{% for p in era.people %}<tr><td><a href="people.html#{{ p.slug }}">{{ p.name }}</a></td><td data-value="{{ p.life.start }}" class="nowrap">{{ p.life }}</td><td>{{ p.role }}</td></tr>
+{% endfor %}</table>
+{% else %}<p>no individual people are listed for this part. its story is older than names.</p>
+{% endif %}
+
+<h2 id="part-terms">key terms</h2>
+
+{% if era.terms %}<dl>
+{% for t in era.terms %}<dt><a href="glossary.html#{{ t.slug }}">{{ t.term }}</a></dt><dd>{{ t.definition }}</dd>
+{% endfor %}</dl>
+{% else %}<p>none.</p>
+{% endif %}
+
+<hr>
+<p>{% if era.prev %}&laquo; <a href="{{ era.prev.slug }}.html">part {{ era.prev.number }}: {{ era.prev.title }}</a>{% else %}&laquo; <a href="index.html">home</a>{% endif %}
+ | <a href="#top">top</a> |
+{% if era.next %}<a href="{{ era.next.slug }}.html">part {{ era.next.number }}: {{ era.next.title }}</a> &raquo;{% else %}<a href="timeline.html">the whole timeline</a> &raquo;{% endif %}</p>

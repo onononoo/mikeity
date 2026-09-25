@@ -1,0 +1,16 @@
+[
+  {"name": "the universe", "description": "events that happened before there was an earth, or far beyond it."},
+  {"name": "the whole world", "description": "events that touched the entire planet at once: changes in climate, mass extinctions, pandemics, world wars, and global technology."},
+  {"name": "africa", "description": "the continent where humans first appeared, home to egypt, kush, aksum, mali, songhai, great zimbabwe, and the swahili coast, and later to the struggle against colonial rule."},
+  {"name": "the middle east", "description": "mesopotamia, the levant, arabia, persia, and anatolia: the land of the first farms, cities, and writing, and the birthplace of judaism, christianity, and islam."},
+  {"name": "europe", "description": "from the greeks and romans through medieval kingdoms to the industrial revolution, the world wars, and the european union."},
+  {"name": "south asia", "description": "the indian subcontinent: the indus valley, the vedic age, the maurya and gupta empires, the mughals, british rule, and independence."},
+  {"name": "east asia", "description": "china, korea, japan, and mongolia: the dynasties of china, the samurai of japan, and the mongol conquests."},
+  {"name": "southeast asia", "description": "the lands and islands between india and china, including the khmer empire, srivijaya, and modern indonesia and vietnam."},
+  {"name": "central asia", "description": "the steppe and the silk roads: the home of horse riders, nomad empires, and the great trading cities of the silk roads."},
+  {"name": "north america", "description": "from the first people crossing beringia to the mississippian mound builders, european colonies, and the united states."},
+  {"name": "mesoamerica and the caribbean", "description": "mexico, central america, and the caribbean islands: the olmecs, maya, teotihuacan, and aztecs, then spanish rule and haiti's revolution."},
+  {"name": "south america", "description": "caral, chavín, the nazca and moche, the inca empire, spanish and portuguese rule, and independence."},
+  {"name": "oceania", "description": "australia, new guinea, new zealand, and the islands of the pacific, settled by some of the greatest sailors in history."},
+  {"name": "the arctic and antarctica", "description": "the frozen ends of the earth, the last places humans reached."}
+]

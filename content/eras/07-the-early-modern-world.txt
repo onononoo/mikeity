@@ -1,0 +1,204 @@
+# part 7. roughly 1450 to 1750.
+
+== the world becomes one {#one}
+
+before about 1500, the world's great regions were connected, but loosely. the americas had no contact at all with africa and eurasia. by 1750, ships regularly crossed every ocean. silver mined in bolivia paid for silk and porcelain in china. potatoes from peru fed peasants in ireland and russia. millions of africans had been enslaved and carried to the americas. smallpox had destroyed whole peoples. historians call this the start of the early modern period: the first truly global age.
+
+== the renaissance {#renaissance}
+
+=== rebirth
+
+the [[renaissance]], meaning "rebirth", began in the wealthy trading cities of northern italy, such as florence, venice, and milan, in the fourteenth and fifteenth centuries. italian scholars, beginning with petrarch, hunted for forgotten ancient latin texts in monastery libraries. after 1453, greek scholars fleeing the ottoman conquest of constantinople brought more ancient greek learning.
+
+a new approach called [[humanism]] studied grammar, history, poetry, and moral philosophy from classical sources. humanists celebrated human abilities and achievements, and the active life of the citizen, while remaining christian. the ideal of the "renaissance man" was someone skilled in many fields.
+
+=== art
+
+artists studied anatomy and nature and used mathematical perspective to create the illusion of depth. wealthy patrons, like the medici banking family of florence and the popes in rome, paid for great works.
+
+- [[@leonardo da vinci]] painted the last supper and the mona lisa and filled notebooks with studies of anatomy, water, flight, and machines.
+- [[@michelangelo]] carved the statue of david and painted the ceiling of the sistine chapel.
+- raphael painted the school of athens, a gathering of ancient philosophers.
+- in northern europe, jan van eyck perfected oil painting, and albrecht dürer made detailed prints.
+
+the renaissance spread across europe, shaping literature too: from [[@william shakespeare]] in england to cervantes, author of don quixote, in spain.
+
+== the printing press {#printing}
+
+around 1450, in mainz in germany, [[@johannes gutenberg]] combined several technologies: movable metal type cast in reusable molds, oil-based ink, and a press adapted from those used to make wine. the [[printing press]] could produce books far faster and cheaper than copying by hand. his bible was printed around 1455.
+
+printing had existed in china and korea for centuries, with woodblocks and movable type. but chinese has thousands of characters, while european alphabets needed only a few dozen letters, which made movable type much more practical. printing spread across europe with astonishing speed: by 1500, there were printers in over 250 european cities and perhaps twenty million books had been printed.
+
+the effects were enormous. more people learned to read. ideas spread quickly and could not easily be suppressed. scholars could compare identical copies of texts and build on each other's work. printing helped make both the [[reformation]] and the [[scientific revolution]] possible.
+
+== the gunpowder empires {#gunpowder}
+
+three great muslim empires, often called the "gunpowder empires" because of their use of cannons and firearms, dominated the middle east and south asia.
+
+=== the ottomans
+
+the ottomans began as a small state in anatolia around 1300. in 1453, [[@mehmed ii]] captured constantinople with the help of enormous cannons, ending the byzantine empire after more than a thousand years. renamed istanbul, it became the ottoman capital.
+
+under [[@suleiman the magnificent]] (1520-1566), the empire reached its height, ruling the balkans, hungary, the middle east, egypt, and north africa. it besieged vienna in 1529. the ottoman army's elite infantry, the [[janissaries]], were recruited as boys from christian families, converted, and trained. the [[sultan]] ruled a diverse empire in which religious communities, christian and jewish, largely governed their own affairs. the architect mimar sinan built great mosques like the süleymaniye.
+
+=== the safavids
+
+in 1501, ismail i founded the safavid empire in persia (iran) and made shia islam the state religion, which it remains. this made the safavids bitter rivals of the sunni ottomans. under shah abbas i, the capital isfahan was rebuilt with magnificent mosques, palaces, bridges, and a vast public square.
+
+=== the mughals
+
+in 1526, babur, a descendant of both genghis khan and the conqueror timur, invaded india from afghanistan and won the battle of panipat, founding the mughal empire. his grandson [[@akbar]] (1556-1605) expanded it over most of northern india. he abolished the tax on non-muslims, married hindu princesses, appointed hindus to high office, and held debates between scholars of different faiths.
+
+the mughals were enormously rich; india produced perhaps a quarter of the world's manufactured goods, especially cotton textiles. [[@shah jahan]] built the taj mahal as a tomb for his wife mumtaz mahal. his son aurangzeb expanded the empire to its greatest size but imposed stricter islamic rule and fought exhausting wars; after his death in 1707, the empire declined rapidly.
+
+=== russia
+
+in russia, the grand princes of moscow threw off the rule of the golden horde. ivan iv, "the terrible", was the first to be crowned tsar, in 1547. russia began expanding east across siberia, reaching the pacific by the 1640s. [[@peter the great]] (1682-1725) forced russia to modernize along western european lines, built a navy, and founded a new capital, st petersburg, on the baltic.
+
+== the voyages of exploration {#voyages}
+
+=== why europe?
+
+by the fifteenth century, european states were eager to reach the riches of asia, especially spices like pepper, cinnamon, nutmeg, and cloves, directly, without paying ottoman and venetian middlemen. they also sought gold and wanted to spread christianity.
+
+new technologies helped: the caravel, a small, nimble ship that could sail into the wind; the magnetic compass and the astrolabe; better maps; and cannons that could be mounted on ships. rivalry between many small european states pushed each to outdo the others.
+
+=== portugal around africa
+
+prince henry "the navigator" sponsored voyages down the west coast of africa. in 1488, bartolomeu dias rounded the southern tip of africa. in 1498, [[@vasco da gama]] reached calicut in india. the portuguese soon used their cannons to seize key ports, like goa, malacca, and hormuz, and to control much of the indian ocean spice trade.
+
+=== spain across the atlantic
+
+[[@christopher columbus]], a navigator from genoa, believed (wrongly) that the earth was small enough to reach asia by sailing west. spain's monarchs, ferdinand and isabella, backed him. in 1492, after a voyage of about ten weeks, he reached an island in the bahamas. he made four voyages and died insisting he had reached asia.
+
+in 1494, the treaty of tordesillas divided the non-european world between spain and portugal along a line in the atlantic, which is why brazil speaks portuguese today.
+
+the expedition led by [[@ferdinand magellan]] set out in 1519 to reach the spice islands by sailing west. it passed through the strait at the tip of south america and crossed the vast pacific. magellan was killed in the philippines in 1521, but one ship, commanded by juan sebastián elcano, returned to spain in 1522, the first to sail around the world. of about 270 men who set out, 18 came back on that ship.
+
+=== what about china?
+
+decades before columbus, china had sent the vast fleets of [[@zheng he]] across the indian ocean (see [[part:the-middle-ages|part 6]]). but the ming court ended the voyages, and later restricted private overseas trade. china was so large and rich that its rulers saw little need to seek wealth abroad. the choice has fascinated historians ever since.
+
+== the conquest of the americas {#conquest}
+
+=== the aztecs
+
+in 1519, [[@hernán cortés]] landed in mexico with about 500 spanish soldiers. he was helped enormously by [[@malintzin]], a nahua woman who served as his interpreter and adviser, and by tens of thousands of indigenous allies, especially the tlaxcalans, who hated aztec rule. the aztec emperor [[@moctezuma ii]] welcomed the spanish into tenochtitlan and was taken prisoner. he died in 1520. after a long siege, during which smallpox killed a large share of the city's people, tenochtitlan fell in 1521.
+
+=== the inca
+
+in 1532, francisco pizarro, with fewer than 200 men, reached the inca empire, which was just emerging from a civil war between two brothers. at cajamarca, the spanish ambushed and captured the victorious brother, [[@atahualpa]]. he paid a ransom of a room filled with gold and two with silver, and the spanish executed him anyway. inca resistance continued for decades.
+
+=== the great dying
+
+the biggest killer was disease. peoples of the americas had been isolated from eurasia and africa for thousands of years, and had no immunity to smallpox, measles, influenza, typhus, and other diseases. epidemics swept ahead of the europeans. combined with war, enslavement, forced labor, and famine, they killed perhaps 80 to 90 percent of the native population in some regions over the following century. many historians consider it the largest demographic catastrophe in human history.
+
+=== colonial empires
+
+spain built a vast empire from california to chile, governed by viceroys. native people were forced to work in mines and on estates. at potosí, in bolivia, a "mountain of silver" was discovered in 1545; tens of thousands of native people were forced to work in its deadly mines, and it became one of the largest cities in the world. portugal colonized brazil. the english founded jamestown in virginia in 1607, and the pilgrims landed at plymouth in 1620. the french founded quebec, and the dutch new amsterdam, later new york. colonists took more and more native land, provoking wars like the pueblo revolt of 1680, which drove the spanish out of new mexico for twelve years.
+
+== the columbian exchange {#exchange}
+
+the meeting of the two halves of the world set off an enormous exchange of plants, animals, microbes, and people, which the historian alfred crosby named the [[columbian exchange]].
+
+| from the americas | from africa and eurasia |
+|---|---|
+| maize (corn), potatoes, sweet potatoes, cassava, tomatoes, beans, peanuts, squash, chili peppers, pineapples | wheat, rice, barley, sugarcane, coffee, bananas, citrus fruits |
+| cacao (chocolate), tobacco, vanilla, rubber | horses, cattle, pigs, sheep, goats, chickens |
+| turkeys, guinea pigs | smallpox, measles, influenza, malaria, yellow fever |
+| silver, in huge amounts | millions of enslaved africans and european settlers |
+
+american crops transformed diets across the world. potatoes helped the population of europe grow; maize and sweet potatoes did the same in china and africa. it is hard to imagine italian food without tomatoes, indian or thai food without chili peppers, or irish history without the potato. horses transformed the lives of the peoples of the great plains, who became skilled mounted hunters.
+
+american silver flowed into europe, and much of it went on to china, which demanded payment in silver for silk, tea, and porcelain. from 1571, spanish galleons sailed from acapulco in mexico to manila in the philippines, linking the americas and asia directly. for the first time there was a global economy.
+
+== the atlantic slave trade {#slavery}
+
+=== the triangle
+
+[[slavery]] had existed in most societies, including in africa, europe, and the islamic world. but the atlantic slave trade was different in scale and in its racial basis.
+
+with native populations devastated, european colonists turned to africa for labor for their [[plantation|plantations]], especially sugar. between about 1501 and 1866, around 12.5 million africans were forced onto ships bound for the americas. most went to brazil and the caribbean; about 400,000 went to north america.
+
+the trade is often described as a triangle: ships carried guns, cloth, and other goods from europe to west africa; enslaved people from africa to the americas; and sugar, tobacco, cotton, and other products back to europe.
+
+=== the middle passage
+
+the voyage across the atlantic, called the [[middle passage]], took weeks or months. captives were chained below deck, packed tightly, with little air, food, or water. disease was rampant. nearly two million died on the way.
+
+in the americas, enslaved people were treated as property. they were bought and sold, separated from their families, and worked under brutal violence, especially on sugar plantations where many died within a few years. children born to enslaved mothers were enslaved too.
+
+=== africa and the trade
+
+most captives were taken by african states and traders, often through war, and sold to europeans on the coast in exchange for goods, including guns. some african kingdoms, such as dahomey and asante, grew powerful from the trade. others were devastated. [[@queen nzinga]] of ndongo and matamba (in modern angola) fought and negotiated with the portuguese for decades. the trade drained west and central africa of millions of young people and fueled war.
+
+=== resistance
+
+enslaved people resisted in countless ways: working slowly, breaking tools, preserving their languages, religions, music, and stories, running away, and rebelling. escaped people formed free communities, called maroons in jamaica and quilombos in brazil. the largest, palmares in brazil, held out for most of the 1600s.
+
+== the reformation {#reformation}
+
+=== luther
+
+by 1500, many christians felt the catholic church was corrupt: some clergy were poorly educated, bishops lived like princes, and the church raised money by selling [[indulgence|indulgences]], which promised to reduce the punishment for sins after death.
+
+in 1517, [[@martin luther]], a german monk and professor, wrote 95 theses attacking indulgences. thanks to the printing press, they spread across germany within weeks. luther went further, arguing that people are saved by faith alone, not by good works or church rituals, and that the bible, not the pope, is the highest authority. he translated the bible into german so ordinary people could read it. excommunicated by the pope and outlawed by the emperor, he was protected by german princes.
+
+=== the protestant churches
+
+the movement spread. john calvin in geneva taught that god had already chosen who would be saved; his followers spread to france, the netherlands, scotland (where they became presbyterians), and later to england's puritans. radical reformers, the anabaptists, rejected infant baptism and were persecuted by catholics and protestants alike. in england, king henry viii broke with the pope in 1534 so he could end his marriage, making himself head of the church of england. all these churches were called [[protestant]].
+
+=== the catholic response
+
+the catholic church answered with the [[counter-reformation]]. the council of trent (1545-1563) reformed abuses but firmly restated catholic teachings. new religious orders, like the jesuits founded by ignatius of loyola, set up schools and sent missionaries across the world, to india, china, japan, and the americas.
+
+=== wars of religion
+
+europe was torn by religious wars. in france, catholics massacred thousands of protestants (huguenots) on st bartholomew's day in 1572. the thirty years' war (1618-1648), which began as a religious conflict in the holy roman empire and drew in most of europe, killed perhaps a third of the population of some german regions. the peace of westphalia that ended it recognized the right of rulers to decide the religion of their states and is often seen as the start of the modern system of independent, sovereign states.
+
+=== new kinds of government
+
+in france, kings built up [[absolutism]], claiming to rule by [[divine right of kings|divine right]]. louis xiv, the "sun king", built the palace of versailles and kept his nobles busy at court. in england, conflict between the king and parliament led to civil war; king charles i was executed in 1649. after a brief republic, the monarchy returned, but in the "glorious revolution" of 1688 parliament replaced king james ii and passed a bill of rights limiting royal power. the philosopher [[@john locke]] argued that government rests on the consent of the governed and must protect natural rights to life, liberty, and property.
+
+== east asia {#asia}
+
+=== ming and qing china
+
+the ming dynasty rebuilt the great wall in stone, in the form visitors see today, and built the forbidden city in beijing. ming porcelain, "china", was prized worldwide. but the dynasty was weakened by factions, rebellions, famine, and falling silver imports. in 1644, rebels took beijing and the last ming emperor hanged himself. the manchus from the northeast then seized the capital and founded the qing dynasty, the last dynasty of china. under the long-reigning emperors kangxi and qianlong, the qing doubled china's territory and population.
+
+china managed foreign relations through a [[tributary system]]: neighboring states sent gifts and acknowledged the emperor's superiority in return for trade and recognition. european traders were eventually confined to the port of canton (guangzhou).
+
+=== japan
+
+japan spent more than a century in civil war between rival lords. three leaders, oda nobunaga, toyotomi hideyoshi, and [[@tokugawa ieyasu]], reunited it. hideyoshi invaded korea in 1592 and 1597, but the korean admiral [[@yi sun-sin]], with his armored turtle ships, repeatedly defeated the japanese navy. ieyasu won the battle of sekigahara in 1600 and became shogun in 1603.
+
+the tokugawa shogunate brought more than 250 years of peace. fearing foreign influence, it banned christianity, expelled missionaries, and closed japan to most foreigners, allowing only limited trade with the dutch and chinese at nagasaki. japanese culture flourished, with kabuki theater, woodblock prints, and haiku poetry.
+
+== the scientific revolution {#science}
+
+between about 1540 and 1700, a new way of understanding nature emerged in europe, based on observation, experiment, and mathematics rather than the authority of ancient writers. this is the [[scientific revolution]].
+
+- in 1543, [[@nicolaus copernicus]] published his argument that the earth and planets orbit the sun.
+- andreas vesalius, in the same year, published accurate drawings of human anatomy based on dissection.
+- johannes kepler showed that planets move in ellipses.
+- [[@galileo galilei]] used the telescope from 1609-1610 to discover the moons of jupiter, the phases of venus, and mountains on the moon, all supporting copernicus. in 1633 the church forced him to recant and placed him under house arrest.
+- william harvey showed that the heart pumps blood around the body.
+- robert hooke and antonie van leeuwenhoek used microscopes to discover cells and microorganisms.
+- in 1687, [[@isaac newton]] published the principia, showing that the same laws of motion and gravity govern apples falling on earth and planets orbiting the sun.
+
+scientific societies, such as the royal society in london, shared findings and tested them by experiment. the idea that the universe runs on laws that humans can discover encouraged people to apply reason to society and government as well. that is the [[enlightenment]], which begins [[part:the-age-of-revolutions|part 8]].
+
+== how we know {#evidence}
+
+- a flood of **printed sources**: books, pamphlets, maps, and newspapers.
+- **government and trade records**, like the records of the spanish empire in seville, and the ledgers of the dutch east india company.
+- **records of slave voyages**, gathered in databases that document over 36,000 voyages.
+- **indigenous sources**, like the florentine codex, which records aztec accounts of the conquest, and the chronicle written by the andean nobleman guaman poma.
+- **archaeology** of shipwrecks, plantations, and colonial towns.
+
+== questions scholars still argue about {#debates}
+
+- **why did europe, rather than china or the ottomans, launch the ocean voyages and build global empires?**
+- **how many people lived in the americas before 1492?** estimates range from about 40 to over 100 million.
+- **how "revolutionary" was the scientific revolution?** and how much did it build on islamic, indian, and chinese science?
+- **how much did the slave trade and slavery contribute to the later wealth of europe and the americas?**

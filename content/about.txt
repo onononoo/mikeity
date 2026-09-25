@@ -1,0 +1,45 @@
+# the about page. uses the same markup as the era files.
+
+== what this site is {#what}
+
+the history of the world tries to tell the whole story, from the [[big bang]] to the present, in eleven parts. it is a starting point, not an encyclopedia: every topic here has whole libraries written about it. if something catches your interest, go and find out more.
+
+each part has the same shape: the story itself, a section on **how we know** (the evidence historians and scientists use), a section on **questions scholars still argue about**, a table of dated events, the people involved, and the key terms. the [[part:the-beginning|first part]] starts at the very beginning.
+
+== how to read dates {#dates}
+
+| written like this | means |
+|---|---|
+| 13.8 billion years ago | deep time, counted back from the present |
+| c. 3100 bce | about 3100 years before the common era ("c." means approximately) |
+| 476 ce | 476 years into the common era. "ce" is left off for years after 1000 |
+| 1914–1918 | a range of years |
+| 5th century bce | the years 500 to 401 bce |
+
+"bce" (before the common era) and "ce" (common era) mean the same as the older "bc" and "ad". the timeline filter and the search box understand all of these forms.
+
+== how it is made {#made}
+
+the site is built by a small program written for it, using several languages:
+
+| language | what it does | where |
+|---|---|---|
+| python | reads the data, parses dates and markup, fills templates, writes every page, and checks the result | builder/ |
+| json | holds the events, people, glossary, regions, and parts | data/ |
+| plain text | the story of each part, in a tiny markup language | content/ |
+| html | the page templates | templates/ |
+| css | the (very small) stylesheet | static/style.css |
+| sql | the database schema and the reports shown on the statistics page | sql/ |
+| javascript | sorting tables, filtering the timeline, and search, in the browser | static/js/ |
+| javascript (node) | checks that every link and anchor on the finished site works | tools/checklinks.js |
+| c | a command line tool that prints the timeline as text, filtered by years | tools/timeline.c |
+| perl | counts words, links, and sections in the content files | tools/stats.pl |
+| shell and powershell | run all the steps in order | build.sh, build.ps1 |
+
+every page is plain html. there are no cookies, no tracking, no ads, and nothing is loaded from other websites. the pages work without javascript; with it, you also get sorting, filtering, and search.
+
+the finished site also includes its raw data: [all of it as json](data/history.json), [the timeline as tab-separated text](data/events.tsv), and [a sqlite database](data/history.db) you can query yourself.
+
+== a note on fairness {#fairness}
+
+history is huge, messy, and argued about. this site tries to cover the whole world, not just one region, and to be honest about cruelty and injustice as well as achievement. a lot is left out simply to keep it readable. dates for early periods are often estimates, and new discoveries change what we know all the time. where scholars disagree, the site tries to say so.

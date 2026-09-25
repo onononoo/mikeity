@@ -1,0 +1,37 @@
+/* as little styling as possible. the browser defaults do most of the work. */
+
+body {
+	max-width: 780px;
+	margin: 0 auto;
+	padding: 8px 16px 24px 16px;
+	background: #ffffff;
+	color: #000000;
+	font-family: "times new roman", times, serif;
+	font-size: 16px;
+	line-height: 1.4;
+}
+
+.name { margin-bottom: 0; font-size: 20px; }
+.nav { margin-top: 4px; }
+.small { font-size: 13px; }
+.nowrap { white-space: nowrap; }
+.hidden { display: none; }
+
+/* tables get plain one pixel borders */
+table.grid { border-collapse: collapse; margin: 8px 0; }
+table.grid th, table.grid td { border: 1px solid #000000; padding: 2px 6px; vertical-align: top; text-align: left; }
+table.grid th { background: #eeeeee; }
+table.box { width: 100%; }
+
+/* sortable headings look clickable once the script has run */
+table.sorting th { cursor: pointer; text-decoration: underline; }
+
+blockquote { margin: 12px 24px; font-style: italic; }
+pre { font-size: 13px; white-space: pre-wrap; }
+dd { margin-bottom: 6px; }
+tr.hit td { background: #ffffcc; }
+
+/* phones: let wide tables scroll sideways instead of stretching the page */
+@media (max-width: 600px) {
+	table.grid { display: block; overflow-x: auto; }
+}

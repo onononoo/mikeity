@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>about this site - the history of the world</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a id="top"></a>
+<p class="name"><b><a href="index.html">the history of the world</a></b></p>
+<p class="nav"><a href="index.html">home</a> | <a href="timeline.html">timeline</a> | <a href="regions.html">regions</a> | <a href="people.html">people</a> | <a href="glossary.html">glossary</a> | <a href="search.html">search</a> | <a href="statistics.html">statistics</a> | <b>about</b></p>
+<hr>
+<p class="small"><a href="index.html">home</a> &gt; about this site</p>
+
+
+<h1>about this site</h1>
+
+<ol>
+<li><a href="#what">what this site is</a></li>
+<li><a href="#dates">how to read dates</a></li>
+<li><a href="#made">how it is made</a></li>
+<li><a href="#fairness">a note on fairness</a></li>
+</ol>
+
+<h2 id="what">what this site is</h2>
+
+<p>the history of the world tries to tell the whole story, from the <a href="glossary.html#big-bang" class="term">big bang</a> to the present, in eleven parts. it is a starting point, not an encyclopedia: every topic here has whole libraries written about it. if something catches your interest, go and find out more.</p>
+
+<p>each part has the same shape: the story itself, a section on <b>how we know</b> (the evidence historians and scientists use), a section on <b>questions scholars still argue about</b>, a table of dated events, the people involved, and the key terms. the <a href="the-beginning.html">first part</a> starts at the very beginning.</p>
+
+<h2 id="dates">how to read dates</h2>
+
+<table class="grid">
+<tr><th>written like this</th><th>means</th></tr>
+<tr><td>13.8 billion years ago</td><td>deep time, counted back from the present</td></tr>
+<tr><td>c. 3100 bce</td><td>about 3100 years before the common era ("c." means approximately)</td></tr>
+<tr><td>476 ce</td><td>476 years into the common era. "ce" is left off for years after 1000</td></tr>
+<tr><td>1914–1918</td><td>a range of years</td></tr>
+<tr><td>5th century bce</td><td>the years 500 to 401 bce</td></tr>
+</table>
+
+<p>"bce" (before the common era) and "ce" (common era) mean the same as the older "bc" and "ad". the timeline filter and the search box understand all of these forms.</p>
+
+<h2 id="made">how it is made</h2>
+
+<p>the site is built by a small program written for it, using several languages:</p>
+
+<table class="grid">
+<tr><th>language</th><th>what it does</th><th>where</th></tr>
+<tr><td>python</td><td>reads the data, parses dates and markup, fills templates, writes every page, and checks the result</td><td>builder/</td></tr>
+<tr><td>json</td><td>holds the events, people, glossary, regions, and parts</td><td>data/</td></tr>
+<tr><td>plain text</td><td>the story of each part, in a tiny markup language</td><td>content/</td></tr>
+<tr><td>html</td><td>the page templates</td><td>templates/</td></tr>
+<tr><td>css</td><td>the (very small) stylesheet</td><td>static/style.css</td></tr>
+<tr><td>sql</td><td>the database schema and the reports shown on the statistics page</td><td>sql/</td></tr>
+<tr><td>javascript</td><td>sorting tables, filtering the timeline, and search, in the browser</td><td>static/js/</td></tr>
+<tr><td>javascript (node)</td><td>checks that every link and anchor on the finished site works</td><td>tools/checklinks.js</td></tr>
+<tr><td>c</td><td>a command line tool that prints the timeline as text, filtered by years</td><td>tools/timeline.c</td></tr>
+<tr><td>perl</td><td>counts words, links, and sections in the content files</td><td>tools/stats.pl</td></tr>
+<tr><td>shell and powershell</td><td>run all the steps in order</td><td>build.sh, build.ps1</td></tr>
+</table>
+
+<p>every page is plain html. there are no cookies, no tracking, no ads, and nothing is loaded from other websites. the pages work without javascript; with it, you also get sorting, filtering, and search.</p>
+
+<p>the finished site also includes its raw data: <a href="data/history.json">all of it as json</a>, <a href="data/events.tsv">the timeline as tab-separated text</a>, and <a href="data/history.db">a sqlite database</a> you can query yourself.</p>
+
+<h2 id="fairness">a note on fairness</h2>
+
+<p>history is huge, messy, and argued about. this site tries to cover the whole world, not just one region, and to be honest about cruelty and injustice as well as achievement. a lot is left out simply to keep it readable. dates for early periods are often estimates, and new discoveries change what we know all the time. where scholars disagree, the site tries to say so.</p>
+
+<hr>
+<p class="small"><a href="#top">back to top</a> | <a href="data/history.json">raw data (json)</a> | <a href="data/events.tsv">timeline (tsv)</a> | <a href="data/history.db">database (sqlite)</a></p>
+</body>
+</html>

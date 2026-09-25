@@ -1,0 +1,186 @@
+# part 4. cities, writing, and the bronze age.
+
+== what is a civilization?
+
+historians use the word [[civilization]] for a particular kind of society. it is not a judgment that some people are "civilized" and others are not. it is a way of describing a society that has most of these features:
+
+- **cities** with thousands or tens of thousands of people
+- **a state**: a government that can tax, make laws, and use force, usually led by a king
+- **specialized jobs**: priests, scribes, soldiers, merchants, potters, metalworkers, and farmers who feed them all
+- **social classes**, with big differences in wealth and power
+- **monumental building**: temples, palaces, pyramids, walls
+- **writing** or some other way of keeping records
+- **long-distance trade**
+
+the first civilizations grew up in river valleys: the tigris and euphrates, the nile, the indus, and the yellow river. rivers brought water for [[irrigation]] and fresh silt for the fields, which let farmers grow a surplus. a surplus could feed people who did not farm. rivers were also highways for trade. but rivers flood and shift, so controlling them required organization, and organization tended to produce rulers.
+
+== mesopotamia {#mesopotamia}
+
+=== sumer: the first cities
+
+"mesopotamia" is greek for "between the rivers". in the south, in the land of sumer, towns grew into cities during the fourth millennium bce. uruk, by about 3500-3100 bce, may have had 40,000 people or more. it was dominated by great temple complexes on raised platforms, which later developed into the stepped towers called [[ziggurat|ziggurats]].
+
+sumer was a land of rival [[city-state|city-states]]: uruk, ur, lagash, kish, nippur, and others. each had its own patron god, who was thought to own the city; the temple ran large estates and workshops. over time, war leaders became permanent kings, and palaces grew alongside temples.
+
+=== the invention of writing
+
+writing began in sumer around 3400-3200 bce, and it began as bookkeeping. temples and palaces needed to keep track of grain, beer, sheep, land, and workers. before writing, people used small clay tokens to count goods. then scribes began pressing marks and simple pictures into clay tablets. over a few centuries the pictures became abstract wedge-shaped marks made with a reed stylus: [[cuneiform]].
+
+cuneiform eventually used several hundred signs, some standing for words and some for syllables. learning it took years in scribal schools. it was used for more than 3,000 years and for more than a dozen languages, including sumerian, akkadian, hittite, and old persian. hundreds of thousands of clay tablets survive, because clay lasts, especially when a library burns and bakes it hard.
+
+what did people write? mostly accounts, contracts, letters, and lists. but also law codes, prayers, medical texts, mathematics, astronomy, school exercises, love poems, and proverbs. the sumerians counted in sixties, which is why an hour has 60 minutes and a circle 360 degrees.
+
+the earliest author known by name was [[@enheduanna]], high priestess of the moon god at ur and daughter of sargon of akkad, who wrote hymns to the goddess inanna around 2300 bce.
+
+=== the first empire
+
+around 2334 bce, [[@sargon of akkad]] conquered the sumerian city-states and much of the land beyond, creating what is often called the first empire. the akkadian empire lasted about 150 years. after it collapsed, the city of ur rebuilt a smaller empire, whose king ur-nammu issued the oldest surviving law code.
+
+=== gilgamesh
+
+the epic of gilgamesh, the oldest great work of literature, grew out of sumerian poems about a legendary king of uruk. in it, gilgamesh and his friend enkidu go on adventures; when enkidu dies, gilgamesh searches for immortality and fails, learning to accept that he must die. it includes a story of a great flood, strikingly similar to the story of noah told much later.
+
+=== babylon and assyria
+
+around 1792 bce, [[@hammurabi]] became king of babylon and built a kingdom over much of mesopotamia. his law code, carved on a black stone pillar now in the louvre, has 282 laws covering trade, marriage, property, wages, and crime. punishments depended on social class: harming a noble was punished more harshly than harming a commoner or a slave. it includes the principle of "an eye for an eye", which was meant to limit revenge to a fair match for the harm done.
+
+later, the assyrians of northern mesopotamia built a powerful and feared empire. they were known for their efficient army, iron weapons, siege warfare, and deliberate cruelty to rebels, as well as for mass deportations of conquered peoples. the assyrian king ashurbanipal gathered a huge library at nineveh, which is why so much mesopotamian literature survives.
+
+== ancient egypt {#egypt}
+
+=== the gift of the nile
+
+the greek historian [[@herodotus]] called egypt "the gift of the nile". egypt is almost all desert, but every summer the nile flooded, spreading water and rich black silt over the fields along its banks. egyptians called their land kemet, "the black land", after that soil. the flood was so regular that egyptians could plan their farming year around it.
+
+=== the pharaohs
+
+around 3100 bce, upper egypt (the south) and lower egypt (the delta in the north) were united under one king, remembered as [[@narmer]] or menes. the king, later called [[pharaoh]], was seen as a god on earth, responsible for keeping ma'at, the order of the universe, against chaos.
+
+egyptian history is usually divided into periods:
+
+| period | roughly | what happened |
+|---|---|---|
+| early dynastic | c. 3100-2686 bce | unification, the first royal tombs |
+| old kingdom | c. 2686-2181 bce | the age of the pyramids |
+| first intermediate period | c. 2181-2055 bce | central power breaks down |
+| middle kingdom | c. 2055-1650 bce | reunification, great literature |
+| second intermediate period | c. 1650-1550 bce | the hyksos from western asia rule the north |
+| new kingdom | c. 1550-1069 bce | an empire in the levant and nubia; the valley of the kings |
+| late period | c. 664-332 bce | foreign rule by kushites, assyrians, and persians |
+
+=== the pyramids
+
+in the old kingdom, pharaohs built pyramids as tombs. the step pyramid of djoser, designed by the architect imhotep, came first. then came smooth-sided pyramids, culminating in the great pyramid of giza, built for [[@khufu]] around 2560 bce. it was built from about 2.3 million blocks of stone and stood about 146 meters tall, the tallest human-made structure on earth for nearly 4,000 years.
+
+it was not built by slaves, as people once thought. excavations near the pyramids found the villages, bakeries, and tombs of the workers: paid laborers and farmers doing work for the state, some of whom were given honorable burials near the king.
+
+=== writing, religion, and the afterlife
+
+egyptians used [[hieroglyphs]], a writing system of pictures that could stand for sounds or ideas, for monuments. for everyday use, scribes wrote a faster cursive script with ink on [[papyrus]].
+
+egyptians believed that the dead could live on, if their bodies were preserved and their souls passed judgment. in the underworld, the heart of the dead person was weighed against the feather of ma'at, the goddess of truth. to preserve the body, embalmers removed the organs, dried the body with salt, and wrapped it in linen. this is [[mummification]].
+
+=== the new kingdom
+
+the new kingdom was egypt's age of empire. its pharaohs conquered the levant and nubia and were buried in hidden tombs in the valley of the kings.
+
+- [[@hatshepsut]] ruled as pharaoh for about twenty years, portraying herself with the traditional false beard of kingship. she sent a trading expedition to the land of punt, probably in the horn of africa.
+- [[@akhenaten]] and his queen [[@nefertiti]] tried to replace the worship of many gods with worship of the aten, the disk of the sun. it was one of the earliest known steps toward [[monotheism]]. it did not last.
+- [[@tutankhamun]], who became king as a child, restored the old gods. his nearly untouched tomb, found in 1922 by howard carter, held over 5,000 objects, including his famous gold mask.
+- [[@ramesses ii]] reigned for 66 years, built on a gigantic scale, and fought the hittites at the battle of kadesh in 1274 bce. afterwards, egypt and the hittites made one of the earliest known peace treaties.
+
+== the indus valley {#indus}
+
+in the valley of the indus river, in today's pakistan and northwest india, a civilization flourished from about 2600 to 1900 bce. it is called the harappan or indus civilization. it covered a bigger area than egypt and mesopotamia combined.
+
+its cities, like harappa, mohenjo-daro, and dholavira, were strikingly planned. streets ran in a grid. houses were built of standard-sized baked bricks. many had private bathrooms and toilets connected to covered drains along the streets, a level of sanitation not matched in many places until modern times. mohenjo-daro had a "great bath", a large waterproof pool, perhaps used for ritual bathing.
+
+the harappans used standard weights, made fine jewelry and beads, and traded with mesopotamia by sea. they carved small square stone seals with animals, such as a one-horned bull, and short inscriptions. their script has never been deciphered, partly because no long texts or bilingual inscriptions have been found. so we do not know what language they spoke or what their kings, if they had kings, were called. unusually, there are few signs of palaces, royal tombs, or large armies.
+
+from about 1900 bce the cities declined. rivers shifted, a major river may have dried up, the monsoon weakened, and trade with mesopotamia fell. people moved to smaller villages further east.
+
+=== the vedic age
+
+from about 1500 bce, people speaking an indo-aryan language, related to persian and the languages of europe, moved into northern india, as shown by both language and ancient [[dna]]. their sacred hymns, the [[vedas]], were composed in sanskrit and passed down orally with astonishing accuracy for many centuries before being written down. the rigveda is the oldest. vedic society was divided into ranked groups, which later developed into the [[caste]] system.
+
+== early china {#china}
+
+=== the shang
+
+chinese civilization developed along the yellow river. later chinese histories spoke of an early xia dynasty, but archaeologists have not firmly identified it. the first dynasty with written records is the shang, from about 1600 to 1046 bce.
+
+shang kings ruled from large capitals such as anyang. they were master bronze casters, producing magnificent ritual vessels for offerings to the ancestors. they practiced human sacrifice on a large scale in royal funerals and rituals.
+
+shang kings asked their ancestors questions about harvests, wars, hunts, illnesses, and childbirth by carving them onto cattle bones or turtle shells, then applying heat until they cracked. the king read the answer from the cracks. these [[oracle bones]] carry the oldest known chinese writing. the script is the direct ancestor of chinese characters used today, making chinese one of the longest continuously used writing systems in the world.
+
+=== the zhou and the mandate of heaven
+
+around 1046 bce, the zhou overthrew the shang. to justify this, they developed the idea of the [[mandate of heaven]]: heaven gives the right to rule to a virtuous ruler and takes it away from a wicked one. if a dynasty suffered disasters, rebellions, and defeat, that was a sign it had lost the mandate. this idea would be used to explain the rise and fall of chinese dynasties for the next 3,000 years.
+
+the zhou ruled through relatives and allies who were given land to govern. over time these lords became more and more independent, setting the stage for the long period of war and philosophy covered in [[part:the-classical-world|part 5]].
+
+== the americas {#americas}
+
+civilizations in the americas developed completely separately from those of africa and eurasia, which makes them a natural experiment in how complex societies arise.
+
+in peru, the city of caral in the supe valley, from about 2600 bce, built large stepped pyramids and sunken circular plazas. it had no pottery and apparently no weapons or defensive walls, and it may have been built on trade in cotton and fish. the andean tradition of recording information on knotted cords may go back this far. later, from about 900 bce, the religious center of chavín de huántar spread a shared art style and religion through the andes.
+
+in mexico, the olmecs of the gulf coast built the first major civilization of [[mesoamerica]], from about 1200 bce. they are famous for colossal carved stone heads, some nearly three meters tall, probably portraits of rulers. many traditions later shared across mesoamerica may go back to the olmecs: the rubber ball game, pyramids and plazas, a sacred calendar, and possibly writing.
+
+== other peoples of the bronze age {#others}
+
+=== the hittites
+
+the hittites built an empire in anatolia (modern turkey), with its capital at hattusa. they spoke the oldest recorded indo-european language, used light chariots with great skill, and were among the first to work iron, though bronze remained their main metal.
+
+=== the minoans and mycenaeans
+
+on the island of crete, the minoans built great palaces, such as knossos, with colorful wall paintings of dolphins, flowers, and young people leaping over bulls. they traded across the mediterranean. they wrote in a script called linear a, which has not been deciphered. the huge volcanic eruption of thera (santorini), around 1600 bce, may have weakened them.
+
+on mainland greece, the mycenaeans were warrior kings who built fortress-palaces with enormous stone walls. they took over crete and wrote an early form of greek in a script called linear b. later greeks remembered them in the stories of the trojan war.
+
+=== the phoenicians
+
+the phoenicians lived in city-states like tyre, sidon, and byblos on the coast of modern lebanon. they were the great sea traders of the mediterranean, famous for a precious purple dye made from sea snails. around 1050 bce, they were using an [[alphabet]] of just 22 letters, all consonants. it was far easier to learn than cuneiform or hieroglyphs. the greeks adopted it and added vowels; from greek came latin and the cyrillic alphabet. other descendants of the phoenician script include hebrew and arabic. the phoenicians founded colonies across the mediterranean, including carthage in north africa.
+
+=== the israelites
+
+the israelites formed kingdoms in the hill country of canaan. according to the hebrew bible, david made jerusalem his capital around 1000 bce and his son solomon built the first temple there. how large and powerful their kingdom really was is debated by archaeologists. what matters most for world history is that the israelites developed a belief in one god, which became judaism, and later shaped christianity and islam.
+
+=== kush
+
+south of egypt, in nubia (modern sudan), the kingdom of kush developed its own civilization. its first great center was kerma, from about 2500 bce. egypt conquered nubia during the new kingdom, but later, around 750 bce, kushite kings turned the tables and ruled egypt as its 25th dynasty.
+
+=== the steppe and the chariot
+
+on the grasslands of central asia and eastern europe, people learned to ride and drive horses. around 2000 bce, the sintashta culture built light chariots with spoked wheels. the chariot spread rapidly and became the prestige weapon of kings from egypt to china. the languages of these steppe peoples were probably the ancestors of the indo-european language family, which today includes english, hindi, persian, russian, and spanish.
+
+=== the pacific
+
+around 3000 bce, austronesian-speaking peoples began sailing from taiwan into the philippines and indonesia. later, their descendants, the lapita people, sailed into the open pacific, reaching fiji, tonga, and samoa by about 850 bce, using outrigger canoes and remarkable navigation skills. austronesian languages would eventually be spoken from madagascar to easter island.
+
+== the bronze age collapse {#collapse}
+
+by about 1300 bce, the eastern mediterranean and near east formed an interconnected international system. great kings of egypt, the hittites, babylon, assyria, and mitanni wrote letters to each other, calling one another "brother", and exchanged gifts, princesses, and ambassadors. trade carried copper from cyprus and tin from as far as central asia to make bronze.
+
+then, between about 1200 and 1150 bce, this world fell apart. the hittite empire disappeared. mycenaean palaces were burned and never rebuilt, and greece lost the knowledge of writing for about four centuries. cities along the coast of the levant, such as ugarit, were destroyed. egypt survived but was badly weakened. egyptian inscriptions blame invaders they called the "sea peoples", whom ramesses iii claimed to have defeated in about 1177 bce.
+
+historians now think the [[bronze age collapse]] had many causes that fed off one another: a long drought, famines, earthquakes, rebellions, migrations, raiders, and the breakdown of the trade networks that supplied tin. because the great kingdoms depended on each other, the fall of one helped bring down the others. it is often used today as an example of how complex, connected systems can fail.
+
+out of the collapse came the [[iron age]]. iron ore is far more common than copper and tin, so once people learned to work it, metal tools and weapons became available to many more people. small new states arose, such as the phoenician cities, israel, and the city-states of greece. that is where [[part:the-classical-world|part 5]] begins.
+
+== how we know {#evidence}
+
+- **written sources.** for the first time, people tell us about themselves. but early writing mostly records the concerns of kings, temples, and scribes, not ordinary people.
+- **decipherment.** cuneiform and hieroglyphs were forgotten for centuries. hieroglyphs were decoded in the 1820s by jean-françois champollion, using the rosetta stone, which has the same text in hieroglyphs, egyptian demotic script, and greek.
+- **excavation** of cities, tombs, and workers' villages.
+- **science**: [[radiocarbon dating]], tree rings, ice cores, and pollen give dates and show climate changes such as droughts.
+- **ancient dna** has revealed large migrations, such as those from the steppe into europe and south asia.
+
+== questions scholars still argue about {#debates}
+
+- **why did states and kings appear?** to manage irrigation, to organize trade, because of war, or because some families gained control of the surplus?
+- **what did the indus people speak, and how was their society governed?** until the script is deciphered, we may never know.
+- **did the xia dynasty exist?**
+- **how big was the kingdom of david and solomon?**
+- **what exactly caused the bronze age collapse, and who were the sea peoples?**

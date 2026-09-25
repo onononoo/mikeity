@@ -1,0 +1,8 @@
+{# a plain page made from a markup file, like the about page #}
+<h1>{{ title }}</h1>
+
+{% if toc %}<ol>
+{% for sec in toc %}<li><a href="#{{ sec.id }}">{{ sec.text }}</a></li>
+{% endfor %}</ol>{% endif %}
+
+{{ doc.html|raw }}

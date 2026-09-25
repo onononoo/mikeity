@@ -1,0 +1,192 @@
+# part 9. roughly 1850 to 1914.
+
+== the world transformed {#transformed}
+
+in 1850, most people in the world still lived on farms, traveled no faster than a horse could carry them, and lit their homes with candles or oil lamps. by 1914, millions lived in cities lit by electricity, crossed oceans on steamships in a week, rode railways across continents, sent telegrams around the world in minutes, and had begun to fly. the industrial nations of europe, the united states, and japan had used their new power to take control of most of the rest of the world.
+
+== the second industrial revolution {#industry}
+
+=== spreading industry
+
+industry spread from britain to belgium, france, germany, the united states, and later russia and japan. by 1900, the united states and germany had overtaken britain in industrial output.
+
+=== new technologies
+
+after about 1870, a "second industrial revolution" was driven by science-based industries:
+
+- **steel**: the bessemer process (1856) made strong, cheap steel in huge quantities, for railways, ships, bridges, and skyscrapers.
+- **chemicals**: synthetic dyes, fertilizers, explosives like dynamite (invented by alfred nobel), and later plastics.
+- **electricity**: generators, electric motors, and power grids. thomas edison's team and others developed practical light bulbs around 1879, and cities began to glow at night.
+- **oil**: petroleum, first drilled commercially in pennsylvania in 1859, was used for lamps, and later to fuel the internal combustion engine. karl benz built a gasoline-powered car in 1886.
+- **communications**: the telegraph, the undersea cable (the first lasting transatlantic cable was laid in 1866), the telephone (patented by alexander graham bell in 1876), and radio (developed by guglielmo marconi in the 1890s).
+- **mass production**: interchangeable parts and, later, the moving assembly line, introduced by henry ford for the model t in 1913, made goods cheaper. this is [[mass production]].
+
+=== shrinking the world
+
+railways crossed continents: the first transcontinental railroad in the united states was completed in 1869, and the trans-siberian railway was built between 1891 and 1916. the suez canal, opened in 1869, cut the sea journey from europe to asia by thousands of kilometers. the panama canal opened in 1914. refrigerated ships carried meat from argentina and new zealand to europe. a truly global economy was taking shape, which historians sometimes call the "first [[globalization]]".
+
+=== the great divergence
+
+industrialization created a huge gap in wealth and power between the industrial countries and the rest of the world. in 1750, china and india produced over half of the world's manufactured goods. by 1900, their share had fallen below ten percent, while europe and north america produced most of the rest. historians call this the "great divergence", and argue about its causes.
+
+== life in the industrial age {#life}
+
+=== cities
+
+cities grew at an unprecedented rate. london had over six million people by 1900. early industrial cities were crowded, polluted, and deadly, but gradually improved. after cholera epidemics, reformers like john snow, who traced an outbreak in london to a single contaminated water pump in 1854, showed that disease spread through dirty water. cities built sewers, clean water supplies, and public parks. police forces, public libraries, department stores, and professional sports appeared.
+
+=== medicine
+
+louis pasteur and robert koch proved the germ theory of disease: that many diseases are caused by specific microorganisms. this led to vaccines, pasteurization of milk, and better hygiene. joseph lister introduced antiseptic surgery, and anesthesia made surgery painless. death rates began to fall, and populations grew rapidly.
+
+=== workers and the labor movement
+
+factory and mine workers organized trade unions to demand higher pay, shorter hours, and safer conditions. strikes were often met with violence. gradually, governments passed laws limiting working hours and child labor, and some began providing social insurance; in germany, [[@otto von bismarck]] introduced the first national health insurance and old age pensions in the 1880s, partly to undermine the socialists. many countries introduced free, compulsory schooling.
+
+=== the vote
+
+more and more men won the right to vote. the campaign for women's [[suffrage]] grew in many countries. in britain, [[@emmeline pankhurst]] and the suffragettes turned to militant tactics like smashing windows and hunger strikes. new zealand became the first self-governing country to give women the vote in national elections, in 1893.
+
+=== migration
+
+between 1850 and 1914, about 50 million europeans emigrated, mostly to the united states, canada, argentina, brazil, and australia, fleeing poverty, famine, and persecution. millions of chinese and indian laborers also migrated, often under harsh contracts, to southeast asia, the caribbean, africa, and the americas.
+
+== new ideas {#ideas}
+
+=== liberalism, socialism, and communism
+
+[[liberalism]] stood for individual rights, constitutional government, free trade, and gradual reform. [[socialism]] argued that the wealth created by workers should be shared more fairly, and that key industries should be owned or controlled by the community.
+
+[[@karl marx]] argued in das kapital that capitalism exploited workers, who produced value but received only a fraction of it as wages. he predicted that capitalism would collapse from its own contradictions and that the working class would overthrow the owners and create a classless society: [[communism]]. marxist ideas inspired socialist parties across europe, most of which chose to work through elections, and later the revolutions of the twentieth century.
+
+=== evolution
+
+in 1859, [[@charles darwin]] published on the origin of species, explaining how species change over many generations through [[natural selection]]. alfred russel wallace had reached the same idea independently. evolution provoked fierce debate with some religious believers.
+
+darwin's ideas were twisted by others into "social darwinism", the false claim that some races and nations were "fitter" than others and had a right to dominate them. this pseudo-science was used to justify empire, racism, and eugenics programs that sterilized people deemed "unfit".
+
+=== nationalism
+
+[[nationalism]], the belief that each nation should have its own state, became one of the most powerful forces of the age. it could unite people across class lines, and it could also turn them against minorities and neighbors.
+
+== new nations {#nations}
+
+=== italy
+
+italy had been divided into many states since the fall of rome. the kingdom of piedmont-sardinia, led by its prime minister count cavour, took the lead, allying with france to push austria out of northern italy. in the south, giuseppe garibaldi and his "thousand redshirts" conquered sicily and naples. in 1861 the kingdom of italy was proclaimed. rome was added in 1870.
+
+=== germany
+
+prussia, led by its chancellor [[@otto von bismarck]], unified germany through "blood and iron". bismarck fought three short wars: against denmark (1864), austria (1866), and france (1870-1871). in 1871, in the hall of mirrors at versailles, the prussian king was proclaimed emperor of a united germany. germany quickly became the leading industrial and military power in europe.
+
+=== the old empires
+
+multinational empires, like the ottoman empire, austria-hungary, and russia, struggled to hold together peoples who increasingly wanted their own nations. the ottomans lost most of their lands in the balkans. russia freed its serfs in 1861 but remained autocratic; after defeat by japan, a revolution in 1905 forced the tsar to allow a limited parliament.
+
+== the united states {#usa}
+
+=== westward expansion
+
+the united states expanded rapidly across the continent, through purchase, war with mexico (1846-1848), and the removal of native nations. as settlers, railroads, and the army pushed west, native peoples were confined to reservations, their lands taken, and the buffalo herds they depended on slaughtered almost to extinction. the massacre at wounded knee in 1890 is often seen as the end of armed native resistance.
+
+=== the civil war
+
+slavery divided the country. by 1860, there were about four million enslaved people in the south, and cotton they grew was the country's biggest export. abolitionists like [[@frederick douglass]], who had escaped slavery, and [[@harriet tubman]], who guided dozens of people to freedom on the underground railroad, campaigned against it.
+
+when [[@abraham lincoln]], who opposed the spread of slavery, was elected president in 1860, eleven southern states broke away to form the confederacy. the civil war (1861-1865) killed around 700,000 soldiers. in 1863, lincoln's emancipation proclamation declared enslaved people in the rebel states free, and about 180,000 black soldiers fought for the union. the north won in 1865. the thirteenth amendment abolished slavery. days after the war ended, lincoln was assassinated.
+
+=== reconstruction and after
+
+during reconstruction, formerly enslaved men gained the vote and some were elected to congress. but after federal troops withdrew in 1877, white southern governments passed "jim crow" laws enforcing racial [[segregation]] and stripping black citizens of the vote, backed by terror and lynching.
+
+meanwhile, the united states became the world's largest industrial economy, dominated by giant corporations and wealthy industrialists. it began to act as an imperial power too: in 1898, it defeated spain, taking puerto rico, guam, and the philippines, where it fought a brutal war against filipino independence fighters.
+
+== the age of imperialism {#imperialism}
+
+=== why empire?
+
+between about 1870 and 1914, european powers, the united states, and japan seized control of vast territories in what is called the "new [[imperialism]]". their motives included:
+
+- **economic**: raw materials like rubber, cotton, palm oil, copper, and gold; markets for manufactured goods; places to invest.
+- **strategic**: naval bases and coaling stations for steamships; competition with rival powers.
+- **national prestige**: colonies were seen as a sign of greatness.
+- **ideology**: racist beliefs and "social darwinism", and a sense of a "civilizing mission" to spread christianity and european ways, often described as a duty.
+
+new technologies made it possible: steamships and railways to move troops, the telegraph to coordinate them, quinine to protect europeans from malaria, and above all new weapons like the breech-loading rifle and the maxim machine gun.
+
+by 1914, the british empire covered about a quarter of the world's land and ruled about a quarter of its people, the largest empire in history.
+
+== the scramble for africa {#africa}
+
+=== the carve-up
+
+in 1870, about 10 percent of africa was under european control, mostly along the coasts. by 1914, about 90 percent was. at the berlin conference of 1884-1885, european powers agreed on rules for claiming african territory. no africans were invited. the borders drawn in this period, often straight lines across maps, cut through kingdoms and ethnic groups and threw rivals together. most of them are still the borders of african countries today.
+
+=== resistance
+
+africans resisted fiercely. the zulu defeated a british army at isandlwana in 1879. samori touré fought the french in west africa for nearly two decades. in 1896, the ethiopian emperor [[@menelik ii]] defeated an invading italian army at adwa, and ethiopia stayed independent. by 1914, only ethiopia and liberia were free of european rule.
+
+=== the congo
+
+the worst horror was the congo free state, run from 1885 to 1908 as the personal property of king [[@leopold ii]] of belgium. to meet quotas for wild rubber, his agents took women hostage, burned villages, and cut off hands as punishment. millions died from violence, starvation, and disease. an international campaign, using photographs as evidence, forced belgium to take the colony from the king in 1908.
+
+in german southwest africa (namibia), after an uprising in 1904, german forces carried out a [[genocide]] of the herero and nama peoples, driving them into the desert and into concentration camps. between 1904 and 1908, most of the herero and about half of the nama died.
+
+=== colonial rule
+
+colonial rule varied, but it always served the interests of the colonizers. colonies were made to produce cash crops and raw materials for export, often through forced labor and heavy taxes. railways ran from mines and plantations to ports, not between african cities. mission schools educated a small elite, some of whom would later lead independence movements.
+
+== asia under pressure {#asia}
+
+=== china
+
+china suffered a series of disasters. the taiping rebellion (1850-1864), led by a man who believed he was the younger brother of jesus, became one of the deadliest civil wars in history, killing perhaps 20 to 30 million people. in the second opium war (1856-1860), british and french troops burned the emperor's summer palace. foreign powers forced china to sign "unequal treaties", granting them ports, trading rights, and legal immunity for their citizens. china lost a war to japan in 1894-1895.
+
+the real power at court for nearly half a century was the empress dowager [[@cixi]], who blocked many reforms. in 1900, the boxer rebellion, a movement to expel foreigners, besieged the foreign embassies in beijing, and was crushed by an army of eight foreign nations. in 1911, a revolution broke out, and in 1912, the last emperor, a six-year-old boy, abdicated, ending over 2,000 years of imperial rule. [[@sun yat-sen]] became the first president of the republic of china, but the country soon fell apart under rival warlords.
+
+=== japan
+
+in 1853, american warships under commodore matthew perry arrived in tokyo bay and forced japan to open to trade. seeing what had happened to china, a group of young samurai overthrew the tokugawa shogunate and restored power to [[@emperor meiji]] in 1868.
+
+the meiji restoration was one of the fastest transformations in history. japan abolished the samurai class, built railways, factories, and telegraphs, created a modern army and navy on european models, introduced compulsory schooling, and adopted a constitution. japan then became an empire itself, defeating china in 1895 and taking taiwan, and shocking the world by defeating russia in 1904-1905, the first victory of an asian power over a european one in modern times. it annexed korea in 1910.
+
+=== india
+
+in 1857, indian soldiers in the east india company's army, the sepoys, rebelled, and the revolt spread across northern india. it was put down with great brutality. in 1858, the british government took over direct rule from the company. queen victoria was later proclaimed empress of india. this period of direct british rule is called the raj.
+
+the british built railways, telegraphs, and universities, but ruled in their own interests. india's traditional textile industry was ruined by british imports, and terrible famines, made worse by government policy, killed millions in the 1870s and 1890s. in 1885, educated indians founded the indian national congress, which would later lead the struggle for independence.
+
+=== southeast asia and the pacific
+
+by 1914, almost all of southeast asia was under colonial rule: the british in burma and malaya, the french in indochina (vietnam, laos, cambodia), the dutch in indonesia, and the americans in the philippines. only siam (thailand) remained independent, by playing the british and french off against each other and modernizing. in the pacific, the islands were divided among britain, france, germany, and the united states, which annexed hawaii in 1898.
+
+== latin america {#latin}
+
+the countries of latin america were independent but often dependent economically on exports of one or two products, like coffee, beef, copper, rubber, or bananas, and on british and american investment. brazil became the last country in the americas to abolish slavery, in 1888. in mexico, the long dictatorship of porfirio díaz brought railways and foreign investment but concentrated land in few hands. in 1910, the mexican revolution broke out, a decade of war that would reshape the country.
+
+== science and invention {#science}
+
+- dmitri mendeleev organized the elements into the periodic table (1869).
+- james clerk maxwell described electricity, magnetism, and light as parts of one electromagnetic force.
+- wilhelm röntgen discovered x-rays (1895).
+- [[@marie curie]] and pierre curie discovered the radioactive elements polonium and radium. she became the first person to win nobel prizes in two sciences.
+- sigmund freud developed psychoanalysis, the theory that unconscious desires shape behavior.
+- the wright brothers made the first powered, controlled airplane flight in 1903.
+- [[@albert einstein]] published the theory of special relativity in 1905, showing that space and time are relative and that energy and mass are equivalent (e = mc²).
+
+by 1914, many europeans believed their civilization stood at the height of progress. few imagined how quickly it would tear itself apart. that is the story of [[part:the-world-wars|part 10]].
+
+== how we know {#evidence}
+
+- **photographs**, which for the first time record people and events directly.
+- **newspapers**, now mass-produced and cheap.
+- **government statistics**, censuses, and colonial records.
+- **the voices of the colonized**, in letters, petitions, memoirs, newspapers, and oral history, which historians increasingly use to balance the records of the colonizers.
+- **early sound recordings and films**, from the 1890s.
+
+== questions scholars still argue about {#debates}
+
+- **what caused the "great divergence" between europe and asia?** coal, colonies, institutions, culture, or luck?
+- **did empire pay?** did colonies make the imperial countries richer, or did they cost more than they earned?
+- **how should the legacy of colonialism be weighed?** some point to railways and schools; most historians emphasize exploitation, violence, famine, and lasting damage.
+- **why did japan modernize so successfully while china struggled?**

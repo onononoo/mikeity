@@ -1,0 +1,170 @@
+# part 8. roughly 1750 to 1850.
+
+== a century of upheaval {#upheaval}
+
+between about 1750 and 1850, the world was shaken by two different kinds of revolution. political revolutions, in north america, france, haiti, and latin america, overthrew kings and colonial rulers in the name of liberty and equality. and the [[industrial revolution]], beginning in britain, started to transform how people worked, lived, and produced goods. historians sometimes call this "the dual revolution". between them, they created much of the modern world.
+
+== the enlightenment {#enlightenment}
+
+=== reason and progress
+
+the [[enlightenment]] was an intellectual movement that took the methods of the scientific revolution, observation, reason, and skepticism, and turned them on society, government, religion, and the economy. its thinkers believed that reason could free people from superstition, tyranny, and ignorance, and that human society could be improved: an idea called progress.
+
+=== key thinkers
+
+- [[@john locke]] argued that all people have natural rights to life, liberty, and property, and that government exists to protect them. if a government breaks this contract, people may overthrow it.
+- montesquieu argued that power should be separated between legislative, executive, and judicial branches, which check and balance each other.
+- [[@voltaire]] attacked religious intolerance, censorship, and the power of the church with biting satire.
+- [[@jean-jacques rousseau]] argued that legitimate government comes from the "general will" of the people, and that society had corrupted humans' natural goodness.
+- [[@adam smith]] argued in the wealth of nations (1776) that free markets and the division of labor create prosperity, and attacked [[mercantilism]]. he is seen as a founder of [[capitalism|capitalist]] economics.
+- cesare beccaria argued against torture and the death penalty.
+- [[@mary wollstonecraft]], in a vindication of the rights of woman (1792), argued that women were not naturally inferior to men but only appeared so because they were denied education.
+- immanuel kant summed up the spirit of the age with the motto "dare to know".
+
+=== spreading ideas
+
+enlightenment ideas spread through books, pamphlets, newspapers, salons hosted by educated women in paris, coffeehouses, and learned societies. diderot and d'alembert's encyclopédie, beginning in 1751, tried to gather all human knowledge in 28 volumes, including practical trades. some rulers, like frederick the great of prussia and catherine the great of russia, called themselves "enlightened despots" and made reforms, while keeping absolute power.
+
+the enlightenment had blind spots. many of its thinkers accepted slavery, the inferiority of women, and european superiority over other peoples. but its universal language of rights would later be used by the very people it left out.
+
+== the american revolution {#american}
+
+=== causes
+
+britain won the seven years' war (1756-1763), fought across europe, north america, india, and the seas, and took canada from france. but the war left britain deeply in debt. it decided the thirteen american colonies should help pay for their own defense, and imposed new taxes like the stamp act (1765) and taxes on tea.
+
+the colonists had grown used to running their own affairs. they protested that, since they had no representatives in the british parliament, parliament had no right to tax them: "no taxation without representation". protests escalated. in 1773, at the boston tea party, colonists dumped a shipment of tea into boston harbor.
+
+=== war and independence
+
+fighting broke out at lexington and concord in 1775. on 4 july 1776, the continental congress adopted the declaration of independence, written mostly by [[@thomas jefferson]]. it declared that "all men are created equal" and have unalienable rights to "life, liberty and the pursuit of happiness", ideas drawn from locke and the enlightenment.
+
+[[@george washington]] led the continental army through years of hardship. the decisive turn came when france, eager for revenge on britain, joined the war in 1778, followed by spain and the netherlands. in 1781, a british army surrendered at yorktown, trapped by american and french forces and a french fleet. britain recognized american independence in 1783.
+
+=== the constitution
+
+in 1787, delegates met in philadelphia and wrote the united states constitution. it created a federal [[republic]] with power separated among a president, a congress, and courts, following montesquieu. a bill of rights, added in 1791, protected freedom of speech, religion, the press, and more. washington became the first president and stepped down after two terms.
+
+the revolution's promises were limited. slavery remained legal, and the constitution counted an enslaved person as three fifths of a person for representation. women could not vote. native nations lost more and more land as the new country expanded.
+
+== the french revolution {#french}
+
+=== causes
+
+france was the largest and richest country in western europe, but its government was nearly bankrupt, partly from paying for the american war. society was divided into three "estates": the clergy, the nobility, and everyone else, 97 percent of the population, who paid most of the taxes. poor harvests pushed up the price of bread. enlightenment ideas had spread widely.
+
+=== 1789
+
+to raise money, king louis xvi called the estates-general, which had not met since 1614. the representatives of the third estate declared themselves a national assembly and swore not to break up until france had a constitution. on 14 july 1789, a crowd in paris stormed the bastille, a royal fortress and prison. across the countryside, peasants attacked manor houses.
+
+the national assembly abolished noble privileges and issued the declaration of the rights of man and of the citizen, proclaiming that "men are born and remain free and equal in rights". it took over church lands. the writer olympe de gouges replied with a declaration of the rights of woman; she was later executed.
+
+=== the republic and the terror
+
+in 1792, france went to war with austria and prussia, which wanted to restore the king's power. the monarchy was abolished and france declared a republic. louis xvi was tried and executed by guillotine in january 1793; queen marie antoinette followed.
+
+facing foreign invasion and civil war, the revolutionary government, led by [[@maximilien robespierre]] and the committee of public safety, launched the reign of terror (1793-1794). some 17,000 people were officially executed and many more died in prison or in the brutal suppression of revolts. the revolution also tried to remake daily life, with a new calendar and the metric system (which survived). in 1794, robespierre's colleagues turned on him and he was guillotined. a weaker government, the directory, followed.
+
+=== napoleon
+
+a brilliant young general, [[@napoleon bonaparte]], seized power in 1799. in 1804 he crowned himself emperor. his armies conquered much of europe, winning great victories like austerlitz (1805). he spread some revolutionary reforms: the napoleonic code made men equal before the law, protected property, and allowed religious freedom, though it reduced the rights of women. it still shapes the law of many countries.
+
+napoleon's power began to fail with his invasion of russia in 1812. the russians retreated, burning everything, and moscow itself burned. starving and freezing, the grande armée of over 600,000 men was destroyed on the retreat. he was defeated, exiled to the island of elba, escaped, and returned for a "hundred days", before his final defeat at waterloo in 1815. he died in exile on the remote island of saint helena.
+
+at the congress of vienna (1814-1815), the great powers redrew the map of europe and restored many old monarchies. but the ideas of the revolution, of [[nationalism]], rights, and popular sovereignty, could not be put back in the bottle.
+
+== the haitian revolution {#haiti}
+
+saint-domingue, the french western part of the island of hispaniola, was the richest colony in the world. it produced about 40 percent of the world's sugar and more than half of its coffee, through the labor of about half a million enslaved africans, who outnumbered white colonists by about ten to one and died at horrifying rates.
+
+in august 1791, inspired partly by the french revolution and organized at a secret religious ceremony, the enslaved people of the northern plain rose up. the uprising became a full-scale revolution. its greatest leader, [[@toussaint louverture]], a formerly enslaved man, built a disciplined army that defeated spanish and british invasions. france abolished slavery in 1794.
+
+in 1802, napoleon sent a large army to restore french control and, as it turned out, slavery. toussaint was tricked, captured, and died in a french prison. but the french army was destroyed by fierce resistance and yellow fever. on 1 january 1804, [[@jean-jacques dessalines]] declared independence. haiti became the first independent nation in latin america and the caribbean, and the only country ever born from a successful revolt of enslaved people.
+
+the world's powers treated haiti as a threat. france demanded an enormous payment in 1825 to "compensate" former slaveholders, in exchange for recognition, a debt that crippled haiti's economy for more than a century.
+
+== latin american independence {#latin}
+
+spain's american colonies were ruled by officials born in spain, while wealthy creoles, people of spanish descent born in the americas, resented being shut out of power. when napoleon invaded spain in 1808 and replaced its king, the colonies' ties to spain were thrown into confusion.
+
+- in mexico, a priest, miguel hidalgo, called for revolt in 1810 with an army of indigenous and mixed-race peasants. he was captured and executed, but the struggle went on, and mexico won independence in 1821.
+- in the north of south america, [[@simón bolívar]], "the liberator", fought for over a decade to free venezuela, colombia, ecuador, peru, and bolivia (named after him). he dreamed of a united south america, but it broke apart.
+- in the south, josé de san martín led an army across the andes to free chile, and then helped free peru.
+- brazil took a different path. the portuguese royal family had fled there from napoleon in 1808. in 1822, the king's son declared brazil an independent empire, with himself as emperor.
+
+by 1826, almost all of spain's mainland american empire was independent. but power mostly stayed in the hands of wealthy landowners, many new countries were unstable, and slavery lasted in some for decades.
+
+== the industrial revolution begins {#industrial}
+
+=== why britain?
+
+the [[industrial revolution]] began in britain in the late 1700s. historians point to several reasons:
+
+- plenty of **coal** and **iron ore**, often close together.
+- **high wages** and **cheap energy**, which made it worth replacing workers with machines.
+- a large and growing **market**, at home and in a worldwide empire.
+- a stable government, banks, and investors willing to fund new ventures.
+- an **agricultural revolution**: enclosure of common lands, new crops like turnips and clover, and selective breeding produced more food with fewer workers, freeing people to work in industry.
+- a culture of practical tinkering and scientific societies.
+- profits from trade and colonies, including the slave trade and slave-grown cotton and sugar.
+
+=== textiles
+
+the first great industry was cotton cloth. inventions like the spinning jenny (1764), the water frame (1769), and the spinning mule (1779) made spinning thread many times faster. the power loom did the same for weaving. factories, first powered by water wheels and then by steam, brought workers and machines together under one roof. raw cotton came mostly from the plantations of the american south, picked by enslaved people. and britain's cheap machine-made cloth undercut the hand weavers of india.
+
+=== steam
+
+in 1712, thomas newcomen built a steam engine to pump water out of coal mines. in 1769, [[@james watt]] patented a much more efficient design, and later adapted it to turn wheels. steam engines could power factories anywhere, and later locomotives and ships.
+
+=== railways
+
+in 1825, the stockton and darlington railway opened in northern england, the first public railway to use steam locomotives. in 1830, the liverpool and manchester railway carried passengers and freight between two cities using only steam. a "railway mania" followed. trains made travel faster than ever before. time itself had to be standardized to run the timetables.
+
+=== factory life
+
+industrial cities, like manchester, grew at astonishing speed. workers, including children as young as five or six, worked twelve to fourteen hours a day in dangerous factories and mines. housing was crowded, filthy, and unhealthy; cholera and typhus spread through dirty water. life expectancy in the worst industrial cities was lower than in the countryside. some workers, the luddites, smashed the machines that were destroying their livelihoods. gradually, workers organized, and laws began to limit child labor.
+
+== the end of slavery begins {#abolition}
+
+[[abolitionism]] grew into one of the first great mass political movements. quakers were among the first to condemn slavery. formerly enslaved writers like [[@olaudah equiano]] described its horrors; his autobiography of 1789 was a bestseller. in britain, [[@william wilberforce]] led the fight in parliament, backed by petitions signed by hundreds of thousands and a boycott of slave-grown sugar.
+
+enslaved people forced the issue through their own resistance: the haitian revolution, and large revolts in barbados (1816), demerara (1823), and jamaica (1831-1832). britain banned the slave trade in 1807 and used its navy to try to suppress it. in 1833, it abolished slavery in most of its empire, paying compensation to slaveholders, not to the enslaved. france finally abolished slavery in 1848. in the united states, slavery was growing, not shrinking, as cotton production boomed. that conflict is part of [[part:industry-and-empire|part 9]].
+
+== the wider world {#wider}
+
+=== india
+
+as the mughal empire weakened, the british east india company, a private trading company with its own army, took advantage. in 1757, robert clive won the battle of plassey, and the company took control of bengal, one of the richest regions in the world. over the following decades, it conquered most of india, collecting taxes and ruling millions.
+
+=== china and the opium war
+
+china sold huge amounts of tea, silk, and porcelain to britain, but wanted little in return except silver. to fix this imbalance, british merchants smuggled opium grown in india into china, addicting millions. when china's government seized and destroyed british opium in 1839, britain went to war. in the first opium war (1839-1842), british warships defeated china. the treaty of nanjing forced china to pay compensation, open five ports to trade, and hand over hong kong. it was the first of many "unequal treaties".
+
+=== africa
+
+in southern africa, [[@shaka]] reorganized the zulu into a powerful military kingdom in the 1810s and 1820s, and the wars and migrations of this period reshaped the region. in west africa, islamic reform movements created large new states, like the sokoto caliphate. british and french interest in africa was growing, but for now, it was mostly limited to coastal trading posts.
+
+=== the pacific
+
+between 1768 and 1779, james cook made three voyages across the pacific, mapping new zealand and the east coast of australia. in 1788, the first fleet of british ships arrived at sydney, carrying convicts, founding a colony on land that aboriginal australians had lived on for tens of thousands of years. disease, violence, and dispossession devastated aboriginal communities. in 1840, the treaty of waitangi was signed between the british crown and māori chiefs in new zealand; its english and māori versions differed in important ways, which caused disputes that continue today.
+
+== 1848 {#year1848}
+
+in 1848, revolutions broke out across europe, in france, the german states, the austrian empire, and italy, demanding constitutions, voting rights, national unity, and better conditions for workers. most were crushed within a year. but serfdom was abolished in the austrian empire, and france gained universal male [[suffrage]].
+
+in the same year, [[@karl marx]] and friedrich engels published the communist manifesto, which began with the claim that all history is the history of class struggles. and at seneca falls in new york, a convention led by elizabeth cady stanton and lucretia mott demanded equal rights for women, including the right to vote. these new ideas and movements carry the story into [[part:industry-and-empire|part 9]].
+
+== how we know {#evidence}
+
+- **printed sources** of every kind: newspapers, pamphlets, books, laws, and parliamentary debates.
+- **personal letters and diaries**, which survive in huge numbers.
+- **censuses** and **government statistics**, which begin to be collected systematically.
+- **narratives by enslaved and formerly enslaved people**.
+- **records of the revolutionary governments** themselves.
+
+== questions scholars still argue about {#debates}
+
+- **were the revolutions caused mainly by ideas, or by economic hardship and practical grievances?**
+- **why did the industrial revolution begin in britain, and not in the netherlands, france, china, or india?**
+- **did the industrial revolution make ordinary people better or worse off in its early decades?** the "standard of living debate" has lasted over a century.
+- **why is the haitian revolution so often left out of the story of the "age of revolutions"?**

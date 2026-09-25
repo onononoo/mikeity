@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "the-beginning",
+    "title": "the beginning",
+    "start": "13.8 billion years ago",
+    "end": "7 million years ago",
+    "summary": "the universe begins, stars forge the elements, the earth forms, life appears in the sea, and over billions of years it grows into fish, forests, dinosaurs, and mammals."
+  },
+  {
+    "slug": "the-first-humans",
+    "title": "the first humans",
+    "start": "7 million years ago",
+    "end": "12,000 years ago",
+    "summary": "in africa, apes begin walking upright. their descendants make tools, tame fire, and develop language. our own species spreads across every continent but antarctica, outliving all other kinds of human."
+  },
+  {
+    "slug": "the-first-farmers",
+    "title": "the first farmers",
+    "start": "c. 10,000 bce",
+    "end": "c. 3500 bce",
+    "summary": "as the ice age ends, people in at least seven parts of the world start farming on their own. villages, pottery, property, and new diseases follow, and the population of the world begins to climb."
+  },
+  {
+    "slug": "the-first-civilizations",
+    "title": "the first civilizations",
+    "start": "c. 3500 bce",
+    "end": "c. 800 bce",
+    "summary": "cities, kings, writing, law, and organized war appear along the great rivers of mesopotamia, egypt, the indus, and china, and on their own in the americas. the bronze age ends in a sudden collapse."
+  },
+  {
+    "slug": "the-classical-world",
+    "title": "the classical world",
+    "start": "c. 800 bce",
+    "end": "476 ce",
+    "summary": "persia, greece, rome, the mauryas, the guptas, the qin, and the han build vast empires. philosophers and prophets ask questions that are still argued about, and the silk roads link east and west."
+  },
+  {
+    "slug": "the-middle-ages",
+    "title": "the middle ages",
+    "start": "476 ce",
+    "end": "1450",
+    "summary": "the western roman empire falls, islam spreads across three continents, tang and song china lead the world in technology, the mongols conquer most of eurasia, and the black death kills a third of europe."
+  },
+  {
+    "slug": "the-early-modern-world",
+    "title": "the early modern world",
+    "start": "1450",
+    "end": "1750",
+    "summary": "the printing press, ocean voyages, and the conquest of the americas tie the whole world together for the first time, through trade, disease, and slavery. the reformation splits europe and science is reborn."
+  },
+  {
+    "slug": "the-age-of-revolutions",
+    "title": "the age of revolutions",
+    "start": "1750",
+    "end": "1850",
+    "summary": "enlightenment ideas about rights and reason fuel revolutions in america, france, haiti, and latin america, while steam power and factories begin the industrial revolution in britain."
+  },
+  {
+    "slug": "industry-and-empire",
+    "title": "industry and empire",
+    "start": "1850",
+    "end": "1914",
+    "summary": "railways, steel, electricity, and the telegraph remake daily life. industrial nations use their new power to seize most of africa and much of asia, while new ideas like nationalism and socialism spread."
+  },
+  {
+    "slug": "the-world-wars",
+    "title": "the world wars",
+    "start": "1914",
+    "end": "1945",
+    "summary": "two world wars, the russian revolution, the great depression, and the rise of fascism make this the deadliest stretch in human history, ending with the holocaust and the atomic bomb."
+  },
+  {
+    "slug": "the-modern-world",
+    "title": "the modern world",
+    "start": "1945",
+    "end": "present",
+    "summary": "the cold war, the end of empires, the struggle for civil rights, space flight, the computer, and the internet shape the world we live in now, along with new dangers like climate change."
+  }
+]

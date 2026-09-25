@@ -1,0 +1,161 @@
+# part 2. from the first hominins to the end of the ice age.
+
+== what makes a human?
+
+humans are apes. our closest living relatives are chimpanzees and bonobos, with whom we share about 98.8 percent of our [[dna]]. what separates us is a set of traits that appeared slowly and in a mixed-up order, not all at once:
+
+- walking upright on two legs
+- small canine teeth and changes in chewing
+- a much larger brain for our body size
+- making and depending on tools
+- control of fire and cooking
+- complex language and symbolic thought: art, ornaments, and ritual
+- a very long childhood, and cooperation across large groups
+
+scientists call every species on our side of the split from chimpanzees a [[hominin]]. there have been at least twenty hominin species. for most of the last few million years several lived at the same time. today there is only one left: us.
+
+== walking upright {#upright}
+
+=== the earliest hominins
+
+the human line split from the chimpanzee line in africa roughly 7 to 6 million years ago. the earliest possible hominins, like sahelanthropus from chad and orrorin from kenya, are known from only a few bones, and experts argue about whether they walked upright.
+
+ardipithecus ramidus, nicknamed "ardi", lived in ethiopia about 4.4 million years ago. her skeleton shows a strange mix: a pelvis adapted for walking upright, but feet with a grasping big toe for climbing. she lived in woodland, not open grassland, which overturned an old idea that our ancestors stood up because the forests disappeared.
+
+=== australopithecus
+
+the [[australopithecus]] group lived in eastern and southern africa from about 4.2 to 2 million years ago. the most famous is [[@lucy]], an australopithecus afarensis who lived 3.2 million years ago in ethiopia. about 40 percent of her skeleton was found in 1974. she stood about 1.1 meters tall and had a brain about the size of a chimpanzee's, but her hips and knees show she walked upright.
+
+footprints at laetoli in tanzania, pressed into wet volcanic ash about 3.66 million years ago, show a group of hominins walking with a heel-to-toe stride much like ours.
+
+why walk upright at all? ideas include: it saves energy when walking long distances, it frees the hands to carry food and infants, it keeps the body cooler in the sun, and it lets you see over tall grass. probably several of these mattered.
+
+== the first tools {#tools}
+
+the oldest known stone tools, from lomekwi in kenya, are about 3.3 million years old, older than any known member of our genus. they are crude: large flakes knocked off stones by striking them together.
+
+by 2.6 million years ago, hominins in east africa were regularly making oldowan tools: sharp flakes struck from river cobbles. they used them to cut meat from carcasses and smash bones for marrow. cut marks on animal bones show this. meat and marrow are rich in fat and protein, which may have helped support the growth of bigger, energy-hungry brains.
+
+the genus homo appears at about the same time. the earliest known fossil is a jawbone from ledi-geraru in ethiopia, about 2.8 million years old. homo habilis, "handy man", had a somewhat larger brain than australopithecus.
+
+== homo erectus and fire {#erectus}
+
+=== a new kind of human
+
+homo erectus appeared about 1.9 million years ago. it had long legs, a body shaped much like ours, and a bigger brain. it was probably a good long-distance walker and runner, able to track animals across the open savanna, sweating to keep cool.
+
+homo erectus was the first hominin known to have left africa. by about 1.8 million years ago, early humans were living at dmanisi in the caucasus mountains of georgia, and not long after, homo erectus reached java in indonesia and northern china. it survived for well over a million years, longer than our own species has existed so far.
+
+=== the hand axe
+
+about 1.76 million years ago, hominins began making acheulean hand axes: teardrop-shaped tools, carefully worked on both sides. making one requires planning several steps ahead and a mental picture of the finished shape. the design barely changed for over a million years and spread across africa, europe, and western asia.
+
+=== fire
+
+controlling fire was one of the most important turning points in human history. burned bone and ash from wonderwerk cave in south africa suggest fire use about a million years ago, and hearths at gesher benot ya'aqov in israel show regular use about 780,000 years ago.
+
+fire kept people warm and let them move into colder places. it scared away predators. it lit up the night, giving time to talk and share. above all, it allowed cooking. cooked food is softer and much easier to digest, releasing more energy. some scientists argue that cooking is what allowed the human gut to shrink and the brain to grow.
+
+== our human cousins {#cousins}
+
+between about 700,000 and 40,000 years ago, several kinds of humans lived on earth at the same time.
+
+| species | where | known for |
+|---|---|---|
+| homo heidelbergensis | africa and europe | possibly the common ancestor of neanderthals and homo sapiens; made wooden spears |
+| [[neanderthals]] | europe and western asia | stocky bodies built for cold, big brains, burials, jewelry, care for the injured |
+| denisovans | asia | known mostly from dna, a finger bone, teeth, and a jaw; their genes helped tibetans adapt to high altitude |
+| homo floresiensis ("the hobbit") | flores, indonesia | about a meter tall, with a small brain, but made stone tools |
+| homo naledi | south africa | a small-brained species living surprisingly late, about 300,000 years ago |
+| homo sapiens | africa, then everywhere | us |
+
+the [[neanderthals]] were not the brutish cavemen of old cartoons. they made complex tools, controlled fire, hunted large animals, used pigments, wore ornaments, and buried their dead. they cared for injured and elderly members of their group; one skeleton from shanidar in iraq shows a man who survived for years after severe injuries that would have left him unable to fend for himself.
+
+when the genomes of neanderthals and denisovans were read from ancient bones, scientists found something surprising: people alive today carry their genes. most people outside africa have about 1 to 2 percent neanderthal [[dna]], and many people in oceania carry several percent denisovan dna. our ancestors met these other humans and had children with them.
+
+== homo sapiens {#sapiens}
+
+=== an african origin
+
+the oldest known fossils of our own species come from jebel irhoud in morocco and are about 300,000 years old. early homo sapiens lived across africa, in populations that were often separated and then reconnected as the climate changed. there was no single "garden of eden": our species came together from across the continent.
+
+=== the human revolution
+
+for a long time, early sapiens looked modern but left few signs of art or symbols. then, from about 100,000 years ago, and more strongly after about 75,000 years ago, the evidence grows. people at blombos cave in south africa engraved crosshatched patterns on pieces of red ochre, made beads from shells, and mixed paint. others made finely worked stone points, bone tools, and traded materials over long distances.
+
+scientists argue about whether this was a sudden "revolution" in the mind, perhaps linked to fully modern language, or a gradual build-up that only looks sudden because so little evidence survives. many now favor the gradual view.
+
+=== language
+
+no one knows when language began, because words leave no fossils. clues come from anatomy, from genes linked to speech, and from the complexity of behavior: teaching someone to make a hand axe, planning a hunt, or trading across hundreds of kilometers is much easier with language. most researchers think fully modern language existed by at least 100,000 years ago, and it may be much older.
+
+== spreading across the world {#spread}
+
+=== out of africa
+
+homo sapiens left africa more than once. a group reached israel by about 100,000 years ago but seems not to have lasted. the main migration began roughly 60,000 to 70,000 years ago. its descendants include almost everyone whose ancestors lived outside africa.
+
+they moved along the coasts of southern asia, likely living off shellfish and fish. they reached southeast asia and then crossed open water to reach sahul, the ice age landmass that joined australia and new guinea. this required boats and planning, and happened at least 50,000 and possibly 65,000 years ago. aboriginal australians have one of the longest continuous cultures on earth.
+
+other groups moved north and west. homo sapiens reached europe about 45,000 years ago. within a few thousand years, the [[neanderthals]] were gone. whether sapiens outcompeted them, whether climate swings weakened them, or whether they were partly absorbed through interbreeding is still debated; probably all three played a part.
+
+=== the americas
+
+during the [[ice age]], so much water was locked in ice sheets that the sea level was about 120 meters lower than today. a wide land bridge, beringia, joined siberia and alaska. people lived on it for thousands of years. when a path opened, either along the pacific coast or through a gap between the ice sheets, they moved south.
+
+the timing is one of the liveliest arguments in archaeology. for decades, experts thought the first americans were the clovis people, about 13,000 years ago. then monte verde in chile was shown to be about 14,500 years old. more recently, human footprints at white sands in new mexico have been dated to about 23,000 to 21,000 years ago. if those dates hold, people were in the americas during the coldest part of the ice age.
+
+=== the last continents
+
+by the end of this period, humans lived on every continent except antarctica. the remote islands of the pacific, madagascar, iceland, and new zealand would only be reached much later by sailors (see [[part:the-first-civilizations|part 4]] and [[part:the-middle-ages|part 6]]).
+
+== life in the ice age {#iceage}
+
+=== hunter-gatherers
+
+for more than 95 percent of human history, everyone lived as [[hunter-gatherers]]. they lived in small, mobile bands of perhaps 25 to 50 people, connected to larger networks through marriage, trade, and gatherings. they knew their land in enormous detail: which plants were edible and when, where water could be found, how animals moved.
+
+studies of recent hunter-gatherers suggest they often worked fewer hours than farmers, had varied diets, and shared food widely. groups were usually fairly equal, with no chiefs or kings, although there were exceptions. life was also dangerous: many children died young, and injuries from hunting and fighting were common.
+
+=== surviving the cold
+
+the last glacial maximum, about 20,000 years ago, was the coldest point. in northern europe and asia, people hunted reindeer, horses, bison, and mammoths on vast cold grasslands called the mammoth steppe. they sewed fitted clothing with bone needles, built huts from mammoth bones and hides, and stored food in pits dug into the frozen ground.
+
+=== the first domesticated animal
+
+the dog was the first animal to be tamed. wolves that scavenged near human camps, and were less afraid of people, gradually became a separate population. dogs were firmly part of human life by at least 15,000 years ago, and probably much earlier. they helped with hunting, guarding, and later herding, and were sometimes buried alongside people.
+
+== art and ideas {#art}
+
+the oldest known picture of a scene, painted on a cave wall on sulawesi in indonesia at least 51,000 years ago, shows human-like figures with a wild pig. in europe, the chauvet cave in france holds paintings of lions, rhinos, horses, and bears about 36,000 years old, drawn with shading and movement. lascaux, about 17,000 years old, has hundreds of animals, some over five meters long.
+
+people carved small figures from ivory and stone. the lion man of hohlenstein-stadel in germany, about 40,000 years old, is part human and part lion, perhaps the earliest known image from the imagination. flutes made from bird bones and mammoth ivory show that people made music.
+
+graves with ornaments, red ochre, and tools suggest beliefs about death and perhaps an afterlife. at sungir in russia, about 34,000 years ago, two children were buried with thousands of ivory beads that must have taken many hundreds of hours to make.
+
+nobody knows what cave art meant. ideas include hunting magic, religious rituals led by shamans, teaching about animals, storytelling, or simple love of making images. it may have meant different things in different places and times.
+
+== the end of the ice age {#end}
+
+around 14,700 years ago the world began to warm quickly. then, about 12,900 years ago, it suddenly plunged back into cold for about 1,200 years, a period called the younger dryas, before warming for good around 11,700 years ago. that marks the start of the [[holocene]], the warm and stable period we still live in.
+
+as the ice melted, sea levels rose and drowned coastlines, including beringia and the land bridges that joined britain to europe and australia to new guinea. many large animals, known as megafauna, had disappeared: mammoths, woolly rhinos, giant ground sloths, cave bears, and giant kangaroos. scientists still argue about how much of this was caused by climate change and how much by human hunting. in australia and the americas, where the animals had never met humans before, extinctions followed soon after people arrived.
+
+in a few places, the new warm, stable climate made something new possible. people began to settle down and grow food. that is the story of [[part:the-first-farmers|part 3]].
+
+== how we know {#evidence}
+
+- **fossils** of bones and teeth show what hominins looked like, how they moved, and what they ate.
+- **stone tools** survive much better than bones, so they are the main evidence for most of human history. experiments in making them tell us about the skill and planning involved.
+- **ancient dna** can be read from bones up to several hundred thousand years old in cold places. it revealed the denisovans, and it showed that neanderthals and sapiens interbred.
+- **the dna of living people** records the history of their ancestors: where populations split, mixed, and moved.
+- **dating methods** include [[radiocarbon dating]] (for the last 50,000 years), measuring the decay of potassium into argon in volcanic ash layers, and luminescence dating of sediments.
+- **studies of living hunter-gatherers** give clues to how ancient people may have lived, though they are not "living fossils" and have their own long histories.
+
+== questions scientists still argue about {#debates}
+
+- **which fossils are our direct ancestors?** the human family tree looks more like a tangled bush than a ladder, and new finds regularly reshape it.
+- **when did language begin?** estimates range from about 50,000 to over a million years ago.
+- **why did the neanderthals disappear?** competition, climate, disease, small population size, or absorption into sapiens?
+- **when did people first reach the americas and australia?** the dates keep being pushed earlier, and every new early date is fiercely tested.
+- **what killed the megafauna?** hunters, climate, or both?

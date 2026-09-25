@@ -1,0 +1,41 @@
+<h1>statistics</h1>
+
+<p>numbers about this site. the tables further down come straight from sql queries run against the site's own <a href="data/history.db">sqlite database</a> every time the site is built.</p>
+
+<ul>
+<li>{{ totals.words|commas }} words of history across {{ site.eras|length }} parts</li>
+<li>{{ totals.events|commas }} dated events, from <i>{{ first.when }}</i> ({{ first.text }}) to <i>{{ last.when }}</i> ({{ last.text }})</li>
+<li>{{ totals.people|commas }} people and {{ totals.terms|commas }} glossary terms</li>
+</ul>
+
+<h2 id="parts">size of each part</h2>
+
+<table class="grid sortable">
+<tr><th data-sort="number">part</th><th data-sort="number">words</th><th data-sort="number">events</th><th data-sort="number">people</th><th data-sort="number">terms</th><th>words, as a bar</th></tr>
+{% for row in era_rows %}<tr><td data-value="{{ row.era.number }}"><a href="{{ row.era.slug }}.html">{{ row.era.number }}. {{ row.era.title }}</a></td><td>{{ row.words|commas }}</td><td>{{ row.events }}</td><td>{{ row.people }}</td><td>{{ row.terms }}</td><td><tt>{{ row.bar }}</tt></td></tr>
+{% endfor %}</table>
+
+<h2 id="regions">events by region</h2>
+
+<table class="grid">
+{% for row in region_rows %}<tr><td><a href="regions.html#{{ row.region.slug }}">{{ row.region.name }}</a></td><td>{{ row.events }}</td><td><tt>{{ row.bar }}</tt></td></tr>
+{% endfor %}</table>
+
+<h2 id="tags">what the events are about</h2>
+
+<table class="grid">
+{% for row in tag_rows %}<tr><td>{{ row.tag }}</td><td>{{ row.n }}</td><td><tt>{{ row.bar }}</tt></td></tr>
+{% endfor %}</table>
+
+<h2 id="reports">database reports</h2>
+
+{% for rep in reports %}
+<h3 id="report-{{ rep.name }}">{{ rep.name }}</h3>
+<p>{{ rep.about }}</p>
+<table class="grid">
+<tr>{% for c in rep.columns %}<th>{{ c }}</th>{% endfor %}</tr>
+{% for row in rep.rows %}<tr>{% for v in row %}<td>{{ v }}</td>{% endfor %}</tr>
+{% else %}<tr><td colspan="{{ rep.columns|length }}">(no rows)</td></tr>
+{% endfor %}</table>
+<details><summary class="small">show the sql</summary><pre>{{ rep.sql }}</pre></details>
+{% endfor %}

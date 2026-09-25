@@ -1,0 +1,8 @@
+<h1>people</h1>
+
+<p>everyone named on this site, in order of when they were born ({{ people|length }} people). click a column heading to sort the table another way. many early dates are only rough guesses.</p>
+
+<table class="grid sortable">
+<tr><th>name</th><th data-sort="number">lived</th><th data-sort="number">part</th><th>region</th><th>who they were</th></tr>
+{% for p in people %}<tr id="{{ p.slug }}"><td><b>{{ p.name }}</b></td><td data-value="{{ p.life.start }}" class="nowrap">{{ p.life }}</td><td data-value="{{ p.era_rec.number }}"><a href="{{ p.era }}.html">{{ p.era_rec.number }}</a></td><td>{{ p.region_rec.name }}</td><td>{{ p.role }}. {{ p.about }}</td></tr>
+{% endfor %}</table>

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page_title %}{{ page_title }} - {% endif %}{{ site_name }}</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a id="top"></a>
+<p class="name"><b><a href="index.html">{{ site_name }}</a></b></p>
+<p class="nav">{% for href, label in nav %}{% if href == current %}<b>{{ label }}</b>{% else %}<a href="{{ href }}">{{ label }}</a>{% endif %}{% if not loop.last %} | {% endif %}{% endfor %}</p>
+<hr>
+{% if crumbs %}<p class="small">{% for href, label in crumbs %}<a href="{{ href }}">{{ label }}</a> &gt; {% endfor %}{{ title }}</p>
+{% endif %}
+{{ body|raw }}
+<hr>
+<p class="small"><a href="#top">back to top</a> | <a href="data/history.json">raw data (json)</a> | <a href="data/events.tsv">timeline (tsv)</a> | <a href="data/history.db">database (sqlite)</a></p>
+{% for js in scripts %}<script src="js/{{ js }}"></script>
+{% endfor %}</body>
+</html>

@@ -1,0 +1,18 @@
+<h1>history by region</h1>
+
+<p>the same events and people as the rest of the site, grouped by the part of the world where they happened. the borders of regions are rough on purpose: empires and peoples moved across them all the time.</p>
+
+<ul>
+{% for r in regions %}<li><a href="#{{ r.slug }}">{{ r.name }}</a> <span class="small">({{ r.events|length }} events, {{ r.people|length }} people)</span></li>
+{% endfor %}</ul>
+
+{% for r in regions %}
+<h2 id="{{ r.slug }}">{{ r.name }}</h2>
+<p>{{ r.description }}</p>
+{% if r.events %}<table class="grid">
+<tr><th>date</th><th>event</th><th>part</th></tr>
+{% for ev in r.events %}<tr><td class="nowrap">{{ ev.when }}</td><td>{{ ev.text }}</td><td><a href="{{ ev.era }}.html">{{ ev.era_rec.number }}</a></td></tr>
+{% endfor %}</table>{% endif %}
+{% if r.people %}<p><b>people:</b> {% for p in r.people %}<a href="people.html#{{ p.slug }}">{{ p.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>{% endif %}
+<p class="small"><a href="#top">back to top</a></p>
+{% endfor %}

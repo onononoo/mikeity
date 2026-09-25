@@ -1,0 +1,160 @@
+# part 1. deep time, before any humans.
+
+== a sense of scale
+
+human history, from the first cities to today, covers about 5,500 years. the story on this page covers about 13.8 billion. that is so long that ordinary ways of thinking about time break down, so it helps to squeeze it.
+
+imagine the whole history of the universe as one calendar year. the [[big bang]] happens at midnight on 1 january. the milky way forms in march. the sun and the earth do not appear until early september. the first life shows up in late september. complex animals arrive around 17 december, dinosaurs rule from about the 25th to the 30th, and the asteroid that kills them hits on 30 december. the first members of our own species appear about seven minutes before midnight on 31 december. all of written history fits into the last fourteen seconds.
+
+| event | real date | on the one-year calendar |
+|---|---|---|
+| the big bang | 13.8 billion years ago | 1 january, midnight |
+| the milky way forms | c. 13 billion years ago | mid january to march |
+| the sun and earth form | 4.6 billion years ago | early september |
+| first life | c. 3.7 billion years ago | late september |
+| oxygen builds up in the air | 2.4 billion years ago | late october |
+| the cambrian explosion | 538 million years ago | 17 december |
+| the first dinosaurs | c. 235 million years ago | 25 december |
+| the asteroid impact | 66 million years ago | 30 december |
+| homo sapiens appears | c. 300,000 years ago | 31 december, 11:53 pm |
+| the first writing | c. 3200 bce | 31 december, 11:59:48 pm |
+
+== the universe begins {#universe}
+
+=== the big bang
+
+about 13.8 billion years ago, the universe was in an extremely hot, dense state and began to expand. this is the [[big bang]]. it was not an explosion in space; it was the expansion of space itself, and it is still going on. scientists can measure this: distant galaxies are moving away from us, and the farther away they are, the faster they recede.
+
+in the first tiny fraction of a second, the universe was too hot for even protons and neutrons to exist. as it expanded and cooled, the basic particles of matter formed. within about three minutes, the nuclei of the lightest elements, hydrogen and helium with a trace of lithium, had been made. the proportions predicted by theory match what astronomers observe almost exactly, which is one of the strongest pieces of evidence for the big bang.
+
+=== the first light
+
+for about 380,000 years the universe was a glowing fog of charged particles that light could not pass through. once it cooled enough for electrons to join nuclei and form neutral atoms, light could suddenly travel freely. that light is still arriving from every direction in the sky, stretched by the expansion into faint microwaves. it is called the cosmic microwave background, and it was detected by accident in 1964 by two radio engineers who at first thought the hiss in their antenna was caused by pigeon droppings.
+
+=== stars and galaxies
+
+after that came the "dark ages", before any stars shone. gravity slowly pulled slightly denser regions of gas together until, around 13.6 billion years ago, the first stars ignited. they were probably huge, hot, and short-lived. stars clustered into galaxies, and galaxies into clusters, forming a web of matter across the universe. most of the mass in that web is not ordinary matter at all but "dark matter", which does not give off light and is still not understood.
+
+stars are element factories. by fusing lighter elements into heavier ones, they made carbon, oxygen, nitrogen, and iron. when the largest stars died, they blew apart as [[supernova|supernovas]], scattering those elements into space and making even heavier ones like gold. every atom of carbon in your body and every atom of oxygen you breathe was made inside a star that died before the sun was born.
+
+== the solar system and the earth {#earth}
+
+=== a star is born
+
+about 4.6 billion years ago, a cloud of gas and dust in one arm of the milky way collapsed, perhaps pushed by the shock wave of a nearby supernova. most of the material fell to the center and became the sun. the rest spun into a flat disk, where grains of dust stuck together into pebbles, boulders, and eventually planets. close to the sun, where it was hot, only rock and metal could survive, making the rocky planets: mercury, venus, earth, and mars. farther out, ice and gas built the giants: jupiter, saturn, uranus, and neptune.
+
+=== the violent young earth
+
+the earth formed about 4.54 billion years ago. at first it was molten, glowing, and constantly hit by leftover debris. heavy iron sank to the center to form the core, which today still generates the magnetic field that shields the surface from harmful radiation.
+
+soon after, a body about the size of mars, which scientists call theia, struck the earth a glancing blow. the debris thrown into orbit gathered into the moon. the moon has had a big effect on life: it steadies the tilt of the earth's axis, which keeps the climate more stable, and it raises the tides.
+
+=== oceans and continents
+
+as the earth cooled, water vapor from volcanoes, and possibly water brought by comets and asteroids, condensed into oceans. tiny zircon crystals from western australia, 4.4 billion years old, suggest liquid water existed very early. the first bits of continental crust formed, and the slow movement of the earth's plates began. over time, continents collided and split apart again and again. one of these supercontinents, [[pangaea]], formed about 335 million years ago and began breaking up about 200 million years ago.
+
+== life begins {#life}
+
+=== the origin of life
+
+sometime before about 3.7 billion years ago, life began. nobody knows exactly how. the leading ideas suggest that simple molecules in water, perhaps near hot vents on the sea floor or in pools on land, combined into more complex ones, including molecules that could copy themselves. over time these were wrapped in membranes, becoming the first cells. every living thing today, from bacteria to blue whales, shares the same basic chemistry and genetic code, which suggests they all descend from a single common ancestor.
+
+=== the age of microbes
+
+for most of earth's history, the only life was microscopic. microbes lived in the oceans and built layered mounds called [[stromatolites]], some 3.5 billion years old, which still form in a few salty bays today.
+
+one group of microbes, the [[cyanobacteria]], learned to capture sunlight and make food from water and carbon dioxide. this is [[photosynthesis]], and it gives off oxygen as waste. for hundreds of millions of years, the oxygen was soaked up by iron in the oceans, forming rusty bands of rock that are mined for iron ore today. about 2.4 billion years ago, oxygen began building up in the air: the [[great oxidation event]]. to many microbes oxygen was poison, and it was a disaster for them. but it made possible the energy-hungry life that came later, and it formed the ozone layer that shields the land from ultraviolet light.
+
+=== complex cells
+
+about 2 billion years ago, a new kind of cell appeared: the [[eukaryote]]. it was bigger and had a nucleus holding its dna. it also had mitochondria, the parts of the cell that release energy from food. mitochondria were once free-living bacteria that were swallowed but not digested, and they still have their own small set of dna. plants later gained chloroplasts the same way, from swallowed cyanobacteria. this merger of different organisms was one of the most important events in the history of life.
+
+later still, about a billion years ago, some eukaryotes began living together as multicellular bodies, and sexual reproduction appeared, mixing genes from two parents and speeding up [[evolution]].
+
+=== snowball earth
+
+between about 720 and 635 million years ago, the planet went through at least two extreme ice ages in which ice may have reached the equator. volcanoes slowly pumped enough carbon dioxide into the air to warm the planet again. soon afterwards, the first large, complex organisms appeared, the strange soft-bodied ediacaran creatures, which looked like fronds, discs, and quilted mats.
+
+== the explosion of animal life {#animals}
+
+=== the cambrian explosion
+
+about 538 million years ago began the cambrian explosion, when most of the major groups of animals appear in the fossil record within a geologically short time. seas filled with creatures that had shells, eyes, legs, and spines. famous fossil beds like the burgess shale in canada preserve even soft bodies. one small, worm-like animal called pikaia had a stiff rod along its back, an early relative of animals with backbones, including us.
+
+why did it happen then? likely reasons include rising oxygen levels, new genes that controlled body plans, and an "arms race" between predators and prey once animals began eating each other.
+
+=== life moves onto land
+
+plants began spreading onto land about 470 million years ago, first as low, moss-like growths. they changed the land completely, breaking rock into soil and pulling carbon dioxide from the air. insects, spiders, and other small animals followed.
+
+fish developed jaws and bony skeletons. some, like tiktaalik, which lived about 375 million years ago, had sturdy fins with bones like those in our arms, and could prop themselves up in shallow water. their descendants became the first four-limbed animals, the amphibians. about 312 million years ago, the first [[amniote|amniotes]] appeared, laying eggs with waterproof shells that could survive away from water. they gave rise to reptiles, and later to birds and mammals.
+
+=== the coal forests
+
+about 330 million years ago, huge swamp forests of tree-sized ferns, horsetails, and club mosses covered much of the land. oxygen levels were so high that insects grew enormous; dragonfly-like griffinflies had wingspans of about 70 centimeters. when these forests died and were buried, they slowly turned into coal. the coal that powered the [[part:industry-and-empire|industrial revolution]] hundreds of millions of years later came from these forests.
+
+== the great extinctions {#extinctions}
+
+life has not grown steadily. at least five times, a large share of all species died out in a geologically short time. these are the mass [[extinction|extinctions]].
+
+| extinction | when | likely cause | species lost |
+|---|---|---|---|
+| end-ordovician | 443 million years ago | a sudden ice age and falling sea levels | about 85 percent |
+| late devonian | 372 million years ago | falling oxygen in the oceans, perhaps linked to spreading land plants | about 75 percent |
+| end-permian ("the great dying") | 252 million years ago | massive volcanic eruptions in siberia, extreme global warming, acid oceans | about 90 percent or more |
+| end-triassic | 201 million years ago | volcanic eruptions as pangaea split | about 75 percent |
+| end-cretaceous | 66 million years ago | an asteroid impact, plus volcanoes in india | about 75 percent |
+
+each extinction was a catastrophe, but each also opened the way for new groups. without the great dying there might have been no dinosaurs; without the asteroid, perhaps no age of mammals, and no us.
+
+== the age of dinosaurs {#dinosaurs}
+
+=== rise of the dinosaurs
+
+the first dinosaurs appeared about 235 million years ago, in what is now south america. they were small, fast, two-legged animals. after the end-triassic extinction removed many of their rivals, dinosaurs took over the land for more than 130 million years. some, like the long-necked sauropods, became the largest land animals that have ever lived, weighing as much as ten elephants. others, like tyrannosaurus, were fearsome predators.
+
+they were not alone. flying reptiles called pterosaurs, some as big as small airplanes, soared overhead. in the seas swam ichthyosaurs, plesiosaurs, and mosasaurs. the first mammals, mostly small and active at night, lived in the dinosaurs' shadow.
+
+=== dinosaurs and birds
+
+one group of small, meat-eating dinosaurs grew feathers, probably first for warmth and display. archaeopteryx, which lived about 150 million years ago in what is now germany, had feathers and wings like a bird but teeth and a long bony tail like a dinosaur. birds are the living descendants of these dinosaurs. in a real sense, dinosaurs are not extinct: there are over 10,000 species of them alive today.
+
+=== flowers
+
+about 130 million years ago, the first flowering plants appeared. they spread quickly, partly by teaming up with insects that carried pollen from flower to flower in return for nectar. today most plants on land are flowering plants, including every grain, fruit, and vegetable that humans eat.
+
+=== the asteroid
+
+66 million years ago, an asteroid about ten kilometers wide slammed into the earth at what is now chicxulub, on the yucatán peninsula of mexico. the impact released more energy than billions of atomic bombs. it caused huge fires, tsunamis, and a cloud of dust and sulfur that blocked sunlight for years. plants stopped growing, food chains collapsed, and about three quarters of all species died, including every dinosaur except the birds.
+
+the evidence was found in 1980 by the scientists luis and walter alvarez and their team, who noticed a thin layer of clay, rich in the rare metal iridium, at the boundary between the rocks of the two ages all around the world. iridium is common in asteroids but rare on earth's surface. the crater itself was later identified buried under the yucatán.
+
+== the age of mammals {#mammals}
+
+with the dinosaurs gone, mammals spread into every habitat. within about ten million years there were early horses, whales that had begun returning to the sea, bats, and rodents. about 55 million years ago a sudden spike in global temperature helped [[primates]] and other groups spread across the northern continents.
+
+the continents drifted toward their present positions. india slammed into asia about 50 million years ago, raising the himalayas and the tibetan plateau. about 34 million years ago, antarctica drifted over the south pole and was covered by permanent ice. the planet slowly cooled and dried. forests shrank and grasslands spread, favoring grazing animals like horses and antelope and the predators that hunted them.
+
+=== the primates
+
+the [[primates]] started as small tree-dwellers with grasping hands, nails instead of claws, forward-facing eyes that could judge distance, and relatively large brains. they split into several groups: lemurs, monkeys, and apes. about 25 million years ago the apes split from the old world monkeys in africa. apes have no tails, bigger brains, and flexible shoulders for swinging through trees.
+
+by about 7 million years ago, in africa, one population of apes was about to split into two lines: one leading to chimpanzees and bonobos, and one leading to humans. that is where [[part:the-first-humans|part 2]] begins.
+
+== how we know {#evidence}
+
+nobody was there to write any of this down, so how do we know it?
+
+- **light from space.** because light takes time to travel, looking far away means looking back in time. telescopes like hubble and the james webb space telescope see galaxies as they were billions of years ago.
+- **radiometric dating.** some atoms, like uranium, break down into others at a fixed and known rate. measuring how much has broken down in a rock tells us its age. this is how the age of the earth, 4.54 billion years, was worked out, using rocks from earth, the moon, and meteorites.
+- **fossils.** the remains or traces of living things preserved in rock. layers of rock pile up over time, so deeper layers are usually older.
+- **comparing living things.** by comparing the [[dna]] of living species, scientists can tell how closely they are related and roughly when they split apart.
+- **chemical clues.** the chemistry of ancient rocks shows when oxygen appeared and what the climate was like.
+
+== questions scientists still argue about {#debates}
+
+- **how did life begin?** did it start at deep-sea hot vents, in shallow pools on land, or somewhere else? was rna the first self-copying molecule? there is no agreed answer yet.
+- **what is dark matter and dark energy?** together they seem to make up about 95 percent of the universe, but nobody knows what they are.
+- **what caused the cambrian explosion?** oxygen, genes, ecology, or all three?
+- **how important were the indian volcanoes?** some scientists think massive eruptions in india's deccan traps played a big role in the dinosaurs' extinction alongside the asteroid.
+- **is there life elsewhere?** the building blocks of life are common in space, and billions of planets orbit other stars. whether life is common or incredibly rare is one of the biggest open questions in science.

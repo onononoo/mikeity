@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>search - the history of the world</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a id="top"></a>
+<p class="name"><b><a href="index.html">the history of the world</a></b></p>
+<p class="nav"><a href="index.html">home</a> | <a href="timeline.html">timeline</a> | <a href="regions.html">regions</a> | <a href="people.html">people</a> | <a href="glossary.html">glossary</a> | <b>search</b> | <a href="statistics.html">statistics</a> | <a href="about.html">about</a></p>
+<hr>
+<p class="small"><a href="index.html">home</a> &gt; search</p>
+
+<h1>search</h1>
+
+<p>search every part, section, event, person, and glossary term on the site. you can also search for a year, like <i>1066</i> or <i>500 bce</i>, to find events near that time.</p>
+
+<form id="search-form" action="search.html" method="get">
+<input type="text" name="q" id="q" size="40"> <input type="submit" value="search">
+</form>
+
+<noscript><p>search needs javascript turned on. you can still use the <a href="glossary.html">glossary</a>, the <a href="people.html">people</a> page, and the <a href="timeline.html">timeline</a>.</p></noscript>
+
+<div id="results"></div>
+
+<hr>
+<p class="small"><a href="#top">back to top</a> | <a href="data/history.json">raw data (json)</a> | <a href="data/events.tsv">timeline (tsv)</a> | <a href="data/history.db">database (sqlite)</a></p>
+<script src="js/search-index.js"></script>
+<script src="js/dates.js"></script>
+<script src="js/search.js"></script>
+</body>
+</html>

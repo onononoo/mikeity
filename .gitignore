@@ -1,0 +1,7 @@
+# python
+__pycache__/
+*.pyc
+
+# the compiled c tool
+tools/timeline
+tools/timeline.exe

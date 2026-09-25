@@ -1,0 +1,126 @@
+# part 3. the agricultural revolution.
+
+== the biggest change in human history?
+
+for hundreds of thousands of years, all humans lived by hunting and gathering. then, starting around 10,000 bce, in several parts of the world, people began to plant crops and raise animals. within a few thousand years farming had spread to most of the places where it was possible, and the way almost all humans lived had changed.
+
+this change is called the [[agricultural revolution]] or the [[neolithic]] revolution. "revolution" is a slightly misleading word: it took thousands of years, and nobody at the time knew it was happening. but its effects were huge. farming could feed many more people from the same land, so populations grew. farming tied people to one place, so they built permanent villages, and eventually towns and cities. and it created new things to own, store, fight over, and inherit.
+
+== why did farming begin? {#why}
+
+people had lived through earlier warm periods without inventing farming, so why now? historians and archaeologists point to several things coming together:
+
+- **a stable climate.** the [[holocene]] was warmer, wetter, and much more stable than the ice age. in the ice age, rapid swings in climate would have made it very hard to rely on crops.
+- **more carbon dioxide in the air.** plants grew better after the ice age, making wild grains more productive.
+- **settling first, then farming.** in some places, such as the natufian culture of the levant, people settled in villages to harvest rich stands of wild grain before they farmed. settling came first, farming followed.
+- **population pressure.** as numbers grew in good areas, people may have had to squeeze more food from the same land.
+- **feasting and religion.** some archaeologists think the need to provide food for large gatherings and rituals pushed people to cultivate.
+
+no single cause explains it everywhere. the fact that farming began separately in so many places after the ice age suggests the climate change was the key that unlocked it.
+
+=== göbekli tepe
+
+one of the most surprising discoveries in archaeology is göbekli tepe in southern turkey. around 9500 bce, people who had not yet fully become farmers raised huge circles of carved limestone pillars, some over five meters tall and weighing many tonnes. the pillars are carved with foxes, snakes, scorpions, vultures, and human arms and hands. building them needed hundreds of people working together. the site suggests that large religious gatherings may have come before, and perhaps helped cause, the switch to farming, rather than the other way around.
+
+== domestication {#domestication}
+
+[[domestication]] means changing wild species, over many generations, into forms that depend on humans. it usually happened without anyone planning it.
+
+wild wheat and barley scatter their seeds when ripe, which is good for the plant but bad for a harvester. a few plants, because of a mutation, keep their seeds on the stalk. people harvesting by hand collected more of those, and when they planted seed, they planted more of those too. over generations, whole fields became "non-shattering". similar changes made seeds bigger, ripen all at once, and lose their bitter or toxic chemicals.
+
+animals changed too. domesticated animals are usually smaller than their wild ancestors, calmer, and less afraid of people. the animals that could be domesticated were a special few: they had to eat food people could provide, grow quickly, breed in captivity, not panic in enclosures, and live in herds with a leader that humans could replace.
+
+=== the centers of farming
+
+farming began independently in at least seven, and possibly more than ten, places:
+
+| region | main crops | main animals |
+|---|---|---|
+| the [[fertile crescent]] (middle east) | wheat, barley, lentils, peas, chickpeas, flax | sheep, goats, cattle, pigs |
+| northern china (yellow river) | foxtail and broomcorn millet | pigs, chickens, dogs |
+| southern china (yangtze river) | rice | pigs, water buffalo |
+| new guinea highlands | taro, bananas, sugarcane, yams | none (pigs arrived later) |
+| sub-saharan africa | sorghum, pearl millet, african rice, yams, cowpeas | cattle (possibly), guinea fowl |
+| mesoamerica | maize, beans, squash, chili peppers, avocados | turkeys, dogs |
+| the andes and amazonia | potatoes, quinoa, beans, peanuts, cassava | llamas, alpacas, guinea pigs |
+| eastern north america | squash, sunflowers, goosefoot, marsh elder | dogs |
+
+maize is a striking example of how much domestication can change a plant. its wild ancestor, teosinte, has tiny ears with a handful of hard-cased kernels. over thousands of years farmers in southern mexico turned it into the large cobs we know today.
+
+== the spread of farming {#spread}
+
+from each center, farming spread outward in two ways: farmers themselves moved into new lands, or neighboring hunter-gatherers adopted the new crops and animals.
+
+ancient [[dna]] has shown that in europe, farming was mostly spread by migrating farmers whose ancestors came from anatolia. starting around 6500 bce, they moved into greece and the balkans, then along the danube and the mediterranean coast, reaching britain and scandinavia about 4000 bce. they mixed with the local hunter-gatherers, but their genes dominated for a time.
+
+in africa, farming spread south much later. herders took cattle across the sahara during the "green sahara" period, when it was covered with grassland, lakes, and rivers, and later the bantu-speaking peoples carried farming across central, eastern, and southern africa (see [[part:the-first-civilizations|part 4]]).
+
+farming did not spread everywhere. in places like australia, the arctic, much of western north america, and southern africa, people continued as [[hunter-gatherers]], either because the local plants and climate were unsuitable, or because foraging simply worked better there.
+
+== village life {#villages}
+
+=== jericho
+
+jericho, in the jordan valley, is one of the oldest continuously inhabited places in the world. by about 8000 bce, its people had built a stone wall around their town and a round stone tower about eight meters tall, with an internal staircase. nobody knows exactly why: defense, protection against floods, or a symbol of community.
+
+=== çatalhöyük
+
+çatalhöyük in central turkey, from about 7100 bce, was a town of perhaps 5,000 people or more. its mud-brick houses were packed so tightly that there were no streets. people walked across the rooftops and climbed down into their homes by ladders. inside, walls were plastered and painted with hunting scenes and patterns, and cattle horns were set into benches. the dead were buried under the floors of the houses. strikingly, the houses were all about the same size, suggesting a fairly equal society.
+
+=== new technologies
+
+settled life brought, or spread, many new skills:
+
+- **pottery**, for cooking and storing food. (the oldest pottery, from china and japan, was actually made by hunter-gatherers long before farming.)
+- **weaving** cloth from flax, wool, and later cotton.
+- **ground and polished stone tools**, like axes for clearing forest and grinding stones for grain.
+- **mud-brick and timber buildings**.
+- **[[irrigation]]**, bringing river water to fields through canals, first in mesopotamia by about 6000 bce.
+- **the plow**, pulled by oxen, from about 4000 bce, which let a farmer work much more land.
+- **the wheel**, which appeared around 3500 bce in mesopotamia and central europe at almost the same time.
+
+=== the secondary products revolution
+
+at first, animals were kept mainly for meat. later, people learned to use them for other things while they were alive: milk, wool, pulling plows and carts, and carrying loads. some archaeologists call this the "secondary products revolution". being able to digest milk as an adult is rare in mammals. it evolved in some human populations, in europe, parts of africa, and the middle east, because dairy farmers who could drink milk had an advantage.
+
+== metals {#metal}
+
+people had hammered native copper into small objects for a long time. then, around 5000 bce, in the balkans and iran, people learned to smelt copper from ore in hot fires. this begins the copper age.
+
+in the varna cemetery in bulgaria, from about 4500 bce, a few graves hold spectacular amounts of gold, the oldest worked gold in the world, while most graves hold little. this is some of the clearest early evidence of big differences in wealth and status.
+
+metal tools were valuable but not yet common. stone tools would remain in everyday use for a long time. mixing copper with tin to make bronze, which is much harder, would begin the [[bronze age]], the subject of [[part:the-first-civilizations|part 4]].
+
+== the costs of farming {#costs}
+
+farming is often seen as simple progress, but the historian and geographer jared diamond once called it "the worst mistake in the history of the human race". that is an exaggeration, but it points to real costs:
+
+- **harder work.** farmers often worked longer hours than hunter-gatherers.
+- **worse health.** skeletons of early farmers are often shorter and show more signs of malnutrition, tooth decay, and hard labor than those of the hunter-gatherers before them.
+- **less varied diets.** people came to depend on a few crops. if the harvest failed, they starved.
+- **disease.** living in crowded villages, with animals and their waste, allowed new diseases to spread. measles, smallpox, influenza, and tuberculosis all came to humans from domesticated animals.
+- **inequality.** stored food, land, and herds could be owned, inherited, and taken by force. over time this led to rich and poor, chiefs, and warfare over land.
+- **environmental change.** clearing forests, grazing, and irrigation changed landscapes. in mesopotamia, irrigation slowly made the soil salty.
+
+still, farming won. once a region was farmed, it could support far more people than hunting and gathering, so farming populations grew and spread, and there was no going back.
+
+== toward civilization {#toward}
+
+by about 4000 bce, some farming villages in mesopotamia and egypt had grown into towns. people were building temples, trading over long distances, and organizing labor to dig irrigation canals. the sahara was drying out, pushing people toward the nile. on the steppe of central asia, the botai people were using horses, which would later transform warfare and travel.
+
+a few more steps would produce the first cities, the first kings, and the first writing, around 3500 to 3000 bce. that story begins in [[part:the-first-civilizations|part 4]].
+
+== how we know {#evidence}
+
+- **archaeobotany**: the study of ancient plant remains, such as burned seeds, pollen, and tiny silica "phytoliths" from inside plant cells. it shows when plants changed from wild to domesticated forms.
+- **zooarchaeology**: the study of animal bones. if the bones in a site suddenly show mostly young males being killed, that suggests herding, not hunting.
+- **ancient dna** shows where domestic animals and plants came from, and how farmers migrated.
+- **[[radiocarbon dating]]** of seeds, bones, and charcoal gives dates for the spread of farming.
+- **skeletons** show changes in height, diet, disease, and work.
+
+== questions scholars still argue about {#debates}
+
+- **why did people start farming?** climate, population pressure, religion, feasting, or something else?
+- **was farming really a good thing for the people who did it?** for individuals, it often seems not; for the growth of societies, clearly yes.
+- **how many independent centers of farming were there?** the list keeps growing as research improves, especially in africa and the amazon.
+- **why did some regions never adopt farming?**
