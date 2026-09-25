@@ -4,21 +4,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page_title %}{{ page_title }} - {% endif %}{{ site_name }}</title>
-<link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48">
-<link rel="icon" type="image/png" href="favicon.png" sizes="180x180">
-<link rel="apple-touch-icon" href="favicon.png">
-<link rel="stylesheet" href="style.css">
+<link rel="icon" href="{{ root }}favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="icon" type="image/png" href="{{ root }}favicon.png" sizes="180x180">
+<link rel="apple-touch-icon" href="{{ root }}favicon.png">
+<link rel="stylesheet" href="{{ root }}style.css">
 </head>
 <body>
 <a id="top"></a>
-<p class="name"><b><a href="index.html">{{ site_name }}</a></b></p>
-<p class="nav">{% for href, label in nav %}{% if href == current %}<b>{{ label }}</b>{% else %}<a href="{{ href }}">{{ label }}</a>{% endif %}{% if not loop.last %} | {% endif %}{% endfor %}</p>
-<hr>
-{% if crumbs %}<p class="small">{% for href, label in crumbs %}<a href="{{ href }}">{{ label }}</a> &gt; {% endfor %}{{ title }}</p>
+<p class="name"><b><a href="{{ root }}index.html">{{ site_name }}</a></b></p>
+<p class="nav">{% for href, label in nav %}{% if href == current %}<b>{{ label }}</b>{% else %}<a href="{{ root }}{{ href }}">{{ label }}</a>{% endif %}{% if not loop.last %} | {% endif %}{% endfor %}</p>
+{% if subnav %}<p class="nav small"><b>{{ subnav_title }}:</b> {% for href, label in subnav %}{% if href == subcurrent %}<b>{{ label }}</b>{% else %}<a href="{{ href }}">{{ label }}</a>{% endif %}{% if not loop.last %} | {% endif %}{% endfor %}</p>
+{% endif %}<hr>
+{% if crumbs %}<p class="small">{% for href, label in crumbs %}<a href="{{ root }}{{ href }}">{{ label }}</a> &gt; {% endfor %}{{ title }}</p>
 {% endif %}
 {{ body|raw }}
 <hr>
-<p class="small"><a href="#top">back to top</a> | <a href="data/history.json">raw data (json)</a> | <a href="data/events.tsv">timeline (tsv)</a> | <a href="data/history.db">database (sqlite)</a></p>
-{% for js in scripts %}<script src="js/{{ js }}"></script>
+<p class="small"><a href="#top">back to top</a> | <a href="{{ root }}data/history.json">raw data (json)</a> | <a href="{{ root }}data/events.tsv">timeline (tsv)</a> | <a href="{{ root }}data/history.db">database (sqlite)</a></p>
+{% for js in scripts %}<script src="{{ root }}js/{{ js }}"></script>
 {% endfor %}</body>
 </html>

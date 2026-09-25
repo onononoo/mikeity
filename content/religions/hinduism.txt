@@ -1,0 +1,45 @@
+# religion: hinduism.
+
+== no beginning and no end {#time}
+
+in hindu tradition, the universe was not made once. it is created, kept, and dissolved again and again, in cycles without beginning or end. in one telling, vishnu sleeps on the great serpent shesha, floating on the cosmic ocean. a lotus grows from his navel, and on it brahma is born, who creates the worlds. in time shiva dissolves them, and the cycle begins again. these three gods are the [[trimurti]].
+
+the oldest scripture, the rigveda, has a more puzzled hymn of creation. it says that in the beginning there was "neither being nor non-being", and ends by asking who truly knows how it all began: "perhaps even the one who watches from the highest heaven does not know."
+
+== the ages of the world {#ages}
+
+time is measured on a vast scale. a cycle of four [[yuga|yugas]], or ages, lasts 4,320,000 years:
+
+| age | how long | what it is like |
+|---|---|---|
+| satya yuga | 1,728,000 years | the age of truth: [[dharma]] stands on four legs |
+| treta yuga | 1,296,000 years | dharma on three legs; the age of [[@rama]] |
+| dvapara yuga | 864,000 years | dharma on two legs; the age of [[@krishna]] |
+| kali yuga | 432,000 years | dharma on one leg; the age of strife, which is now |
+
+a thousand such cycles make one day of brahma, a [[kalpa]] of 4.32 billion years, and his night lasts as long. this is strikingly close to the scientific age of the earth, 4.54 billion years, though the tradition means something different: a rhythm, not a single beginning. by tradition, the kali yuga began in 3102 bce, when krishna left the world. at its end, kalki, the last [[avatar]] of vishnu, will come to begin a new age of truth.
+
+== the great stories {#stories}
+
+two epics carry much of hindu tradition. the ramayana, told by the sage [[@valmiki]], follows prince [[@rama]] of ayodhya, an avatar of vishnu, whose wife [[@sita]] is carried off by the demon king ravana. with the help of [[@hanuman]] and an army of monkeys, rama rescues her. the mahabharata, said to be told by [[@vyasa]], is the story of a great war between two branches of one family. on the battlefield, the warrior [[@arjuna]] loses heart, and his charioteer, [[@krishna]], teaches him the [[bhagavad gita]], about doing one's duty without selfishness and about love for god.
+
+== what historians can show {#history}
+
+hinduism has no single founder or starting date. its oldest texts, the [[vedas]], were composed in early sanskrit from about 1500 bce and passed down by memory with extraordinary accuracy. they may draw on older traditions of the indus civilization and of india's many peoples. the [[upanishads]], from about 800 bce, turned to the nature of the self, [[atman]], and ultimate reality, [[brahman]]. the epics took their final form between about 400 bce and 400 ce, and the gupta age saw the first stone temples and the puranas, books of stories about the gods.
+
+== paths of devotion and knowledge {#paths}
+
+from about 600 ce, tamil poet-saints sang of [[bhakti]], passionate personal devotion, and it spread across india. philosophers argued about how the self and god are related: [[@adi shankara]] taught that they are one, and [[@ramanuja]] that the soul is saved by loving god. later saints like [[@chaitanya]], [[@mirabai]], and [[@tulsidas]] wrote and sang in the everyday languages of the people. hindu kings built temples as far away as cambodia, where angkor wat was dedicated to vishnu.
+
+== the modern age {#modern}
+
+under british rule, reformers like [[@ram mohan roy]] worked to change practices they saw as wrong, and [[@ramakrishna]] taught that all religions lead to god. his follower [[@swami vivekananda]] brought hindu teaching to the west in 1893. [[@mahatma gandhi]] drew on the gita in the struggle for independence. today about 1.2 billion people are hindu, and [[yoga]], meditation, and ideas like [[karma]] are known around the world.
+
+== belief and practice {#practice}
+
+- one ultimate reality, brahman, worshipped in many forms: vishnu, shiva, the goddess, and many more.
+- [[samsara]], the cycle of rebirth, driven by karma, and [[moksha]], liberation from it.
+- dharma: living rightly according to one's duties.
+- [[puja]] at home and in temples, the sacred sound [[om]], pilgrimage, and festivals like [[diwali]].
+
+see also [[part:the-first-civilizations|part 4]] and [[part:the-classical-world|part 5]] of the main history.

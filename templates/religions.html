@@ -1,0 +1,38 @@
+<h1>religions</h1>
+
+<p>every religion has its own account of how the world began, what has happened in it, and where it is going. this section gives each of {{ religions|length }} major faiths a small site of its own, with its story, a timeline, its people, and a glossary, laid out just like the rest of this site.</p>
+
+<p>each timeline mixes two kinds of entry, and always says which is which:</p>
+
+<ul>
+<li><b>tradition</b>: the story as the faith itself tells it, in its scriptures and teachings. dates given here are traditional ones.</li>
+<li><b>history</b>: what historians and archaeologists can show from evidence, like the rest of this site's <a href="timeline.html">timeline</a>.</li>
+</ul>
+
+<p>the site does not take sides. believers read many of the traditional accounts in different ways, some literally and some not, and the pages try to say so.</p>
+
+<h2 id="faiths">the faiths</h2>
+
+<table class="grid">
+<tr><th>religion</th><th>began</th><th>followers today</th><th>scriptures</th><th>pages</th></tr>
+{% for r in religions %}<tr><td><a href="{{ r.slug }}/index.html"><b>{{ r.name }}</b></a></td><td>{{ r.began }}</td><td>{{ r.followers }}</td><td>{{ r.scriptures }}</td><td class="nowrap"><a href="{{ r.slug }}/index.html">story</a> · <a href="{{ r.slug }}/timeline.html">timeline</a> · <a href="{{ r.slug }}/people.html">people</a> · <a href="{{ r.slug }}/glossary.html">glossary</a></td></tr>
+{% endfor %}</table>
+
+<h2 id="age">how old is the world?</h2>
+
+<p>the same question, answered by science and by each tradition.</p>
+
+<table class="grid">
+<tr><th>according to</th><th>how the world began</th><th>how old it is</th></tr>
+<tr><td><a href="the-beginning.html"><b>science</b></a></td><td>the <a href="glossary.html#big-bang">big bang</a>: space, time, and matter began expanding from a hot, dense state. the earth formed from dust around the young sun.</td><td>the universe is about 13.8 billion years old; the earth about 4.54 billion.</td></tr>
+{% for r in religions %}<tr><td><a href="{{ r.slug }}/index.html"><b>{{ r.name }}</b></a></td><td>{{ r.creation }}</td><td>{{ r.age }}</td></tr>
+{% endfor %}</table>
+
+<h2 id="summaries">in short</h2>
+
+<dl>
+{% for r in religions %}<dt><a href="{{ r.slug }}/index.html"><b>{{ r.name }}</b></a></dt>
+<dd>{{ r.summary }} <span class="small">({{ r.events|length }} timeline entries, {{ r.people|length }} people, {{ r.terms|length }} terms.)</span></dd>
+{% endfor %}</dl>
+
+<p class="small">see also the <a href="belief.html">belief</a> topic, which follows religion through the whole of history.</p>

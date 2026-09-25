@@ -8,13 +8,16 @@
 	var table = document.getElementById("timeline");
 	if (!form || !table || typeof history_dates === "undefined") { return; }
 
-	var box = {
-		text: document.getElementById("f-text"),
-		era: document.getElementById("f-era"),
-		region: document.getElementById("f-region"),
-		from: document.getElementById("f-from"),
-		to: document.getElementById("f-to")
-	};
+	// every box is optional. a <select id="f-x"> keeps the rows whose data-x matches it
+	var box = {};
+	var names = ["text", "era", "region", "kind", "from", "to"];
+	var selects = [];
+	for (var n = 0; n < names.length; n++) {
+		var el = document.getElementById("f-" + names[n]);
+		if (!el) { continue; }
+		box[names[n]] = el;
+		if (el.tagName.toLowerCase() === "select") { selects.push(names[n]); }
+	}
 	var count = document.getElementById("f-count");
 	var rows = [];
 	for (var i = 1; i < table.rows.length; i++) { rows.push(table.rows[i]); }
@@ -51,12 +54,12 @@
 	}
 
 	function apply() {
-		var words = box.text.value.toLowerCase().split(/\s+/);
-		var era = box.era.value, region = box.region.value;
-		var lo = box.from.value ? history_dates.parse(box.from.value) : null;
-		var hi = box.to.value ? history_dates.parse(box.to.value) : null;
-		mark_bad(box.from, box.from.value && lo === null);
-		mark_bad(box.to, box.to.value && hi === null);
+		var words = box.text ? box.text.value.toLowerCase().split(/\s+/) : [];
+		var lo = box.from && box.from.value ? history_dates.parse(box.from.value) : null;
+		var hi = box.to && box.to.value ? history_dates.parse(box.to.value) : null;
+		if (box.from) { mark_bad(box.from, box.from.value && lo === null); }
+		if (box.to) { mark_bad(box.to, box.to.value && hi === null); }
+		var ranged = lo !== null || hi !== null;
 		if (lo === null) { lo = -Infinity; }
 		if (hi === null) { hi = Infinity; }
 
@@ -64,13 +67,15 @@
 		for (var i = 0; i < rows.length; i++) {
 			var r = rows[i];
 			var ok = true;
-			if (era && r.getAttribute("data-era") !== era) { ok = false; }
-			if (ok && region && r.getAttribute("data-region") !== region) { ok = false; }
-			if (ok) {
-				// keep events that overlap the range at all
+			for (var k = 0; k < selects.length; k++) {
+				var want = box[selects[k]].value;
+				if (want && r.getAttribute("data-" + selects[k]) !== want) { ok = false; }
+			}
+			if (ok && ranged) {
+				// keep events that overlap the range at all; undated ones only when no range is set
 				var start = parseFloat(r.getAttribute("data-start"));
 				var end = parseFloat(r.getAttribute("data-end"));
-				if (end < lo || start > hi) { ok = false; }
+				if (isNaN(start) || end < lo || start > hi) { ok = false; }
 			}
 			if (ok) {
 				var text = r.textContent.toLowerCase();

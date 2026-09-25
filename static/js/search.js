@@ -11,8 +11,8 @@
 
 	var input = document.getElementById("q");
 	var results = document.getElementById("results");
-	var kinds = ["part", "topic", "section", "event", "person", "term"];
-	var names = { part: "parts", topic: "topics", section: "sections", event: "events", person: "people", term: "glossary" };
+	var kinds = ["part", "topic", "religion", "section", "event", "person", "term"];
+	var names = { part: "parts", topic: "topics", religion: "religions", section: "sections", event: "events", person: "people", term: "glossary" };
 	var limit = 30;
 
 	function esc(s) {

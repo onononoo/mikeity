@@ -37,6 +37,19 @@ def search_index(s):
         items.append(dict(k="topic", t=t.title, d="topic", x=t.summary, u=f"{t.slug}.html"))
         for hid, head, text in _sections(t):
             items.append(dict(k="section", t=head, d=t.title, x=text[:600], u=f"{t.slug}.html#{hid}"))
+    for r in s.religions:
+        items.append(dict(k="religion", t=r.name, d="religion", x=r.summary, u=f"{r.slug}/index.html"))
+        for hid, head, text in _sections(r):
+            items.append(dict(k="religion", t=head, d=r.name, x=text[:600], u=f"{r.slug}/index.html#{hid}"))
+        for ev in r.events:
+            items.append(dict(k="religion", t=ev.text, d=f"{r.name}, {ev.kind}: {ev.shown}", x="",
+                              u=f"{r.slug}/timeline.html#event-{ev.id}"))
+        for p in r.people:
+            items.append(dict(k="religion", t=p.name, d=f"{r.name}: {p.dates}", x=f"{p.role}. {p.about}",
+                              u=f"{r.slug}/people.html#{p.slug}"))
+        for t in r.terms:
+            items.append(dict(k="religion", t=t.term, d=r.name, x=t.definition,
+                              u=f"{r.slug}/glossary.html#{t.slug}"))
     for ev in s.events:
         items.append(dict(k="event", t=ev.text, d=str(ev.when), x=" ".join(ev.tags),
                           u=f"timeline.html#event-{ev.id}", y=ev.when.start))
@@ -67,6 +80,12 @@ def write_all(s, out):
                      region=p.region_rec.slug) for p in s.people],
         glossary=[dict(term=t.term, definition=t.definition) for t in s.terms],
         topics=[dict(slug=t.slug, title=t.title, summary=t.summary) for t in s.topics],
+        religions=[dict(slug=r.slug, name=r.name, began=r.began, followers=r.followers,
+                        creation=r.creation, age=r.age,
+                        events=[dict(kind=ev.kind, when=ev.shown, text=ev.text) for ev in r.events],
+                        people=[dict(name=p.name, dates=p.dates, kind=p.kind, role=p.role) for p in r.people],
+                        glossary=[dict(term=t.term, definition=t.definition) for t in r.terms])
+                   for r in s.religions],
     )
     write(os.path.join(out, "data", "history.json"),
           json.dumps(everything, ensure_ascii=False, indent=1) + "\n")

@@ -1,0 +1,8 @@
+<h1>people of {{ religion.name }}</h1>
+
+<p>{{ religion.people|length }} people, in the order they appear in the story. figures marked <b>tradition</b> are known from scripture and teaching; those marked <b>history</b> are known from historical records as well. click a column heading to sort.</p>
+
+<table class="grid sortable">
+<tr><th data-sort="number">#</th><th>name</th><th>lived</th><th>account</th><th>who they were</th></tr>
+{% for p in religion.people %}<tr id="{{ p.slug }}"><td>{{ p.number }}</td><td><b>{{ p.name }}</b></td><td class="nowrap">{{ p.dates }}</td><td>{% if p.kind == "tradition" %}<i>tradition</i>{% else %}history{% endif %}</td><td>{{ p.role }}. {{ p.about }}{% if p.main_rec %} <span class="small">(also on the <a href="../people.html#{{ p.main_rec.slug }}">main people page</a>.)</span>{% endif %}</td></tr>
+{% endfor %}</table>

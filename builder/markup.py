@@ -21,6 +21,7 @@ inline syntax:
     [[term|shown words]]        same, with different link text
     [[@person name]]            link to someone on the people page
     [[part:slug|words]]         link to another part of the site
+                                (pages in a subfolder pass root="../")
     [words](url)                a normal link
 
 everything is html-escaped before the inline syntax is applied, so the text
@@ -50,7 +51,7 @@ _italic = re.compile(r"(?<![\w/])_(.+?)_(?![\w])")
 _heading = re.compile(r"^(={2,3})\s+(.+?)(?:\s+\{#([a-z0-9-]+)\})?\s*$")
 
 
-def _inline(text, doc):
+def _inline(text, doc, root=""):
     """apply inline markup to one already-escaped line of text."""
 
     def link(m):
@@ -66,7 +67,7 @@ def _inline(text, doc):
         if target.startswith("part:"):
             slug = target[5:].strip()
             doc.parts.add(slug)
-            return f'<a href="{slug}.html">{shown or slug.replace("-", " ")}</a>'
+            return f'<a href="{root}{slug}.html">{shown or slug.replace("-", " ")}</a>'
         slug = slugify(target)
         doc.terms.add(slug)
         return f'<a href="glossary.html#{slug}" class="term">{shown or target}</a>'
@@ -84,21 +85,21 @@ def _words(text):
     return len(re.findall(r"[a-z0-9'’-]+", text.lower()))
 
 
-def _table(rows, doc):
+def _table(rows, doc, root=""):
     cells = [[c.strip() for c in r.strip().strip("|").split("|")] for r in rows]
     head = None
     if len(cells) > 1 and all(re.fullmatch(r":?-{3,}:?", c) for c in cells[1]):
         head, cells = cells[0], cells[2:]
     out = ['<table class="grid">']
     if head:
-        out.append("<tr>" + "".join(f"<th>{_inline(c, doc)}</th>" for c in head) + "</tr>")
+        out.append("<tr>" + "".join(f"<th>{_inline(c, doc, root)}</th>" for c in head) + "</tr>")
     for row in cells:
-        out.append("<tr>" + "".join(f"<td>{_inline(c, doc)}</td>" for c in row) + "</tr>")
+        out.append("<tr>" + "".join(f"<td>{_inline(c, doc, root)}</td>" for c in row) + "</tr>")
     out.append("</table>")
     return "\n".join(out)
 
 
-def parse(source, reserved=()):
+def parse(source, reserved=(), root=""):
     """
     turn markup text into a document. ids in `reserved` are already used by
     the page template, so headings that would clash get a number added.
@@ -154,7 +155,7 @@ def parse(source, reserved=()):
             used_ids.add(hid)
             plain = re.sub(r"<[^>]+>", "", _inline(title, document()))
             doc.headings.append((level, hid, plain))
-            out.append(f'<h{level} id="{hid}">{_inline(title, doc)}</h{level}>')
+            out.append(f'<h{level} id="{hid}">{_inline(title, doc, root)}</h{level}>')
             continue
         if kind == "rule":
             out.append("<hr>")
@@ -167,15 +168,15 @@ def parse(source, reserved=()):
         esc = [html.escape(l, quote=False) for l in lines]
 
         if kind in ("ul", "ol"):
-            items = "\n".join(f"<li>{_inline(l, doc)}</li>" for l in esc)
+            items = "\n".join(f"<li>{_inline(l, doc, root)}</li>" for l in esc)
             out.append(f"<{kind}>\n{items}\n</{kind}>")
         elif kind == "quote":
             body = " ".join(esc)
-            out.append(f"<blockquote>{_inline(body, doc)}</blockquote>")
+            out.append(f"<blockquote>{_inline(body, doc, root)}</blockquote>")
         elif kind == "table":
-            out.append(_table(esc, doc))
+            out.append(_table(esc, doc, root))
         else:
-            out.append(f"<p>{_inline(' '.join(l.strip() for l in esc), doc)}</p>")
+            out.append(f"<p>{_inline(' '.join(l.strip() for l in esc), doc, root)}</p>")
 
     doc.html = "\n\n".join(out)
     return doc

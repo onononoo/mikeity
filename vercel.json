@@ -5,7 +5,7 @@
   "buildCommand": "",
   "outputDirectory": "site",
   "cleanUrls": false,
-  "trailingSlash": false,
+  "trailingSlash": true,
   "headers": [
     {
       "source": "/data/(.*)\\.tsv",

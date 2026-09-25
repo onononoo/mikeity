@@ -34,6 +34,8 @@ python -m builder query "select name, dates from people where region = 'africa'"
 | `data/` | json | parts (`eras.json`), events (one file per part in `events/`), people, glossary, regions |
 | `content/eras/` | plain text | the story of each part, in a small markup language (see `builder/markup.py`) |
 | `content/topics/` | plain text | the topic pages (writing, energy, disease...), listed in `data/topics.json` |
+| `data/religions.json`, `data/religions/` | json | six religions, each with its own timeline, people, and glossary |
+| `content/religions/` | plain text | the story of each religion, built into `site/<religion>/index.html` |
 | `content/about.txt` | plain text | the about page |
 | `builder/` | python | the static site generator, with no dependencies outside the standard library |
 | `builder/dates.py` | python | parses dates like `c. 3100 bce`, `66 mya`, `5th century bce`, `1914-1918`, `1945 to present` |
@@ -74,6 +76,7 @@ tools/timeline --histogram
 - **a person**: add them to `data/people.json`, then link to them in the text with `[[@their name]]`.
 - **a glossary term**: add it to `data/glossary.json`, then link to it with `[[term]]` or `[[term|shown words]]`.
 - **a topic**: add it to `data/topics.json` and write `content/topics/<slug>.txt` in the same markup.
+- **a religion**: add it to `data/religions.json`, then write `data/religions/<slug>.json` (events, people, glossary; every entry is `"kind": "tradition"` or `"history"`) and `content/religions/<slug>.txt`. its pages appear in `site/<slug>/`.
 - **text**: edit `content/eras/`. headings are `== ` and `=== `, lists are `- `, tables are `| a | b |`.
 
 then run the build. it stops and says exactly what is wrong if a date cannot be read, a link points nowhere, or any text on a page is not lowercase.

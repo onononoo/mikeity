@@ -79,7 +79,11 @@ def check_file(path):
 
 def check_folder(folder):
     problems = []
-    for name in sorted(os.listdir(folder)):
-        if name.endswith(".html"):
-            problems += [f"{name}: {p}" for p in check_file(os.path.join(folder, name))]
+    for here, dirs, files in os.walk(folder):
+        dirs.sort()
+        for name in sorted(files):
+            if name.endswith(".html"):
+                path = os.path.join(here, name)
+                rel = os.path.relpath(path, folder).replace(os.sep, "/")
+                problems += [f"{rel}: {p}" for p in check_file(path)]
     return problems

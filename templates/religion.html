@@ -1,0 +1,35 @@
+{# the front page of one religion's small site #}
+<h1>{{ religion.name }}</h1>
+
+<p><b>{{ religion.summary }}</b></p>
+
+<table class="grid" id="facts">
+<tr><th>began</th><td>{{ religion.began }}</td></tr>
+<tr><th>founder or first teachers</th><td>{{ religion.founder }}</td></tr>
+<tr><th>scriptures</th><td>{{ religion.scriptures }}</td></tr>
+<tr><th>holy places</th><td>{{ religion.places }}</td></tr>
+<tr><th>followers today</th><td>{{ religion.followers }}</td></tr>
+<tr><th>how the world began</th><td>{{ religion.creation }}</td></tr>
+<tr><th>how old the world is</th><td>{{ religion.age }}</td></tr>
+</table>
+
+<table class="grid box"><tr><td>
+<b>contents</b>
+<ol>
+{% for sec in toc %}<li><a href="#{{ sec.id }}">{{ sec.text }}</a>{% if sec.subs %}
+<ol type="a">{% for sub in sec.subs %}<li><a href="#{{ sub.id }}">{{ sub.text }}</a></li>{% endfor %}</ol>{% endif %}</li>
+{% endfor %}<li><a href="#see-also">see also</a></li>
+</ol>
+</td></tr></table>
+
+{{ religion.doc.html|raw }}
+
+<h2 id="see-also">see also</h2>
+
+<ul>
+<li><a href="timeline.html">the timeline of {{ religion.name }}</a>: {{ religion.events|length }} entries, tradition and history side by side.</li>
+<li><a href="people.html">people</a>: {{ religion.people|length }} figures from the tradition and from its history.</li>
+<li><a href="glossary.html">glossary</a>: {{ religion.terms|length }} words explained.</li>
+<li>other religions: {% for o in others %}<a href="../{{ o.slug }}/index.html">{{ o.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</li>
+<li>the <a href="../belief.html">belief</a> topic, and <a href="../religions.html#age">the age of the world</a> in every tradition.</li>
+</ul>

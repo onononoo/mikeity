@@ -1,0 +1,13 @@
+<h1>{{ religion.name }}: glossary</h1>
+
+<p>words used in {{ religion.name }} ({{ religion.terms|length }} terms). words linked in the <a href="index.html">story</a> point here. the <a href="../glossary.html">main glossary</a> has the rest.</p>
+
+<p>{% for letter, terms in letters %}<a href="#letter-{{ letter }}">{{ letter }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+
+{% for letter, terms in letters %}
+<h2 id="letter-{{ letter }}">{{ letter }}</h2>
+<dl>
+{% for t in terms %}<dt id="{{ t.slug }}"><b>{{ t.term }}</b></dt>
+<dd>{{ t.definition }}{% if t.see %} <span class="small">see also: {% for other in t.see %}<a href="#{{ other|slug }}">{{ other }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</span>{% endif %}</dd>
+{% endfor %}</dl>
+{% endfor %}

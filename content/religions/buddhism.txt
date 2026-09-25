@@ -1,0 +1,42 @@
+# religion: buddhism.
+
+== the question the buddha set aside {#question}
+
+a monk once demanded that the buddha tell him whether the world had a beginning, and whether it would end. the buddha answered with a story. a man is shot with a poisoned arrow, but refuses to let the doctor pull it out until he knows who shot it, what the bow was made of, and what feathers were on the arrow. he will die before he finds out. in the same way, the buddha said, questions about the beginning of the world do not help to end suffering, which is what matters.
+
+still, buddhist texts describe a universe of immense size and age. there are countless world systems, each passing through long ages of forming, lasting, falling apart, and emptiness, and then forming again. time is measured in [[kalpa|kalpas]], eons so long that, it is said, a mountain of solid rock wiped with a silk cloth once every hundred years would be worn away before a kalpa ended. no first beginning can be found.
+
+== the long road to awakening {#road}
+
+according to tradition, countless eons ago an ascetic named sumedha met the [[buddha]] [[@dipankara]] and vowed to become a buddha himself. over hundreds of lives, as an animal, a king, a merchant, and a beggar, he perfected generosity, patience, and wisdom. these lives are told in the jataka tales. in his last life he was born as prince siddhartha.
+
+== the life of the buddha {#life}
+
+[[@siddhartha gautama]] was born in the lumbini garden to queen [[@maya]] and king suddhodana of the shakya people. his father, wanting him to be a great king, kept him inside the palace, and he married [[@yasodhara]]. at 29 he went out and saw an old man, a sick man, a corpse, and a wandering holy man. shaken, he left his home to search for an end to suffering.
+
+for six years he tried extreme fasting, until he was almost dead. then he chose a middle way. sitting under a tree at bodh gaya, he was attacked by mara, the tempter, but touched the earth as his witness, and in the night he awoke to the truth. he taught for 45 years, founding the [[sangha]] of monks and, at the urging of [[@mahapajapati]], of nuns. his attendant [[@ananda]] remembered his words. at 80 he passed into final [[nirvana]].
+
+== what historians can show {#history}
+
+most historians accept that the buddha was a real teacher who lived in northern india, dying around 400 bce, though the tradition dates his life earlier. his teachings were passed down by memory and written in the pali language in sri lanka in the first century bce, the oldest complete buddhist scripture. the emperor [[@ashoka]] left inscriptions from the 200s bce that show buddhism already honored and spreading.
+
+== the teaching {#teaching}
+
+the buddha's first sermon set out the [[four noble truths]]: life involves [[dukkha]], suffering; suffering comes from craving; it can end; and the way to end it is the [[eightfold path]]. he taught [[karma]] and rebirth, but also [[anatta]]: there is no fixed self that passes from life to life. the goal is nirvana, the blowing out of craving, and the path is ethics, [[meditation]], and wisdom. buddhists "take refuge" in the buddha, the [[dharma]], and the sangha.
+
+== across asia {#spread}
+
+buddhism spread along trade routes. [[theravada]], "the way of the elders", went to sri lanka and southeast asia. [[mahayana]], with its ideal of the [[bodhisattva]] and new [[sutra|sutras]], went to china, korea, and japan, where philosophers like [[@nagarjuna]] were studied and [[@bodhidharma]] was remembered as the founder of [[zen]]. pilgrims like [[@xuanzang]] walked to india for texts. [[vajrayana]] took root in tibet with [[@padmasambhava]] and saints like [[@milarepa]]. in japan, [[@dogen]] and [[@nichiren]] founded new schools. in india itself, buddhism faded after the destruction of nalanda around 1193.
+
+== the modern age {#modern}
+
+in 1956, [[@b. r. ambedkar]] led half a million dalits into buddhism as a protest against caste. in 1959 the [[dalai lama]], [[@tenzin gyatso]], fled tibet. teachers like [[@thich nhat hanh]] brought meditation to the west. today about 500 million people are buddhist, and the tradition expects that one day, when the teaching is forgotten, a new buddha, [[@maitreya]], will come.
+
+== belief and practice {#practice}
+
+- the four noble truths and the eightfold path.
+- karma, rebirth, not-self, and the goal of nirvana.
+- meditation, chanting, and offerings at a [[stupa]] or temple.
+- the three refuges: the buddha, the dharma, and the sangha.
+
+see also [[part:the-classical-world|part 5]] of the main history, and the [[part:the-middle-ages|middle ages]] for buddhism in china, japan, and southeast asia.

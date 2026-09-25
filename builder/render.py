@@ -18,6 +18,7 @@ def _nav(s):
         ("index.html", "home"),
         ("timeline.html", "timeline"),
         ("topics.html", "topics"),
+        ("religions.html", "religions"),
         ("regions.html", "regions"),
         ("people.html", "people"),
         ("glossary.html", "glossary"),
@@ -67,7 +68,9 @@ class renderer:
         return self.extras or record(charts=None, gaps=None, contemporaries=None, log=[])
 
     def page(self, filename, template, title, crumbs=None, **ctx):
-        body = self.env.render(template, ctx, site=self.s, dates=dates, title=title)
+        # pages in a subfolder (like islam/people.html) reach the rest of the site through "../"
+        root = "../" * filename.count("/")
+        body = self.env.render(template, ctx, site=self.s, dates=dates, title=title, root=root)
         full = self.env.render(
             "layout.html",
             site=self.s,
@@ -76,7 +79,11 @@ class renderer:
             page_title=title if filename != "index.html" else None,
             crumbs=crumbs or [],
             nav=_nav(self.s),
-            current=filename,
+            current=ctx.get("current", filename),
+            subnav=ctx.get("subnav"),
+            subnav_title=ctx.get("subnav_title"),
+            subcurrent=ctx.get("subcurrent"),
+            root=root,
             scripts=ctx.get("scripts", []),
             body=body,
         )
@@ -130,6 +137,37 @@ class renderer:
                 topic=t,
                 toc=_toc(t.doc.headings),
             )
+
+    def religions(self):
+        s = self.s
+        self.page(
+            "religions.html", "religions.html", "religions",
+            crumbs=[("index.html", "home")],
+            religions=s.religions,
+        )
+        pages = [("index.html", "story"), ("timeline.html", "timeline"),
+                 ("people.html", "people"), ("glossary.html", "glossary")]
+        for i, r in enumerate(s.religions):
+            common = dict(
+                religion=r,
+                others=[o for o in s.religions if o is not r],
+                subnav=pages, subnav_title=r.name, current="religions.html",
+            )
+            home = [("index.html", "home"), ("religions.html", "religions")]
+            inside = home + [(f"{r.slug}/index.html", r.name)]
+            self.page(f"{r.slug}/index.html", "religion.html", r.name, crumbs=home,
+                      subcurrent="index.html", toc=_toc(r.doc.headings), **common)
+            self.page(f"{r.slug}/timeline.html", "religion_timeline.html", f"{r.name}: timeline",
+                      crumbs=inside, subcurrent="timeline.html",
+                      scripts=["dates.js", "sort.js", "timeline.js"], **common)
+            self.page(f"{r.slug}/people.html", "religion_people.html", f"{r.name}: people",
+                      crumbs=inside, subcurrent="people.html", scripts=["sort.js"], **common)
+            letters = {}
+            for t in r.terms:
+                letters.setdefault(t.term[0], []).append(t)
+            self.page(f"{r.slug}/glossary.html", "religion_glossary.html", f"{r.name}: glossary",
+                      crumbs=inside, subcurrent="glossary.html", letters=sorted(letters.items()),
+                      **common)
 
     def regions(self):
         s = self.s
@@ -217,6 +255,7 @@ class renderer:
         self.eras()
         self.timeline()
         self.topics()
+        self.religions()
         self.regions()
         self.people()
         self.glossary()

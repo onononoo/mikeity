@@ -14,6 +14,10 @@ from .util import read, slugify
 era_page_ids = ("top", "part-timeline", "part-people", "part-terms")
 # the same for topic pages (see templates/topic.html)
 topic_page_ids = ("top", "see-also")
+# and for the front page of each religion (see templates/religion.html)
+religion_page_ids = ("top", "facts", "see-also")
+# every timeline entry in a religion is one of these
+religion_kinds = ("tradition", "history")
 # pages the builder writes itself, so no part or topic may use these names
 page_names = ("index", "timeline", "topics", "regions", "people", "glossary", "search",
               "statistics", "about")
@@ -57,6 +61,7 @@ class site:
         self.region_by_slug = {}
         self.topics = []
         self.topic_by_slug = {}
+        self.religions = []
         self.problems = []
 
     def problem(self, where, what):
@@ -207,6 +212,79 @@ def load(root):
             a.next = b
         if b:
             b.prev = a
+
+    # ---------------------------------------------------------- religions
+    # each religion is a small site of its own, in a folder named after it. its
+    # timeline mixes "tradition" (the story as the faith tells it) with
+    # "history" (what historians can show), and says which is which.
+    for r in _json(os.path.join(data, "religions.json")):
+        r = record(r)
+        where = f"religions.json ({r['slug']})"
+        path = os.path.join(data, "religions", f"{r.slug}.json")
+        text = os.path.join(root, "content", "religions", f"{r.slug}.txt")
+        if r.slug in page_names or r.slug in s.era_by_slug or r.slug in s.topic_by_slug:
+            s.problem(where, f"the name {r.slug!r} is already used by another page")
+            continue
+        if not os.path.exists(path) or not os.path.exists(text):
+            s.problem(where, "needs both data/religions/<slug>.json and content/religions/<slug>.txt")
+            continue
+        body = _json(path)
+        r.doc = markup.parse(read(text), reserved=religion_page_ids, root="../")
+        where = f"religions/{r.slug}.json"
+
+        r.events = []
+        for i, ev in enumerate(body.get("events", []), 1):
+            ev = record(ev, id=i)
+            if ev.get("kind") not in religion_kinds:
+                s.problem(f"{where} event {i}", f"kind must be one of {', '.join(religion_kinds)}")
+                continue
+            ev.when = _date(s, f"{where} event {i}", ev["date"]) if ev.get("date") else None
+            if not ev.get("date") and not ev.get("label"):
+                s.problem(f"{where} event {i}", "needs a date or a label")
+                continue
+            ev.shown = ev.get("label") or str(ev.when)
+            ev.tags = ev.get("tags", [])
+            r.events.append(ev)
+
+        r.people, r.person_by_slug = [], {}
+        for i, p in enumerate(body.get("people", []), 1):
+            p = record(p, slug=slugify(p["name"]), number=i)
+            if p.get("kind") not in religion_kinds:
+                s.problem(f"{where} ({p.name})", f"kind must be one of {', '.join(religion_kinds)}")
+                continue
+            if p.slug in r.person_by_slug:
+                s.problem(f"{where} ({p.name})", "listed twice")
+                continue
+            # "main" names the same person on the main people page, if they are there
+            p.main_rec = s.person_by_slug.get(slugify(p["main"])) if p.get("main") else None
+            if p.get("main") and not p.main_rec:
+                s.problem(f"{where} ({p.name})", f"'main' points at unknown person {p['main']!r}")
+            r.people.append(p)
+            r.person_by_slug[p.slug] = p
+
+        r.terms, r.term_by_slug = [], {}
+        for t in body.get("glossary", []):
+            t = record(t, slug=slugify(t["term"]))
+            if t.slug in r.term_by_slug:
+                s.problem(f"{where} ({t.term})", "listed twice")
+                continue
+            r.terms.append(t)
+            r.term_by_slug[t.slug] = t
+        r.terms.sort(key=lambda t: t.term)
+        for t in r.terms:
+            for other in t.get("see", []):
+                if slugify(other) not in r.term_by_slug:
+                    s.problem(f"{where} ({t.term})", f"'see' points at missing term {other!r}")
+
+        # links in the story point at this religion's own people and glossary
+        story = f"content/religions/{r.slug}.txt"
+        for slug in sorted(r.doc.people - set(r.person_by_slug)):
+            s.problem(story, f"links to unknown person {slug!r}")
+        for slug in sorted(r.doc.terms - set(r.term_by_slug)):
+            s.problem(story, f"links to unknown glossary term {slug!r}")
+        for slug in sorted(r.doc.parts - set(s.era_by_slug)):
+            s.problem(story, f"links to unknown part {slug!r}")
+        s.religions.append(r)
 
     # ---------------------------------------------------------- cross links in text
     def check_links(doc, where):

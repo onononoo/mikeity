@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "judaism",
+    "name": "judaism",
+    "began": "c. 1000-500 bce, in the land of israel; by tradition with abraham",
+    "founder": "abraham, by tradition; moses, who received the torah",
+    "scriptures": "the hebrew bible (tanakh), above all the torah; the talmud",
+    "places": "jerusalem, above all the western wall of the temple mount",
+    "followers": "about 15 million",
+    "summary": "the religion of the jewish people: one god, who made a covenant with abraham and gave the torah to moses at sinai. it is the oldest of the three abrahamic faiths, and the root of christianity and islam.",
+    "creation": "god created the heavens and the earth in six days and rested on the seventh, as told in the book of genesis.",
+    "age": "the jewish calendar counts years from creation, which rabbinic tradition places in 3761 bce. many jews today read the six days as a teaching, not a clock, and accept the scientific age."
+  },
+  {
+    "slug": "christianity",
+    "name": "christianity",
+    "began": "c. 30 ce, in judea",
+    "founder": "jesus of nazareth, and his apostles",
+    "scriptures": "the bible: the old testament (the hebrew bible) and the new testament",
+    "places": "jerusalem, bethlehem, rome, and many shrines of saints",
+    "followers": "about 2.4 billion, the largest religion in the world",
+    "summary": "faith in jesus of nazareth as the son of god and savior, who died on the cross and rose from the dead. it began as a movement within judaism and became the religion of the roman empire and then of much of the world.",
+    "creation": "the same account as the hebrew bible: god made the world in six days and made humans in his image. the gospel of john adds that all things were made through the word, which christians identify with jesus.",
+    "age": "the bible gives no date. in 1650 archbishop james ussher added up its lifespans and got 4004 bce, a reckoning that was widely printed. most churches today accept the scientific age of the earth; some christians hold to a young earth."
+  },
+  {
+    "slug": "islam",
+    "name": "islam",
+    "began": "610 ce, in mecca, arabia",
+    "founder": "the prophet muhammad, the last in a line of prophets going back to adam",
+    "scriptures": "the quran; the hadith, reports of the prophet's words and deeds",
+    "places": "mecca and the kaaba, medina, and jerusalem",
+    "followers": "about 2 billion, the second largest religion",
+    "summary": "submission (islam) to the one god, allah, as revealed in the quran to the prophet muhammad. muslims see it as the same faith taught by every prophet from adam, through abraham, moses, and jesus, to muhammad.",
+    "creation": "god created the heavens and the earth in six days, commanding \"be\", and it was. he made adam from clay, breathed his spirit into him, and made him his deputy on earth.",
+    "age": "the quran gives no date. many scholars note that a \"day\" with god can be like a thousand or fifty thousand years, and many muslims accept the scientific age. the islamic calendar counts years from the hijra in 622 ce."
+  },
+  {
+    "slug": "hinduism",
+    "name": "hinduism",
+    "began": "no single founder; roots in the vedas, c. 1500 bce, and older",
+    "founder": "none; the vedas were \"heard\" by ancient seers, the rishis",
+    "scriptures": "the vedas and upanishads; the epics, the mahabharata (with the bhagavad gita) and the ramayana; the puranas",
+    "places": "varanasi on the ganges, and thousands of temples and pilgrimage sites",
+    "followers": "about 1.2 billion, mostly in india and nepal",
+    "summary": "the family of traditions of india, called by many followers sanatana dharma, \"the eternal way\". it includes many gods seen as forms of one reality, and belief in karma, rebirth, and liberation.",
+    "creation": "the universe is created, sustained, and dissolved again and again, without beginning. in one telling, brahma the creator is born on a lotus from the navel of vishnu. an old hymn of the rigveda asks who really knows how it began.",
+    "age": "time runs in vast cycles. one day of brahma, a kalpa, lasts 4.32 billion years, close to the scientific age of the earth. we now live in the kali yuga, the last and darkest of four ages, which tradition says began in 3102 bce."
+  },
+  {
+    "slug": "buddhism",
+    "name": "buddhism",
+    "began": "5th century bce, in northern india",
+    "founder": "siddhartha gautama, the buddha, \"the awakened one\"",
+    "scriptures": "the pali canon (tipitaka); many mahayana sutras; the tibetan canon",
+    "places": "lumbini, bodh gaya, sarnath, and kushinagar, the places of the buddha's life",
+    "followers": "about 500 million, mostly in east and southeast asia",
+    "summary": "the path taught by the buddha to end suffering, through understanding its causes, living ethically, and training the mind. it does not depend on a creator god.",
+    "creation": "the buddha set aside the question of how the world began as not helpful for ending suffering. buddhist texts describe countless world systems that form, last, decay, and form again.",
+    "age": "time has no known beginning. it is measured in kalpas, eons so long that a mountain wiped with a silk cloth once a century would wear away first. many buddhas have come in past eons, and one, maitreya, is still to come."
+  },
+  {
+    "slug": "sikhism",
+    "name": "sikhism",
+    "began": "c. 1500 ce, in the punjab",
+    "founder": "guru nanak, followed by nine more human gurus",
+    "scriptures": "the guru granth sahib, treated as the living guru",
+    "places": "the harmandir sahib (golden temple) in amritsar, and the five takhts",
+    "followers": "about 25 to 30 million, most in the punjab",
+    "summary": "devotion to the one creator, remembered through god's name, honest work, and sharing with others. it teaches that all people are equal, and it was shaped by ten gurus over two centuries.",
+    "creation": "before creation there was only the one, formless and in deep stillness. by god's will, the hukam, the universe came to be, with countless worlds and skies.",
+    "age": "guru nanak taught that only the creator knows when the world was made: no scholar, holy book, or calendar can say. many sikhs see science and scripture as describing the same vast creation."
+  }
+]

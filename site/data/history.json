@@ -9954,5 +9954,2116 @@
    "title": "cities",
    "summary": "from the first walled towns to megacities of thirty million: why people crowd together, and what it has cost and given them."
   }
+ ],
+ "religions": [
+  {
+   "slug": "judaism",
+   "name": "judaism",
+   "began": "c. 1000-500 bce, in the land of israel; by tradition with abraham",
+   "followers": "about 15 million",
+   "creation": "god created the heavens and the earth in six days and rested on the seventh, as told in the book of genesis.",
+   "age": "the jewish calendar counts years from creation, which rabbinic tradition places in 3761 bce. many jews today read the six days as a teaching, not a clock, and accept the scientific age.",
+   "events": [
+    {
+     "kind": "tradition",
+     "when": "3761 bce, by the traditional count",
+     "text": "god creates the heavens and the earth in six days and rests on the seventh, the first sabbath. the jewish calendar counts its years from here"
+    },
+    {
+     "kind": "tradition",
+     "when": "the sixth day",
+     "text": "god forms adam from the dust of the earth and makes eve; they live in the garden of eden until they eat the forbidden fruit and are sent out"
+    },
+    {
+     "kind": "tradition",
+     "when": "2105 bce, by the traditional count",
+     "text": "a great flood covers the earth. noah, his family, and the animals survive in the ark, and god promises never to destroy the world by flood again"
+    },
+    {
+     "kind": "tradition",
+     "when": "after the flood",
+     "text": "people build a tower at babel to reach the heavens; god confuses their language and scatters them across the earth"
+    },
+    {
+     "kind": "tradition",
+     "when": "1813 bce, by the traditional count",
+     "text": "abraham is born. god later calls him to leave his homeland for canaan and makes a covenant with him: his descendants will be a great nation"
+    },
+    {
+     "kind": "tradition",
+     "when": "the age of the patriarchs",
+     "text": "isaac, then jacob, who is renamed israel. jacob's twelve sons become the twelve tribes; one of them, joseph, is sold into egypt and rises to power there"
+    },
+    {
+     "kind": "tradition",
+     "when": "1313 bce, by the traditional count",
+     "text": "moses leads the israelites out of slavery in egypt: the exodus, remembered every year at passover"
+    },
+    {
+     "kind": "tradition",
+     "when": "1313 bce, by the traditional count",
+     "text": "at mount sinai god gives the torah to moses, including the ten commandments, and makes a covenant with the whole people"
+    },
+    {
+     "kind": "tradition",
+     "when": "after forty years in the desert",
+     "text": "joshua leads the israelites into the promised land of canaan"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1208 bce",
+     "text": "a victory stone of the pharaoh merneptah names a people called israel in canaan, the oldest mention of israel outside the bible"
+    },
+    {
+     "kind": "tradition",
+     "when": "c. 1000 bce",
+     "text": "king david makes jerusalem his capital; his son solomon builds the first temple there"
+    },
+    {
+     "kind": "history",
+     "when": "c. 840 bce",
+     "text": "an aramean inscription found at tel dan mentions the \"house of david\", the oldest reference to david outside the bible"
+    },
+    {
+     "kind": "history",
+     "when": "722 bce",
+     "text": "assyria destroys the northern kingdom of israel; its ten tribes are scattered and later remembered as the lost tribes"
+    },
+    {
+     "kind": "history",
+     "when": "587 bce",
+     "text": "babylon destroys jerusalem and the first temple and carries many judeans into exile (rabbinic tradition dates this to 423 bce)"
+    },
+    {
+     "kind": "history",
+     "when": "538 bce",
+     "text": "cyrus the great lets the exiles go home; the second temple is finished around 516 bce"
+    },
+    {
+     "kind": "history",
+     "when": "c. 450 bce",
+     "text": "under ezra and nehemiah the torah is read out in public in jerusalem; many scholars think it reached its final form around this time"
+    },
+    {
+     "kind": "history",
+     "when": "167–164 bce",
+     "text": "the maccabees revolt against the greek seleucid kings and rededicate the temple, remembered at hanukkah"
+    },
+    {
+     "kind": "history",
+     "when": "70 ce",
+     "text": "the romans destroy the second temple. judaism survives through rabbis, synagogues, prayer, and study"
+    },
+    {
+     "kind": "history",
+     "when": "132–135 ce",
+     "text": "the bar kokhba revolt against rome is crushed; jews are banned from jerusalem and most now live in the diaspora"
+    },
+    {
+     "kind": "history",
+     "when": "c. 200 ce",
+     "text": "rabbi judah ha-nasi gathers the oral law into the mishnah"
+    },
+    {
+     "kind": "history",
+     "when": "c. 500 ce",
+     "text": "the babylonian talmud, a huge record of rabbinic debate built around the mishnah, is largely complete"
+    },
+    {
+     "kind": "history",
+     "when": "1040–1105",
+     "text": "rashi, in france, writes commentaries on the bible and talmud that are still printed beside the text today"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1190",
+     "text": "maimonides, living in cairo, completes the guide for the perplexed, joining jewish faith with aristotle's philosophy"
+    },
+    {
+     "kind": "history",
+     "when": "1290",
+     "text": "england expels its jews; france and many german states do the same over the next two centuries"
+    },
+    {
+     "kind": "history",
+     "when": "1492",
+     "text": "spain expels its jews; many find refuge in the ottoman empire, north africa, and the netherlands"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1740",
+     "text": "the baal shem tov begins the hasidic movement in eastern europe, stressing joy, prayer, and closeness to god"
+    },
+    {
+     "kind": "history",
+     "when": "1783",
+     "text": "moses mendelssohn publishes jerusalem and a german translation of the torah, leading the jewish enlightenment"
+    },
+    {
+     "kind": "history",
+     "when": "1881–1914",
+     "text": "pogroms in the russian empire drive about two million jews to emigrate, most to the united states"
+    },
+    {
+     "kind": "history",
+     "when": "1897",
+     "text": "theodor herzl holds the first zionist congress in basel, calling for a jewish homeland"
+    },
+    {
+     "kind": "history",
+     "when": "1941–1945",
+     "text": "the holocaust: nazi germany murders six million jews, about a third of all the jews in the world"
+    },
+    {
+     "kind": "history",
+     "when": "1948",
+     "text": "the state of israel is founded"
+    },
+    {
+     "kind": "tradition",
+     "when": "the time to come",
+     "text": "tradition looks forward to the messiah, a descendant of david, who will bring peace, gather the exiles, and rebuild the temple"
+    }
+   ],
+   "people": [
+    {
+     "name": "adam",
+     "dates": "the first man",
+     "kind": "tradition",
+     "role": "the first human"
+    },
+    {
+     "name": "eve",
+     "dates": "the first woman",
+     "kind": "tradition",
+     "role": "the first woman"
+    },
+    {
+     "name": "noah",
+     "dates": "before and after the flood",
+     "kind": "tradition",
+     "role": "builder of the ark"
+    },
+    {
+     "name": "abraham",
+     "dates": "1813-1638 bce, by tradition",
+     "kind": "tradition",
+     "role": "the first patriarch"
+    },
+    {
+     "name": "sarah",
+     "dates": "wife of abraham",
+     "kind": "tradition",
+     "role": "the first matriarch"
+    },
+    {
+     "name": "jacob",
+     "dates": "grandson of abraham",
+     "kind": "tradition",
+     "role": "the third patriarch, also called israel"
+    },
+    {
+     "name": "joseph",
+     "dates": "son of jacob",
+     "kind": "tradition",
+     "role": "dreamer and minister of egypt"
+    },
+    {
+     "name": "moses",
+     "dates": "1393-1273 bce, by tradition",
+     "kind": "tradition",
+     "role": "prophet, lawgiver, and leader of the exodus"
+    },
+    {
+     "name": "miriam",
+     "dates": "sister of moses",
+     "kind": "tradition",
+     "role": "prophet"
+    },
+    {
+     "name": "david",
+     "dates": "c. 1040-970 bce, by the biblical account",
+     "kind": "tradition",
+     "role": "king of israel"
+    },
+    {
+     "name": "solomon",
+     "dates": "reigned c. 970-931 bce, by the biblical account",
+     "kind": "tradition",
+     "role": "king of israel"
+    },
+    {
+     "name": "elijah",
+     "dates": "9th century bce, by the biblical account",
+     "kind": "tradition",
+     "role": "prophet"
+    },
+    {
+     "name": "esther",
+     "dates": "5th century bce, by the biblical account",
+     "kind": "tradition",
+     "role": "queen of persia"
+    },
+    {
+     "name": "hillel",
+     "dates": "c. 110 bce-10 ce",
+     "kind": "history",
+     "role": "sage in jerusalem"
+    },
+    {
+     "name": "rabbi akiva",
+     "dates": "c. 50-135 ce",
+     "kind": "history",
+     "role": "sage and teacher"
+    },
+    {
+     "name": "judah ha-nasi",
+     "dates": "c. 135-217 ce",
+     "kind": "history",
+     "role": "patriarch of the jews in roman palestine"
+    },
+    {
+     "name": "rashi",
+     "dates": "1040-1105",
+     "kind": "history",
+     "role": "rabbi in troyes, france"
+    },
+    {
+     "name": "maimonides",
+     "dates": "c. 1138-1204",
+     "kind": "history",
+     "role": "philosopher, legal scholar, and doctor"
+    },
+    {
+     "name": "baal shem tov",
+     "dates": "c. 1698-1760",
+     "kind": "history",
+     "role": "founder of hasidism"
+    },
+    {
+     "name": "moses mendelssohn",
+     "dates": "1729-1786",
+     "kind": "history",
+     "role": "german jewish philosopher"
+    },
+    {
+     "name": "theodor herzl",
+     "dates": "1860-1904",
+     "kind": "history",
+     "role": "journalist and founder of political zionism"
+    },
+    {
+     "name": "anne frank",
+     "dates": "1929-1945",
+     "kind": "history",
+     "role": "diarist"
+    }
+   ],
+   "glossary": [
+    {
+     "term": "bar mitzvah",
+     "definition": "the coming of age of a jewish boy at thirteen, when he becomes responsible for keeping the commandments. for girls it is the bat mitzvah, at twelve or thirteen."
+    },
+    {
+     "term": "covenant",
+     "definition": "a binding agreement between god and people: with noah, with abraham, and with all israel at sinai."
+    },
+    {
+     "term": "diaspora",
+     "definition": "the jewish communities living outside the land of israel, since the babylonian exile and above all since 70 ce."
+    },
+    {
+     "term": "hanukkah",
+     "definition": "the eight-day festival of lights, remembering the rededication of the temple by the maccabees in 164 bce."
+    },
+    {
+     "term": "hasidism",
+     "definition": "a movement begun by the baal shem tov in the 1700s, stressing joyful prayer and devotion, led by rebbes."
+    },
+    {
+     "term": "kosher",
+     "definition": "food allowed by jewish law: certain animals only, slaughtered in a set way, with meat and milk kept apart."
+    },
+    {
+     "term": "messiah",
+     "definition": "\"the anointed one\": a future king descended from david who, jews believe, will bring an age of peace."
+    },
+    {
+     "term": "mishnah",
+     "definition": "the first written collection of the oral law, compiled around 200 ce."
+    },
+    {
+     "term": "passover",
+     "definition": "the spring festival remembering the exodus from egypt, with a special meal called the seder."
+    },
+    {
+     "term": "rabbi",
+     "definition": "\"my teacher\": a scholar of jewish law who teaches and leads a community."
+    },
+    {
+     "term": "sabbath",
+     "definition": "shabbat: the day of rest from friday evening to saturday evening, remembering that god rested on the seventh day."
+    },
+    {
+     "term": "synagogue",
+     "definition": "a jewish house of prayer, study, and gathering."
+    },
+    {
+     "term": "talmud",
+     "definition": "the vast collection of rabbinic discussion of the mishnah, the foundation of jewish law."
+    },
+    {
+     "term": "tanakh",
+     "definition": "the hebrew bible: the torah (teaching), the nevi'im (prophets), and the ketuvim (writings)."
+    },
+    {
+     "term": "torah",
+     "definition": "the five books of moses, from genesis to deuteronomy; in a wider sense, all jewish teaching."
+    },
+    {
+     "term": "yom kippur",
+     "definition": "the day of atonement, the holiest day of the year, spent in fasting and prayer."
+    },
+    {
+     "term": "zionism",
+     "definition": "the movement for a jewish homeland in the land of israel, which led to the founding of the state of israel in 1948."
+    }
+   ]
+  },
+  {
+   "slug": "christianity",
+   "name": "christianity",
+   "began": "c. 30 ce, in judea",
+   "followers": "about 2.4 billion, the largest religion in the world",
+   "creation": "the same account as the hebrew bible: god made the world in six days and made humans in his image. the gospel of john adds that all things were made through the word, which christians identify with jesus.",
+   "age": "the bible gives no date. in 1650 archbishop james ussher added up its lifespans and got 4004 bce, a reckoning that was widely printed. most churches today accept the scientific age of the earth; some christians hold to a young earth.",
+   "events": [
+    {
+     "kind": "tradition",
+     "when": "4004 bce, by ussher's reckoning",
+     "text": "god creates the world in six days and makes humans in his image, as told in genesis. the date is archbishop ussher's calculation of 1650, not a teaching of the church"
+    },
+    {
+     "kind": "tradition",
+     "when": "the fall",
+     "text": "adam and eve disobey god in the garden of eden; sin and death enter the world, and god promises that evil will one day be defeated"
+    },
+    {
+     "kind": "tradition",
+     "when": "the old testament",
+     "text": "the story of israel, from abraham and moses to david and the prophets, which christians read as preparing the way for the messiah"
+    },
+    {
+     "kind": "tradition",
+     "when": "c. 4 bce",
+     "text": "the angel gabriel tells mary she will bear the son of god. jesus is born in bethlehem; angels sing to shepherds and wise men follow a star"
+    },
+    {
+     "kind": "history",
+     "when": "c. 4 bce",
+     "text": "jesus of nazareth is born, probably shortly before the death of king herod in 4 bce; the monk who later fixed the year 1 was a few years out"
+    },
+    {
+     "kind": "tradition",
+     "when": "c. 28 ce",
+     "text": "john the baptist baptizes jesus in the jordan. jesus begins teaching, healing the sick, and calls twelve disciples"
+    },
+    {
+     "kind": "history",
+     "when": "c. 30 ce",
+     "text": "jesus is crucified in jerusalem under the roman governor pontius pilate, an event also recorded by the roman historian tacitus"
+    },
+    {
+     "kind": "tradition",
+     "when": "the third day",
+     "text": "jesus rises from the dead, appears to mary magdalene and the disciples, and forty days later ascends into heaven"
+    },
+    {
+     "kind": "tradition",
+     "when": "pentecost",
+     "text": "the holy spirit comes down on the apostles in jerusalem, and they begin preaching; christians see this as the birth of the church"
+    },
+    {
+     "kind": "history",
+     "when": "c. 35 ce",
+     "text": "paul, who had persecuted the first christians, becomes one himself after a vision on the road to damascus"
+    },
+    {
+     "kind": "history",
+     "when": "c. 50 ce",
+     "text": "at a meeting in jerusalem, the apostles agree that gentiles who become christians need not follow the whole jewish law"
+    },
+    {
+     "kind": "history",
+     "when": "c. 50–60 ce",
+     "text": "paul writes letters to the churches he founded, the oldest christian writings to survive"
+    },
+    {
+     "kind": "history",
+     "when": "64 ce",
+     "text": "the emperor nero blames christians for the great fire of rome; by tradition peter and paul are put to death there"
+    },
+    {
+     "kind": "history",
+     "when": "c. 65–100 ce",
+     "text": "the four gospels, of mark, matthew, luke, and john, are written"
+    },
+    {
+     "kind": "history",
+     "when": "303–311 ce",
+     "text": "the great persecution under diocletian, the last and worst attempt by rome to wipe out christianity"
+    },
+    {
+     "kind": "history",
+     "when": "313 ce",
+     "text": "constantine and licinius issue the edict of milan, making christianity legal"
+    },
+    {
+     "kind": "history",
+     "when": "325 ce",
+     "text": "the council of nicaea agrees the nicene creed: the son is \"of one being with the father\""
+    },
+    {
+     "kind": "history",
+     "when": "380 ce",
+     "text": "christianity becomes the official religion of the roman empire"
+    },
+    {
+     "kind": "history",
+     "when": "c. 405 ce",
+     "text": "jerome finishes translating the bible into latin, the vulgate, used in the western church for a thousand years"
+    },
+    {
+     "kind": "history",
+     "when": "426 ce",
+     "text": "augustine of hippo finishes the city of god, written after the sack of rome"
+    },
+    {
+     "kind": "history",
+     "when": "c. 529 ce",
+     "text": "benedict founds the monastery of monte cassino; his rule shapes western monks and nuns"
+    },
+    {
+     "kind": "history",
+     "when": "1054",
+     "text": "the great schism divides the catholic west from the orthodox east"
+    },
+    {
+     "kind": "history",
+     "when": "1095",
+     "text": "pope urban ii calls the first crusade"
+    },
+    {
+     "kind": "history",
+     "when": "1209",
+     "text": "francis of assisi gathers his first followers, who live in poverty and preach"
+    },
+    {
+     "kind": "history",
+     "when": "1517",
+     "text": "martin luther's 95 theses begin the protestant reformation"
+    },
+    {
+     "kind": "history",
+     "when": "1536",
+     "text": "john calvin publishes the institutes of the christian religion in geneva"
+    },
+    {
+     "kind": "history",
+     "when": "1540",
+     "text": "the pope approves the jesuits, founded by ignatius of loyola; they soon run schools and missions worldwide"
+    },
+    {
+     "kind": "history",
+     "when": "1545–1563",
+     "text": "the council of trent leads the catholic counter-reformation"
+    },
+    {
+     "kind": "history",
+     "when": "1611",
+     "text": "the king james bible is published in english"
+    },
+    {
+     "kind": "history",
+     "when": "1738",
+     "text": "john wesley's conversion begins the methodist revival in britain and america"
+    },
+    {
+     "kind": "history",
+     "when": "1962–1965",
+     "text": "the second vatican council modernizes the catholic church; mass is now said in local languages"
+    },
+    {
+     "kind": "history",
+     "when": "today",
+     "text": "most christians now live in africa, latin america, and asia, not in europe and north america"
+    },
+    {
+     "kind": "tradition",
+     "when": "the end of time",
+     "text": "christ will come again in glory; the dead will rise, the world will be judged, and god will make a new heaven and a new earth"
+    }
+   ],
+   "people": [
+    {
+     "name": "mary",
+     "dates": "1st century bce-1st century ce",
+     "kind": "tradition",
+     "role": "the mother of jesus"
+    },
+    {
+     "name": "john the baptist",
+     "dates": "died c. 30 ce",
+     "kind": "history",
+     "role": "prophet and preacher"
+    },
+    {
+     "name": "jesus of nazareth",
+     "dates": "c. 4 bce-30 ce",
+     "kind": "history",
+     "role": "teacher from galilee, whom christians worship as the son of god"
+    },
+    {
+     "name": "mary magdalene",
+     "dates": "1st century ce",
+     "kind": "tradition",
+     "role": "follower of jesus"
+    },
+    {
+     "name": "peter",
+     "dates": "died c. 64 ce",
+     "kind": "history",
+     "role": "leader of the twelve apostles"
+    },
+    {
+     "name": "paul of tarsus",
+     "dates": "c. 5-64 ce",
+     "kind": "history",
+     "role": "apostle to the gentiles"
+    },
+    {
+     "name": "constantine",
+     "dates": "c. 272-337",
+     "kind": "history",
+     "role": "roman emperor"
+    },
+    {
+     "name": "jerome",
+     "dates": "c. 342-420",
+     "kind": "history",
+     "role": "scholar and translator"
+    },
+    {
+     "name": "augustine of hippo",
+     "dates": "354-430",
+     "kind": "history",
+     "role": "bishop in north africa"
+    },
+    {
+     "name": "benedict of nursia",
+     "dates": "c. 480-547",
+     "kind": "history",
+     "role": "monk"
+    },
+    {
+     "name": "francis of assisi",
+     "dates": "c. 1181-1226",
+     "kind": "history",
+     "role": "friar"
+    },
+    {
+     "name": "thomas aquinas",
+     "dates": "1225-1274",
+     "kind": "history",
+     "role": "dominican friar and theologian"
+    },
+    {
+     "name": "martin luther",
+     "dates": "1483-1546",
+     "kind": "history",
+     "role": "german monk and reformer"
+    },
+    {
+     "name": "ignatius of loyola",
+     "dates": "1491-1556",
+     "kind": "history",
+     "role": "spanish priest"
+    },
+    {
+     "name": "john calvin",
+     "dates": "1509-1564",
+     "kind": "history",
+     "role": "french reformer in geneva"
+    },
+    {
+     "name": "john wesley",
+     "dates": "1703-1791",
+     "kind": "history",
+     "role": "english preacher"
+    },
+    {
+     "name": "mother teresa",
+     "dates": "1910-1997",
+     "kind": "history",
+     "role": "catholic nun"
+    },
+    {
+     "name": "martin luther king jr.",
+     "dates": "1929-1968",
+     "kind": "history",
+     "role": "baptist minister and civil rights leader"
+    },
+    {
+     "name": "desmond tutu",
+     "dates": "1931-2021",
+     "kind": "history",
+     "role": "anglican archbishop of cape town"
+    }
+   ],
+   "glossary": [
+    {
+     "term": "apostle",
+     "definition": "\"one who is sent\": the twelve closest followers of jesus, and early missionaries like paul."
+    },
+    {
+     "term": "baptism",
+     "definition": "the washing with water by which a person becomes a christian."
+    },
+    {
+     "term": "bible",
+     "definition": "the christian scriptures: the old testament, shared with judaism, and the new testament, about jesus and the early church."
+    },
+    {
+     "term": "catholic",
+     "definition": "\"universal\": the church led by the pope in rome, the largest christian church."
+    },
+    {
+     "term": "christmas",
+     "definition": "the feast of the birth of jesus, on 25 december (7 january in many orthodox churches)."
+    },
+    {
+     "term": "creed",
+     "definition": "a short statement of belief, like the nicene creed of 325."
+    },
+    {
+     "term": "easter",
+     "definition": "the feast of the resurrection of jesus, the most important day of the christian year."
+    },
+    {
+     "term": "eucharist",
+     "definition": "holy communion or the mass: sharing bread and wine as jesus did at the last supper."
+    },
+    {
+     "term": "gospel",
+     "definition": "\"good news\": the message of jesus, and the four books of matthew, mark, luke, and john that tell his life."
+    },
+    {
+     "term": "incarnation",
+     "definition": "the belief that god became a human being in jesus."
+    },
+    {
+     "term": "monastery",
+     "definition": "a community of monks or nuns living under a rule of prayer and work."
+    },
+    {
+     "term": "orthodox church",
+     "definition": "the eastern churches, such as the greek and russian, which split from rome in 1054."
+    },
+    {
+     "term": "pentecost",
+     "definition": "the feast fifty days after easter, remembering the holy spirit coming down on the apostles."
+    },
+    {
+     "term": "pope",
+     "definition": "the bishop of rome and head of the catholic church, seen as the successor of peter."
+    },
+    {
+     "term": "protestant",
+     "definition": "the churches that came out of the reformation, such as lutheran, reformed, anglican, baptist, and methodist, and later pentecostal."
+    },
+    {
+     "term": "resurrection",
+     "definition": "jesus rising from the dead on the third day after his crucifixion; also the rising of all the dead at the end of time."
+    },
+    {
+     "term": "sacrament",
+     "definition": "a holy rite through which, christians believe, god gives grace, such as baptism and the eucharist."
+    },
+    {
+     "term": "saint",
+     "definition": "a holy person; in the catholic and orthodox churches, someone officially recognized as being in heaven."
+    },
+    {
+     "term": "trinity",
+     "definition": "the belief that the one god is three persons: father, son, and holy spirit."
+    }
+   ]
+  },
+  {
+   "slug": "islam",
+   "name": "islam",
+   "began": "610 ce, in mecca, arabia",
+   "followers": "about 2 billion, the second largest religion",
+   "creation": "god created the heavens and the earth in six days, commanding \"be\", and it was. he made adam from clay, breathed his spirit into him, and made him his deputy on earth.",
+   "age": "the quran gives no date. many scholars note that a \"day\" with god can be like a thousand or fifty thousand years, and many muslims accept the scientific age. the islamic calendar counts years from the hijra in 622 ce.",
+   "events": [
+    {
+     "kind": "tradition",
+     "when": "before time",
+     "text": "god alone exists. he creates the heavens and the earth in six days, saying \"be\", and it is. he makes the angels from light and the jinn from smokeless fire"
+    },
+    {
+     "kind": "tradition",
+     "when": "the creation of adam",
+     "text": "god shapes adam from clay, breathes his spirit into him, and teaches him the names of all things. he tells the angels to bow to adam; iblis refuses in pride and is cast out"
+    },
+    {
+     "kind": "tradition",
+     "when": "the garden",
+     "text": "adam and hawwa (eve) eat from the forbidden tree. they repent and god forgives them, then sends them down to earth, where adam becomes the first prophet"
+    },
+    {
+     "kind": "tradition",
+     "when": "the flood",
+     "text": "the prophet nuh (noah) calls his people to god for 950 years; the unbelievers drown in the flood and the ark comes to rest on mount judi"
+    },
+    {
+     "kind": "tradition",
+     "when": "the time of ibrahim",
+     "text": "ibrahim (abraham) breaks his people's idols and is thrown into a fire that god makes cool. with his son ismail he builds the kaaba in mecca, the first house for the worship of the one god"
+    },
+    {
+     "kind": "tradition",
+     "when": "the time of musa",
+     "text": "musa (moses) confronts pharaoh, leads the children of israel to freedom, and receives the tawrat (torah)"
+    },
+    {
+     "kind": "tradition",
+     "when": "the time of dawud",
+     "text": "dawud (david) receives the zabur (psalms); his son sulayman (solomon) rules with wisdom and can speak with birds, animals, and jinn"
+    },
+    {
+     "kind": "tradition",
+     "when": "the time of isa",
+     "text": "isa (jesus) is born by a miracle to the virgin maryam. he is a prophet who receives the injil (gospel); muslims believe he was not crucified but raised up to god"
+    },
+    {
+     "kind": "history",
+     "when": "c. 570 ce",
+     "text": "muhammad is born in mecca, into the clan of hashim of the quraysh tribe; he is orphaned young"
+    },
+    {
+     "kind": "history",
+     "when": "c. 595 ce",
+     "text": "muhammad, a trusted merchant, marries khadija, a widow who runs her own trading business"
+    },
+    {
+     "kind": "tradition",
+     "when": "610 ce",
+     "text": "in the cave of hira, the angel jibril (gabriel) brings muhammad the first verses of the quran: \"read, in the name of your lord who created\""
+    },
+    {
+     "kind": "history",
+     "when": "c. 613 ce",
+     "text": "muhammad begins preaching in public; the leaders of mecca turn against him and his followers are persecuted"
+    },
+    {
+     "kind": "tradition",
+     "when": "c. 621 ce",
+     "text": "the night journey: muhammad is carried to jerusalem and rises through the heavens; the five daily prayers are given"
+    },
+    {
+     "kind": "history",
+     "when": "622 ce",
+     "text": "the hijra: muhammad and his followers move to medina. the islamic calendar counts its years from here"
+    },
+    {
+     "kind": "history",
+     "when": "624 ce",
+     "text": "the muslims defeat a much larger meccan army at the battle of badr"
+    },
+    {
+     "kind": "history",
+     "when": "630 ce",
+     "text": "mecca surrenders; muhammad clears the idols from the kaaba"
+    },
+    {
+     "kind": "history",
+     "when": "632 ce",
+     "text": "muhammad makes his farewell pilgrimage and dies in medina; abu bakr becomes the first caliph"
+    },
+    {
+     "kind": "history",
+     "when": "c. 650 ce",
+     "text": "the caliph uthman sends out standard copies of the quran to the main cities of the growing empire"
+    },
+    {
+     "kind": "history",
+     "when": "656–661 ce",
+     "text": "the first civil war among muslims; ali, the fourth caliph, is assassinated in 661"
+    },
+    {
+     "kind": "history",
+     "when": "680 ce",
+     "text": "husayn, grandson of the prophet, is killed at karbala; the division between sunni and shia deepens"
+    },
+    {
+     "kind": "history",
+     "when": "691–692 ce",
+     "text": "the dome of the rock is built in jerusalem"
+    },
+    {
+     "kind": "history",
+     "when": "762 ce",
+     "text": "the abbasids found baghdad, soon home to the house of wisdom and a golden age of learning"
+    },
+    {
+     "kind": "history",
+     "when": "c. 846 ce",
+     "text": "al-bukhari completes his collection of hadith, which sunni muslims regard as the most reliable after the quran"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1100",
+     "text": "al-ghazali writes the revival of the religious sciences, bringing law, theology, and sufi devotion together"
+    },
+    {
+     "kind": "history",
+     "when": "1258",
+     "text": "the mongols sack baghdad and kill the last abbasid caliph there"
+    },
+    {
+     "kind": "history",
+     "when": "1324",
+     "text": "mansa musa of mali makes his pilgrimage to mecca, showing the islamic world the wealth of west africa"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1414",
+     "text": "the ruler of malacca becomes muslim; islam spreads through the trading ports of southeast asia"
+    },
+    {
+     "kind": "history",
+     "when": "1453",
+     "text": "the ottomans take constantinople; the hagia sophia becomes a mosque"
+    },
+    {
+     "kind": "history",
+     "when": "1924",
+     "text": "the new republic of turkey abolishes the ottoman caliphate"
+    },
+    {
+     "kind": "history",
+     "when": "today",
+     "text": "about one person in four is muslim; the largest muslim country is indonesia, and most muslims are not arabs"
+    },
+    {
+     "kind": "tradition",
+     "when": "the last day",
+     "text": "at the hour known only to god, the dead will rise and every soul will be judged; the righteous enter paradise"
+    }
+   ],
+   "people": [
+    {
+     "name": "adam",
+     "dates": "the first human",
+     "kind": "tradition",
+     "role": "the first prophet"
+    },
+    {
+     "name": "nuh",
+     "dates": "before the flood",
+     "kind": "tradition",
+     "role": "prophet (noah)"
+    },
+    {
+     "name": "ibrahim",
+     "dates": "long before musa",
+     "kind": "tradition",
+     "role": "prophet (abraham), \"the friend of god\""
+    },
+    {
+     "name": "ismail",
+     "dates": "son of ibrahim",
+     "kind": "tradition",
+     "role": "prophet (ishmael)"
+    },
+    {
+     "name": "musa",
+     "dates": "the time of pharaoh",
+     "kind": "tradition",
+     "role": "prophet (moses)"
+    },
+    {
+     "name": "maryam",
+     "dates": "mother of isa",
+     "kind": "tradition",
+     "role": "the mother of jesus"
+    },
+    {
+     "name": "isa",
+     "dates": "before muhammad",
+     "kind": "tradition",
+     "role": "prophet and messiah (jesus)"
+    },
+    {
+     "name": "khadija",
+     "dates": "c. 555-619",
+     "kind": "history",
+     "role": "wife of muhammad"
+    },
+    {
+     "name": "muhammad",
+     "dates": "c. 570-632",
+     "kind": "history",
+     "role": "the prophet of islam"
+    },
+    {
+     "name": "abu bakr",
+     "dates": "c. 573-634",
+     "kind": "history",
+     "role": "the first caliph"
+    },
+    {
+     "name": "umar",
+     "dates": "c. 584-644",
+     "kind": "history",
+     "role": "the second caliph"
+    },
+    {
+     "name": "ali ibn abi talib",
+     "dates": "c. 600-661",
+     "kind": "history",
+     "role": "cousin and son-in-law of muhammad, the fourth caliph"
+    },
+    {
+     "name": "fatima",
+     "dates": "c. 605-632",
+     "kind": "history",
+     "role": "daughter of muhammad"
+    },
+    {
+     "name": "aisha",
+     "dates": "c. 613-678",
+     "kind": "history",
+     "role": "wife of muhammad"
+    },
+    {
+     "name": "husayn ibn ali",
+     "dates": "626-680",
+     "kind": "history",
+     "role": "grandson of muhammad"
+    },
+    {
+     "name": "rabia of basra",
+     "dates": "c. 714-801",
+     "kind": "history",
+     "role": "sufi saint"
+    },
+    {
+     "name": "al-bukhari",
+     "dates": "810-870",
+     "kind": "history",
+     "role": "scholar of hadith"
+    },
+    {
+     "name": "al-ghazali",
+     "dates": "1058-1111",
+     "kind": "history",
+     "role": "theologian and mystic"
+    },
+    {
+     "name": "rumi",
+     "dates": "1207-1273",
+     "kind": "history",
+     "role": "persian poet and sufi"
+    },
+    {
+     "name": "mansa musa",
+     "dates": "c. 1280-1337",
+     "kind": "history",
+     "role": "emperor of mali"
+    },
+    {
+     "name": "ibn battuta",
+     "dates": "1304-1369",
+     "kind": "history",
+     "role": "traveler and judge"
+    }
+   ],
+   "glossary": [
+    {
+     "term": "allah",
+     "definition": "the arabic word for god, used by arab christians and jews as well as muslims."
+    },
+    {
+     "term": "caliph",
+     "definition": "\"successor\": the leader of the muslim community after muhammad."
+    },
+    {
+     "term": "eid",
+     "definition": "a festival: eid al-fitr at the end of ramadan, and eid al-adha at the time of the hajj."
+    },
+    {
+     "term": "five pillars",
+     "definition": "the five duties of every muslim: the shahada, prayer (salah), charity (zakat), fasting in ramadan, and the hajj."
+    },
+    {
+     "term": "hadith",
+     "definition": "a report of something the prophet said or did, passed down through a chain of named people."
+    },
+    {
+     "term": "hajj",
+     "definition": "the pilgrimage to mecca, which every muslim who is able should make once in their life."
+    },
+    {
+     "term": "hijra",
+     "definition": "the move of muhammad and his followers from mecca to medina in 622, year 1 of the islamic calendar."
+    },
+    {
+     "term": "imam",
+     "definition": "one who leads prayer; for shia muslims, the divinely guided leaders descended from ali."
+    },
+    {
+     "term": "jinn",
+     "definition": "beings made of smokeless fire, with free will like humans, mostly unseen."
+    },
+    {
+     "term": "kaaba",
+     "definition": "the cube-shaped shrine at the center of the great mosque of mecca, which muslims face when they pray."
+    },
+    {
+     "term": "mosque",
+     "definition": "a muslim place of prayer, in arabic masjid, \"place of bowing down\"."
+    },
+    {
+     "term": "prophet",
+     "definition": "a messenger of god. the quran names 25, from adam to muhammad, the last."
+    },
+    {
+     "term": "quran",
+     "definition": "\"the recitation\": the holy book of islam, which muslims believe is the word of god revealed to muhammad in arabic."
+    },
+    {
+     "term": "ramadan",
+     "definition": "the ninth month of the islamic year, when muslims fast from dawn to sunset."
+    },
+    {
+     "term": "salah",
+     "definition": "the ritual prayer, said five times a day facing mecca."
+    },
+    {
+     "term": "shahada",
+     "definition": "the declaration of faith: \"there is no god but god, and muhammad is the messenger of god.\""
+    },
+    {
+     "term": "sharia",
+     "definition": "\"the way\": islamic law and ethics, worked out by scholars from the quran and sunnah."
+    },
+    {
+     "term": "shia",
+     "definition": "the second largest branch of islam, about a tenth to an eighth of muslims, who follow the line of ali and the imams."
+    },
+    {
+     "term": "sufism",
+     "definition": "the mystical path in islam, seeking closeness to god through prayer, remembrance, music, and poetry."
+    },
+    {
+     "term": "sunnah",
+     "definition": "the example of the prophet's words and life, known from the hadith."
+    },
+    {
+     "term": "sunni",
+     "definition": "the largest branch of islam, followed by most muslims, who accept the first four caliphs in order."
+    },
+    {
+     "term": "ummah",
+     "definition": "the worldwide community of all muslims."
+    },
+    {
+     "term": "zakat",
+     "definition": "the yearly giving of a share of one's wealth to the poor and needy."
+    }
+   ]
+  },
+  {
+   "slug": "hinduism",
+   "name": "hinduism",
+   "began": "no single founder; roots in the vedas, c. 1500 bce, and older",
+   "followers": "about 1.2 billion, mostly in india and nepal",
+   "creation": "the universe is created, sustained, and dissolved again and again, without beginning. in one telling, brahma the creator is born on a lotus from the navel of vishnu. an old hymn of the rigveda asks who really knows how it began.",
+   "age": "time runs in vast cycles. one day of brahma, a kalpa, lasts 4.32 billion years, close to the scientific age of the earth. we now live in the kali yuga, the last and darkest of four ages, which tradition says began in 3102 bce.",
+   "events": [
+    {
+     "kind": "tradition",
+     "when": "before creation",
+     "text": "\"then there was neither being nor non-being.\" the creation hymn of the rigveda asks how it all began, and ends: perhaps even the one who watches from the highest heaven does not know"
+    },
+    {
+     "kind": "tradition",
+     "when": "the dawn of a kalpa",
+     "text": "vishnu sleeps on the great serpent shesha, floating on the cosmic ocean. a lotus grows from his navel, and on it brahma is born and creates the worlds"
+    },
+    {
+     "kind": "tradition",
+     "when": "every day of brahma",
+     "text": "a day of brahma, a kalpa, lasts 4.32 billion years, and his night as long. at night the worlds dissolve; at dawn they are made again. after a hundred years of such days, all dissolves and a new brahma is born"
+    },
+    {
+     "kind": "tradition",
+     "when": "the first flood",
+     "text": "vishnu, as the fish matsya, warns manu of a great flood and tows his boat to safety with the seeds of all life and the seven sages"
+    },
+    {
+     "kind": "tradition",
+     "when": "satya yuga: 1,728,000 years",
+     "text": "the age of truth. dharma stands firm on four legs; people are good, wise, and live very long lives"
+    },
+    {
+     "kind": "tradition",
+     "when": "treta yuga: 1,296,000 years",
+     "text": "dharma stands on three legs. rama, the seventh avatar of vishnu, rescues his wife sita from the demon king ravana: the story of the ramayana"
+    },
+    {
+     "kind": "tradition",
+     "when": "dvapara yuga: 864,000 years",
+     "text": "dharma stands on two legs. krishna, the eighth avatar, is born; he guides arjuna in the great war at kurukshetra, and his teaching becomes the bhagavad gita"
+    },
+    {
+     "kind": "tradition",
+     "when": "3102 bce, by tradition",
+     "text": "krishna leaves the world and the kali yuga begins: the age of strife, 432,000 years long, in which we live now"
+    },
+    {
+     "kind": "history",
+     "when": "c. 2600–1900 bce",
+     "text": "the indus cities flourish; some of their seals show figures in yoga-like poses, but how they relate to later hinduism is debated"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1500–1200 bce",
+     "text": "the hymns of the rigveda are composed in early sanskrit and passed down by memory, word for word, for many centuries"
+    },
+    {
+     "kind": "history",
+     "when": "c. 800–200 bce",
+     "text": "the upanishads explore the self (atman), ultimate reality (brahman), karma, and rebirth"
+    },
+    {
+     "kind": "history",
+     "when": "c. 400 bce–400 ce",
+     "text": "the great epics, the mahabharata and the ramayana, take their final form; the bhagavad gita becomes part of the mahabharata"
+    },
+    {
+     "kind": "history",
+     "when": "c. 320–550 ce",
+     "text": "in the gupta age, the puranas are written, and the first stone temples to vishnu, shiva, and the goddess are built"
+    },
+    {
+     "kind": "history",
+     "when": "c. 600–900 ce",
+     "text": "tamil poet-saints, the alvars and nayanars, sing of loving devotion (bhakti) to vishnu and shiva"
+    },
+    {
+     "kind": "history",
+     "when": "c. 800 ce",
+     "text": "adi shankara teaches that the self and brahman are one (advaita), and founds monasteries at the four corners of india"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1100",
+     "text": "ramanuja teaches that loving devotion to vishnu leads to liberation"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1113–1150",
+     "text": "the khmer king suryavarman ii builds angkor wat in cambodia, a vast temple to vishnu"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1510",
+     "text": "chaitanya leads ecstatic singing of krishna's names in bengal; in rajasthan, mirabai writes songs of love for krishna"
+    },
+    {
+     "kind": "history",
+     "when": "1574",
+     "text": "tulsidas begins the ramcharitmanas, a retelling of the ramayana in hindi, still recited across north india"
+    },
+    {
+     "kind": "history",
+     "when": "1828",
+     "text": "ram mohan roy founds the brahmo samaj, calling for reform and the worship of one god"
+    },
+    {
+     "kind": "history",
+     "when": "1893",
+     "text": "swami vivekananda speaks at the parliament of the world's religions in chicago, bringing hindu teaching to the west"
+    },
+    {
+     "kind": "history",
+     "when": "1947",
+     "text": "india becomes independent as a secular republic; partition divides hindus and muslims with great bloodshed"
+    },
+    {
+     "kind": "history",
+     "when": "1966",
+     "text": "a. c. bhaktivedanta swami prabhupada founds the hare krishna movement in new york"
+    },
+    {
+     "kind": "history",
+     "when": "today",
+     "text": "about 1.2 billion hindus live mainly in india and nepal; the kumbh mela, held every twelve years at prayagraj, is often called the largest gathering of people on earth"
+    },
+    {
+     "kind": "tradition",
+     "when": "the end of the kali yuga",
+     "text": "kalki, the tenth avatar of vishnu, will come on a white horse to end the age of darkness, and a new satya yuga will begin"
+    }
+   ],
+   "people": [
+    {
+     "name": "manu",
+     "dates": "the first of this age",
+     "kind": "tradition",
+     "role": "the forefather of humankind"
+    },
+    {
+     "name": "vyasa",
+     "dates": "the end of the dvapara yuga, by tradition",
+     "kind": "tradition",
+     "role": "sage"
+    },
+    {
+     "name": "valmiki",
+     "dates": "the treta yuga, by tradition",
+     "kind": "tradition",
+     "role": "sage and poet"
+    },
+    {
+     "name": "rama",
+     "dates": "the treta yuga, by tradition",
+     "kind": "tradition",
+     "role": "prince of ayodhya and avatar of vishnu"
+    },
+    {
+     "name": "sita",
+     "dates": "the treta yuga, by tradition",
+     "kind": "tradition",
+     "role": "wife of rama"
+    },
+    {
+     "name": "hanuman",
+     "dates": "the treta yuga, by tradition",
+     "kind": "tradition",
+     "role": "the monkey god"
+    },
+    {
+     "name": "krishna",
+     "dates": "died 3102 bce, by tradition",
+     "kind": "tradition",
+     "role": "avatar of vishnu"
+    },
+    {
+     "name": "arjuna",
+     "dates": "the dvapara yuga, by tradition",
+     "kind": "tradition",
+     "role": "warrior prince"
+    },
+    {
+     "name": "adi shankara",
+     "dates": "8th century",
+     "kind": "history",
+     "role": "philosopher and teacher"
+    },
+    {
+     "name": "ramanuja",
+     "dates": "c. 1017-1137, by tradition",
+     "kind": "history",
+     "role": "philosopher and teacher"
+    },
+    {
+     "name": "chaitanya",
+     "dates": "1486-1534",
+     "kind": "history",
+     "role": "saint of bengal"
+    },
+    {
+     "name": "mirabai",
+     "dates": "c. 1498-1547",
+     "kind": "history",
+     "role": "princess and poet-saint"
+    },
+    {
+     "name": "tulsidas",
+     "dates": "c. 1532-1623",
+     "kind": "history",
+     "role": "poet"
+    },
+    {
+     "name": "ram mohan roy",
+     "dates": "1772-1833",
+     "kind": "history",
+     "role": "reformer"
+    },
+    {
+     "name": "ramakrishna",
+     "dates": "1836-1886",
+     "kind": "history",
+     "role": "mystic of kolkata"
+    },
+    {
+     "name": "swami vivekananda",
+     "dates": "1863-1902",
+     "kind": "history",
+     "role": "monk and teacher"
+    },
+    {
+     "name": "mahatma gandhi",
+     "dates": "1869-1948",
+     "kind": "history",
+     "role": "leader of india's independence movement"
+    },
+    {
+     "name": "a. c. bhaktivedanta swami prabhupada",
+     "dates": "1896-1977",
+     "kind": "history",
+     "role": "monk and teacher"
+    }
+   ],
+   "glossary": [
+    {
+     "term": "atman",
+     "definition": "the true self or soul, which is not born and does not die."
+    },
+    {
+     "term": "avatar",
+     "definition": "a god coming down to earth in bodily form. vishnu has ten main avatars, including rama and krishna."
+    },
+    {
+     "term": "bhagavad gita",
+     "definition": "\"the song of the lord\": krishna's teaching to arjuna in the mahabharata, on duty, devotion, and the self."
+    },
+    {
+     "term": "bhakti",
+     "definition": "loving devotion to a personal god, such as vishnu, shiva, or the goddess."
+    },
+    {
+     "term": "brahman",
+     "definition": "the ultimate reality behind everything, of which all gods are forms."
+    },
+    {
+     "term": "dharma",
+     "definition": "the right order of things, and each person's duty within it."
+    },
+    {
+     "term": "diwali",
+     "definition": "the festival of lights in autumn, celebrating the victory of light over darkness and rama's return home."
+    },
+    {
+     "term": "kalpa",
+     "definition": "a day of brahma: 4.32 billion years, made of a thousand cycles of the four yugas."
+    },
+    {
+     "term": "karma",
+     "definition": "the law that every action has consequences, in this life or the next."
+    },
+    {
+     "term": "moksha",
+     "definition": "liberation from the cycle of rebirth, the highest goal of life."
+    },
+    {
+     "term": "om",
+     "definition": "the sacred sound said at the start of prayers, seen as the sound of brahman."
+    },
+    {
+     "term": "puja",
+     "definition": "worship, at home or in a temple, with offerings of flowers, food, light, and incense."
+    },
+    {
+     "term": "samsara",
+     "definition": "the endless cycle of birth, death, and rebirth."
+    },
+    {
+     "term": "trimurti",
+     "definition": "the three great gods: brahma the creator, vishnu the preserver, and shiva the destroyer and renewer."
+    },
+    {
+     "term": "upanishads",
+     "definition": "philosophical texts at the end of the vedas, about the self and ultimate reality."
+    },
+    {
+     "term": "vedas",
+     "definition": "the oldest scriptures, hymns and rituals in sanskrit, believed to have been heard by ancient seers."
+    },
+    {
+     "term": "yoga",
+     "definition": "\"joining\": paths of discipline of body and mind that lead toward union with the divine."
+    },
+    {
+     "term": "yuga",
+     "definition": "one of four ages in each cycle of time: satya, treta, dvapara, and kali, each shorter and darker than the last."
+    }
+   ]
+  },
+  {
+   "slug": "buddhism",
+   "name": "buddhism",
+   "began": "5th century bce, in northern india",
+   "followers": "about 500 million, mostly in east and southeast asia",
+   "creation": "the buddha set aside the question of how the world began as not helpful for ending suffering. buddhist texts describe countless world systems that form, last, decay, and form again.",
+   "age": "time has no known beginning. it is measured in kalpas, eons so long that a mountain wiped with a silk cloth once a century would wear away first. many buddhas have come in past eons, and one, maitreya, is still to come.",
+   "events": [
+    {
+     "kind": "tradition",
+     "when": "beginningless time",
+     "text": "the buddha teaches that no first beginning of the round of rebirth can be found. world systems without number arise, last, decline, and pass away"
+    },
+    {
+     "kind": "tradition",
+     "when": "every great kalpa",
+     "text": "each world passes through four long stages: forming, lasting, falling apart, and emptiness, and then forms again"
+    },
+    {
+     "kind": "tradition",
+     "when": "countless eons ago",
+     "text": "the ascetic sumedha meets the buddha dipankara and vows to become a buddha himself. over countless lives he perfects generosity, patience, and wisdom, as told in the jataka tales"
+    },
+    {
+     "kind": "tradition",
+     "when": "in the tushita heaven",
+     "text": "the future buddha waits in heaven for the right time, then chooses to be born as prince siddhartha"
+    },
+    {
+     "kind": "tradition",
+     "when": "the birth",
+     "text": "queen maya gives birth to siddhartha in the lumbini garden. the baby takes seven steps, and a sage foretells he will be either a great king or a buddha"
+    },
+    {
+     "kind": "history",
+     "when": "c. 480 bce",
+     "text": "most historians place the buddha's birth around 480 bce at lumbini, in modern nepal; the theravada tradition dates it to 623 bce"
+    },
+    {
+     "kind": "tradition",
+     "when": "at the age of 29",
+     "text": "outside the palace, siddhartha sees an old man, a sick man, a corpse, and a wandering holy man. he leaves his family and his wealth to seek the end of suffering"
+    },
+    {
+     "kind": "tradition",
+     "when": "at the age of 35",
+     "text": "sitting under the bodhi tree at bodh gaya, he overcomes the tempter mara and wakes up to the truth: he is now the buddha"
+    },
+    {
+     "kind": "tradition",
+     "when": "the first sermon",
+     "text": "in the deer park at sarnath, the buddha teaches the four noble truths to five companions, who become the first monks"
+    },
+    {
+     "kind": "tradition",
+     "when": "at the age of 80",
+     "text": "after 45 years of teaching, the buddha passes into final nirvana at kushinagar"
+    },
+    {
+     "kind": "history",
+     "when": "c. 400 bce",
+     "text": "according to tradition, 500 monks meet to recite the teachings together; they are passed down by memory for centuries"
+    },
+    {
+     "kind": "history",
+     "when": "c. 260 bce",
+     "text": "the emperor ashoka turns to buddhism after the slaughter at kalinga and sends teachers across and beyond india, including his son mahinda to sri lanka"
+    },
+    {
+     "kind": "history",
+     "when": "c. 29 bce",
+     "text": "monks in sri lanka write down the teachings in the pali language, the pali canon of theravada buddhism"
+    },
+    {
+     "kind": "history",
+     "when": "c. 65 ce",
+     "text": "buddhism reaches china along the silk roads; by tradition the white horse temple is founded at luoyang"
+    },
+    {
+     "kind": "history",
+     "when": "c. 100 ce",
+     "text": "mahayana sutras, such as the lotus sutra and the perfection of wisdom, appear, teaching the path of the bodhisattva"
+    },
+    {
+     "kind": "history",
+     "when": "c. 150–250 ce",
+     "text": "nagarjuna teaches that all things are empty of fixed, separate existence"
+    },
+    {
+     "kind": "history",
+     "when": "372 ce",
+     "text": "buddhism reaches korea"
+    },
+    {
+     "kind": "history",
+     "when": "5th century",
+     "text": "the monastery university of nalanda is founded in india; it will draw students from all over asia"
+    },
+    {
+     "kind": "history",
+     "when": "538 ce",
+     "text": "a korean king sends an image of the buddha and sutras to japan"
+    },
+    {
+     "kind": "history",
+     "when": "629–645 ce",
+     "text": "the chinese monk xuanzang walks to india to collect scriptures and brings back hundreds of texts"
+    },
+    {
+     "kind": "history",
+     "when": "c. 779 ce",
+     "text": "samye, the first buddhist monastery in tibet, is completed"
+    },
+    {
+     "kind": "history",
+     "when": "c. 800 ce",
+     "text": "the great stupa of borobudur is built on java"
+    },
+    {
+     "kind": "history",
+     "when": "868 ce",
+     "text": "the diamond sutra is printed in china, the oldest dated printed book"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1193",
+     "text": "invaders destroy nalanda; buddhism fades away in most of india"
+    },
+    {
+     "kind": "history",
+     "when": "1227",
+     "text": "dogen returns from china and brings soto zen to japan"
+    },
+    {
+     "kind": "history",
+     "when": "1642",
+     "text": "the fifth dalai lama becomes the ruler of tibet"
+    },
+    {
+     "kind": "history",
+     "when": "1956",
+     "text": "b. r. ambedkar and about half a million dalits become buddhists at nagpur, rejecting caste"
+    },
+    {
+     "kind": "history",
+     "when": "1959",
+     "text": "the fourteenth dalai lama flees chinese rule in tibet and settles in india"
+    },
+    {
+     "kind": "history",
+     "when": "today",
+     "text": "about 500 million buddhists live mostly in east and southeast asia; buddhist meditation has spread worldwide"
+    },
+    {
+     "kind": "tradition",
+     "when": "in the distant future",
+     "text": "when the teaching has been forgotten, maitreya, the next buddha, will be born and teach the path again"
+    }
+   ],
+   "people": [
+    {
+     "name": "dipankara",
+     "dates": "countless eons ago",
+     "kind": "tradition",
+     "role": "a buddha of the distant past"
+    },
+    {
+     "name": "maya",
+     "dates": "mother of the buddha",
+     "kind": "tradition",
+     "role": "queen of the shakyas"
+    },
+    {
+     "name": "siddhartha gautama",
+     "dates": "c. 480-400 bce",
+     "kind": "history",
+     "role": "the buddha, \"the awakened one\""
+    },
+    {
+     "name": "yasodhara",
+     "dates": "wife of siddhartha",
+     "kind": "tradition",
+     "role": "princess, later a nun"
+    },
+    {
+     "name": "mahapajapati",
+     "dates": "aunt and foster mother of the buddha",
+     "kind": "tradition",
+     "role": "the first buddhist nun"
+    },
+    {
+     "name": "ananda",
+     "dates": "cousin of the buddha",
+     "kind": "tradition",
+     "role": "the buddha's attendant"
+    },
+    {
+     "name": "ashoka",
+     "dates": "c. 304-232 bce",
+     "kind": "history",
+     "role": "maurya emperor"
+    },
+    {
+     "name": "nagarjuna",
+     "dates": "c. 150-250",
+     "kind": "history",
+     "role": "philosopher"
+    },
+    {
+     "name": "buddhaghosa",
+     "dates": "5th century",
+     "kind": "history",
+     "role": "monk and scholar in sri lanka"
+    },
+    {
+     "name": "bodhidharma",
+     "dates": "5th or 6th century",
+     "kind": "tradition",
+     "role": "indian monk"
+    },
+    {
+     "name": "xuanzang",
+     "dates": "c. 602-664",
+     "kind": "history",
+     "role": "chinese monk and translator"
+    },
+    {
+     "name": "padmasambhava",
+     "dates": "8th century",
+     "kind": "history",
+     "role": "indian teacher in tibet"
+    },
+    {
+     "name": "milarepa",
+     "dates": "c. 1040-1123",
+     "kind": "history",
+     "role": "tibetan yogi and poet"
+    },
+    {
+     "name": "dogen",
+     "dates": "1200-1253",
+     "kind": "history",
+     "role": "japanese zen master"
+    },
+    {
+     "name": "nichiren",
+     "dates": "1222-1282",
+     "kind": "history",
+     "role": "japanese monk"
+    },
+    {
+     "name": "b. r. ambedkar",
+     "dates": "1891-1956",
+     "kind": "history",
+     "role": "indian lawyer and statesman"
+    },
+    {
+     "name": "thich nhat hanh",
+     "dates": "1926-2022",
+     "kind": "history",
+     "role": "vietnamese zen monk"
+    },
+    {
+     "name": "tenzin gyatso",
+     "dates": "1935-present",
+     "kind": "history",
+     "role": "the fourteenth dalai lama"
+    },
+    {
+     "name": "maitreya",
+     "dates": "the distant future",
+     "kind": "tradition",
+     "role": "the next buddha"
+    }
+   ],
+   "glossary": [
+    {
+     "term": "anatta",
+     "definition": "\"not-self\": the teaching that there is no fixed, unchanging self inside a person."
+    },
+    {
+     "term": "bodhisattva",
+     "definition": "a being on the way to buddhahood; in mahayana, one who puts off final nirvana to help all beings."
+    },
+    {
+     "term": "buddha",
+     "definition": "\"awakened one\": someone who has fully understood the truth. the buddha of our age is siddhartha gautama."
+    },
+    {
+     "term": "dalai lama",
+     "definition": "the leading teacher of the gelug school of tibetan buddhism, believed to be reborn in each generation."
+    },
+    {
+     "term": "dharma",
+     "definition": "in buddhism, the teaching of the buddha and the truth it points to."
+    },
+    {
+     "term": "dukkha",
+     "definition": "suffering, or the unsatisfactory nature of life, the first of the four noble truths."
+    },
+    {
+     "term": "eightfold path",
+     "definition": "the way to end suffering: right view, intention, speech, action, livelihood, effort, mindfulness, and concentration."
+    },
+    {
+     "term": "four noble truths",
+     "definition": "life involves suffering; suffering comes from craving; it can end; and the eightfold path is the way."
+    },
+    {
+     "term": "kalpa",
+     "definition": "an eon, a span of time so long it can only be described by comparisons."
+    },
+    {
+     "term": "karma",
+     "definition": "intentional action, which shapes a person's future in this life and in rebirth."
+    },
+    {
+     "term": "mahayana",
+     "definition": "\"the great vehicle\": the branch of buddhism of china, korea, japan, and vietnam, centered on the bodhisattva."
+    },
+    {
+     "term": "meditation",
+     "definition": "training the mind in calm and insight, at the heart of buddhist practice."
+    },
+    {
+     "term": "nirvana",
+     "definition": "\"blowing out\": the end of craving and suffering, and freedom from rebirth."
+    },
+    {
+     "term": "sangha",
+     "definition": "the community of monks and nuns, and in a wider sense all buddhists."
+    },
+    {
+     "term": "stupa",
+     "definition": "a domed monument holding relics of the buddha or a saint."
+    },
+    {
+     "term": "sutra",
+     "definition": "a discourse of the buddha, or a text believed to record his teaching."
+    },
+    {
+     "term": "theravada",
+     "definition": "\"the way of the elders\": the branch of buddhism of sri lanka, myanmar, thailand, laos, and cambodia."
+    },
+    {
+     "term": "vajrayana",
+     "definition": "\"the diamond vehicle\": the buddhism of tibet, mongolia, and bhutan, with special rituals and teachers."
+    },
+    {
+     "term": "zen",
+     "definition": "a school of mahayana buddhism, chan in chinese, that stresses meditation and sudden insight."
+    }
+   ]
+  },
+  {
+   "slug": "sikhism",
+   "name": "sikhism",
+   "began": "c. 1500 ce, in the punjab",
+   "followers": "about 25 to 30 million, most in the punjab",
+   "creation": "before creation there was only the one, formless and in deep stillness. by god's will, the hukam, the universe came to be, with countless worlds and skies.",
+   "age": "guru nanak taught that only the creator knows when the world was made: no scholar, holy book, or calendar can say. many sikhs see science and scripture as describing the same vast creation.",
+   "events": [
+    {
+     "kind": "tradition",
+     "when": "before creation",
+     "text": "\"for endless ages there was only darkness.\" there was no earth and no sky, no day or night, no sun or moon: only the one, in deep, formless stillness"
+    },
+    {
+     "kind": "tradition",
+     "when": "by god's will",
+     "text": "by the hukam, the will of the one, the universe comes into being: \"with one word you made the vast expanse, and hundreds of thousands of rivers began to flow\""
+    },
+    {
+     "kind": "tradition",
+     "when": "countless worlds",
+     "text": "guru nanak sings of worlds beneath worlds and hundreds of thousands of skies above, too many to count"
+    },
+    {
+     "kind": "tradition",
+     "when": "the day of creation",
+     "text": "\"what was that time, what was that moment ... when the world was made?\" no scholar or holy book knows; only the creator knows"
+    },
+    {
+     "kind": "history",
+     "when": "1469",
+     "text": "nanak is born at talwandi, now nankana sahib in pakistan, into a hindu family"
+    },
+    {
+     "kind": "tradition",
+     "when": "c. 1499",
+     "text": "nanak goes into the river bein and disappears for three days. he returns saying \"there is no hindu, there is no muslim\", and begins his mission"
+    },
+    {
+     "kind": "tradition",
+     "when": "c. 1500-1521",
+     "text": "guru nanak makes long journeys with the musician mardana, across india and, by tradition, to tibet, sri lanka, mecca, and baghdad"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1521",
+     "text": "guru nanak settles at kartarpur, where his followers farm, pray, sing, and eat together"
+    },
+    {
+     "kind": "history",
+     "when": "1539",
+     "text": "guru nanak dies, naming his disciple angad as the second guru; guru angad spreads the gurmukhi script"
+    },
+    {
+     "kind": "history",
+     "when": "1552–1574",
+     "text": "guru amar das insists that everyone, rich or poor, eat together in the langar before meeting him"
+    },
+    {
+     "kind": "history",
+     "when": "1577",
+     "text": "guru ram das founds the city of amritsar around a sacred pool"
+    },
+    {
+     "kind": "history",
+     "when": "1604",
+     "text": "guru arjan compiles the adi granth, the sikh scripture, and installs it in the harmandir sahib at amritsar"
+    },
+    {
+     "kind": "history",
+     "when": "1606",
+     "text": "guru arjan is tortured and put to death on the orders of the mughal emperor jahangir, the first sikh martyr"
+    },
+    {
+     "kind": "history",
+     "when": "1606",
+     "text": "guru hargobind wears two swords, for spiritual and worldly power, and builds the akal takht"
+    },
+    {
+     "kind": "history",
+     "when": "1675",
+     "text": "guru tegh bahadur is beheaded in delhi on aurangzeb's orders after defending the right of hindus to keep their faith"
+    },
+    {
+     "kind": "history",
+     "when": "1699",
+     "text": "at the vaisakhi festival, guru gobind singh founds the khalsa, the order of initiated sikhs, with the five beloved ones"
+    },
+    {
+     "kind": "history",
+     "when": "1708",
+     "text": "before he dies, guru gobind singh declares that the scripture, the guru granth sahib, will be the guru forever"
+    },
+    {
+     "kind": "history",
+     "when": "1716",
+     "text": "banda singh bahadur, who led a sikh uprising against mughal rule, is captured and executed in delhi"
+    },
+    {
+     "kind": "history",
+     "when": "1799",
+     "text": "ranjit singh takes lahore and goes on to build the sikh empire"
+    },
+    {
+     "kind": "history",
+     "when": "c. 1830",
+     "text": "under ranjit singh the upper floors of the harmandir sahib are covered in gold, and it becomes known as the golden temple"
+    },
+    {
+     "kind": "history",
+     "when": "1849",
+     "text": "after two wars, the british conquer the punjab"
+    },
+    {
+     "kind": "history",
+     "when": "1919",
+     "text": "british troops fire on a crowd gathered in the jallianwala bagh at amritsar on vaisakhi day, killing hundreds"
+    },
+    {
+     "kind": "history",
+     "when": "1947",
+     "text": "partition splits the punjab between india and pakistan; millions of sikhs leave their homes in the west"
+    },
+    {
+     "kind": "history",
+     "when": "1984",
+     "text": "the indian army storms the golden temple; after indira gandhi is killed by her sikh bodyguards, thousands of sikhs are murdered in riots"
+    },
+    {
+     "kind": "history",
+     "when": "today",
+     "text": "about 25 to 30 million sikhs live mostly in the punjab, with large communities in britain, canada, and the united states"
+    },
+    {
+     "kind": "tradition",
+     "when": "the goal of life",
+     "text": "by remembering god's name and living truthfully, the soul is freed from ego and merges with the one, like a drop of water in the ocean"
+    }
+   ],
+   "people": [
+    {
+     "name": "guru nanak",
+     "dates": "1469-1539",
+     "kind": "history",
+     "role": "the first guru and founder of sikhism"
+    },
+    {
+     "name": "bhai mardana",
+     "dates": "c. 1459-1534",
+     "kind": "history",
+     "role": "musician"
+    },
+    {
+     "name": "guru angad",
+     "dates": "1504-1552",
+     "kind": "history",
+     "role": "the second guru"
+    },
+    {
+     "name": "mata khivi",
+     "dates": "c. 1506-1582",
+     "kind": "history",
+     "role": "wife of guru angad"
+    },
+    {
+     "name": "guru amar das",
+     "dates": "1479-1574",
+     "kind": "history",
+     "role": "the third guru"
+    },
+    {
+     "name": "guru ram das",
+     "dates": "1534-1581",
+     "kind": "history",
+     "role": "the fourth guru"
+    },
+    {
+     "name": "guru arjan",
+     "dates": "1563-1606",
+     "kind": "history",
+     "role": "the fifth guru"
+    },
+    {
+     "name": "guru hargobind",
+     "dates": "1595-1644",
+     "kind": "history",
+     "role": "the sixth guru"
+    },
+    {
+     "name": "guru har rai",
+     "dates": "1630-1661",
+     "kind": "history",
+     "role": "the seventh guru"
+    },
+    {
+     "name": "guru har krishan",
+     "dates": "1656-1664",
+     "kind": "history",
+     "role": "the eighth guru"
+    },
+    {
+     "name": "guru tegh bahadur",
+     "dates": "1621-1675",
+     "kind": "history",
+     "role": "the ninth guru"
+    },
+    {
+     "name": "guru gobind singh",
+     "dates": "1666-1708",
+     "kind": "history",
+     "role": "the tenth guru"
+    },
+    {
+     "name": "mata sahib kaur",
+     "dates": "1681-1747",
+     "kind": "history",
+     "role": "wife of guru gobind singh"
+    },
+    {
+     "name": "banda singh bahadur",
+     "dates": "1670-1716",
+     "kind": "history",
+     "role": "sikh military leader"
+    },
+    {
+     "name": "ranjit singh",
+     "dates": "1780-1839",
+     "kind": "history",
+     "role": "maharaja of the punjab"
+    }
+   ],
+   "glossary": [
+    {
+     "term": "amrit",
+     "definition": "\"nectar\": the sweetened water used when a sikh is initiated into the khalsa."
+    },
+    {
+     "term": "five ks",
+     "definition": "the five signs worn by initiated sikhs: kesh (uncut hair), kara (steel bracelet), kanga (comb), kachera (cotton undershorts), and kirpan (small sword)."
+    },
+    {
+     "term": "gurdwara",
+     "definition": "\"the guru's door\": a sikh place of worship, where the guru granth sahib is kept and the langar is served."
+    },
+    {
+     "term": "gurmukhi",
+     "definition": "\"from the guru's mouth\": the script in which the punjabi language and the guru granth sahib are written."
+    },
+    {
+     "term": "guru",
+     "definition": "\"teacher\": in sikhism, the ten human gurus from nanak to gobind singh, and after them the scripture itself."
+    },
+    {
+     "term": "guru granth sahib",
+     "definition": "the sikh scripture, with hymns by six gurus and by hindu and muslim saints, treated as the living guru."
+    },
+    {
+     "term": "hukam",
+     "definition": "the will or order of god, by which everything happens."
+    },
+    {
+     "term": "ik onkar",
+     "definition": "\"there is one god\": the first words of the guru granth sahib, and the symbol of sikhism."
+    },
+    {
+     "term": "khalsa",
+     "definition": "the community of initiated sikhs, founded by guru gobind singh in 1699."
+    },
+    {
+     "term": "kirtan",
+     "definition": "singing the hymns of the scripture to music, the heart of sikh worship."
+    },
+    {
+     "term": "langar",
+     "definition": "the free kitchen in every gurdwara, where all sit together and eat the same food, whatever their caste or faith."
+    },
+    {
+     "term": "miri piri",
+     "definition": "worldly and spiritual power, shown by guru hargobind's two swords."
+    },
+    {
+     "term": "naam simran",
+     "definition": "remembering god by repeating and meditating on god's name."
+    },
+    {
+     "term": "panj pyare",
+     "definition": "\"the five beloved ones\": the first five sikhs initiated into the khalsa in 1699."
+    },
+    {
+     "term": "sangat",
+     "definition": "the congregation of sikhs gathered in worship."
+    },
+    {
+     "term": "seva",
+     "definition": "selfless service to others, without thought of reward."
+    },
+    {
+     "term": "vaisakhi",
+     "definition": "the spring harvest festival, on which the khalsa was founded in 1699."
+    },
+    {
+     "term": "waheguru",
+     "definition": "\"wonderful lord\": the name sikhs most often use for god."
+    }
+   ]
+  }
  ]
 }
