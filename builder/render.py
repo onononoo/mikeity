@@ -6,6 +6,7 @@ import os
 from collections import Counter
 
 from . import dates, markup
+from .loader import record
 from .templates import environment
 from .util import plural, read, write
 
@@ -50,8 +51,15 @@ class renderer:
         self.out = out
         self.env = environment(os.path.join(s.root, "templates"))
         self.written = []
+        self.reports = []
+        # what the steps in other languages found (see extras.py); empty until the builder sets it
+        self.extras = None
 
     # --------------------------------------------------------------- helpers
+
+    @property
+    def more(self):
+        return self.extras or record(charts=None, gaps=None, contemporaries=None, log=[])
 
     def page(self, filename, template, title, crumbs=None, **ctx):
         body = self.env.render(template, ctx, site=self.s, dates=dates, title=title)
@@ -111,10 +119,14 @@ class renderer:
         )
 
     def people(self):
+        together = self.more.contemporaries or {}
+        for p in self.s.people:
+            p.together = together.get(p.slug)
         self.page(
             "people.html", "people.html", "people",
             crumbs=[("index.html", "home")],
             people=self.s.people,
+            found_together=bool(together),
             scripts=["sort.js"],
         )
 
@@ -156,11 +168,20 @@ class renderer:
             crumbs=[("index.html", "home")],
             era_rows=era_rows, region_rows=region_rows, tag_rows=tag_rows,
             first=first, last=last,
-            reports=getattr(self, "reports", []),
+            reports=self.reports,
+            extras=self.more,
+            crowded=self._crowded(),
             totals=dict(words=sum(e.doc.words for e in s.eras), events=len(s.events),
                         people=len(s.people), terms=len(s.terms)),
             scripts=["sort.js"],
         )
+
+    def _crowded(self, n=10):
+        """the people who shared their lifetime with the most others (from the c# step)."""
+        together = self.more.contemporaries or {}
+        rows = [(together[p.slug].count, p) for p in self.s.people if p.slug in together]
+        rows.sort(key=lambda x: (-x[0], x[1].life.start))
+        return [dict(person=p, count=k) for k, p in rows[:n] if k]
 
     def about(self):
         doc = markup.parse(read(os.path.join(self.s.root, "content", "about.txt")))

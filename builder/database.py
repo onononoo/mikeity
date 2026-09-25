@@ -24,7 +24,7 @@ def _century(year):
     return (y - 1) // 100 + 1
 
 
-def _life_known(p):
+def life_known(p):
     """true when a person's dates give a real birth and death year, not a century or a guess range."""
     text = p["dates"]
     return (p.life.is_range and "century" not in text and "present" not in text
@@ -69,7 +69,7 @@ def build(s, path):
     db.executemany(
         "insert into people (slug, name, dates, born, died, life_known, role, about, era, region)"
         " values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
-        [(p.slug, p.name, str(p.life), p.life.start, p.life.end, int(_life_known(p)), p.role,
+        [(p.slug, p.name, str(p.life), p.life.start, p.life.end, int(life_known(p)), p.role,
           p.about, p.era, p.region_rec.slug) for p in s.people],
     )
     db.executemany(

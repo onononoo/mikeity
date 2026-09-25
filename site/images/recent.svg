@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="300" viewBox="0 0 740 300" font-family="times new roman, times, serif">
+<title>a stacked bar chart of the 343 events since 3000 bce, one bar per century</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="44" y="18" font-size="13" text-anchor="start" font-weight="bold">events in each century since 3000 bce, coloured by part</text>
+<line x1="44" y1="250" x2="730" y2="250" stroke="#000000"/>
+<text x="40" y="254" font-size="11" text-anchor="end">0</text>
+<line x1="44" y1="206" x2="730" y2="206" stroke="#cccccc" stroke-dasharray="2,3"/>
+<text x="40" y="210" font-size="11" text-anchor="end">20</text>
+<line x1="44" y1="162" x2="730" y2="162" stroke="#cccccc" stroke-dasharray="2,3"/>
+<text x="40" y="166" font-size="11" text-anchor="end">40</text>
+<line x1="44" y1="118" x2="730" y2="118" stroke="#cccccc" stroke-dasharray="2,3"/>
+<text x="40" y="122" font-size="11" text-anchor="end">60</text>
+<line x1="44" y1="74" x2="730" y2="74" stroke="#cccccc" stroke-dasharray="2,3"/>
+<text x="40" y="78" font-size="11" text-anchor="end">80</text>
+<line x1="44" y1="30" x2="730" y2="30" stroke="#cccccc" stroke-dasharray="2,3"/>
+<text x="40" y="34" font-size="11" text-anchor="end">100</text>
+<rect x="44.5" y="245.6" width="12.5" height="4.4" fill="#cc9900"><title>3000 bce to 2900 bce: 2 events in part 4</title></rect>
+<line x1="44" y1="250" x2="44" y2="255" stroke="#000000"/>
+<text x="44" y="268" font-size="11" text-anchor="middle">3000 bce</text>
+<rect x="98.3" y="243.4" width="12.5" height="6.6" fill="#cc9900"><title>2600 bce to 2500 bce: 3 events in part 4</title></rect>
+<rect x="111.8" y="247.8" width="12.5" height="2.2" fill="#cc9900"><title>2500 bce to 2400 bce: 1 events in part 4</title></rect>
+<line x1="111.3" y1="250" x2="111.3" y2="255" stroke="#000000"/>
+<text x="111.3" y="268" font-size="11" text-anchor="middle">2500 bce</text>
+<rect x="125.2" y="247.8" width="12.5" height="2.2" fill="#cc9900"><title>2400 bce to 2300 bce: 1 events in part 4</title></rect>
+<rect x="165.6" y="247.8" width="12.5" height="2.2" fill="#cc9900"><title>2100 bce to 2000 bce: 1 events in part 4</title></rect>
+<rect x="179" y="243.4" width="12.5" height="6.6" fill="#cc9900"><title>2000 bce to 1900 bce: 3 events in part 4</title></rect>
+<line x1="178.5" y1="250" x2="178.5" y2="255" stroke="#000000"/>
+<text x="178.5" y="268" font-size="11" text-anchor="middle">2000 bce</text>
+<rect x="192.5" y="247.8" width="12.5" height="2.2" fill="#cc9900"><title>1900 bce to 1800 bce: 1 events in part 4</title></rect>
+<rect x="205.9" y="247.8" width="12.5" height="2.2" fill="#cc9900"><title>1800 bce to 1700 bce: 1 events in part 4</title></rect>
+<rect x="232.8" y="245.6" width="12.5" height="4.4" fill="#cc9900"><title>1600 bce to 1500 bce: 2 events in part 4</title></rect>
+<rect x="246.3" y="245.6" width="12.5" height="4.4" fill="#cc9900"><title>1500 bce to 1400 bce: 2 events in part 4</title></rect>
+<line x1="245.8" y1="250" x2="245.8" y2="255" stroke="#000000"/>
+<text x="245.8" y="268" font-size="11" text-anchor="middle">1500 bce</text>
+<rect x="259.7" y="243.4" width="12.5" height="6.6" fill="#cc9900"><title>1400 bce to 1300 bce: 3 events in part 4</title></rect>
+<rect x="273.2" y="243.4" width="12.5" height="6.6" fill="#cc9900"><title>1300 bce to 1200 bce: 3 events in part 4</title></rect>
+<rect x="286.6" y="241.2" width="12.5" height="8.8" fill="#cc9900"><title>1200 bce to 1100 bce: 4 events in part 4</title></rect>
+<rect x="300.1" y="245.6" width="12.5" height="4.4" fill="#cc9900"><title>1100 bce to 1000 bce: 2 events in part 4</title></rect>
+<rect x="313.5" y="245.6" width="12.5" height="4.4" fill="#cc9900"><title>1000 bce to 900 bce: 2 events in part 4</title></rect>
+<line x1="313" y1="250" x2="313" y2="255" stroke="#000000"/>
+<text x="313" y="268" font-size="11" text-anchor="middle">1000 bce</text>
+<rect x="327" y="245.6" width="12.5" height="4.4" fill="#cc9900"><title>900 bce to 800 bce: 2 events in part 4</title></rect>
+<rect x="340.4" y="239" width="12.5" height="11" fill="#990000"><title>800 bce to 700 bce: 5 events in part 5</title></rect>
+<rect x="353.9" y="247.8" width="12.5" height="2.2" fill="#990000"><title>700 bce to 600 bce: 1 events in part 5</title></rect>
+<rect x="367.3" y="236.8" width="12.5" height="13.2" fill="#990000"><title>600 bce to 500 bce: 6 events in part 5</title></rect>
+<rect x="380.8" y="234.6" width="12.5" height="15.4" fill="#990000"><title>500 bce to 400 bce: 7 events in part 5</title></rect>
+<line x1="380.3" y1="250" x2="380.3" y2="255" stroke="#000000"/>
+<text x="380.3" y="268" font-size="11" text-anchor="middle">500 bce</text>
+<rect x="394.2" y="241.2" width="12.5" height="8.8" fill="#990000"><title>400 bce to 300 bce: 4 events in part 5</title></rect>
+<rect x="407.7" y="234.6" width="12.5" height="15.4" fill="#990000"><title>300 bce to 200 bce: 7 events in part 5</title></rect>
+<rect x="421.1" y="245.6" width="12.5" height="4.4" fill="#990000"><title>200 bce to 100 bce: 2 events in part 5</title></rect>
+<rect x="434.6" y="241.2" width="12.5" height="8.8" fill="#990000"><title>100 bce to 1 ce: 4 events in part 5</title></rect>
+<rect x="448" y="243.4" width="12.5" height="6.6" fill="#990000"><title>1 ce to 100: 3 events in part 5</title></rect>
+<line x1="447.5" y1="250" x2="447.5" y2="255" stroke="#000000"/>
+<text x="447.5" y="268" font-size="11" text-anchor="middle">1 ce</text>
+<rect x="461.5" y="241.2" width="12.5" height="8.8" fill="#990000"><title>100 to 200: 4 events in part 5</title></rect>
+<rect x="474.9" y="241.2" width="12.5" height="8.8" fill="#990000"><title>200 to 300: 4 events in part 5</title></rect>
+<rect x="488.4" y="236.8" width="12.5" height="13.2" fill="#990000"><title>300 to 400: 6 events in part 5</title></rect>
+<rect x="501.8" y="247.8" width="12.5" height="2.2" fill="#990000"><title>400 to 500: 1 events in part 5</title></rect>
+<rect x="501.8" y="245.6" width="12.5" height="2.2" fill="#660066"><title>400 to 500: 1 events in part 6</title></rect>
+<rect x="515.3" y="239" width="12.5" height="11" fill="#660066"><title>500 to 600: 5 events in part 6</title></rect>
+<line x1="514.8" y1="250" x2="514.8" y2="255" stroke="#000000"/>
+<text x="514.8" y="268" font-size="11" text-anchor="middle">500</text>
+<rect x="528.7" y="236.8" width="12.5" height="13.2" fill="#660066"><title>600 to 700: 6 events in part 6</title></rect>
+<rect x="542.2" y="241.2" width="12.5" height="8.8" fill="#660066"><title>700 to 800: 4 events in part 6</title></rect>
+<rect x="555.6" y="239" width="12.5" height="11" fill="#660066"><title>800 to 900: 5 events in part 6</title></rect>
+<rect x="569.1" y="247.8" width="12.5" height="2.2" fill="#660066"><title>900 to 1000: 1 events in part 6</title></rect>
+<rect x="582.5" y="232.4" width="12.5" height="17.6" fill="#660066"><title>1000 to 1100: 8 events in part 6</title></rect>
+<line x1="582" y1="250" x2="582" y2="255" stroke="#000000"/>
+<text x="582" y="268" font-size="11" text-anchor="middle">1000</text>
+<rect x="596" y="245.6" width="12.5" height="4.4" fill="#660066"><title>1100 to 1200: 2 events in part 6</title></rect>
+<rect x="609.4" y="223.6" width="12.5" height="26.4" fill="#660066"><title>1200 to 1300: 12 events in part 6</title></rect>
+<rect x="622.9" y="236.8" width="12.5" height="13.2" fill="#660066"><title>1300 to 1400: 6 events in part 6</title></rect>
+<rect x="636.3" y="243.4" width="12.5" height="6.6" fill="#660066"><title>1400 to 1500: 3 events in part 6</title></rect>
+<rect x="636.3" y="230.2" width="12.5" height="13.2" fill="#000099"><title>1400 to 1500: 6 events in part 7</title></rect>
+<rect x="649.8" y="208.2" width="12.5" height="41.8" fill="#000099"><title>1500 to 1600: 19 events in part 7</title></rect>
+<line x1="649.3" y1="250" x2="649.3" y2="255" stroke="#000000"/>
+<text x="649.3" y="268" font-size="11" text-anchor="middle">1500</text>
+<rect x="663.2" y="219.2" width="12.5" height="30.8" fill="#000099"><title>1600 to 1700: 14 events in part 7</title></rect>
+<rect x="676.7" y="247.8" width="12.5" height="2.2" fill="#000099"><title>1700 to 1800: 1 events in part 7</title></rect>
+<rect x="676.7" y="208.2" width="12.5" height="39.6" fill="#006666"><title>1700 to 1800: 18 events in part 8</title></rect>
+<rect x="690.1" y="208.2" width="12.5" height="41.8" fill="#006666"><title>1800 to 1900: 19 events in part 8</title></rect>
+<rect x="690.1" y="146.6" width="12.5" height="61.6" fill="#336600"><title>1800 to 1900: 28 events in part 9</title></rect>
+<rect x="703.6" y="228" width="12.5" height="22" fill="#336600"><title>1900 to 2000: 10 events in part 9</title></rect>
+<rect x="703.6" y="151" width="12.5" height="77" fill="#999999"><title>1900 to 2000: 35 events in part 10</title></rect>
+<rect x="703.6" y="60.8" width="12.5" height="90.2" fill="#0066cc"><title>1900 to 2000: 41 events in part 11</title></rect>
+<rect x="717" y="223.6" width="12.5" height="26.4" fill="#0066cc"><title>2000 to 2100: 12 events in part 11</title></rect>
+<line x1="716.5" y1="250" x2="716.5" y2="255" stroke="#000000"/>
+<text x="716.5" y="268" font-size="11" text-anchor="middle">2000</text>
+<rect x="44" y="284" width="10" height="10" fill="#cc9900"/>
+<text x="58" y="293" font-size="11" text-anchor="start">part 4</text>
+<rect x="106" y="284" width="10" height="10" fill="#990000"/>
+<text x="120" y="293" font-size="11" text-anchor="start">part 5</text>
+<rect x="168" y="284" width="10" height="10" fill="#660066"/>
+<text x="182" y="293" font-size="11" text-anchor="start">part 6</text>
+<rect x="230" y="284" width="10" height="10" fill="#000099"/>
+<text x="244" y="293" font-size="11" text-anchor="start">part 7</text>
+<rect x="292" y="284" width="10" height="10" fill="#006666"/>
+<text x="306" y="293" font-size="11" text-anchor="start">part 8</text>
+<rect x="354" y="284" width="10" height="10" fill="#336600"/>
+<text x="368" y="293" font-size="11" text-anchor="start">part 9</text>
+<rect x="416" y="284" width="10" height="10" fill="#999999"/>
+<text x="430" y="293" font-size="11" text-anchor="start">part 10</text>
+<rect x="478" y="284" width="10" height="10" fill="#0066cc"/>
+<text x="492" y="293" font-size="11" text-anchor="start">part 11</text>
+</svg>

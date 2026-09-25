@@ -1,8 +1,10 @@
 <h1>people</h1>
 
 <p>everyone named on this site, in order of when they were born ({{ people|length }} people). click a column heading to sort the table another way. many early dates are only rough guesses.</p>
-
+{% if found_together %}
+<p class="small">"alive at the same time" lists up to four people whose lives overlapped, picking people from other parts of the world first. it only covers people whose birth and death years are both known, and it is worked out by a small c# program (<tt>tools/contemporaries.cs</tt>) each time the site is built.</p>
+{% endif %}
 <table class="grid sortable">
 <tr><th>name</th><th data-sort="number">lived</th><th data-sort="number">part</th><th>region</th><th>who they were</th></tr>
-{% for p in people %}<tr id="{{ p.slug }}"><td><b>{{ p.name }}</b></td><td data-value="{{ p.life.start }}" class="nowrap">{{ p.life }}</td><td data-value="{{ p.era_rec.number }}"><a href="{{ p.era }}.html">{{ p.era_rec.number }}</a></td><td>{{ p.region_rec.name }}</td><td>{{ p.role }}. {{ p.about }}</td></tr>
+{% for p in people %}<tr id="{{ p.slug }}"><td><b>{{ p.name }}</b></td><td data-value="{{ p.life.start }}" class="nowrap">{{ p.life }}</td><td data-value="{{ p.era_rec.number }}"><a href="{{ p.era }}.html">{{ p.era_rec.number }}</a></td><td>{{ p.region_rec.name }}</td><td>{{ p.role }}. {{ p.about }}{% if p.together.alongside %}<br><span class="small">alive at the same time: {% for o in p.together.alongside %}<a href="#{{ o.person.slug }}">{{ o.person.name }}</a> ({{ o.person.region_rec.name }}, {{ o.years }} years){% if not loop.last %}, {% endif %}{% endfor %}</span>{% endif %}</td></tr>
 {% endfor %}</table>

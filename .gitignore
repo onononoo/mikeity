@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 
-# the compiled c tool
+# the compiled c and c++ tools
 tools/timeline
 tools/timeline.exe
+tools/bin/

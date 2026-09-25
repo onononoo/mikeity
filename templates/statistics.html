@@ -15,6 +15,13 @@
 {% for row in era_rows %}<tr><td data-value="{{ row.era.number }}"><a href="{{ row.era.slug }}.html">{{ row.era.number }}. {{ row.era.title }}</a></td><td>{{ row.words|commas }}</td><td>{{ row.events }}</td><td>{{ row.people }}</td><td>{{ row.terms }}</td><td><tt>{{ row.bar }}</tt></td></tr>
 {% endfor %}</table>
 
+{% if extras.charts %}
+<h2 id="charts">when things happened</h2>
+
+<p>these charts are drawn by a small c++ program (<tt>tools/chart.cpp</tt>) from the <a href="data/events.tsv">timeline file</a>. point at a bar to see its numbers.</p>
+
+{% for c in extras.charts %}<p><img class="chart" src="{{ c.src }}" width="{{ c.width }}" height="{{ c.height }}" alt="{{ c.alt }}"></p>
+{% endfor %}{% endif %}
 <h2 id="regions">events by region</h2>
 
 <table class="grid">
@@ -27,6 +34,35 @@
 {% for row in tag_rows %}<tr><td>{{ row.tag }}</td><td>{{ row.n }}</td><td><tt>{{ row.bar }}</tt></td></tr>
 {% endfor %}</table>
 
+{% if extras.gaps %}
+<h2 id="quiet">the quietest stretches</h2>
+
+<p>the longest times since 3000 bce when nothing on the timeline was happening: the gap between the end of everything so far and the start of the next event. found by an awk script (<tt>tools/gaps.awk</tt>). quiet here only means this site has no event for it, not that nothing happened.</p>
+
+<table class="grid">
+<tr><th>years</th><th>after</th><th>and before</th></tr>
+{% for g in extras.gaps.quiet %}<tr><td>{{ g.years }}</td><td><i>{{ g.before_date }}</i>: {{ g.before }}</td><td><i>{{ g.after_date }}</i>: {{ g.after }}</td></tr>
+{% endfor %}</table>
+
+<h2 id="busy">the busiest years</h2>
+
+<p>single years with more than one event on the timeline (from the same awk script).</p>
+
+<table class="grid">
+<tr><th>year</th><th>events</th><th>what happened</th></tr>
+{% for b in extras.gaps.busy %}<tr><td><a href="timeline.html#from={{ b.year }}&amp;to={{ b.year }}">{{ b.date }}</a></td><td>{{ b.events }}</td><td>{% for w in b.what %}{{ w }}{% if not loop.last %}<br>{% endif %}{% endfor %}</td></tr>
+{% endfor %}</table>
+{% endif %}
+{% if crowded %}
+<h2 id="crowded">the most crowded lifetimes</h2>
+
+<p>the people who were alive at the same time as the most other people on this site (counting only people whose birth and death years are known). worked out by a c# program (<tt>tools/contemporaries.cs</tt>); see the <a href="people.html">people</a> page for who overlapped with whom.</p>
+
+<table class="grid">
+<tr><th>person</th><th>lived</th><th>alive at the same time as</th></tr>
+{% for row in crowded %}<tr><td><a href="people.html#{{ row.person.slug }}">{{ row.person.name }}</a></td><td>{{ row.person.life }}</td><td>{{ row.count }} others</td></tr>
+{% endfor %}</table>
+{% endif %}
 <h2 id="reports">database reports</h2>
 
 {% for rep in reports %}
@@ -39,3 +75,13 @@
 {% endfor %}</table>
 <details><summary class="small">show the sql</summary><pre>{{ rep.sql }}</pre></details>
 {% endfor %}
+
+<h2 id="made">how this page was made</h2>
+
+<p>the python builder writes every page, but some of the numbers above come from programs in other languages that it runs along the way. if one of them cannot run (say, no c++ compiler is installed) its section is simply left out.</p>
+
+<table class="grid">
+<tr><th>language</th><th>program</th><th>what it adds</th><th>this build</th></tr>
+<tr><td>sql</td><td><tt>sql/reports.sql</tt></td><td>the database reports</td><td>ran</td></tr>
+{% for step in extras.log %}<tr><td>{{ step.language }}</td><td><tt>{{ step.source }}</tt></td><td>{% if step.name == "charts" %}the charts{% elif step.name == "gaps" %}the quietest stretches and busiest years{% else %}the most crowded lifetimes{% endif %}</td><td>{{ step.status }}</td></tr>
+{% endfor %}</table>

@@ -13,7 +13,7 @@ import shutil
 import sys
 import time
 
-from . import database, exports, loader, render, validate
+from . import database, exports, extras, loader, render, validate
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 out = os.path.join(root, "site")
@@ -73,13 +73,21 @@ def build():
     db.close()
     say(f"built sqlite database with {len(reports)} reports")
 
-    r = render.renderer(s, out)
-    r.reports = reports
-    pages = r.all()
-    say(f"wrote {len(pages)} pages")
-
     n = exports.write_all(s, out)
     say(f"wrote search index ({n} entries), json and tsv exports")
+
+    # the c++, awk and c# steps read the exports above, so they come next
+    try:
+        more = extras.run_all(root, out, s, say=say)
+    except extras.extras_error as e:
+        print(f"a step in another language failed: {e}")
+        sys.exit(1)
+
+    r = render.renderer(s, out)
+    r.reports = reports
+    r.extras = more
+    pages = r.all()
+    say(f"wrote {len(pages)} pages")
 
     problems = validate.check_folder(out)
     if problems:

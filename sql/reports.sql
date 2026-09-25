@@ -67,3 +67,24 @@ from events
 where deep = 0 and end_year > start_year
 order by years desc
 limit 10;
+
+-- name: events-per-millennium
+-- every thousand years from 4000 bce, counted with a recursive query so that
+-- millennia with no events still get a row.
+with recursive millennia(starts) as (
+    select -4000
+    union all
+    select starts + 1000 from millennia where starts + 1000 <= (select max(start_year) from events)
+)
+select case when m.starts < 0 then (-m.starts) || ' bce'
+            when m.starts = 0 then '1 ce'
+            else m.starts || ' ce' end
+       || ' to ' ||
+       case when m.starts + 999 < 0 then (-m.starts - 999) || ' bce'
+            else (m.starts + 999) || ' ce' end as years,
+       count(e.id) as events,
+       sum(e.approx) as rough_dates
+from millennia m
+left join events e on e.deep = 0 and e.start_year >= m.starts and e.start_year < m.starts + 1000
+group by m.starts
+order by m.starts;

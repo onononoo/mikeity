@@ -6,11 +6,12 @@ the finished site is in `site/`. open `site/index.html` in any browser. no serve
 
 ## building
 
-you need python 3.9 or newer. node, gcc, and perl are optional; the build scripts skip the steps that need them if they are missing.
+you need python 3.9 or newer. everything else is optional: node, gcc, g++, awk, perl, and the .net 10 sdk. the build skips any step whose tool is missing, and the pages leave that part out.
 
 ```sh
 sh build.sh                        # mac, linux, git bash
 powershell -file build.ps1         # windows
+make                               # if you have make
 ```
 
 or just the site:
@@ -38,14 +39,18 @@ python -m builder query "select name, dates from people where region = 'africa'"
 | `builder/validate.py` | python | checks the finished html: closed tags, no uppercase text, no empty pages |
 | `templates/` | html | page templates |
 | `sql/schema.sql` | sql | the database schema |
-| `sql/reports.sql` | sql | named queries shown on the statistics page |
+| `sql/reports.sql` | sql | named queries shown on the statistics page (window functions, a recursive query) |
 | `static/style.css` | css | the stylesheet, kept as small as possible |
 | `static/js/` | javascript | table sorting, timeline filtering, search (plain es5, works from `file://`) |
+| `builder/extras.py` | python | compiles and runs the c++, awk, and c# steps below and reads back what they print |
+| `tools/chart.cpp` | c++ | draws the svg charts on the statistics page from `site/data/events.tsv` |
+| `tools/gaps.awk` | awk | finds the quietest stretches and busiest years on the timeline |
+| `tools/contemporaries.cs` | c# (.net 10) | works out who was alive at the same time, for the people page |
 | `tools/checklinks.js` | javascript (node) | checks every link and anchor on the built site |
 | `tools/timeline.c` | c | a terminal timeline viewer that reads `site/data/events.tsv` |
 | `tools/stats.pl` | perl | word counts, link counts, and reading ease for each part |
-| `tests/` | python + javascript | unit tests for dates, markup, templates, and the browser date parser |
-| `build.sh`, `build.ps1` | shell, powershell | run every step in order |
+| `tests/` | python + javascript | unit tests for dates, markup, templates, the tool output parsers, and the browser date parser |
+| `build.sh`, `build.ps1`, `makefile` | shell, powershell, make | run every step in order |
 
 ## the terminal timeline
 

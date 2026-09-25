@@ -32,9 +32,12 @@ the site is built by a small program written for it, using several languages:
 | sql | the database schema and the reports shown on the statistics page | sql/ |
 | javascript | sorting tables, filtering the timeline, and search, in the browser | static/js/ |
 | javascript (node) | checks that every link and anchor on the finished site works | tools/checklinks.js |
+| c++ | draws the charts on the statistics page as svg pictures | tools/chart.cpp |
+| awk | finds the quietest stretches and the busiest years on the timeline | tools/gaps.awk |
+| c# | works out which people were alive at the same time | tools/contemporaries.cs |
 | c | a command line tool that prints the timeline as text, filtered by years | tools/timeline.c |
 | perl | counts words, links, and sections in the content files | tools/stats.pl |
-| shell and powershell | run all the steps in order | build.sh, build.ps1 |
+| shell, powershell, and make | run all the steps in order | build.sh, build.ps1, makefile |
 
 every page is plain html. there are no cookies, no tracking, no ads, and nothing is loaded from other websites. the pages work without javascript; with it, you also get sorting, filtering, and search.
 

@@ -43,6 +43,14 @@
 <tr><td data-value="11"><a href="the-modern-world.html">11. the modern world</a></td><td>2,914</td><td>53</td><td>13</td><td>13</td><td><tt>#################################</tt></td></tr>
 </table>
 
+
+<h2 id="charts">when things happened</h2>
+
+<p>these charts are drawn by a small c++ program (<tt>tools/chart.cpp</tt>) from the <a href="data/events.tsv">timeline file</a>. point at a bar to see its numbers.</p>
+
+<p><img class="chart" src="images/deep-time.svg" width="740" height="300" alt="a bar chart of all 445 events on a log scale of years ago"></p>
+<p><img class="chart" src="images/recent.svg" width="740" height="300" alt="a stacked bar chart of the 343 events since 3000 bce, one bar per century"></p>
+
 <h2 id="regions">events by region</h2>
 
 <table class="grid">
@@ -90,6 +98,64 @@
 <tr><td>cold war</td><td>10</td><td><tt>####</tt></td></tr>
 <tr><td>slavery</td><td>9</td><td><tt>####</tt></td></tr>
 <tr><td>diplomacy</td><td>8</td><td><tt>###</tt></td></tr>
+</table>
+
+
+<h2 id="quiet">the quietest stretches</h2>
+
+<p>the longest times since 3000 bce when nothing on the timeline was happening: the gap between the end of everything so far and the start of the next event. found by an awk script (<tt>tools/gaps.awk</tt>). quiet here only means this site has no event for it, not that nothing happened.</p>
+
+<table class="grid">
+<tr><th>years</th><th>after</th><th>and before</th></tr>
+<tr><td>400</td><td><i>c. 3000 bce</i>: the first stage of stonehenge, a circular ditch and bank, is dug in southern britain</td><td><i>c. 2600 bce</i>: the harappan cities of the indus valley, like harappa and mohenjo-daro, reach their height, with grid streets and covered drains</td></tr>
+<tr><td>234</td><td><i>c. 2334 bce</i>: sargon of akkad conquers the sumerian cities and builds what is often called the first empire</td><td><i>c. 2100 bce</i>: ur-nammu of ur issues the oldest surviving law code; the first poems about gilgamesh are written down</td></tr>
+<tr><td>166</td><td><i>c. 2500 bce</i>: kerma, the first kingdom of kush, flourishes on the nile in what is now sudan</td><td><i>c. 2334 bce</i>: sargon of akkad conquers the sumerian cities and builds what is often called the first empire</td></tr>
+<tr><td>154</td><td><i>c. 1754 bce</i>: hammurabi of babylon has 282 laws carved on a stone pillar, the famous code of hammurabi</td><td><i>c. 1600 bce</i>: the shang dynasty takes power along the yellow river, the first chinese dynasty with written records</td></tr>
+<tr><td>146</td><td><i>c. 1900 bce</i>: the indus cities go into decline as rivers shift and the climate dries</td><td><i>c. 1754 bce</i>: hammurabi of babylon has 282 laws carved on a stone pillar, the famous code of hammurabi</td></tr>
+<tr><td>110</td><td><i>722 bce</i>: the assyrian empire destroys the northern kingdom of israel and deports much of its population</td><td><i>612 bce</i>: babylonians and medes sack nineveh, and the assyrian empire collapses</td></tr>
+<tr><td>105</td><td><i>1479–1458 bce</i>: hatshepsut rules egypt as pharaoh, sending trade expeditions to the land of punt</td><td><i>c. 1353 bce</i>: akhenaten becomes pharaoh and orders egypt to worship only the sun disk, the aten</td></tr>
+<tr><td>100</td><td><i>c. 2100 bce</i>: ur-nammu of ur issues the oldest surviving law code; the first poems about gilgamesh are written down</td><td><i>c. 2000 bce</i>: minoan palaces rise on crete, centered on knossos</td></tr>
+<tr><td>100</td><td><i>c. 2000 bce</i>: minoan palaces rise on crete, centered on knossos</td><td><i>c. 1900 bce</i>: the indus cities go into decline as rivers shift and the climate dries</td></tr>
+<tr><td>100</td><td><i>c. 1600 bce</i>: the shang dynasty takes power along the yellow river, the first chinese dynasty with written records</td><td><i>c. 1500 bce</i>: indo-aryan speaking peoples settle in northern india; the rigveda, oldest of the vedas, is composed</td></tr>
+</table>
+
+<h2 id="busy">the busiest years</h2>
+
+<p>single years with more than one event on the timeline (from the same awk script).</p>
+
+<table class="grid">
+<tr><th>year</th><th>events</th><th>what happened</th></tr>
+<tr><td><a href="timeline.html#from=1869&amp;to=1869">1869</a></td><td>3</td><td>the suez canal opens, linking the mediterranean and the red sea<br>the first transcontinental railroad across the united states is completed<br>dmitri mendeleev publishes the periodic table of the elements</td></tr>
+<tr><td><a href="timeline.html#from=1945&amp;to=1945">1945</a></td><td>3</td><td>soviet troops liberate auschwitz; hitler kills himself; germany surrenders in may<br>the united states drops atomic bombs on hiroshima and nagasaki; japan surrenders<br>the united nations is founded</td></tr>
+<tr><td><a href="timeline.html#from=1948&amp;to=1948">1948</a></td><td>3</td><td>the state of israel is founded; the first arab-israeli war follows and about 700,000 palestinians flee or are expelled<br>the un adopts the universal declaration of human rights<br>south africa&#x27;s government begins the system of apartheid</td></tr>
+<tr><td><a href="timeline.html#from=1989&amp;to=1989">1989</a></td><td>3</td><td>the berlin wall falls as communist governments collapse across eastern europe<br>the chinese army crushes protests in and around tiananmen square<br>tim berners-lee proposes the world wide web at cern; it goes public in 1991</td></tr>
+<tr><td><a href="timeline.html#from=1206&amp;to=1206">1206</a></td><td>2</td><td>temüjin unites the mongol tribes and is proclaimed genghis khan<br>the delhi sultanate is founded by turkic muslim rulers in northern india</td></tr>
+<tr><td><a href="timeline.html#from=1492&amp;to=1492">1492</a></td><td>2</td><td>christopher columbus, sailing for spain, reaches the caribbean<br>granada, the last muslim state in spain, falls; spain expels its jews</td></tr>
+<tr><td><a href="timeline.html#from=1776&amp;to=1776">1776</a></td><td>2</td><td>the thirteen colonies declare independence from britain<br>adam smith publishes the wealth of nations</td></tr>
+<tr><td><a href="timeline.html#from=1815&amp;to=1815">1815</a></td><td>2</td><td>napoleon is defeated at waterloo; the congress of vienna redraws europe<br>mount tambora in indonesia erupts; the next year is the &quot;year without a summer&quot;</td></tr>
+<tr><td><a href="timeline.html#from=1848&amp;to=1848">1848</a></td><td>2</td><td>revolutions break out across europe; marx and engels publish the communist manifesto<br>the seneca falls convention demands equal rights for women, including the vote</td></tr>
+<tr><td><a href="timeline.html#from=1903&amp;to=1903">1903</a></td><td>2</td><td>the wright brothers make the first powered airplane flights<br>marie curie shares the nobel prize in physics for research on radioactivity</td></tr>
+<tr><td><a href="timeline.html#from=1914&amp;to=1914">1914</a></td><td>2</td><td>the panama canal opens<br>archduke franz ferdinand is assassinated in sarajevo; within weeks the great powers are at war</td></tr>
+<tr><td><a href="timeline.html#from=1917&amp;to=1917">1917</a></td><td>2</td><td>the russian revolution: the tsar falls, then the bolsheviks under lenin seize power<br>the united states enters the war against germany</td></tr>
+</table>
+
+
+<h2 id="crowded">the most crowded lifetimes</h2>
+
+<p>the people who were alive at the same time as the most other people on this site (counting only people whose birth and death years are known). worked out by a c# program (<tt>tools/contemporaries.cs</tt>); see the <a href="people.html">people</a> page for who overlapped with whom.</p>
+
+<table class="grid">
+<tr><th>person</th><th>lived</th><th>alive at the same time as</th></tr>
+<tr><td><a href="people.html#mahatma-gandhi">mahatma gandhi</a></td><td>1869–1948</td><td>33 others</td></tr>
+<tr><td><a href="people.html#winston-churchill">winston churchill</a></td><td>1874–1965</td><td>33 others</td></tr>
+<tr><td><a href="people.html#joseph-stalin">joseph stalin</a></td><td>1878–1953</td><td>33 others</td></tr>
+<tr><td><a href="people.html#albert-einstein">albert einstein</a></td><td>1879–1955</td><td>33 others</td></tr>
+<tr><td><a href="people.html#mustafa-kemal-ataturk">mustafa kemal atatürk</a></td><td>1881–1938</td><td>32 others</td></tr>
+<tr><td><a href="people.html#franklin-d-roosevelt">franklin d. roosevelt</a></td><td>1882–1945</td><td>32 others</td></tr>
+<tr><td><a href="people.html#marie-curie">marie curie</a></td><td>1867–1934</td><td>31 others</td></tr>
+<tr><td><a href="people.html#benito-mussolini">benito mussolini</a></td><td>1883–1945</td><td>31 others</td></tr>
+<tr><td><a href="people.html#adolf-hitler">adolf hitler</a></td><td>1889–1945</td><td>31 others</td></tr>
+<tr><td><a href="people.html#jawaharlal-nehru">jawaharlal nehru</a></td><td>1889–1964</td><td>31 others</td></tr>
 </table>
 
 <h2 id="reports">database reports</h2>
@@ -267,6 +333,48 @@ where deep = 0 and end_year &gt; start_year
 order by years desc
 limit 10;</pre></details>
 
+<h3 id="report-events-per-millennium">events-per-millennium</h3>
+<p>every thousand years from 4000 bce, counted with a recursive query so that millennia with no events still get a row.</p>
+<table class="grid">
+<tr><th>years</th><th>events</th><th>rough dates</th></tr>
+<tr><td>4000 bce to 3001 bce</td><td>12</td><td>12</td></tr>
+<tr><td>3000 bce to 2001 bce</td><td>8</td><td>8</td></tr>
+<tr><td>2000 bce to 1001 bce</td><td>21</td><td>19</td></tr>
+<tr><td>1000 bce to 1 bce</td><td>40</td><td>16</td></tr>
+<tr><td>1 ce to 999 ce</td><td>40</td><td>13</td></tr>
+<tr><td>1000 ce to 1999 ce</td><td>222</td><td>15</td></tr>
+<tr><td>2000 ce to 2999 ce</td><td>12</td><td>0</td></tr>
+</table>
+<details><summary class="small">show the sql</summary><pre>with recursive millennia(starts) as (
+    select -4000
+    union all
+    select starts + 1000 from millennia where starts + 1000 &lt;= (select max(start_year) from events)
+)
+select case when m.starts &lt; 0 then (-m.starts) || &#x27; bce&#x27;
+            when m.starts = 0 then &#x27;1 ce&#x27;
+            else m.starts || &#x27; ce&#x27; end
+       || &#x27; to &#x27; ||
+       case when m.starts + 999 &lt; 0 then (-m.starts - 999) || &#x27; bce&#x27;
+            else (m.starts + 999) || &#x27; ce&#x27; end as years,
+       count(e.id) as events,
+       sum(e.approx) as rough_dates
+from millennia m
+left join events e on e.deep = 0 and e.start_year &gt;= m.starts and e.start_year &lt; m.starts + 1000
+group by m.starts
+order by m.starts;</pre></details>
+
+
+<h2 id="made">how this page was made</h2>
+
+<p>the python builder writes every page, but some of the numbers above come from programs in other languages that it runs along the way. if one of them cannot run (say, no c++ compiler is installed) its section is simply left out.</p>
+
+<table class="grid">
+<tr><th>language</th><th>program</th><th>what it adds</th><th>this build</th></tr>
+<tr><td>sql</td><td><tt>sql/reports.sql</tt></td><td>the database reports</td><td>ran</td></tr>
+<tr><td>c++</td><td><tt>tools/chart.cpp</tt></td><td>the charts</td><td>ran</td></tr>
+<tr><td>awk</td><td><tt>tools/gaps.awk</tt></td><td>the quietest stretches and busiest years</td><td>ran</td></tr>
+<tr><td>c#</td><td><tt>tools/contemporaries.cs</tt></td><td>the most crowded lifetimes</td><td>ran</td></tr>
+</table>
 
 <hr>
 <p class="small"><a href="#top">back to top</a> | <a href="data/history.json">raw data (json)</a> | <a href="data/events.tsv">timeline (tsv)</a> | <a href="data/history.db">database (sqlite)</a></p>

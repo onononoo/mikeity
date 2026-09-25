@@ -59,9 +59,12 @@
 <tr><td>sql</td><td>the database schema and the reports shown on the statistics page</td><td>sql/</td></tr>
 <tr><td>javascript</td><td>sorting tables, filtering the timeline, and search, in the browser</td><td>static/js/</td></tr>
 <tr><td>javascript (node)</td><td>checks that every link and anchor on the finished site works</td><td>tools/checklinks.js</td></tr>
+<tr><td>c++</td><td>draws the charts on the statistics page as svg pictures</td><td>tools/chart.cpp</td></tr>
+<tr><td>awk</td><td>finds the quietest stretches and the busiest years on the timeline</td><td>tools/gaps.awk</td></tr>
+<tr><td>c#</td><td>works out which people were alive at the same time</td><td>tools/contemporaries.cs</td></tr>
 <tr><td>c</td><td>a command line tool that prints the timeline as text, filtered by years</td><td>tools/timeline.c</td></tr>
 <tr><td>perl</td><td>counts words, links, and sections in the content files</td><td>tools/stats.pl</td></tr>
-<tr><td>shell and powershell</td><td>run all the steps in order</td><td>build.sh, build.ps1</td></tr>
+<tr><td>shell, powershell, and make</td><td>run all the steps in order</td><td>build.sh, build.ps1, makefile</td></tr>
 </table>
 
 <p>every page is plain html. there are no cookies, no tracking, no ads, and nothing is loaded from other websites. the pages work without javascript; with it, you also get sorting, filtering, and search.</p>

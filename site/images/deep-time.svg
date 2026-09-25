@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="300" viewBox="0 0 740 300" font-family="times new roman, times, serif">
+<title>a bar chart of all 445 events on a log scale of years ago</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="44" y="18" font-size="13" text-anchor="start" font-weight="bold">events by how long ago they happened (log scale: each step is ten times further back)</text>
+<line x1="44" y1="250" x2="730" y2="250" stroke="#000000"/>
+<text x="40" y="254" font-size="11" text-anchor="end">0</text>
+<line x1="44" y1="206" x2="730" y2="206" stroke="#cccccc" stroke-dasharray="2,3"/>
+<text x="40" y="210" font-size="11" text-anchor="end">10</text>
+<line x1="44" y1="162" x2="730" y2="162" stroke="#cccccc" stroke-dasharray="2,3"/>
+<text x="40" y="166" font-size="11" text-anchor="end">20</text>
+<line x1="44" y1="118" x2="730" y2="118" stroke="#cccccc" stroke-dasharray="2,3"/>
+<text x="40" y="122" font-size="11" text-anchor="end">30</text>
+<line x1="44" y1="74" x2="730" y2="74" stroke="#cccccc" stroke-dasharray="2,3"/>
+<text x="40" y="78" font-size="11" text-anchor="end">40</text>
+<line x1="44" y1="30" x2="730" y2="30" stroke="#cccccc" stroke-dasharray="2,3"/>
+<text x="40" y="34" font-size="11" text-anchor="end">50</text>
+<rect x="94.9" y="232.4" width="10.5" height="17.6" fill="#000080"><title>4 events, 10000000000 to 15848931924.6 years ago</title></rect>
+<rect x="119.8" y="232.4" width="10.5" height="17.6" fill="#000080"><title>4 events, 3981071705.5 to 6309573444.8 years ago</title></rect>
+<rect x="132.3" y="241.2" width="10.5" height="8.8" fill="#000080"><title>2 events, 2511886431.5 to 3981071705.5 years ago</title></rect>
+<rect x="144.8" y="241.2" width="10.5" height="8.8" fill="#000080"><title>2 events, 1584893192.5 to 2511886431.5 years ago</title></rect>
+<rect x="157.3" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 1000000000 to 1584893192.5 years ago</title></rect>
+<rect x="169.7" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 630957344.5 to 1000000000 years ago</title></rect>
+<rect x="182.2" y="232.4" width="10.5" height="17.6" fill="#000080"><title>4 events, 398107170.6 to 630957344.5 years ago</title></rect>
+<rect x="194.7" y="228" width="10.5" height="22" fill="#000080"><title>5 events, 251188643.2 to 398107170.6 years ago</title></rect>
+<rect x="207.1" y="232.4" width="10.5" height="17.6" fill="#000080"><title>4 events, 158489319.2 to 251188643.2 years ago</title></rect>
+<rect x="219.6" y="241.2" width="10.5" height="8.8" fill="#000080"><title>2 events, 100000000 to 158489319.2 years ago</title></rect>
+<rect x="232.1" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 63095734.4 to 100000000 years ago</title></rect>
+<rect x="244.6" y="241.2" width="10.5" height="8.8" fill="#000080"><title>2 events, 39810717.1 to 63095734.4 years ago</title></rect>
+<rect x="257" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 25118864.3 to 39810717.1 years ago</title></rect>
+<rect x="269.5" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 15848931.9 to 25118864.3 years ago</title></rect>
+<rect x="294.5" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 6309573.4 to 10000000 years ago</title></rect>
+<rect x="306.9" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 3981071.7 to 6309573.4 years ago</title></rect>
+<rect x="319.4" y="223.6" width="10.5" height="26.4" fill="#000080"><title>6 events, 2511886.4 to 3981071.7 years ago</title></rect>
+<rect x="331.9" y="232.4" width="10.5" height="17.6" fill="#000080"><title>4 events, 1584893.2 to 2511886.4 years ago</title></rect>
+<rect x="344.3" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 1000000 to 1584893.2 years ago</title></rect>
+<rect x="356.8" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 630957.3 to 1000000 years ago</title></rect>
+<rect x="369.3" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 398107.2 to 630957.3 years ago</title></rect>
+<rect x="381.8" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 251188.6 to 398107.2 years ago</title></rect>
+<rect x="406.7" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 100000 to 158489.3 years ago</title></rect>
+<rect x="419.2" y="236.8" width="10.5" height="13.2" fill="#000080"><title>3 events, 63095.7 to 100000 years ago</title></rect>
+<rect x="431.7" y="228" width="10.5" height="22" fill="#000080"><title>5 events, 39810.7 to 63095.7 years ago</title></rect>
+<rect x="444.1" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 25118.9 to 39810.7 years ago</title></rect>
+<rect x="456.6" y="236.8" width="10.5" height="13.2" fill="#000080"><title>3 events, 15848.9 to 25118.9 years ago</title></rect>
+<rect x="469.1" y="192.8" width="10.5" height="57.2" fill="#000080"><title>13 events, 10000 to 15848.9 years ago</title></rect>
+<rect x="481.5" y="188.4" width="10.5" height="61.6" fill="#000080"><title>14 events, 6309.6 to 10000 years ago</title></rect>
+<rect x="494" y="148.8" width="10.5" height="101.2" fill="#000080"><title>23 events, 3981.1 to 6309.6 years ago</title></rect>
+<rect x="506.5" y="87.2" width="10.5" height="162.8" fill="#000080"><title>37 events, 2511.9 to 3981.1 years ago</title></rect>
+<rect x="519" y="78.4" width="10.5" height="171.6" fill="#000080"><title>39 events, 1584.9 to 2511.9 years ago</title></rect>
+<rect x="531.4" y="140" width="10.5" height="110" fill="#000080"><title>25 events, 1000 to 1584.9 years ago</title></rect>
+<rect x="543.9" y="140" width="10.5" height="110" fill="#000080"><title>25 events, 631 to 1000 years ago</title></rect>
+<rect x="556.4" y="100.4" width="10.5" height="149.6" fill="#000080"><title>34 events, 398.1 to 631 years ago</title></rect>
+<rect x="568.9" y="179.6" width="10.5" height="70.4" fill="#000080"><title>16 events, 251.2 to 398.1 years ago</title></rect>
+<rect x="581.3" y="74" width="10.5" height="176" fill="#000080"><title>40 events, 158.5 to 251.2 years ago</title></rect>
+<rect x="593.8" y="69.6" width="10.5" height="180.4" fill="#000080"><title>41 events, 100 to 158.5 years ago</title></rect>
+<rect x="606.3" y="69.6" width="10.5" height="180.4" fill="#000080"><title>41 events, 63.1 to 100 years ago</title></rect>
+<rect x="618.7" y="184" width="10.5" height="66" fill="#000080"><title>15 events, 39.8 to 63.1 years ago</title></rect>
+<rect x="631.2" y="219.2" width="10.5" height="30.8" fill="#000080"><title>7 events, 25.1 to 39.8 years ago</title></rect>
+<rect x="643.7" y="223.6" width="10.5" height="26.4" fill="#000080"><title>6 events, 15.8 to 25.1 years ago</title></rect>
+<rect x="656.2" y="241.2" width="10.5" height="8.8" fill="#000080"><title>2 events, 10 to 15.8 years ago</title></rect>
+<rect x="681.1" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 4 to 6.3 years ago</title></rect>
+<rect x="693.6" y="241.2" width="10.5" height="8.8" fill="#000080"><title>2 events, 2.5 to 4 years ago</title></rect>
+<rect x="718.5" y="245.6" width="10.5" height="4.4" fill="#000080"><title>1 events, 1 to 1.6 years ago</title></rect>
+<line x1="730" y1="250" x2="730" y2="255" stroke="#000000"/>
+<text x="730" y="268" font-size="11" text-anchor="end">1 year ago</text>
+<line x1="667.6" y1="250" x2="667.6" y2="255" stroke="#000000"/>
+<line x1="605.3" y1="250" x2="605.3" y2="255" stroke="#000000"/>
+<text x="605.3" y="268" font-size="11" text-anchor="middle">100 years</text>
+<line x1="542.9" y1="250" x2="542.9" y2="255" stroke="#000000"/>
+<line x1="480.5" y1="250" x2="480.5" y2="255" stroke="#000000"/>
+<text x="480.5" y="268" font-size="11" text-anchor="middle">10,000</text>
+<line x1="418.2" y1="250" x2="418.2" y2="255" stroke="#000000"/>
+<line x1="355.8" y1="250" x2="355.8" y2="255" stroke="#000000"/>
+<text x="355.8" y="268" font-size="11" text-anchor="middle">1 million</text>
+<line x1="293.5" y1="250" x2="293.5" y2="255" stroke="#000000"/>
+<line x1="231.1" y1="250" x2="231.1" y2="255" stroke="#000000"/>
+<text x="231.1" y="268" font-size="11" text-anchor="middle">100 million</text>
+<line x1="168.7" y1="250" x2="168.7" y2="255" stroke="#000000"/>
+<line x1="106.4" y1="250" x2="106.4" y2="255" stroke="#000000"/>
+<text x="106.4" y="268" font-size="11" text-anchor="middle">10 billion</text>
+<line x1="44" y1="250" x2="44" y2="255" stroke="#000000"/>
+<text x="387" y="290" font-size="12" text-anchor="middle">years ago</text>
+</svg>

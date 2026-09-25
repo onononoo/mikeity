@@ -5,13 +5,14 @@ data files written next to the html:
                               works when the site is opened straight from disk
     site/data/history.json    everything, for anyone who wants the raw data
     site/data/events.tsv      the timeline as tab separated text, read by the
-                              c tool in tools/timeline.c
+                              c, c++ and awk tools in tools/
 """
 
 import json
 import os
 import re
 
+from .database import life_known
 from .util import strip_tags, write
 
 
@@ -57,7 +58,8 @@ def write_all(s, out):
         events=[dict(id=ev.id, date=str(ev.when), start=ev.when.start, end=ev.when.end,
                      text=ev.text, era=ev.era, region=ev.region_rec.slug, tags=ev.tags)
                 for ev in s.events],
-        people=[dict(name=p.name, dates=str(p.life), role=p.role, about=p.about, era=p.era,
+        people=[dict(slug=p.slug, name=p.name, dates=str(p.life), born=p.life.start, died=p.life.end,
+                     known=life_known(p), role=p.role, about=p.about, era=p.era,
                      region=p.region_rec.slug) for p in s.people],
         glossary=[dict(term=t.term, definition=t.definition) for t in s.terms],
     )

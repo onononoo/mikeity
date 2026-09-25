@@ -26,6 +26,9 @@ table.box { width: 100%; }
 /* sortable headings look clickable once the script has run */
 table.sorting th { cursor: pointer; text-decoration: underline; }
 
+/* the svg charts on the statistics page shrink to fit small screens */
+img.chart { max-width: 100%; height: auto; border: 1px solid #000000; }
+
 blockquote { margin: 12px 24px; font-style: italic; }
 pre { font-size: 13px; white-space: pre-wrap; }
 dd { margin-bottom: 6px; }
