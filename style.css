@@ -1,0 +1,209 @@
+/* the history of the world - main stylesheet */
+/* kept simple on purpose. no frameworks, no fancy stuff. */
+
+body {
+	margin: 0;
+	padding: 20px 0;
+	background: #d9d9d9;
+	font-family: verdana, tahoma, arial, sans-serif;
+	font-size: 12px;
+	line-height: 1.6;
+	color: #222222;
+}
+
+a:link { color: #0033cc; }
+a:visited { color: #663399; }
+a:hover { color: #cc0000; }
+
+/* the main white box */
+#wrap {
+	width: 820px;
+	max-width: 100%;
+	margin: 0 auto;
+	background: #ffffff;
+	border: 1px solid #888888;
+}
+
+/* top header */
+#header {
+	background: #2f5a88;
+	border-bottom: 3px solid #1c3a5c;
+	padding: 18px 20px 14px 20px;
+}
+#title {
+	font-family: georgia, "times new roman", serif;
+	font-size: 30px;
+	letter-spacing: -1px;
+}
+#title a, #title a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+#tagline {
+	color: #c9d8ea;
+	font-size: 11px;
+}
+
+/* breadcrumb bar */
+#bar {
+	background: #eeeeee;
+	border-bottom: 1px solid #bbbbbb;
+	padding: 4px 20px;
+	font-size: 11px;
+}
+
+/* layout table */
+#layout {
+	width: 100%;
+	border-collapse: collapse;
+}
+#nav {
+	width: 180px;
+	vertical-align: top;
+	background: #f4f4f4;
+	border-right: 1px solid #cccccc;
+	padding: 14px 12px;
+	font-size: 11px;
+}
+#nav ul {
+	margin: 4px 0 16px 0;
+	padding-left: 16px;
+}
+#nav li {
+	margin-bottom: 3px;
+}
+#nav li.here {
+	font-weight: bold;
+	list-style-type: square;
+}
+#nav .box {
+	border: 1px solid #cccccc;
+	background: #ffffff;
+	padding: 6px;
+	margin-top: 10px;
+}
+#main {
+	vertical-align: top;
+	padding: 14px 22px 22px 22px;
+}
+
+/* headings */
+h1 {
+	font-family: georgia, "times new roman", serif;
+	font-size: 24px;
+	font-weight: normal;
+	color: #1c3a5c;
+	margin: 4px 0 10px 0;
+}
+h2 {
+	font-family: georgia, "times new roman", serif;
+	font-size: 17px;
+	font-weight: normal;
+	color: #1c3a5c;
+	border-bottom: 1px dotted #999999;
+	margin: 24px 0 8px 0;
+	padding-bottom: 2px;
+}
+h3 {
+	font-size: 12px;
+	margin: 14px 0 4px 0;
+}
+
+.intro {
+	font-size: 13px;
+	background: #fffbe0;
+	border: 1px solid #e3d98a;
+	padding: 8px 10px;
+}
+
+/* "on this page" list */
+.toc {
+	float: right;
+	width: 190px;
+	margin: 0 0 10px 14px;
+	border: 1px solid #bbbbbb;
+	background: #f8f8f8;
+	padding: 6px 8px;
+	font-size: 11px;
+}
+.toc ol {
+	margin: 4px 0 0 0;
+	padding-left: 20px;
+}
+
+/* quick facts and index tables */
+table.facts {
+	border-collapse: collapse;
+	width: 100%;
+	margin: 10px 0;
+	font-size: 11px;
+}
+table.facts th,
+table.facts td {
+	border: 1px solid #bbbbbb;
+	padding: 4px 6px;
+	text-align: left;
+	vertical-align: top;
+}
+table.facts th {
+	background: #dfe8f2;
+	width: 130px;
+}
+table.facts tr.alt td {
+	background: #f6f6f6;
+}
+table.facts thead th {
+	width: auto;
+}
+
+.small { font-size: 10px; color: #666666; }
+.new { color: #cc0000; font-weight: bold; font-size: 10px; }
+
+/* previous / next links */
+.pager {
+	clear: both;
+	margin-top: 26px;
+	padding: 6px;
+	border-top: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+	background: #f4f4f4;
+	text-align: center;
+	font-size: 11px;
+}
+
+/* bottom of every page */
+#footer {
+	border-top: 1px solid #bbbbbb;
+	background: #eeeeee;
+	padding: 8px 20px;
+	font-size: 10px;
+	color: #555555;
+	text-align: center;
+}
+.badge {
+	display: inline-block;
+	border: 1px solid #777777;
+	font-family: verdana, sans-serif;
+	font-size: 9px;
+	margin: 4px 2px 0 2px;
+	background: #ffffff;
+}
+.badge b {
+	display: inline-block;
+	background: #555555;
+	color: #ffffff;
+	padding: 0 4px;
+}
+.badge span {
+	padding: 0 4px;
+}
+
+/* small screens: stack the menu on top */
+@media (max-width: 640px) {
+	body { padding: 0; }
+	#wrap { border: 0; }
+	#layout, #layout tbody, #layout tr, #nav, #main { display: block; width: auto; }
+	#nav { border-right: 0; border-bottom: 1px solid #cccccc; }
+	.toc { float: none; width: auto; margin: 0 0 10px 0; }
+	#title { font-size: 24px; }
+}
