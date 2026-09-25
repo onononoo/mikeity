@@ -1,0 +1,601 @@
+{
+ "slug": "the-world-wars",
+ "number": 10,
+ "title": "the world wars",
+ "starts": "1914",
+ "ends": "1945",
+ "summary": "two world wars, the russian revolution, the great depression, and the rise of fascism make this the deadliest stretch in human history, ending with the holocaust and the atomic bomb.",
+ "page": "the-world-wars.html",
+ "events": [
+  {
+   "id": 424,
+   "date": "1914",
+   "start": 1914,
+   "end": 1914,
+   "text": "archduke franz ferdinand is assassinated in sarajevo; within weeks the great powers are at war",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 425,
+   "date": "1914–1918",
+   "start": 1914,
+   "end": 1918,
+   "text": "the first world war: about 20 million soldiers and civilians die",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 426,
+   "date": "1915",
+   "start": 1915,
+   "end": 1915,
+   "text": "allied troops land at gallipoli but fail to knock the ottoman empire out of the war",
+   "era": "the-world-wars",
+   "region": "the-middle-east",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 427,
+   "date": "1915–1917",
+   "start": 1915,
+   "end": 1917,
+   "text": "the ottoman government carries out the armenian genocide, killing around a million armenians",
+   "era": "the-world-wars",
+   "region": "the-middle-east",
+   "tags": [
+    "genocide"
+   ]
+  },
+  {
+   "id": 428,
+   "date": "1916",
+   "start": 1916,
+   "end": 1916,
+   "text": "the battles of verdun and the somme cause over a million casualties each",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 429,
+   "date": "1917",
+   "start": 1917,
+   "end": 1917,
+   "text": "the russian revolution: the tsar falls, then the bolsheviks under lenin seize power",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "revolution",
+    "communism"
+   ]
+  },
+  {
+   "id": 430,
+   "date": "1917",
+   "start": 1917,
+   "end": 1917,
+   "text": "the united states enters the war against germany",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 431,
+   "date": "1918",
+   "start": 1918,
+   "end": 1918,
+   "text": "the armistice ends the fighting on 11 november",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 432,
+   "date": "1918–1920",
+   "start": 1918,
+   "end": 1920,
+   "text": "an influenza pandemic kills an estimated 50 million people",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "disease",
+    "disaster"
+   ]
+  },
+  {
+   "id": 433,
+   "date": "1919",
+   "start": 1919,
+   "end": 1919,
+   "text": "the treaty of versailles punishes germany; the league of nations is created",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 459,
+   "date": "1919",
+   "start": 1919,
+   "end": 1919,
+   "text": "emiliano zapata, who fought for land for mexico's poor farmers, is assassinated",
+   "era": "the-world-wars",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 434,
+   "date": "1920",
+   "start": 1920,
+   "end": 1920,
+   "text": "the nineteenth amendment gives american women the vote",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 435,
+   "date": "1922",
+   "start": 1922,
+   "end": 1922,
+   "text": "the soviet union is formed; mussolini's fascists march on rome and take power",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "communism",
+    "fascism"
+   ]
+  },
+  {
+   "id": 436,
+   "date": "1923",
+   "start": 1923,
+   "end": 1923,
+   "text": "mustafa kemal atatürk founds the republic of turkey",
+   "era": "the-world-wars",
+   "region": "the-middle-east",
+   "tags": [
+    "nationalism",
+    "politics"
+   ]
+  },
+  {
+   "id": 460,
+   "date": "1927",
+   "start": 1927,
+   "end": 1927,
+   "text": "the world's population reaches two billion",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "humans"
+   ]
+  },
+  {
+   "id": 437,
+   "date": "1928",
+   "start": 1928,
+   "end": 1928,
+   "text": "alexander fleming discovers penicillin, the first antibiotic",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "medicine",
+    "science"
+   ]
+  },
+  {
+   "id": 438,
+   "date": "1929",
+   "start": 1929,
+   "end": 1929,
+   "text": "the wall street crash starts the great depression",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 439,
+   "date": "1930",
+   "start": 1930,
+   "end": 1930,
+   "text": "gandhi leads the salt march against british rule",
+   "era": "the-world-wars",
+   "region": "south-asia",
+   "tags": [
+    "rights",
+    "independence"
+   ]
+  },
+  {
+   "id": 440,
+   "date": "1931",
+   "start": 1931,
+   "end": 1931,
+   "text": "japan invades manchuria",
+   "era": "the-world-wars",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 441,
+   "date": "1932–1933",
+   "start": 1932,
+   "end": 1933,
+   "text": "famine caused by stalin's policies kills millions in ukraine (the holodomor) and kazakhstan",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "communism",
+    "disaster"
+   ]
+  },
+  {
+   "id": 442,
+   "date": "1933",
+   "start": 1933,
+   "end": 1933,
+   "text": "adolf hitler becomes chancellor of germany and quickly makes himself dictator",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "fascism"
+   ]
+  },
+  {
+   "id": 443,
+   "date": "1933",
+   "start": 1933,
+   "end": 1933,
+   "text": "franklin d. roosevelt begins the new deal",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "economy",
+    "politics"
+   ]
+  },
+  {
+   "id": 444,
+   "date": "1935–1936",
+   "start": 1935,
+   "end": 1936,
+   "text": "fascist italy invades and occupies ethiopia, using poison gas",
+   "era": "the-world-wars",
+   "region": "africa",
+   "tags": [
+    "war",
+    "fascism"
+   ]
+  },
+  {
+   "id": 461,
+   "date": "1936",
+   "start": 1936,
+   "end": 1936,
+   "text": "alan turing describes a universal computing machine, the idea behind every modern computer",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "computers",
+    "science"
+   ]
+  },
+  {
+   "id": 445,
+   "date": "1936–1939",
+   "start": 1936,
+   "end": 1939,
+   "text": "the spanish civil war ends with franco's nationalists in power",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war",
+    "fascism"
+   ]
+  },
+  {
+   "id": 446,
+   "date": "1937",
+   "start": 1937,
+   "end": 1937,
+   "text": "japan launches full-scale war on china; japanese troops massacre civilians at nanjing",
+   "era": "the-world-wars",
+   "region": "east-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 447,
+   "date": "1938",
+   "start": 1938,
+   "end": 1938,
+   "text": "germany annexes austria; britain and france let hitler take part of czechoslovakia at munich; the kristallnacht pogrom",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "fascism",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 462,
+   "date": "1938",
+   "start": 1938,
+   "end": 1938,
+   "text": "otto hahn and fritz strassmann split uranium atoms; lise meitner and otto frisch explain it as nuclear fission",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "science",
+    "nuclear"
+   ]
+  },
+  {
+   "id": 448,
+   "date": "1939",
+   "start": 1939,
+   "end": 1939,
+   "text": "germany invades poland; britain and france declare war",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 449,
+   "date": "1939–1945",
+   "start": 1939,
+   "end": 1945,
+   "text": "the second world war: an estimated 70 to 85 million people die, most of them civilians",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 450,
+   "date": "1940",
+   "start": 1940,
+   "end": 1940,
+   "text": "germany conquers france; britain wins the battle of britain in the air",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 451,
+   "date": "1941",
+   "start": 1941,
+   "end": 1941,
+   "text": "germany invades the soviet union",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 452,
+   "date": "1941",
+   "start": 1941,
+   "end": 1941,
+   "text": "japan attacks pearl harbor; the united states enters the war",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 453,
+   "date": "1941–1945",
+   "start": 1941,
+   "end": 1945,
+   "text": "the holocaust: nazi germany murders six million jews, as well as roma, disabled people, and others",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "genocide",
+    "fascism"
+   ]
+  },
+  {
+   "id": 454,
+   "date": "1942",
+   "start": 1942,
+   "end": 1942,
+   "text": "the united states defeats japan at the battle of midway",
+   "era": "the-world-wars",
+   "region": "oceania",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 455,
+   "date": "1942–1943",
+   "start": 1942,
+   "end": 1943,
+   "text": "the soviets destroy a german army at stalingrad",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 463,
+   "date": "1943",
+   "start": 1943,
+   "end": 1943,
+   "text": "the bengal famine kills about three million people under british wartime rule",
+   "era": "the-world-wars",
+   "region": "south-asia",
+   "tags": [
+    "disaster"
+   ]
+  },
+  {
+   "id": 456,
+   "date": "1944",
+   "start": 1944,
+   "end": 1944,
+   "text": "d-day: allied forces land in normandy",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 457,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "soviet troops liberate auschwitz; hitler kills himself; germany surrenders in may",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 458,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "the united states drops atomic bombs on hiroshima and nagasaki; japan surrenders",
+   "era": "the-world-wars",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "nuclear"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "mahatma-gandhi",
+   "name": "mahatma gandhi",
+   "dates": "1869–1948",
+   "role": "leader of indian independence",
+   "url": "api/people/mahatma-gandhi.json"
+  },
+  {
+   "slug": "vladimir-lenin",
+   "name": "vladimir lenin",
+   "dates": "1870–1924",
+   "role": "russian revolutionary",
+   "url": "api/people/vladimir-lenin.json"
+  },
+  {
+   "slug": "winston-churchill",
+   "name": "winston churchill",
+   "dates": "1874–1965",
+   "role": "british prime minister",
+   "url": "api/people/winston-churchill.json"
+  },
+  {
+   "slug": "joseph-stalin",
+   "name": "joseph stalin",
+   "dates": "1878–1953",
+   "role": "soviet dictator",
+   "url": "api/people/joseph-stalin.json"
+  },
+  {
+   "slug": "lise-meitner",
+   "name": "lise meitner",
+   "dates": "1878–1968",
+   "role": "austrian physicist",
+   "url": "api/people/lise-meitner.json"
+  },
+  {
+   "slug": "emiliano-zapata",
+   "name": "emiliano zapata",
+   "dates": "1879–1919",
+   "role": "leader in the mexican revolution",
+   "url": "api/people/emiliano-zapata.json"
+  },
+  {
+   "slug": "mustafa-kemal-ataturk",
+   "name": "mustafa kemal atatürk",
+   "dates": "1881–1938",
+   "role": "founder of modern turkey",
+   "url": "api/people/mustafa-kemal-ataturk.json"
+  },
+  {
+   "slug": "franklin-d-roosevelt",
+   "name": "franklin d. roosevelt",
+   "dates": "1882–1945",
+   "role": "president of the united states",
+   "url": "api/people/franklin-d-roosevelt.json"
+  },
+  {
+   "slug": "benito-mussolini",
+   "name": "benito mussolini",
+   "dates": "1883–1945",
+   "role": "italian fascist dictator",
+   "url": "api/people/benito-mussolini.json"
+  },
+  {
+   "slug": "adolf-hitler",
+   "name": "adolf hitler",
+   "dates": "1889–1945",
+   "role": "nazi dictator of germany",
+   "url": "api/people/adolf-hitler.json"
+  },
+  {
+   "slug": "haile-selassie",
+   "name": "haile selassie",
+   "dates": "1892–1975",
+   "role": "emperor of ethiopia",
+   "url": "api/people/haile-selassie.json"
+  },
+  {
+   "slug": "alan-turing",
+   "name": "alan turing",
+   "dates": "1912–1954",
+   "role": "british mathematician",
+   "url": "api/people/alan-turing.json"
+  },
+  {
+   "slug": "anne-frank",
+   "name": "anne frank",
+   "dates": "1929–1945",
+   "role": "jewish diarist",
+   "url": "api/people/anne-frank.json"
+  }
+ ]
+}

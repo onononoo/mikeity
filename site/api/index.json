@@ -1,0 +1,66 @@
+{
+ "about": "a read-only json api for the history of the world. every url is a plain file.",
+ "files": 306,
+ "endpoints": [
+  {
+   "path": "api/eras.json",
+   "files": 1,
+   "about": "the eleven parts of the story, in order",
+   "example": "api/eras.json"
+  },
+  {
+   "path": "api/eras/{}.json",
+   "files": 11,
+   "about": "one part, with its events and people",
+   "example": "api/eras/the-beginning.json"
+  },
+  {
+   "path": "api/events.json",
+   "files": 1,
+   "about": "every dated event on the main timeline",
+   "example": "api/events.json"
+  },
+  {
+   "path": "api/centuries/{}.json",
+   "files": 64,
+   "about": "the events that began in one century, from 10,000 bce (-5 is the 5th century bce)",
+   "example": "api/centuries/-97.json"
+  },
+  {
+   "path": "api/people.json",
+   "files": 1,
+   "about": "everyone on the people page, in short",
+   "example": "api/people.json"
+  },
+  {
+   "path": "api/people/{}.json",
+   "files": 205,
+   "about": "one person, with their part and region",
+   "example": "api/people/lucy.json"
+  },
+  {
+   "path": "api/regions/{}.json",
+   "files": 14,
+   "about": "one region, with its events and people",
+   "example": "api/regions/the-universe.json"
+  },
+  {
+   "path": "api/glossary.json",
+   "files": 1,
+   "about": "every term in the glossary",
+   "example": "api/glossary.json"
+  },
+  {
+   "path": "api/religions.json",
+   "files": 1,
+   "about": "the six religions, in short",
+   "example": "api/religions.json"
+  },
+  {
+   "path": "api/religions/{}.json",
+   "files": 6,
+   "about": "one religion: facts, timeline, people, and glossary",
+   "example": "api/religions/judaism.json"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "century": -4,
+ "events": [
+  {
+   "id": 197,
+   "date": "c. 400 bce",
+   "start": -400,
+   "end": -400,
+   "text": "hippocrates and his followers teach that illnesses have natural causes, not punishments from the gods",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "medicine",
+    "science"
+   ]
+  },
+  {
+   "id": 159,
+   "date": "399 bce",
+   "start": -399,
+   "end": -399,
+   "text": "socrates is tried in athens and put to death by drinking hemlock",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "philosophy"
+   ]
+  },
+  {
+   "id": 161,
+   "date": "334–323 bce",
+   "start": -334,
+   "end": -323,
+   "text": "alexander the great conquers the persian empire and marches to india",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 162,
+   "date": "323 bce",
+   "start": -323,
+   "end": -323,
+   "text": "alexander dies in babylon at 32; his generals split his empire",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 163,
+   "date": "c. 321 bce",
+   "start": -321,
+   "end": -321,
+   "text": "chandragupta maurya founds the maurya empire, the first to unite most of india",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "empire"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,250 @@
+{
+ "century": 17,
+ "events": [
+  {
+   "id": 299,
+   "date": "1603",
+   "start": 1603,
+   "end": 1603,
+   "text": "tokugawa ieyasu becomes shogun; japan enters over 250 years of peace and isolation",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 317,
+   "date": "1606",
+   "start": 1606,
+   "end": 1606,
+   "text": "the dutch sailor willem janszoon makes the first recorded european landing in australia",
+   "era": "the-early-modern-world",
+   "region": "oceania",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 300,
+   "date": "1607",
+   "start": 1607,
+   "end": 1607,
+   "text": "the english found jamestown in virginia",
+   "era": "the-early-modern-world",
+   "region": "north-america",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 318,
+   "date": "1609",
+   "start": 1609,
+   "end": 1609,
+   "text": "johannes kepler shows that the planets move around the sun in ellipses, not perfect circles",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 301,
+   "date": "1610",
+   "start": 1610,
+   "end": 1610,
+   "text": "galileo uses a telescope to see the moons of jupiter",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 302,
+   "date": "1618–1648",
+   "start": 1618,
+   "end": 1648,
+   "text": "the thirty years' war devastates central europe; the peace of westphalia ends it",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 303,
+   "date": "1619",
+   "start": 1619,
+   "end": 1619,
+   "text": "the first recorded enslaved africans arrive in english virginia",
+   "era": "the-early-modern-world",
+   "region": "north-america",
+   "tags": [
+    "slavery"
+   ]
+  },
+  {
+   "id": 304,
+   "date": "1632–1653",
+   "start": 1632,
+   "end": 1653,
+   "text": "the taj mahal is built by shah jahan as a tomb for his wife mumtaz mahal",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 319,
+   "date": "1642",
+   "start": 1642,
+   "end": 1642,
+   "text": "abel tasman reaches tasmania and new zealand",
+   "era": "the-early-modern-world",
+   "region": "oceania",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 305,
+   "date": "1644",
+   "start": 1644,
+   "end": 1644,
+   "text": "the manchus take beijing and found the qing dynasty, china's last",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 306,
+   "date": "1652",
+   "start": 1652,
+   "end": 1652,
+   "text": "the dutch east india company founds cape town",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "trade"
+   ]
+  },
+  {
+   "id": 321,
+   "date": "1661–1722",
+   "start": 1661,
+   "end": 1722,
+   "text": "the kangxi emperor rules qing china for 61 years, one of the longest reigns in history",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 320,
+   "date": "1665",
+   "start": 1665,
+   "end": 1665,
+   "text": "the great plague of london kills about 100,000 people, nearly a quarter of the city",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "disease"
+   ]
+  },
+  {
+   "id": 307,
+   "date": "1680",
+   "start": 1680,
+   "end": 1680,
+   "text": "the pueblo revolt drives spanish colonists out of new mexico for twelve years",
+   "era": "the-early-modern-world",
+   "region": "north-america",
+   "tags": [
+    "war",
+    "rights"
+   ]
+  },
+  {
+   "id": 308,
+   "date": "1682–1725",
+   "start": 1682,
+   "end": 1725,
+   "text": "peter the great rules russia and forces it to modernize along western lines",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 309,
+   "date": "1683",
+   "start": 1683,
+   "end": 1683,
+   "text": "the ottomans are defeated at the second siege of vienna",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 310,
+   "date": "1687",
+   "start": 1687,
+   "end": 1687,
+   "text": "isaac newton publishes the principia, explaining gravity and the laws of motion",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 311,
+   "date": "1688",
+   "start": 1688,
+   "end": 1688,
+   "text": "the glorious revolution in england limits the power of the crown; a bill of rights follows",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "politics",
+    "rights"
+   ]
+  },
+  {
+   "id": 322,
+   "date": "1689",
+   "start": 1689,
+   "end": 1689,
+   "text": "the treaty of nerchinsk sets the border between russia and qing china, china's first treaty with a european power",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 323,
+   "date": "c. 1700",
+   "start": 1700,
+   "end": 1700,
+   "text": "osei tutu founds the asante kingdom in the gold-rich forests of modern ghana, united by the golden stool",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  }
+ ]
+}

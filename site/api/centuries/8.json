@@ -1,0 +1,94 @@
+{
+ "century": 8,
+ "events": [
+  {
+   "id": 217,
+   "date": "711 ce",
+   "start": 711,
+   "end": 711,
+   "text": "muslim forces cross into spain and conquer most of the iberian peninsula",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 218,
+   "date": "750 ce",
+   "start": 750,
+   "end": 750,
+   "text": "the abbasid dynasty overthrows the umayyads and later builds baghdad as its capital",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "politics",
+    "empire"
+   ]
+  },
+  {
+   "id": 219,
+   "date": "751 ce",
+   "start": 751,
+   "end": 751,
+   "text": "abbasid and tang armies clash at the talas river; papermaking spreads west to the islamic world",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "war",
+    "technology"
+   ]
+  },
+  {
+   "id": 220,
+   "date": "793 ce",
+   "start": 793,
+   "end": 793,
+   "text": "vikings raid the monastery of lindisfarne in england, beginning the viking age",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 221,
+   "date": "800 ce",
+   "start": 800,
+   "end": 800,
+   "text": "the pope crowns charlemagne emperor of the romans",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "politics",
+    "religion"
+   ]
+  },
+  {
+   "id": 222,
+   "date": "c. 800 ce",
+   "start": 800,
+   "end": 800,
+   "text": "the huge buddhist monument of borobudur is built on java",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 224,
+   "date": "c. 800–900 ce",
+   "start": 800,
+   "end": 900,
+   "text": "most of the great classic maya cities of the southern lowlands are abandoned",
+   "era": "the-middle-ages",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "collapse"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "slug": "the-first-farmers",
+ "number": 3,
+ "title": "the first farmers",
+ "starts": "c. 10,000 bce",
+ "ends": "c. 3500 bce",
+ "summary": "as the ice age ends, people in at least seven parts of the world start farming on their own. villages, pottery, property, and new diseases follow, and the population of the world begins to climb.",
+ "page": "the-first-farmers.html",
+ "events": [
+  {
+   "id": 69,
+   "date": "c. 9700 bce",
+   "start": -9700,
+   "end": -9700,
+   "text": "the younger dryas ends and the holocene begins: a warm, stable climate that has lasted to today",
+   "era": "the-first-farmers",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 70,
+   "date": "c. 9500 bce",
+   "start": -9500,
+   "end": -9500,
+   "text": "göbekli tepe in southern turkey: huge carved stone pillars raised by hunter-gatherers, the oldest known monumental site",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "architecture"
+   ]
+  },
+  {
+   "id": 71,
+   "date": "c. 9000 bce",
+   "start": -9000,
+   "end": -9000,
+   "text": "wheat, barley, lentils, and peas are domesticated in the fertile crescent",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 72,
+   "date": "c. 8500 bce",
+   "start": -8500,
+   "end": -8500,
+   "text": "sheep and goats are domesticated in the zagros mountains and nearby",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "animals"
+   ]
+  },
+  {
+   "id": 73,
+   "date": "c. 8300 bce",
+   "start": -8300,
+   "end": -8300,
+   "text": "cattle are tamed from the wild aurochs, both in the near east and separately in south asia",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "animals"
+   ]
+  },
+  {
+   "id": 74,
+   "date": "c. 8000 bce",
+   "start": -8000,
+   "end": -8000,
+   "text": "jericho is surrounded by a stone wall with a great tower, one of the oldest town walls known",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "cities",
+    "architecture"
+   ]
+  },
+  {
+   "id": 75,
+   "date": "c. 8000 bce",
+   "start": -8000,
+   "end": -8000,
+   "text": "millet is farmed in northern china, along the yellow river",
+   "era": "the-first-farmers",
+   "region": "east-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 76,
+   "date": "c. 8000 bce",
+   "start": -8000,
+   "end": -8000,
+   "text": "squash is domesticated in mexico",
+   "era": "the-first-farmers",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 77,
+   "date": "c. 7100 bce",
+   "start": -7100,
+   "end": -7100,
+   "text": "çatalhöyük in anatolia grows into a crowded town of mud-brick houses entered through the roof",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 78,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "rice is domesticated in the lower yangtze valley of china",
+   "era": "the-first-farmers",
+   "region": "east-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 79,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "farmers at mehrgarh, in modern pakistan, grow barley and wheat and keep cattle",
+   "era": "the-first-farmers",
+   "region": "south-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 80,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "farmers in the highlands of new guinea dig drainage ditches to grow taro and bananas",
+   "era": "the-first-farmers",
+   "region": "oceania",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 81,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "maize begins to be domesticated from a wild grass called teosinte in southern mexico",
+   "era": "the-first-farmers",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 82,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "people at jiahu in china brew a fermented drink of rice, honey, and fruit, and play bone flutes",
+   "era": "the-first-farmers",
+   "region": "east-asia",
+   "tags": [
+    "culture",
+    "music"
+   ]
+  },
+  {
+   "id": 83,
+   "date": "c. 6500 bce",
+   "start": -6500,
+   "end": -6500,
+   "text": "farming spreads from anatolia into greece and the balkans, carried by migrating farmers",
+   "era": "the-first-farmers",
+   "region": "europe",
+   "tags": [
+    "farming",
+    "migration"
+   ]
+  },
+  {
+   "id": 84,
+   "date": "c. 6000 bce",
+   "start": -6000,
+   "end": -6000,
+   "text": "potatoes, quinoa, and beans are being domesticated in the andes",
+   "era": "the-first-farmers",
+   "region": "south-america",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 85,
+   "date": "c. 6000 bce",
+   "start": -6000,
+   "end": -6000,
+   "text": "farmers in mesopotamia dig irrigation canals to water fields with river water",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "technology"
+   ]
+  },
+  {
+   "id": 86,
+   "date": "c. 6000 bce",
+   "start": -6000,
+   "end": -6000,
+   "text": "during the \"green sahara\", herders graze cattle across lands that are now desert, and paint them on rocks",
+   "era": "the-first-farmers",
+   "region": "africa",
+   "tags": [
+    "farming",
+    "animals",
+    "art"
+   ]
+  },
+  {
+   "id": 87,
+   "date": "c. 5000 bce",
+   "start": -5000,
+   "end": -5000,
+   "text": "copper is smelted from ore in the balkans and iran, beginning the copper age",
+   "era": "the-first-farmers",
+   "region": "europe",
+   "tags": [
+    "technology",
+    "metal"
+   ]
+  },
+  {
+   "id": 88,
+   "date": "c. 5000 bce",
+   "start": -5000,
+   "end": -5000,
+   "text": "farming with barley, wheat, and cattle is established along the nile",
+   "era": "the-first-farmers",
+   "region": "africa",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 89,
+   "date": "c. 4500 bce",
+   "start": -4500,
+   "end": -4500,
+   "text": "the varna cemetery in bulgaria holds the oldest worked gold known, buried with a few very rich people",
+   "era": "the-first-farmers",
+   "region": "europe",
+   "tags": [
+    "metal",
+    "inequality"
+   ]
+  },
+  {
+   "id": 90,
+   "date": "c. 4500 bce",
+   "start": -4500,
+   "end": -4500,
+   "text": "people in brittany, france, raise thousands of standing stones at carnac",
+   "era": "the-first-farmers",
+   "region": "europe",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 91,
+   "date": "c. 4000 bce",
+   "start": -4000,
+   "end": -4000,
+   "text": "the plow pulled by oxen lets farmers work much more land",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "technology"
+   ]
+  },
+  {
+   "id": 92,
+   "date": "c. 4000 bce",
+   "start": -4000,
+   "end": -4000,
+   "text": "the sahara begins drying out; herders move toward the nile and the savanna",
+   "era": "the-first-farmers",
+   "region": "africa",
+   "tags": [
+    "environment",
+    "migration"
+   ]
+  },
+  {
+   "id": 93,
+   "date": "c. 3700 bce",
+   "start": -3700,
+   "end": -3700,
+   "text": "farmers build large wooden and stone tombs across britain and ireland",
+   "era": "the-first-farmers",
+   "region": "europe",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 94,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "the botai people of kazakhstan use horses, perhaps riding and milking them",
+   "era": "the-first-farmers",
+   "region": "central-asia",
+   "tags": [
+    "animals",
+    "horses"
+   ]
+  },
+  {
+   "id": 95,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "the wheel appears in mesopotamia and central europe at almost the same time",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "technology"
+   ]
+  },
+  {
+   "id": 96,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "llamas and alpacas are domesticated in the andes",
+   "era": "the-first-farmers",
+   "region": "south-america",
+   "tags": [
+    "farming",
+    "animals"
+   ]
+  }
+ ],
+ "people": []
+}

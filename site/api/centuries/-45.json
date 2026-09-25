@@ -1,0 +1,31 @@
+{
+ "century": -45,
+ "events": [
+  {
+   "id": 89,
+   "date": "c. 4500 bce",
+   "start": -4500,
+   "end": -4500,
+   "text": "the varna cemetery in bulgaria holds the oldest worked gold known, buried with a few very rich people",
+   "era": "the-first-farmers",
+   "region": "europe",
+   "tags": [
+    "metal",
+    "inequality"
+   ]
+  },
+  {
+   "id": 90,
+   "date": "c. 4500 bce",
+   "start": -4500,
+   "end": -4500,
+   "text": "people in brittany, france, raise thousands of standing stones at carnac",
+   "era": "the-first-farmers",
+   "region": "europe",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  }
+ ]
+}

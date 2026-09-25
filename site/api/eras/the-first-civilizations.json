@@ -1,0 +1,651 @@
+{
+ "slug": "the-first-civilizations",
+ "number": 4,
+ "title": "the first civilizations",
+ "starts": "c. 3500 bce",
+ "ends": "c. 800 bce",
+ "summary": "cities, kings, writing, law, and organized war appear along the great rivers of mesopotamia, egypt, the indus, and china, and on their own in the americas. the bronze age ends in a sudden collapse.",
+ "page": "the-first-civilizations.html",
+ "events": [
+  {
+   "id": 97,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "uruk in southern mesopotamia grows into perhaps the first true city, with tens of thousands of people and huge temples",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 98,
+   "date": "c. 3300 bce",
+   "start": -3300,
+   "end": -3300,
+   "text": "the bronze age begins in the near east as smiths alloy copper with arsenic and later tin",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "technology",
+    "metal"
+   ]
+  },
+  {
+   "id": 99,
+   "date": "c. 3300 bce",
+   "start": -3300,
+   "end": -3300,
+   "text": "ötzi the iceman dies in the alps; his frozen body, clothes, and copper axe survive to modern times",
+   "era": "the-first-civilizations",
+   "region": "europe",
+   "tags": [
+    "archaeology"
+   ]
+  },
+  {
+   "id": 100,
+   "date": "c. 3200 bce",
+   "start": -3200,
+   "end": -3200,
+   "text": "writing is invented in sumer: first as tallies and pictures on clay for keeping accounts, later as cuneiform",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 101,
+   "date": "c. 3200 bce",
+   "start": -3200,
+   "end": -3200,
+   "text": "egyptian hieroglyphs appear, possibly invented independently of mesopotamian writing",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 102,
+   "date": "c. 3100 bce",
+   "start": -3100,
+   "end": -3100,
+   "text": "upper and lower egypt are united under one king, remembered as narmer or menes",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "politics",
+    "empire"
+   ]
+  },
+  {
+   "id": 103,
+   "date": "c. 3000 bce",
+   "start": -3000,
+   "end": -3000,
+   "text": "the first stage of stonehenge, a circular ditch and bank, is dug in southern britain",
+   "era": "the-first-civilizations",
+   "region": "europe",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 104,
+   "date": "c. 3000 bce",
+   "start": -3000,
+   "end": -3000,
+   "text": "austronesian-speaking peoples begin sailing out of taiwan, starting a migration that will reach madagascar and easter island",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "migration",
+    "exploration"
+   ]
+  },
+  {
+   "id": 136,
+   "date": "c. 2650 bce",
+   "start": -2650,
+   "end": -2650,
+   "text": "the architect imhotep builds the step pyramid of djoser at saqqara, the first large building made entirely of stone",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 105,
+   "date": "c. 2600 bce",
+   "start": -2600,
+   "end": -2600,
+   "text": "the harappan cities of the indus valley, like harappa and mohenjo-daro, reach their height, with grid streets and covered drains",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 106,
+   "date": "c. 2600 bce",
+   "start": -2600,
+   "end": -2600,
+   "text": "caral in peru's supe valley builds pyramids and sunken plazas, the oldest city in the americas",
+   "era": "the-first-civilizations",
+   "region": "south-america",
+   "tags": [
+    "cities",
+    "architecture"
+   ]
+  },
+  {
+   "id": 107,
+   "date": "c. 2560 bce",
+   "start": -2560,
+   "end": -2560,
+   "text": "the great pyramid of giza is completed for the pharaoh khufu; it stays the tallest human-made structure for nearly 4,000 years",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 108,
+   "date": "c. 2500 bce",
+   "start": -2500,
+   "end": -2500,
+   "text": "kerma, the first kingdom of kush, flourishes on the nile in what is now sudan",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 137,
+   "date": "c. 2500 bce",
+   "start": -2500,
+   "end": -2500,
+   "text": "the indus cities use short written signs on stamp seals and a standard set of stone weights; the script has never been deciphered",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "writing",
+    "trade"
+   ]
+  },
+  {
+   "id": 109,
+   "date": "c. 2334 bce",
+   "start": -2334,
+   "end": -2334,
+   "text": "sargon of akkad conquers the sumerian cities and builds what is often called the first empire",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 110,
+   "date": "c. 2100 bce",
+   "start": -2100,
+   "end": -2100,
+   "text": "ur-nammu of ur issues the oldest surviving law code; the first poems about gilgamesh are written down",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "law",
+    "writing"
+   ]
+  },
+  {
+   "id": 111,
+   "date": "c. 2000 bce",
+   "start": -2000,
+   "end": -2000,
+   "text": "minoan palaces rise on crete, centered on knossos",
+   "era": "the-first-civilizations",
+   "region": "europe",
+   "tags": [
+    "cities",
+    "trade"
+   ]
+  },
+  {
+   "id": 112,
+   "date": "c. 2000 bce",
+   "start": -2000,
+   "end": -2000,
+   "text": "people of the sintashta culture on the steppe build light chariots with spoked wheels",
+   "era": "the-first-civilizations",
+   "region": "central-asia",
+   "tags": [
+    "technology",
+    "horses",
+    "war"
+   ]
+  },
+  {
+   "id": 113,
+   "date": "c. 2000 bce",
+   "start": -2000,
+   "end": -2000,
+   "text": "people in eastern north america domesticate squash, sunflowers, and other seed plants",
+   "era": "the-first-civilizations",
+   "region": "north-america",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 114,
+   "date": "c. 1900 bce",
+   "start": -1900,
+   "end": -1900,
+   "text": "the indus cities go into decline as rivers shift and the climate dries",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "collapse",
+    "environment"
+   ]
+  },
+  {
+   "id": 138,
+   "date": "c. 1850 bce",
+   "start": -1850,
+   "end": -1850,
+   "text": "semitic-speaking workers in egypt scratch the earliest known alphabet onto rocks in sinai and the western desert",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 139,
+   "date": "c. 1800 bce",
+   "start": -1800,
+   "end": -1800,
+   "text": "babylonian scribes do advanced mathematics in base sixty; we still use it for 60 minutes and 360 degrees",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "science",
+    "writing"
+   ]
+  },
+  {
+   "id": 115,
+   "date": "c. 1754 bce",
+   "start": -1754,
+   "end": -1754,
+   "text": "hammurabi of babylon has 282 laws carved on a stone pillar, the famous code of hammurabi",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "law"
+   ]
+  },
+  {
+   "id": 116,
+   "date": "c. 1600 bce",
+   "start": -1600,
+   "end": -1600,
+   "text": "the shang dynasty takes power along the yellow river, the first chinese dynasty with written records",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 117,
+   "date": "c. 1600 bce",
+   "start": -1600,
+   "end": -1600,
+   "text": "the volcano of thera (santorini) erupts in one of the largest blasts in human history; mycenaean greece begins to rise",
+   "era": "the-first-civilizations",
+   "region": "europe",
+   "tags": [
+    "disaster"
+   ]
+  },
+  {
+   "id": 118,
+   "date": "c. 1500 bce",
+   "start": -1500,
+   "end": -1500,
+   "text": "indo-aryan speaking peoples settle in northern india; the rigveda, oldest of the vedas, is composed",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "religion",
+    "migration"
+   ]
+  },
+  {
+   "id": 119,
+   "date": "1479–1458 bce",
+   "start": -1479,
+   "end": -1458,
+   "text": "hatshepsut rules egypt as pharaoh, sending trade expeditions to the land of punt",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "politics",
+    "trade"
+   ]
+  },
+  {
+   "id": 140,
+   "date": "c. 1450 bce",
+   "start": -1450,
+   "end": -1450,
+   "text": "mycenaean greeks take over knossos and write an early form of greek in the script called linear b",
+   "era": "the-first-civilizations",
+   "region": "europe",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 121,
+   "date": "c. 1353 bce",
+   "start": -1353,
+   "end": -1353,
+   "text": "akhenaten becomes pharaoh and orders egypt to worship only the sun disk, the aten",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 120,
+   "date": "c. 1350 bce",
+   "start": -1350,
+   "end": -1350,
+   "text": "the hittite empire of anatolia is at the height of its power",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 122,
+   "date": "c. 1323 bce",
+   "start": -1323,
+   "end": -1323,
+   "text": "the young pharaoh tutankhamun dies; his tomb is found almost untouched in 1922",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "archaeology"
+   ]
+  },
+  {
+   "id": 123,
+   "date": "c. 1300 bce",
+   "start": -1300,
+   "end": -1300,
+   "text": "lapita peoples sail from the islands off new guinea into the remote pacific, reaching fiji, tonga, and samoa",
+   "era": "the-first-civilizations",
+   "region": "oceania",
+   "tags": [
+    "migration",
+    "exploration"
+   ]
+  },
+  {
+   "id": 124,
+   "date": "1274 bce",
+   "start": -1274,
+   "end": -1274,
+   "text": "egypt under ramesses ii and the hittites fight the battle of kadesh; later they sign one of the oldest known peace treaties",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 125,
+   "date": "c. 1250 bce",
+   "start": -1250,
+   "end": -1250,
+   "text": "shang kings carve questions to their ancestors on oracle bones, the oldest chinese writing",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "writing",
+    "religion"
+   ]
+  },
+  {
+   "id": 126,
+   "date": "c. 1200 bce",
+   "start": -1200,
+   "end": -1200,
+   "text": "the olmec civilization rises on the gulf coast of mexico, carving colossal stone heads",
+   "era": "the-first-civilizations",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities",
+    "art"
+   ]
+  },
+  {
+   "id": 129,
+   "date": "c. 1200 bce",
+   "start": -1200,
+   "end": -1200,
+   "text": "ironworking spreads across the region, starting the iron age",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "technology",
+    "metal"
+   ]
+  },
+  {
+   "id": 127,
+   "date": "c. 1200–1150 bce",
+   "start": -1200,
+   "end": -1150,
+   "text": "the bronze age collapse: the hittite empire, mycenaean greece, and many cities of the eastern mediterranean fall",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "collapse",
+    "war"
+   ]
+  },
+  {
+   "id": 128,
+   "date": "c. 1177 bce",
+   "start": -1177,
+   "end": -1177,
+   "text": "ramesses iii fights off the \"sea peoples\" in the nile delta, but egypt is left weakened",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 130,
+   "date": "c. 1050 bce",
+   "start": -1050,
+   "end": -1050,
+   "text": "the phoenicians use an alphabet of 22 letters, the ancestor of the greek, latin, hebrew, and arabic scripts",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 131,
+   "date": "c. 1046 bce",
+   "start": -1046,
+   "end": -1046,
+   "text": "the zhou overthrow the shang and claim the \"mandate of heaven\"",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "politics",
+    "philosophy"
+   ]
+  },
+  {
+   "id": 132,
+   "date": "c. 1000 bce",
+   "start": -1000,
+   "end": -1000,
+   "text": "david rules a kingdom of israel from jerusalem; his son solomon is said to build the first temple",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "politics"
+   ]
+  },
+  {
+   "id": 133,
+   "date": "c. 1000 bce",
+   "start": -1000,
+   "end": -1000,
+   "text": "bantu-speaking farmers begin spreading south and east from west-central africa, carrying farming and later iron",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "migration",
+    "farming"
+   ]
+  },
+  {
+   "id": 134,
+   "date": "c. 900 bce",
+   "start": -900,
+   "end": -900,
+   "text": "the temple center of chavín de huántar spreads a shared religion and art style through the andes",
+   "era": "the-first-civilizations",
+   "region": "south-america",
+   "tags": [
+    "religion",
+    "art"
+   ]
+  },
+  {
+   "id": 135,
+   "date": "c. 814 bce",
+   "start": -814,
+   "end": -814,
+   "text": "phoenicians from tyre found carthage in north africa, according to tradition",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "cities",
+    "trade"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "otzi",
+   "name": "ötzi",
+   "dates": "c. 3350–3300 bce",
+   "role": "a copper age man found frozen in the alps",
+   "url": "api/people/otzi.json"
+  },
+  {
+   "slug": "narmer",
+   "name": "narmer",
+   "dates": "c. 3100 bce",
+   "role": "an early king of egypt",
+   "url": "api/people/narmer.json"
+  },
+  {
+   "slug": "imhotep",
+   "name": "imhotep",
+   "dates": "27th century bce",
+   "role": "egyptian architect and official",
+   "url": "api/people/imhotep.json"
+  },
+  {
+   "slug": "khufu",
+   "name": "khufu",
+   "dates": "c. 2589–2566 bce",
+   "role": "pharaoh of egypt's old kingdom",
+   "url": "api/people/khufu.json"
+  },
+  {
+   "slug": "sargon-of-akkad",
+   "name": "sargon of akkad",
+   "dates": "c. 2334–2279 bce",
+   "role": "king of akkad",
+   "url": "api/people/sargon-of-akkad.json"
+  },
+  {
+   "slug": "enheduanna",
+   "name": "enheduanna",
+   "dates": "c. 2285–2250 bce",
+   "role": "high priestess of ur and poet",
+   "url": "api/people/enheduanna.json"
+  },
+  {
+   "slug": "hammurabi",
+   "name": "hammurabi",
+   "dates": "c. 1810–1750 bce",
+   "role": "king of babylon",
+   "url": "api/people/hammurabi.json"
+  },
+  {
+   "slug": "hatshepsut",
+   "name": "hatshepsut",
+   "dates": "c. 1507–1458 bce",
+   "role": "pharaoh of egypt",
+   "url": "api/people/hatshepsut.json"
+  },
+  {
+   "slug": "akhenaten",
+   "name": "akhenaten",
+   "dates": "c. 1380–1336 bce",
+   "role": "pharaoh of egypt",
+   "url": "api/people/akhenaten.json"
+  },
+  {
+   "slug": "nefertiti",
+   "name": "nefertiti",
+   "dates": "c. 1370–1330 bce",
+   "role": "queen of egypt",
+   "url": "api/people/nefertiti.json"
+  },
+  {
+   "slug": "tutankhamun",
+   "name": "tutankhamun",
+   "dates": "c. 1341–1323 bce",
+   "role": "pharaoh of egypt",
+   "url": "api/people/tutankhamun.json"
+  },
+  {
+   "slug": "ramesses-ii",
+   "name": "ramesses ii",
+   "dates": "c. 1303–1213 bce",
+   "role": "pharaoh of egypt",
+   "url": "api/people/ramesses-ii.json"
+  }
+ ]
+}

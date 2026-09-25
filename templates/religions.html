@@ -28,6 +28,16 @@
 {% for r in religions %}<tr><td><a href="{{ r.slug }}/index.html"><b>{{ r.name }}</b></a></td><td>{{ r.creation }}</td><td>{{ r.age }}</td></tr>
 {% endfor %}</table>
 
+{% if shared %}
+<h2 id="shared">what they share</h2>
+
+<p>many figures, places, and ideas turn up in more than one faith, sometimes under different names: abraham is ibrahim in islam, and jesus is isa. this table is worked out each time the site is built by an f# script (<tt>tools/shared.fsx</tt>) that reads every religion's story, timeline, people, and glossary. each number is how often the pages of that religion mention it; click it to see where.</p>
+
+<table class="grid">
+<tr><th>shared</th><th>kind</th>{% for r in religions %}<th><a href="{{ r.slug }}/index.html">{{ r.name }}</a></th>{% endfor %}</tr>
+{% for row in shared %}<tr><td><b>{{ row.label }}</b></td><td class="small">{{ row.kind }}</td>{% for c in row.cells %}<td>{% if c %}<a href="{{ c.url }}">{{ c.mentions }}</a>{% else %}<span class="small">-</span>{% endif %}</td>{% endfor %}</tr>
+{% endfor %}</table>
+{% endif %}
 <h2 id="summaries">in short</h2>
 
 <dl>

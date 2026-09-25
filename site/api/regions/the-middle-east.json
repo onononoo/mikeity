@@ -1,0 +1,900 @@
+{
+ "slug": "the-middle-east",
+ "name": "the middle east",
+ "description": "mesopotamia, the levant, arabia, persia, and anatolia: the land of the first farms, cities, and writing, and the birthplace of judaism, christianity, and islam.",
+ "page": "regions.html#the-middle-east",
+ "events": [
+  {
+   "id": 48,
+   "date": "c. 780,000 years ago",
+   "start": -778050,
+   "end": -778050,
+   "text": "hearths at gesher benot ya'aqov in israel show humans controlling fire repeatedly",
+   "era": "the-first-humans",
+   "region": "the-middle-east",
+   "tags": [
+    "humans",
+    "fire"
+   ]
+  },
+  {
+   "id": 51,
+   "date": "c. 100,000 years ago",
+   "start": -98050,
+   "end": -98050,
+   "text": "early homo sapiens live for a time at skhul and qafzeh in israel, then seem to disappear from the region",
+   "era": "the-first-humans",
+   "region": "the-middle-east",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 70,
+   "date": "c. 9500 bce",
+   "start": -9500,
+   "end": -9500,
+   "text": "göbekli tepe in southern turkey: huge carved stone pillars raised by hunter-gatherers, the oldest known monumental site",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "architecture"
+   ]
+  },
+  {
+   "id": 71,
+   "date": "c. 9000 bce",
+   "start": -9000,
+   "end": -9000,
+   "text": "wheat, barley, lentils, and peas are domesticated in the fertile crescent",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 72,
+   "date": "c. 8500 bce",
+   "start": -8500,
+   "end": -8500,
+   "text": "sheep and goats are domesticated in the zagros mountains and nearby",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "animals"
+   ]
+  },
+  {
+   "id": 73,
+   "date": "c. 8300 bce",
+   "start": -8300,
+   "end": -8300,
+   "text": "cattle are tamed from the wild aurochs, both in the near east and separately in south asia",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "animals"
+   ]
+  },
+  {
+   "id": 74,
+   "date": "c. 8000 bce",
+   "start": -8000,
+   "end": -8000,
+   "text": "jericho is surrounded by a stone wall with a great tower, one of the oldest town walls known",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "cities",
+    "architecture"
+   ]
+  },
+  {
+   "id": 77,
+   "date": "c. 7100 bce",
+   "start": -7100,
+   "end": -7100,
+   "text": "çatalhöyük in anatolia grows into a crowded town of mud-brick houses entered through the roof",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 85,
+   "date": "c. 6000 bce",
+   "start": -6000,
+   "end": -6000,
+   "text": "farmers in mesopotamia dig irrigation canals to water fields with river water",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "technology"
+   ]
+  },
+  {
+   "id": 91,
+   "date": "c. 4000 bce",
+   "start": -4000,
+   "end": -4000,
+   "text": "the plow pulled by oxen lets farmers work much more land",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "technology"
+   ]
+  },
+  {
+   "id": 95,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "the wheel appears in mesopotamia and central europe at almost the same time",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "technology"
+   ]
+  },
+  {
+   "id": 97,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "uruk in southern mesopotamia grows into perhaps the first true city, with tens of thousands of people and huge temples",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 98,
+   "date": "c. 3300 bce",
+   "start": -3300,
+   "end": -3300,
+   "text": "the bronze age begins in the near east as smiths alloy copper with arsenic and later tin",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "technology",
+    "metal"
+   ]
+  },
+  {
+   "id": 100,
+   "date": "c. 3200 bce",
+   "start": -3200,
+   "end": -3200,
+   "text": "writing is invented in sumer: first as tallies and pictures on clay for keeping accounts, later as cuneiform",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 109,
+   "date": "c. 2334 bce",
+   "start": -2334,
+   "end": -2334,
+   "text": "sargon of akkad conquers the sumerian cities and builds what is often called the first empire",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 110,
+   "date": "c. 2100 bce",
+   "start": -2100,
+   "end": -2100,
+   "text": "ur-nammu of ur issues the oldest surviving law code; the first poems about gilgamesh are written down",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "law",
+    "writing"
+   ]
+  },
+  {
+   "id": 139,
+   "date": "c. 1800 bce",
+   "start": -1800,
+   "end": -1800,
+   "text": "babylonian scribes do advanced mathematics in base sixty; we still use it for 60 minutes and 360 degrees",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "science",
+    "writing"
+   ]
+  },
+  {
+   "id": 115,
+   "date": "c. 1754 bce",
+   "start": -1754,
+   "end": -1754,
+   "text": "hammurabi of babylon has 282 laws carved on a stone pillar, the famous code of hammurabi",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "law"
+   ]
+  },
+  {
+   "id": 120,
+   "date": "c. 1350 bce",
+   "start": -1350,
+   "end": -1350,
+   "text": "the hittite empire of anatolia is at the height of its power",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 124,
+   "date": "1274 bce",
+   "start": -1274,
+   "end": -1274,
+   "text": "egypt under ramesses ii and the hittites fight the battle of kadesh; later they sign one of the oldest known peace treaties",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 129,
+   "date": "c. 1200 bce",
+   "start": -1200,
+   "end": -1200,
+   "text": "ironworking spreads across the region, starting the iron age",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "technology",
+    "metal"
+   ]
+  },
+  {
+   "id": 127,
+   "date": "c. 1200–1150 bce",
+   "start": -1200,
+   "end": -1150,
+   "text": "the bronze age collapse: the hittite empire, mycenaean greece, and many cities of the eastern mediterranean fall",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "collapse",
+    "war"
+   ]
+  },
+  {
+   "id": 130,
+   "date": "c. 1050 bce",
+   "start": -1050,
+   "end": -1050,
+   "text": "the phoenicians use an alphabet of 22 letters, the ancestor of the greek, latin, hebrew, and arabic scripts",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 132,
+   "date": "c. 1000 bce",
+   "start": -1000,
+   "end": -1000,
+   "text": "david rules a kingdom of israel from jerusalem; his son solomon is said to build the first temple",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "politics"
+   ]
+  },
+  {
+   "id": 145,
+   "date": "722 bce",
+   "start": -722,
+   "end": -722,
+   "text": "the assyrian empire destroys the northern kingdom of israel and deports much of its population",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 146,
+   "date": "612 bce",
+   "start": -612,
+   "end": -612,
+   "text": "babylonians and medes sack nineveh, and the assyrian empire collapses",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "collapse"
+   ]
+  },
+  {
+   "id": 195,
+   "date": "c. 600 bce",
+   "start": -600,
+   "end": -600,
+   "text": "the kingdom of lydia in anatolia strikes the first coins, lumps of electrum stamped with a lion's head",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "economy",
+    "trade"
+   ]
+  },
+  {
+   "id": 147,
+   "date": "587 bce",
+   "start": -587,
+   "end": -587,
+   "text": "babylon destroys jerusalem and its temple; many judeans are exiled to babylon",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 150,
+   "date": "550 bce",
+   "start": -550,
+   "end": -550,
+   "text": "cyrus the great founds the achaemenid persian empire",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 151,
+   "date": "539 bce",
+   "start": -539,
+   "end": -539,
+   "text": "cyrus takes babylon and allows the exiled jews to return and rebuild their temple",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 161,
+   "date": "334–323 bce",
+   "start": -334,
+   "end": -323,
+   "text": "alexander the great conquers the persian empire and marches to india",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 162,
+   "date": "323 bce",
+   "start": -323,
+   "end": -323,
+   "text": "alexander dies in babylon at 32; his generals split his empire",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 176,
+   "date": "c. 4 bce",
+   "start": -4,
+   "end": -4,
+   "text": "jesus of nazareth is born in judea",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 177,
+   "date": "c. 30 ce",
+   "start": 30,
+   "end": 30,
+   "text": "jesus is crucified in jerusalem; his followers begin to spread christianity",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 178,
+   "date": "70 ce",
+   "start": 70,
+   "end": 70,
+   "text": "the romans crush a jewish revolt and destroy the second temple in jerusalem",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 186,
+   "date": "224 ce",
+   "start": 224,
+   "end": 224,
+   "text": "the sasanian persian empire is founded; it will rival rome for four centuries",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 209,
+   "date": "c. 570 ce",
+   "start": 570,
+   "end": 570,
+   "text": "muhammad is born in mecca",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 211,
+   "date": "c. 610 ce",
+   "start": 610,
+   "end": 610,
+   "text": "muhammad begins receiving the revelations that become the quran, according to muslim tradition",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 213,
+   "date": "622 ce",
+   "start": 622,
+   "end": 622,
+   "text": "the hijra: muhammad and his followers move from mecca to medina, year one of the islamic calendar",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 214,
+   "date": "632 ce",
+   "start": 632,
+   "end": 632,
+   "text": "muhammad dies; abu bakr becomes the first caliph",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "politics"
+   ]
+  },
+  {
+   "id": 215,
+   "date": "c. 632–750 ce",
+   "start": 632,
+   "end": 750,
+   "text": "arab muslim armies conquer the sasanian empire, syria, egypt, north africa, and spain",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 216,
+   "date": "680 ce",
+   "start": 680,
+   "end": 680,
+   "text": "husayn, grandson of muhammad, is killed at karbala, deepening the split between sunni and shia muslims",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "war"
+   ]
+  },
+  {
+   "id": 218,
+   "date": "750 ce",
+   "start": 750,
+   "end": 750,
+   "text": "the abbasid dynasty overthrows the umayyads and later builds baghdad as its capital",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "politics",
+    "empire"
+   ]
+  },
+  {
+   "id": 223,
+   "date": "c. 830 ce",
+   "start": 830,
+   "end": 830,
+   "text": "al-khwarizmi writes his book on algebra at the house of wisdom in baghdad",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 229,
+   "date": "c. 1025",
+   "start": 1025,
+   "end": 1025,
+   "text": "ibn sina (avicenna) completes the canon of medicine, used in europe and the islamic world for centuries",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "science",
+    "medicine"
+   ]
+  },
+  {
+   "id": 234,
+   "date": "1099",
+   "start": 1099,
+   "end": 1099,
+   "text": "the first crusade captures jerusalem and massacres many of its people",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 238,
+   "date": "1187",
+   "start": 1187,
+   "end": 1187,
+   "text": "saladin defeats the crusaders at hattin and retakes jerusalem",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 243,
+   "date": "1258",
+   "start": 1258,
+   "end": 1258,
+   "text": "the mongols sack baghdad and end the abbasid caliphate",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "collapse"
+   ]
+  },
+  {
+   "id": 248,
+   "date": "c. 1299",
+   "start": 1299,
+   "end": 1299,
+   "text": "osman i founds the small anatolian state that becomes the ottoman empire",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 279,
+   "date": "1501",
+   "start": 1501,
+   "end": 1501,
+   "text": "ismail i founds the safavid empire in persia and makes shia islam the state religion",
+   "era": "the-early-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 286,
+   "date": "1520–1566",
+   "start": 1520,
+   "end": 1566,
+   "text": "suleiman the magnificent rules the ottoman empire at its height",
+   "era": "the-early-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 422,
+   "date": "1908",
+   "start": 1908,
+   "end": 1908,
+   "text": "oil is struck in persia, the first great oil find in the middle east",
+   "era": "industry-and-empire",
+   "region": "the-middle-east",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "id": 426,
+   "date": "1915",
+   "start": 1915,
+   "end": 1915,
+   "text": "allied troops land at gallipoli but fail to knock the ottoman empire out of the war",
+   "era": "the-world-wars",
+   "region": "the-middle-east",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 427,
+   "date": "1915–1917",
+   "start": 1915,
+   "end": 1917,
+   "text": "the ottoman government carries out the armenian genocide, killing around a million armenians",
+   "era": "the-world-wars",
+   "region": "the-middle-east",
+   "tags": [
+    "genocide"
+   ]
+  },
+  {
+   "id": 436,
+   "date": "1923",
+   "start": 1923,
+   "end": 1923,
+   "text": "mustafa kemal atatürk founds the republic of turkey",
+   "era": "the-world-wars",
+   "region": "the-middle-east",
+   "tags": [
+    "nationalism",
+    "politics"
+   ]
+  },
+  {
+   "id": 466,
+   "date": "1948",
+   "start": 1948,
+   "end": 1948,
+   "text": "the state of israel is founded; the first arab-israeli war follows and about 700,000 palestinians flee or are expelled",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "independence"
+   ]
+  },
+  {
+   "id": 492,
+   "date": "1973",
+   "start": 1973,
+   "end": 1973,
+   "text": "an arab oil embargo causes a worldwide energy crisis",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 495,
+   "date": "1979",
+   "start": 1979,
+   "end": 1979,
+   "text": "the iranian revolution creates an islamic republic",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "revolution",
+    "religion"
+   ]
+  },
+  {
+   "id": 507,
+   "date": "2003",
+   "start": 2003,
+   "end": 2003,
+   "text": "a us-led coalition invades iraq",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 511,
+   "date": "2011",
+   "start": 2011,
+   "end": 2011,
+   "text": "the arab spring uprisings; syria descends into civil war",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "revolution",
+    "war"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "sargon-of-akkad",
+   "name": "sargon of akkad",
+   "dates": "c. 2334–2279 bce",
+   "role": "king of akkad",
+   "url": "api/people/sargon-of-akkad.json"
+  },
+  {
+   "slug": "enheduanna",
+   "name": "enheduanna",
+   "dates": "c. 2285–2250 bce",
+   "role": "high priestess of ur and poet",
+   "url": "api/people/enheduanna.json"
+  },
+  {
+   "slug": "hammurabi",
+   "name": "hammurabi",
+   "dates": "c. 1810–1750 bce",
+   "role": "king of babylon",
+   "url": "api/people/hammurabi.json"
+  },
+  {
+   "slug": "zoroaster",
+   "name": "zoroaster",
+   "dates": "c. 1500–500 bce",
+   "role": "persian prophet",
+   "url": "api/people/zoroaster.json"
+  },
+  {
+   "slug": "nebuchadnezzar-ii",
+   "name": "nebuchadnezzar ii",
+   "dates": "c. 642–562 bce",
+   "role": "king of babylon",
+   "url": "api/people/nebuchadnezzar-ii.json"
+  },
+  {
+   "slug": "cyrus-the-great",
+   "name": "cyrus the great",
+   "dates": "c. 600–530 bce",
+   "role": "founder of the achaemenid persian empire",
+   "url": "api/people/cyrus-the-great.json"
+  },
+  {
+   "slug": "darius-i",
+   "name": "darius i",
+   "dates": "c. 550–486 bce",
+   "role": "king of persia",
+   "url": "api/people/darius-i.json"
+  },
+  {
+   "slug": "jesus-of-nazareth",
+   "name": "jesus of nazareth",
+   "dates": "c. 4 bce–30 ce",
+   "role": "jewish teacher, central figure of christianity",
+   "url": "api/people/jesus-of-nazareth.json"
+  },
+  {
+   "slug": "paul-of-tarsus",
+   "name": "paul of tarsus",
+   "dates": "c. 5–64 ce",
+   "role": "christian missionary",
+   "url": "api/people/paul-of-tarsus.json"
+  },
+  {
+   "slug": "muhammad",
+   "name": "muhammad",
+   "dates": "c. 570–632 ce",
+   "role": "prophet of islam",
+   "url": "api/people/muhammad.json"
+  },
+  {
+   "slug": "harun-al-rashid",
+   "name": "harun al-rashid",
+   "dates": "c. 763–809 ce",
+   "role": "abbasid caliph",
+   "url": "api/people/harun-al-rashid.json"
+  },
+  {
+   "slug": "al-khwarizmi",
+   "name": "al-khwarizmi",
+   "dates": "c. 780–850 ce",
+   "role": "persian mathematician in baghdad",
+   "url": "api/people/al-khwarizmi.json"
+  },
+  {
+   "slug": "ibn-al-haytham",
+   "name": "ibn al-haytham",
+   "dates": "c. 965 ce–1040",
+   "role": "arab mathematician and physicist",
+   "url": "api/people/ibn-al-haytham.json"
+  },
+  {
+   "slug": "ibn-sina",
+   "name": "ibn sina",
+   "dates": "980 ce–1037",
+   "role": "persian doctor and philosopher",
+   "url": "api/people/ibn-sina.json"
+  },
+  {
+   "slug": "saladin",
+   "name": "saladin",
+   "dates": "1137–1193",
+   "role": "sultan of egypt and syria",
+   "url": "api/people/saladin.json"
+  },
+  {
+   "slug": "rumi",
+   "name": "rumi",
+   "dates": "1207–1273",
+   "role": "persian poet and sufi mystic",
+   "url": "api/people/rumi.json"
+  },
+  {
+   "slug": "mehmed-ii",
+   "name": "mehmed ii",
+   "dates": "1432–1481",
+   "role": "ottoman sultan",
+   "url": "api/people/mehmed-ii.json"
+  },
+  {
+   "slug": "suleiman-the-magnificent",
+   "name": "suleiman the magnificent",
+   "dates": "1494–1566",
+   "role": "ottoman sultan",
+   "url": "api/people/suleiman-the-magnificent.json"
+  },
+  {
+   "slug": "mustafa-kemal-ataturk",
+   "name": "mustafa kemal atatürk",
+   "dates": "1881–1938",
+   "role": "founder of modern turkey",
+   "url": "api/people/mustafa-kemal-ataturk.json"
+  }
+ ]
+}

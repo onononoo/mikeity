@@ -1,0 +1,1078 @@
+{
+ "slug": "africa",
+ "name": "africa",
+ "description": "the continent where humans first appeared, home to egypt, kush, aksum, mali, songhai, great zimbabwe, and the swahili coast, and later to the struggle against colonial rule.",
+ "page": "regions.html#africa",
+ "events": [
+  {
+   "id": 34,
+   "date": "c. 25 million years ago",
+   "start": -24998050,
+   "end": -24998050,
+   "text": "the ancestors of apes split from old world monkeys",
+   "era": "the-beginning",
+   "region": "africa",
+   "tags": [
+    "mammals",
+    "primates"
+   ]
+  },
+  {
+   "id": 35,
+   "date": "c. 7 million years ago",
+   "start": -6998050,
+   "end": -6998050,
+   "text": "the lineage leading to humans separates from the one leading to chimpanzees; sahelanthropus in chad may be one of the earliest members",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 36,
+   "date": "c. 4.4 million years ago",
+   "start": -4398050,
+   "end": -4398050,
+   "text": "ardipithecus (\"ardi\") in ethiopia walks upright on the ground but still climbs trees with grasping feet",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 37,
+   "date": "3.66 million years ago",
+   "start": -3658050,
+   "end": -3658050,
+   "text": "hominins leave a trail of footprints in volcanic ash at laetoli, tanzania, proving they walked fully upright",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 38,
+   "date": "3.3 million years ago",
+   "start": -3298050,
+   "end": -3298050,
+   "text": "the oldest known stone tools are made at lomekwi, kenya, before our own genus existed",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "technology"
+   ]
+  },
+  {
+   "id": 39,
+   "date": "3.2 million years ago",
+   "start": -3198050,
+   "end": -3198050,
+   "text": "\"lucy\", an australopithecus afarensis, lives and dies in the afar region of ethiopia",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 40,
+   "date": "2.8 million years ago",
+   "start": -2798050,
+   "end": -2798050,
+   "text": "the earliest known fossil of our genus, homo, a jawbone from ledi-geraru, ethiopia",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 42,
+   "date": "2.6 million years ago",
+   "start": -2598050,
+   "end": -2598050,
+   "text": "oldowan stone tools, simple sharp flakes, become common in east africa",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "technology"
+   ]
+  },
+  {
+   "id": 43,
+   "date": "c. 1.9 million years ago",
+   "start": -1898050,
+   "end": -1898050,
+   "text": "homo erectus appears, with a body much like ours and a larger brain",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 45,
+   "date": "c. 1.76 million years ago",
+   "start": -1758050,
+   "end": -1758050,
+   "text": "acheulean hand axes, carefully shaped teardrop tools, are made; the design lasts over a million years",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "technology"
+   ]
+  },
+  {
+   "id": 47,
+   "date": "c. 1 million years ago",
+   "start": -998050,
+   "end": -998050,
+   "text": "burned bone and ash in wonderwerk cave, south africa, are some of the earliest evidence of fire use",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "technology",
+    "fire"
+   ]
+  },
+  {
+   "id": 50,
+   "date": "c. 300,000 years ago",
+   "start": -298050,
+   "end": -298050,
+   "text": "the oldest known fossils of homo sapiens, our own species, from jebel irhoud, morocco",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 52,
+   "date": "c. 75,000 years ago",
+   "start": -73050,
+   "end": -73050,
+   "text": "people at blombos cave, south africa, engrave patterns on red ochre and make shell beads: early signs of symbolic thought",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "art"
+   ]
+  },
+  {
+   "id": 55,
+   "date": "c. 60,000 years ago",
+   "start": -58050,
+   "end": -58050,
+   "text": "the main migration of homo sapiens out of africa begins; nearly everyone outside africa today descends from it",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 86,
+   "date": "c. 6000 bce",
+   "start": -6000,
+   "end": -6000,
+   "text": "during the \"green sahara\", herders graze cattle across lands that are now desert, and paint them on rocks",
+   "era": "the-first-farmers",
+   "region": "africa",
+   "tags": [
+    "farming",
+    "animals",
+    "art"
+   ]
+  },
+  {
+   "id": 88,
+   "date": "c. 5000 bce",
+   "start": -5000,
+   "end": -5000,
+   "text": "farming with barley, wheat, and cattle is established along the nile",
+   "era": "the-first-farmers",
+   "region": "africa",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 92,
+   "date": "c. 4000 bce",
+   "start": -4000,
+   "end": -4000,
+   "text": "the sahara begins drying out; herders move toward the nile and the savanna",
+   "era": "the-first-farmers",
+   "region": "africa",
+   "tags": [
+    "environment",
+    "migration"
+   ]
+  },
+  {
+   "id": 101,
+   "date": "c. 3200 bce",
+   "start": -3200,
+   "end": -3200,
+   "text": "egyptian hieroglyphs appear, possibly invented independently of mesopotamian writing",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 102,
+   "date": "c. 3100 bce",
+   "start": -3100,
+   "end": -3100,
+   "text": "upper and lower egypt are united under one king, remembered as narmer or menes",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "politics",
+    "empire"
+   ]
+  },
+  {
+   "id": 136,
+   "date": "c. 2650 bce",
+   "start": -2650,
+   "end": -2650,
+   "text": "the architect imhotep builds the step pyramid of djoser at saqqara, the first large building made entirely of stone",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 107,
+   "date": "c. 2560 bce",
+   "start": -2560,
+   "end": -2560,
+   "text": "the great pyramid of giza is completed for the pharaoh khufu; it stays the tallest human-made structure for nearly 4,000 years",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 108,
+   "date": "c. 2500 bce",
+   "start": -2500,
+   "end": -2500,
+   "text": "kerma, the first kingdom of kush, flourishes on the nile in what is now sudan",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 138,
+   "date": "c. 1850 bce",
+   "start": -1850,
+   "end": -1850,
+   "text": "semitic-speaking workers in egypt scratch the earliest known alphabet onto rocks in sinai and the western desert",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 119,
+   "date": "1479–1458 bce",
+   "start": -1479,
+   "end": -1458,
+   "text": "hatshepsut rules egypt as pharaoh, sending trade expeditions to the land of punt",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "politics",
+    "trade"
+   ]
+  },
+  {
+   "id": 121,
+   "date": "c. 1353 bce",
+   "start": -1353,
+   "end": -1353,
+   "text": "akhenaten becomes pharaoh and orders egypt to worship only the sun disk, the aten",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 122,
+   "date": "c. 1323 bce",
+   "start": -1323,
+   "end": -1323,
+   "text": "the young pharaoh tutankhamun dies; his tomb is found almost untouched in 1922",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "archaeology"
+   ]
+  },
+  {
+   "id": 128,
+   "date": "c. 1177 bce",
+   "start": -1177,
+   "end": -1177,
+   "text": "ramesses iii fights off the \"sea peoples\" in the nile delta, but egypt is left weakened",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 133,
+   "date": "c. 1000 bce",
+   "start": -1000,
+   "end": -1000,
+   "text": "bantu-speaking farmers begin spreading south and east from west-central africa, carrying farming and later iron",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "migration",
+    "farming"
+   ]
+  },
+  {
+   "id": 135,
+   "date": "c. 814 bce",
+   "start": -814,
+   "end": -814,
+   "text": "phoenicians from tyre found carthage in north africa, according to tradition",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "cities",
+    "trade"
+   ]
+  },
+  {
+   "id": 144,
+   "date": "c. 750 bce",
+   "start": -750,
+   "end": -750,
+   "text": "kushite kings from nubia conquer egypt and rule it as its 25th dynasty",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 148,
+   "date": "c. 500 bce",
+   "start": -500,
+   "end": -500,
+   "text": "the nok culture of nigeria smelts iron and makes striking terracotta sculptures",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "art",
+    "metal"
+   ]
+  },
+  {
+   "id": 164,
+   "date": "c. 300 bce",
+   "start": -300,
+   "end": -300,
+   "text": "meroë becomes the capital of kush, a center of iron smelting with its own steep pyramids",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "cities",
+    "metal"
+   ]
+  },
+  {
+   "id": 165,
+   "date": "c. 300 bce",
+   "start": -300,
+   "end": -300,
+   "text": "the library of alexandria is founded in egypt under the ptolemies",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "science",
+    "writing"
+   ]
+  },
+  {
+   "id": 198,
+   "date": "c. 300 bce",
+   "start": -300,
+   "end": -300,
+   "text": "euclid writes the elements in alexandria, a textbook of geometry used for more than two thousand years",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 199,
+   "date": "c. 240 bce",
+   "start": -240,
+   "end": -240,
+   "text": "eratosthenes measures the size of the earth using the shadows cast in two egyptian cities",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 182,
+   "date": "c. 100 ce",
+   "start": 100,
+   "end": 100,
+   "text": "the kingdom of aksum in ethiopia and eritrea grows rich on red sea trade",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "trade",
+    "empire"
+   ]
+  },
+  {
+   "id": 191,
+   "date": "c. 330 ce",
+   "start": 330,
+   "end": 330,
+   "text": "king ezana of aksum converts to christianity",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 260,
+   "date": "c. 700 ce",
+   "start": 700,
+   "end": 700,
+   "text": "the empire of ghana, the \"land of gold\", grows rich on camel caravans carrying gold and salt across the sahara",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "trade",
+    "empire"
+   ]
+  },
+  {
+   "id": 261,
+   "date": "c. 1015",
+   "start": 1015,
+   "end": 1015,
+   "text": "ibn al-haytham writes his book of optics in cairo, testing ideas about light and sight with careful experiments",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 236,
+   "date": "c. 1200",
+   "start": 1200,
+   "end": 1200,
+   "text": "king lalibela of ethiopia has churches carved down into solid rock",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 237,
+   "date": "c. 1200",
+   "start": 1200,
+   "end": 1200,
+   "text": "swahili trading cities like kilwa and mombasa prosper on indian ocean trade",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "trade",
+    "cities"
+   ]
+  },
+  {
+   "id": 242,
+   "date": "c. 1235",
+   "start": 1235,
+   "end": 1235,
+   "text": "sundiata keita defeats the sosso and founds the mali empire",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 249,
+   "date": "c. 1300",
+   "start": 1300,
+   "end": 1300,
+   "text": "great zimbabwe, with its huge dry-stone walls, is at the height of its power",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "cities",
+    "architecture"
+   ]
+  },
+  {
+   "id": 250,
+   "date": "1324",
+   "start": 1324,
+   "end": 1324,
+   "text": "mansa musa of mali makes his pilgrimage to mecca, spending so much gold in cairo that its value falls",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "religion",
+    "trade"
+   ]
+  },
+  {
+   "id": 271,
+   "date": "c. 1390",
+   "start": 1390,
+   "end": 1390,
+   "text": "the kingdom of kongo takes shape south of the congo river",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 313,
+   "date": "1464–1492",
+   "start": 1464,
+   "end": 1492,
+   "text": "sonni ali builds the songhai empire along the niger river, taking timbuktu and djenné",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 275,
+   "date": "1488",
+   "start": 1488,
+   "end": 1488,
+   "text": "bartolomeu dias sails around the southern tip of africa",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 280,
+   "date": "1501–1866",
+   "start": 1501,
+   "end": 1866,
+   "text": "the transatlantic slave trade carries about 12.5 million africans in chains to the americas; nearly 2 million die at sea",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "slavery",
+    "trade"
+   ]
+  },
+  {
+   "id": 296,
+   "date": "1591",
+   "start": 1591,
+   "end": 1591,
+   "text": "a moroccan army with guns defeats the songhai empire",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "war",
+    "collapse"
+   ]
+  },
+  {
+   "id": 306,
+   "date": "1652",
+   "start": 1652,
+   "end": 1652,
+   "text": "the dutch east india company founds cape town",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "trade"
+   ]
+  },
+  {
+   "id": 323,
+   "date": "c. 1700",
+   "start": 1700,
+   "end": 1700,
+   "text": "osei tutu founds the asante kingdom in the gold-rich forests of modern ghana, united by the golden stool",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 349,
+   "date": "c. 1816",
+   "start": 1816,
+   "end": 1816,
+   "text": "shaka builds the zulu kingdom into a powerful military state in southern africa",
+   "era": "the-age-of-revolutions",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 369,
+   "date": "1830",
+   "start": 1830,
+   "end": 1830,
+   "text": "france invades algeria, beginning more than 130 years of french rule",
+   "era": "the-age-of-revolutions",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 386,
+   "date": "1869",
+   "start": 1869,
+   "end": 1869,
+   "text": "the suez canal opens, linking the mediterranean and the red sea",
+   "era": "industry-and-empire",
+   "region": "africa",
+   "tags": [
+    "trade",
+    "technology"
+   ]
+  },
+  {
+   "id": 393,
+   "date": "1884–1885",
+   "start": 1884,
+   "end": 1885,
+   "text": "at the berlin conference, european powers set rules for dividing africa; no africans are present",
+   "era": "industry-and-empire",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 394,
+   "date": "1885–1908",
+   "start": 1885,
+   "end": 1908,
+   "text": "the congo free state, run by king leopold ii of belgium, forces people to harvest rubber; millions die",
+   "era": "industry-and-empire",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "rights"
+   ]
+  },
+  {
+   "id": 399,
+   "date": "1896",
+   "start": 1896,
+   "end": 1896,
+   "text": "ethiopia defeats an invading italian army at the battle of adwa and stays independent",
+   "era": "industry-and-empire",
+   "region": "africa",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 421,
+   "date": "1898",
+   "start": 1898,
+   "end": 1898,
+   "text": "samori ture, who fought the french conquest of west africa for nearly two decades, is captured",
+   "era": "industry-and-empire",
+   "region": "africa",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 401,
+   "date": "1899–1902",
+   "start": 1899,
+   "end": 1902,
+   "text": "the second boer war in south africa; the british use concentration camps",
+   "era": "industry-and-empire",
+   "region": "africa",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 406,
+   "date": "1904–1908",
+   "start": 1904,
+   "end": 1908,
+   "text": "german colonial forces carry out genocide against the herero and nama in southwest africa (namibia)",
+   "era": "industry-and-empire",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "genocide"
+   ]
+  },
+  {
+   "id": 444,
+   "date": "1935–1936",
+   "start": 1935,
+   "end": 1936,
+   "text": "fascist italy invades and occupies ethiopia, using poison gas",
+   "era": "the-world-wars",
+   "region": "africa",
+   "tags": [
+    "war",
+    "fascism"
+   ]
+  },
+  {
+   "id": 468,
+   "date": "1948",
+   "start": 1948,
+   "end": 1948,
+   "text": "south africa's government begins the system of apartheid",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 478,
+   "date": "1957",
+   "start": 1957,
+   "end": 1957,
+   "text": "ghana becomes the first sub-saharan african colony to win independence",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "independence"
+   ]
+  },
+  {
+   "id": 480,
+   "date": "1960",
+   "start": 1960,
+   "end": 1960,
+   "text": "the \"year of africa\": seventeen african countries become independent",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "independence"
+   ]
+  },
+  {
+   "id": 484,
+   "date": "1962",
+   "start": 1962,
+   "end": 1962,
+   "text": "algeria wins independence from france after an eight-year war",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "independence",
+    "war"
+   ]
+  },
+  {
+   "id": 503,
+   "date": "1994",
+   "start": 1994,
+   "end": 1994,
+   "text": "nelson mandela becomes president of south africa in its first all-race election",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 504,
+   "date": "1994",
+   "start": 1994,
+   "end": 1994,
+   "text": "the rwandan genocide: about 800,000 people, mostly tutsi, are murdered in about 100 days",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "genocide"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "lucy",
+   "name": "lucy",
+   "dates": "3.2 million years ago",
+   "role": "an australopithecus afarensis",
+   "url": "api/people/lucy.json"
+  },
+  {
+   "slug": "turkana-boy",
+   "name": "turkana boy",
+   "dates": "c. 1.5 million years ago",
+   "role": "a young homo erectus",
+   "url": "api/people/turkana-boy.json"
+  },
+  {
+   "slug": "narmer",
+   "name": "narmer",
+   "dates": "c. 3100 bce",
+   "role": "an early king of egypt",
+   "url": "api/people/narmer.json"
+  },
+  {
+   "slug": "imhotep",
+   "name": "imhotep",
+   "dates": "27th century bce",
+   "role": "egyptian architect and official",
+   "url": "api/people/imhotep.json"
+  },
+  {
+   "slug": "khufu",
+   "name": "khufu",
+   "dates": "c. 2589–2566 bce",
+   "role": "pharaoh of egypt's old kingdom",
+   "url": "api/people/khufu.json"
+  },
+  {
+   "slug": "hatshepsut",
+   "name": "hatshepsut",
+   "dates": "c. 1507–1458 bce",
+   "role": "pharaoh of egypt",
+   "url": "api/people/hatshepsut.json"
+  },
+  {
+   "slug": "akhenaten",
+   "name": "akhenaten",
+   "dates": "c. 1380–1336 bce",
+   "role": "pharaoh of egypt",
+   "url": "api/people/akhenaten.json"
+  },
+  {
+   "slug": "nefertiti",
+   "name": "nefertiti",
+   "dates": "c. 1370–1330 bce",
+   "role": "queen of egypt",
+   "url": "api/people/nefertiti.json"
+  },
+  {
+   "slug": "tutankhamun",
+   "name": "tutankhamun",
+   "dates": "c. 1341–1323 bce",
+   "role": "pharaoh of egypt",
+   "url": "api/people/tutankhamun.json"
+  },
+  {
+   "slug": "ramesses-ii",
+   "name": "ramesses ii",
+   "dates": "c. 1303–1213 bce",
+   "role": "pharaoh of egypt",
+   "url": "api/people/ramesses-ii.json"
+  },
+  {
+   "slug": "euclid",
+   "name": "euclid",
+   "dates": "c. 300 bce",
+   "role": "greek mathematician in alexandria",
+   "url": "api/people/euclid.json"
+  },
+  {
+   "slug": "eratosthenes",
+   "name": "eratosthenes",
+   "dates": "c. 276–194 bce",
+   "role": "greek scholar and head of the library of alexandria",
+   "url": "api/people/eratosthenes.json"
+  },
+  {
+   "slug": "hannibal",
+   "name": "hannibal",
+   "dates": "247–183 bce",
+   "role": "carthaginian general",
+   "url": "api/people/hannibal.json"
+  },
+  {
+   "slug": "cleopatra",
+   "name": "cleopatra",
+   "dates": "69–30 bce",
+   "role": "last ptolemaic ruler of egypt",
+   "url": "api/people/cleopatra.json"
+  },
+  {
+   "slug": "ezana",
+   "name": "ezana",
+   "dates": "4th century",
+   "role": "king of aksum",
+   "url": "api/people/ezana.json"
+  },
+  {
+   "slug": "hypatia",
+   "name": "hypatia",
+   "dates": "c. 360–415 ce",
+   "role": "mathematician and philosopher in alexandria",
+   "url": "api/people/hypatia.json"
+  },
+  {
+   "slug": "maimonides",
+   "name": "maimonides",
+   "dates": "c. 1138–1204",
+   "role": "jewish philosopher and doctor",
+   "url": "api/people/maimonides.json"
+  },
+  {
+   "slug": "sundiata-keita",
+   "name": "sundiata keita",
+   "dates": "c. 1217–1255",
+   "role": "founder of the mali empire",
+   "url": "api/people/sundiata-keita.json"
+  },
+  {
+   "slug": "mansa-musa",
+   "name": "mansa musa",
+   "dates": "c. 1280–1337",
+   "role": "emperor of mali",
+   "url": "api/people/mansa-musa.json"
+  },
+  {
+   "slug": "ibn-battuta",
+   "name": "ibn battuta",
+   "dates": "1304–1369",
+   "role": "moroccan traveler",
+   "url": "api/people/ibn-battuta.json"
+  },
+  {
+   "slug": "ibn-khaldun",
+   "name": "ibn khaldun",
+   "dates": "1332–1406",
+   "role": "north african historian",
+   "url": "api/people/ibn-khaldun.json"
+  },
+  {
+   "slug": "afonso-i-of-kongo",
+   "name": "afonso i of kongo",
+   "dates": "c. 1456–1542",
+   "role": "king of kongo",
+   "url": "api/people/afonso-i-of-kongo.json"
+  },
+  {
+   "slug": "queen-nzinga",
+   "name": "queen nzinga",
+   "dates": "c. 1583–1663",
+   "role": "queen of ndongo and matamba",
+   "url": "api/people/queen-nzinga.json"
+  },
+  {
+   "slug": "olaudah-equiano",
+   "name": "olaudah equiano",
+   "dates": "c. 1745–1797",
+   "role": "writer and abolitionist",
+   "url": "api/people/olaudah-equiano.json"
+  },
+  {
+   "slug": "shaka",
+   "name": "shaka",
+   "dates": "c. 1787–1828",
+   "role": "zulu king",
+   "url": "api/people/shaka.json"
+  },
+  {
+   "slug": "samori-ture",
+   "name": "samori ture",
+   "dates": "c. 1828–1900",
+   "role": "founder of the wassoulou empire in west africa",
+   "url": "api/people/samori-ture.json"
+  },
+  {
+   "slug": "menelik-ii",
+   "name": "menelik ii",
+   "dates": "1844–1913",
+   "role": "emperor of ethiopia",
+   "url": "api/people/menelik-ii.json"
+  },
+  {
+   "slug": "haile-selassie",
+   "name": "haile selassie",
+   "dates": "1892–1975",
+   "role": "emperor of ethiopia",
+   "url": "api/people/haile-selassie.json"
+  },
+  {
+   "slug": "kwame-nkrumah",
+   "name": "kwame nkrumah",
+   "dates": "1909–1972",
+   "role": "first leader of ghana",
+   "url": "api/people/kwame-nkrumah.json"
+  },
+  {
+   "slug": "nelson-mandela",
+   "name": "nelson mandela",
+   "dates": "1918–2013",
+   "role": "anti-apartheid leader and president of south africa",
+   "url": "api/people/nelson-mandela.json"
+  },
+  {
+   "slug": "wangari-maathai",
+   "name": "wangari maathai",
+   "dates": "1940–2011",
+   "role": "kenyan environmentalist",
+   "url": "api/people/wangari-maathai.json"
+  }
+ ]
+}

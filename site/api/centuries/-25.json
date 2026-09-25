@@ -1,0 +1,30 @@
+{
+ "century": -25,
+ "events": [
+  {
+   "id": 108,
+   "date": "c. 2500 bce",
+   "start": -2500,
+   "end": -2500,
+   "text": "kerma, the first kingdom of kush, flourishes on the nile in what is now sudan",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 137,
+   "date": "c. 2500 bce",
+   "start": -2500,
+   "end": -2500,
+   "text": "the indus cities use short written signs on stamp seals and a standard set of stone weights; the script has never been deciphered",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "writing",
+    "trade"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "century": -18,
+ "events": [
+  {
+   "id": 139,
+   "date": "c. 1800 bce",
+   "start": -1800,
+   "end": -1800,
+   "text": "babylonian scribes do advanced mathematics in base sixty; we still use it for 60 minutes and 360 degrees",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "science",
+    "writing"
+   ]
+  },
+  {
+   "id": 115,
+   "date": "c. 1754 bce",
+   "start": -1754,
+   "end": -1754,
+   "text": "hammurabi of babylon has 282 laws carved on a stone pillar, the famous code of hammurabi",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "law"
+   ]
+  }
+ ]
+}

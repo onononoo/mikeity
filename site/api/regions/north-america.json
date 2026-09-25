@@ -1,0 +1,708 @@
+{
+ "slug": "north-america",
+ "name": "north america",
+ "description": "from the first people crossing beringia to the mississippian mound builders, european colonies, and the united states.",
+ "page": "regions.html#north-america",
+ "events": [
+  {
+   "id": 19,
+   "date": "375 million years ago",
+   "start": -374998050,
+   "end": -374998050,
+   "text": "tiktaalik, a fish with sturdy limb-like fins and a neck, lives in shallow streams; it shows how fish gave rise to land animals",
+   "era": "the-beginning",
+   "region": "north-america",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "id": 61,
+   "date": "c. 23,000 years ago",
+   "start": -21050,
+   "end": -21050,
+   "text": "human footprints at white sands, new mexico, show people in the americas during the height of the ice age",
+   "era": "the-first-humans",
+   "region": "north-america",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 66,
+   "date": "c. 13,000 years ago",
+   "start": -11050,
+   "end": -11050,
+   "text": "the clovis culture spreads across north america, famous for its fluted stone spear points",
+   "era": "the-first-humans",
+   "region": "north-america",
+   "tags": [
+    "humans",
+    "technology"
+   ]
+  },
+  {
+   "id": 113,
+   "date": "c. 2000 bce",
+   "start": -2000,
+   "end": -2000,
+   "text": "people in eastern north america domesticate squash, sunflowers, and other seed plants",
+   "era": "the-first-civilizations",
+   "region": "north-america",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 173,
+   "date": "c. 100 bce",
+   "start": -100,
+   "end": -100,
+   "text": "the hopewell culture builds large earthworks and trades across much of eastern north america",
+   "era": "the-classical-world",
+   "region": "north-america",
+   "tags": [
+    "trade",
+    "architecture"
+   ]
+  },
+  {
+   "id": 227,
+   "date": "c. 1000",
+   "start": 1000,
+   "end": 1000,
+   "text": "leif erikson and other norse sailors reach newfoundland, at l'anse aux meadows",
+   "era": "the-middle-ages",
+   "region": "north-america",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 231,
+   "date": "c. 1050",
+   "start": 1050,
+   "end": 1050,
+   "text": "cahokia near the mississippi river grows into the largest city north of mexico, with huge earthen mounds",
+   "era": "the-middle-ages",
+   "region": "north-america",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 266,
+   "date": "c. 1250",
+   "start": 1250,
+   "end": 1250,
+   "text": "ancestral puebloans build cliff dwellings at mesa verde in colorado; by 1300 they have moved away",
+   "era": "the-middle-ages",
+   "region": "north-america",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 300,
+   "date": "1607",
+   "start": 1607,
+   "end": 1607,
+   "text": "the english found jamestown in virginia",
+   "era": "the-early-modern-world",
+   "region": "north-america",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 303,
+   "date": "1619",
+   "start": 1619,
+   "end": 1619,
+   "text": "the first recorded enslaved africans arrive in english virginia",
+   "era": "the-early-modern-world",
+   "region": "north-america",
+   "tags": [
+    "slavery"
+   ]
+  },
+  {
+   "id": 307,
+   "date": "1680",
+   "start": 1680,
+   "end": 1680,
+   "text": "the pueblo revolt drives spanish colonists out of new mexico for twelve years",
+   "era": "the-early-modern-world",
+   "region": "north-america",
+   "tags": [
+    "war",
+    "rights"
+   ]
+  },
+  {
+   "id": 331,
+   "date": "1773",
+   "start": 1773,
+   "end": 1773,
+   "text": "colonists dump british tea into boston harbor, the boston tea party",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 332,
+   "date": "1776",
+   "start": 1776,
+   "end": 1776,
+   "text": "the thirteen colonies declare independence from britain",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "revolution",
+    "rights"
+   ]
+  },
+  {
+   "id": 334,
+   "date": "1781",
+   "start": 1781,
+   "end": 1781,
+   "text": "british forces surrender at yorktown",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "war",
+    "revolution"
+   ]
+  },
+  {
+   "id": 335,
+   "date": "1787",
+   "start": 1787,
+   "end": 1787,
+   "text": "the united states constitution is written in philadelphia",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "politics",
+    "law"
+   ]
+  },
+  {
+   "id": 366,
+   "date": "1803",
+   "start": 1803,
+   "end": 1803,
+   "text": "the united states buys the vast louisiana territory from france, doubling its size",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 355,
+   "date": "1838",
+   "start": 1838,
+   "end": 1838,
+   "text": "the cherokee are forced from their lands on the trail of tears; thousands die",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "rights",
+    "migration"
+   ]
+  },
+  {
+   "id": 358,
+   "date": "1844",
+   "start": 1844,
+   "end": 1844,
+   "text": "samuel morse sends a telegraph message from washington to baltimore",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "technology"
+   ]
+  },
+  {
+   "id": 372,
+   "date": "1846",
+   "start": 1846,
+   "end": 1846,
+   "text": "surgeons in boston operate on a patient put to sleep with ether, the first public demonstration of anesthesia",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 361,
+   "date": "1848",
+   "start": 1848,
+   "end": 1848,
+   "text": "the seneca falls convention demands equal rights for women, including the vote",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 414,
+   "date": "1859",
+   "start": 1859,
+   "end": 1859,
+   "text": "the first commercial oil well is drilled in pennsylvania, beginning the age of oil",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "industry",
+    "technology"
+   ]
+  },
+  {
+   "id": 381,
+   "date": "1861–1865",
+   "start": 1861,
+   "end": 1865,
+   "text": "the american civil war; around 700,000 soldiers die",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "war",
+    "slavery"
+   ]
+  },
+  {
+   "id": 382,
+   "date": "1863",
+   "start": 1863,
+   "end": 1863,
+   "text": "abraham lincoln issues the emancipation proclamation",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "slavery",
+    "rights"
+   ]
+  },
+  {
+   "id": 383,
+   "date": "1865",
+   "start": 1865,
+   "end": 1865,
+   "text": "the thirteenth amendment abolishes slavery in the united states; lincoln is assassinated",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "slavery",
+    "law"
+   ]
+  },
+  {
+   "id": 387,
+   "date": "1869",
+   "start": 1869,
+   "end": 1869,
+   "text": "the first transcontinental railroad across the united states is completed",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "technology",
+    "industry"
+   ]
+  },
+  {
+   "id": 390,
+   "date": "1876",
+   "start": 1876,
+   "end": 1876,
+   "text": "alexander graham bell patents the telephone",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "technology"
+   ]
+  },
+  {
+   "id": 391,
+   "date": "1879",
+   "start": 1879,
+   "end": 1879,
+   "text": "thomas edison's team demonstrates a long-lasting electric light bulb",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "technology"
+   ]
+  },
+  {
+   "id": 415,
+   "date": "1882",
+   "start": 1882,
+   "end": 1882,
+   "text": "edison's pearl street station in new york begins supplying electricity to paying customers",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "technology",
+    "industry"
+   ]
+  },
+  {
+   "id": 418,
+   "date": "1890",
+   "start": 1890,
+   "end": 1890,
+   "text": "us soldiers kill about 250 to 300 lakota men, women, and children at wounded knee",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 403,
+   "date": "1903",
+   "start": 1903,
+   "end": 1903,
+   "text": "the wright brothers make the first powered airplane flights",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "technology"
+   ]
+  },
+  {
+   "id": 408,
+   "date": "1908",
+   "start": 1908,
+   "end": 1908,
+   "text": "ford begins making the model t, soon on a moving assembly line",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "industry",
+    "technology"
+   ]
+  },
+  {
+   "id": 430,
+   "date": "1917",
+   "start": 1917,
+   "end": 1917,
+   "text": "the united states enters the war against germany",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 434,
+   "date": "1920",
+   "start": 1920,
+   "end": 1920,
+   "text": "the nineteenth amendment gives american women the vote",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 438,
+   "date": "1929",
+   "start": 1929,
+   "end": 1929,
+   "text": "the wall street crash starts the great depression",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 443,
+   "date": "1933",
+   "start": 1933,
+   "end": 1933,
+   "text": "franklin d. roosevelt begins the new deal",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "economy",
+    "politics"
+   ]
+  },
+  {
+   "id": 452,
+   "date": "1941",
+   "start": 1941,
+   "end": 1941,
+   "text": "japan attacks pearl harbor; the united states enters the war",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 474,
+   "date": "1954",
+   "start": 1954,
+   "end": 1954,
+   "text": "the supreme court rules school segregation unconstitutional in brown v. board of education",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights",
+    "law"
+   ]
+  },
+  {
+   "id": 519,
+   "date": "1955",
+   "start": 1955,
+   "end": 1955,
+   "text": "jonas salk's polio vaccine is declared safe and effective",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 475,
+   "date": "1955–1956",
+   "start": 1955,
+   "end": 1956,
+   "text": "the montgomery bus boycott, sparked by rosa parks",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 522,
+   "date": "1962",
+   "start": 1962,
+   "end": 1962,
+   "text": "rachel carson's silent spring warns about pesticides and helps start the modern environmental movement",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 485,
+   "date": "1963",
+   "start": 1963,
+   "end": 1963,
+   "text": "martin luther king jr. gives his \"i have a dream\" speech at the march on washington",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 486,
+   "date": "1964",
+   "start": 1964,
+   "end": 1964,
+   "text": "the civil rights act bans segregation and discrimination in the united states",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights",
+    "law"
+   ]
+  },
+  {
+   "id": 488,
+   "date": "1968",
+   "start": 1968,
+   "end": 1968,
+   "text": "martin luther king jr. is assassinated",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 490,
+   "date": "1969",
+   "start": 1969,
+   "end": 1969,
+   "text": "arpanet, the forerunner of the internet, sends its first message",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 493,
+   "date": "1977",
+   "start": 1977,
+   "end": 1977,
+   "text": "mass-market personal computers go on sale",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 505,
+   "date": "2001",
+   "start": 2001,
+   "end": 2001,
+   "text": "al-qaeda terrorists attack new york and washington on 11 september, killing nearly 3,000 people",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "war",
+    "terrorism"
+   ]
+  },
+  {
+   "id": 509,
+   "date": "2007",
+   "start": 2007,
+   "end": 2007,
+   "text": "modern touchscreen smartphones arrive and soon spread across the world",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "leif-erikson",
+   "name": "leif erikson",
+   "dates": "c. 970 ce–1020",
+   "role": "norse explorer",
+   "url": "api/people/leif-erikson.json"
+  },
+  {
+   "slug": "george-washington",
+   "name": "george washington",
+   "dates": "1732–1799",
+   "role": "american general and first president",
+   "url": "api/people/george-washington.json"
+  },
+  {
+   "slug": "thomas-jefferson",
+   "name": "thomas jefferson",
+   "dates": "1743–1826",
+   "role": "american statesman",
+   "url": "api/people/thomas-jefferson.json"
+  },
+  {
+   "slug": "tecumseh",
+   "name": "tecumseh",
+   "dates": "1768–1813",
+   "role": "shawnee leader",
+   "url": "api/people/tecumseh.json"
+  },
+  {
+   "slug": "abraham-lincoln",
+   "name": "abraham lincoln",
+   "dates": "1809–1865",
+   "role": "sixteenth president of the united states",
+   "url": "api/people/abraham-lincoln.json"
+  },
+  {
+   "slug": "frederick-douglass",
+   "name": "frederick douglass",
+   "dates": "c. 1818–1895",
+   "role": "abolitionist and writer",
+   "url": "api/people/frederick-douglass.json"
+  },
+  {
+   "slug": "harriet-tubman",
+   "name": "harriet tubman",
+   "dates": "c. 1822–1913",
+   "role": "abolitionist",
+   "url": "api/people/harriet-tubman.json"
+  },
+  {
+   "slug": "sitting-bull",
+   "name": "sitting bull",
+   "dates": "c. 1831–1890",
+   "role": "lakota leader",
+   "url": "api/people/sitting-bull.json"
+  },
+  {
+   "slug": "thomas-edison",
+   "name": "thomas edison",
+   "dates": "1847–1931",
+   "role": "american inventor",
+   "url": "api/people/thomas-edison.json"
+  },
+  {
+   "slug": "franklin-d-roosevelt",
+   "name": "franklin d. roosevelt",
+   "dates": "1882–1945",
+   "role": "president of the united states",
+   "url": "api/people/franklin-d-roosevelt.json"
+  },
+  {
+   "slug": "rachel-carson",
+   "name": "rachel carson",
+   "dates": "1907–1964",
+   "role": "american biologist and writer",
+   "url": "api/people/rachel-carson.json"
+  },
+  {
+   "slug": "rosa-parks",
+   "name": "rosa parks",
+   "dates": "1913–2005",
+   "role": "civil rights activist",
+   "url": "api/people/rosa-parks.json"
+  },
+  {
+   "slug": "jonas-salk",
+   "name": "jonas salk",
+   "dates": "1914–1995",
+   "role": "american doctor",
+   "url": "api/people/jonas-salk.json"
+  },
+  {
+   "slug": "norman-borlaug",
+   "name": "norman borlaug",
+   "dates": "1914–2009",
+   "role": "american plant scientist",
+   "url": "api/people/norman-borlaug.json"
+  },
+  {
+   "slug": "martin-luther-king-jr",
+   "name": "martin luther king jr.",
+   "dates": "1929–1968",
+   "role": "civil rights leader",
+   "url": "api/people/martin-luther-king-jr.json"
+  },
+  {
+   "slug": "neil-armstrong",
+   "name": "neil armstrong",
+   "dates": "1930–2012",
+   "role": "american astronaut",
+   "url": "api/people/neil-armstrong.json"
+  }
+ ]
+}

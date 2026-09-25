@@ -1,0 +1,1119 @@
+{
+ "slug": "the-middle-ages",
+ "number": 6,
+ "title": "the middle ages",
+ "starts": "476 ce",
+ "ends": "1450",
+ "summary": "the western roman empire falls, islam spreads across three continents, tang and song china lead the world in technology, the mongols conquer most of eurasia, and the black death kills a third of europe.",
+ "page": "the-middle-ages.html",
+ "events": [
+  {
+   "id": 205,
+   "date": "476 ce",
+   "start": 476,
+   "end": 476,
+   "text": "the germanic general odoacer deposes romulus augustulus, the last western roman emperor",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "collapse",
+    "politics"
+   ]
+  },
+  {
+   "id": 206,
+   "date": "527–565 ce",
+   "start": 527,
+   "end": 565,
+   "text": "justinian rules the byzantine empire, reconquers italy and north africa, and codifies roman law",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "empire",
+    "law"
+   ]
+  },
+  {
+   "id": 207,
+   "date": "537 ce",
+   "start": 537,
+   "end": 537,
+   "text": "the hagia sophia is completed in constantinople, the largest church in the world for nearly a thousand years",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 208,
+   "date": "541 ce",
+   "start": 541,
+   "end": 541,
+   "text": "the plague of justinian, the first known pandemic of bubonic plague, strikes the mediterranean world",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "disease",
+    "disaster"
+   ]
+  },
+  {
+   "id": 209,
+   "date": "c. 570 ce",
+   "start": 570,
+   "end": 570,
+   "text": "muhammad is born in mecca",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 210,
+   "date": "589 ce",
+   "start": 589,
+   "end": 589,
+   "text": "the sui dynasty reunites china after centuries of division and builds the grand canal",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "technology"
+   ]
+  },
+  {
+   "id": 211,
+   "date": "c. 610 ce",
+   "start": 610,
+   "end": 610,
+   "text": "muhammad begins receiving the revelations that become the quran, according to muslim tradition",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 212,
+   "date": "618 ce",
+   "start": 618,
+   "end": 618,
+   "text": "the tang dynasty begins, a golden age of poetry, trade, and buddhism",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "culture"
+   ]
+  },
+  {
+   "id": 213,
+   "date": "622 ce",
+   "start": 622,
+   "end": 622,
+   "text": "the hijra: muhammad and his followers move from mecca to medina, year one of the islamic calendar",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 258,
+   "date": "629–645 ce",
+   "start": 629,
+   "end": 645,
+   "text": "the monk xuanzang travels from china to india along the silk roads and returns with hundreds of buddhist texts",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "religion",
+    "exploration"
+   ]
+  },
+  {
+   "id": 214,
+   "date": "632 ce",
+   "start": 632,
+   "end": 632,
+   "text": "muhammad dies; abu bakr becomes the first caliph",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "politics"
+   ]
+  },
+  {
+   "id": 215,
+   "date": "c. 632–750 ce",
+   "start": 632,
+   "end": 750,
+   "text": "arab muslim armies conquer the sasanian empire, syria, egypt, north africa, and spain",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 259,
+   "date": "c. 670 ce",
+   "start": 670,
+   "end": 670,
+   "text": "srivijaya, a trading empire based on sumatra, controls the strait of malacca and becomes a center of buddhist learning",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "trade",
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 216,
+   "date": "680 ce",
+   "start": 680,
+   "end": 680,
+   "text": "husayn, grandson of muhammad, is killed at karbala, deepening the split between sunni and shia muslims",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "war"
+   ]
+  },
+  {
+   "id": 260,
+   "date": "c. 700 ce",
+   "start": 700,
+   "end": 700,
+   "text": "the empire of ghana, the \"land of gold\", grows rich on camel caravans carrying gold and salt across the sahara",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "trade",
+    "empire"
+   ]
+  },
+  {
+   "id": 217,
+   "date": "711 ce",
+   "start": 711,
+   "end": 711,
+   "text": "muslim forces cross into spain and conquer most of the iberian peninsula",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 218,
+   "date": "750 ce",
+   "start": 750,
+   "end": 750,
+   "text": "the abbasid dynasty overthrows the umayyads and later builds baghdad as its capital",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "politics",
+    "empire"
+   ]
+  },
+  {
+   "id": 219,
+   "date": "751 ce",
+   "start": 751,
+   "end": 751,
+   "text": "abbasid and tang armies clash at the talas river; papermaking spreads west to the islamic world",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "war",
+    "technology"
+   ]
+  },
+  {
+   "id": 220,
+   "date": "793 ce",
+   "start": 793,
+   "end": 793,
+   "text": "vikings raid the monastery of lindisfarne in england, beginning the viking age",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 221,
+   "date": "800 ce",
+   "start": 800,
+   "end": 800,
+   "text": "the pope crowns charlemagne emperor of the romans",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "politics",
+    "religion"
+   ]
+  },
+  {
+   "id": 222,
+   "date": "c. 800 ce",
+   "start": 800,
+   "end": 800,
+   "text": "the huge buddhist monument of borobudur is built on java",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 224,
+   "date": "c. 800–900 ce",
+   "start": 800,
+   "end": 900,
+   "text": "most of the great classic maya cities of the southern lowlands are abandoned",
+   "era": "the-middle-ages",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "collapse"
+   ]
+  },
+  {
+   "id": 223,
+   "date": "c. 830 ce",
+   "start": 830,
+   "end": 830,
+   "text": "al-khwarizmi writes his book on algebra at the house of wisdom in baghdad",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 225,
+   "date": "868 ce",
+   "start": 868,
+   "end": 868,
+   "text": "the diamond sutra is printed in china, the oldest dated printed book",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  },
+  {
+   "id": 226,
+   "date": "960 ce",
+   "start": 960,
+   "end": 960,
+   "text": "the song dynasty begins; china leads the world in technology, trade, and city life",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "technology"
+   ]
+  },
+  {
+   "id": 227,
+   "date": "c. 1000",
+   "start": 1000,
+   "end": 1000,
+   "text": "leif erikson and other norse sailors reach newfoundland, at l'anse aux meadows",
+   "era": "the-middle-ages",
+   "region": "north-america",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 228,
+   "date": "c. 1000",
+   "start": 1000,
+   "end": 1000,
+   "text": "polynesian voyagers settle the far corners of the pacific, reaching hawaii and later easter island",
+   "era": "the-middle-ages",
+   "region": "oceania",
+   "tags": [
+    "exploration",
+    "migration"
+   ]
+  },
+  {
+   "id": 261,
+   "date": "c. 1015",
+   "start": 1015,
+   "end": 1015,
+   "text": "ibn al-haytham writes his book of optics in cairo, testing ideas about light and sight with careful experiments",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 262,
+   "date": "1024",
+   "start": 1024,
+   "end": 1024,
+   "text": "the song government issues the jiaozi in sichuan, the world's first official paper money",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 229,
+   "date": "c. 1025",
+   "start": 1025,
+   "end": 1025,
+   "text": "ibn sina (avicenna) completes the canon of medicine, used in europe and the islamic world for centuries",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "science",
+    "medicine"
+   ]
+  },
+  {
+   "id": 263,
+   "date": "c. 1040",
+   "start": 1040,
+   "end": 1040,
+   "text": "bi sheng invents movable type made of baked clay",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  },
+  {
+   "id": 264,
+   "date": "1044",
+   "start": 1044,
+   "end": 1044,
+   "text": "a chinese military handbook records the earliest known formula for gunpowder",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "war"
+   ]
+  },
+  {
+   "id": 231,
+   "date": "c. 1050",
+   "start": 1050,
+   "end": 1050,
+   "text": "cahokia near the mississippi river grows into the largest city north of mexico, with huge earthen mounds",
+   "era": "the-middle-ages",
+   "region": "north-america",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 230,
+   "date": "1054",
+   "start": 1054,
+   "end": 1054,
+   "text": "the great schism: the catholic and orthodox churches formally split",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 232,
+   "date": "1066",
+   "start": 1066,
+   "end": 1066,
+   "text": "william of normandy wins the battle of hastings and conquers england",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "war",
+    "politics"
+   ]
+  },
+  {
+   "id": 233,
+   "date": "1088",
+   "start": 1088,
+   "end": 1088,
+   "text": "the university of bologna is founded, the oldest in continuous operation in europe",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "science",
+    "culture"
+   ]
+  },
+  {
+   "id": 234,
+   "date": "1099",
+   "start": 1099,
+   "end": 1099,
+   "text": "the first crusade captures jerusalem and massacres many of its people",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 235,
+   "date": "c. 1113–1150",
+   "start": 1113,
+   "end": 1150,
+   "text": "the khmer king suryavarman ii builds angkor wat, the largest religious monument in the world",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 238,
+   "date": "1187",
+   "start": 1187,
+   "end": 1187,
+   "text": "saladin defeats the crusaders at hattin and retakes jerusalem",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 236,
+   "date": "c. 1200",
+   "start": 1200,
+   "end": 1200,
+   "text": "king lalibela of ethiopia has churches carved down into solid rock",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 237,
+   "date": "c. 1200",
+   "start": 1200,
+   "end": 1200,
+   "text": "swahili trading cities like kilwa and mombasa prosper on indian ocean trade",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "trade",
+    "cities"
+   ]
+  },
+  {
+   "id": 265,
+   "date": "c. 1200",
+   "start": 1200,
+   "end": 1200,
+   "text": "polynesian voyagers reach rapa nui (easter island), where their descendants carve the giant moai statues",
+   "era": "the-middle-ages",
+   "region": "oceania",
+   "tags": [
+    "migration",
+    "art"
+   ]
+  },
+  {
+   "id": 239,
+   "date": "1206",
+   "start": 1206,
+   "end": 1206,
+   "text": "temüjin unites the mongol tribes and is proclaimed genghis khan",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "empire",
+    "politics"
+   ]
+  },
+  {
+   "id": 240,
+   "date": "1206",
+   "start": 1206,
+   "end": 1206,
+   "text": "the delhi sultanate is founded by turkic muslim rulers in northern india",
+   "era": "the-middle-ages",
+   "region": "south-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 241,
+   "date": "1215",
+   "start": 1215,
+   "end": 1215,
+   "text": "english barons force king john to agree to the magna carta",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "law",
+    "politics",
+    "rights"
+   ]
+  },
+  {
+   "id": 242,
+   "date": "c. 1235",
+   "start": 1235,
+   "end": 1235,
+   "text": "sundiata keita defeats the sosso and founds the mali empire",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 244,
+   "date": "c. 1250",
+   "start": 1250,
+   "end": 1250,
+   "text": "the ancestors of the māori, sailing from eastern polynesia, settle new zealand, the last large land mass humans reached",
+   "era": "the-middle-ages",
+   "region": "oceania",
+   "tags": [
+    "exploration",
+    "migration"
+   ]
+  },
+  {
+   "id": 266,
+   "date": "c. 1250",
+   "start": 1250,
+   "end": 1250,
+   "text": "ancestral puebloans build cliff dwellings at mesa verde in colorado; by 1300 they have moved away",
+   "era": "the-middle-ages",
+   "region": "north-america",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 267,
+   "date": "c. 1250",
+   "start": 1250,
+   "end": 1250,
+   "text": "the thule people, ancestors of the inuit, spread east across arctic canada to greenland, hunting whales from skin boats",
+   "era": "the-middle-ages",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "migration"
+   ]
+  },
+  {
+   "id": 243,
+   "date": "1258",
+   "start": 1258,
+   "end": 1258,
+   "text": "the mongols sack baghdad and end the abbasid caliphate",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "collapse"
+   ]
+  },
+  {
+   "id": 245,
+   "date": "1271–1295",
+   "start": 1271,
+   "end": 1295,
+   "text": "marco polo travels to china and serves at the court of kublai khan",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "exploration",
+    "trade"
+   ]
+  },
+  {
+   "id": 246,
+   "date": "1274–1281",
+   "start": 1274,
+   "end": 1281,
+   "text": "two mongol invasions of japan are wrecked by typhoons, the \"kamikaze\" or divine winds",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 247,
+   "date": "1279",
+   "start": 1279,
+   "end": 1279,
+   "text": "kublai khan completes the conquest of the song; the mongol yuan dynasty rules all of china",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 248,
+   "date": "c. 1299",
+   "start": 1299,
+   "end": 1299,
+   "text": "osman i founds the small anatolian state that becomes the ottoman empire",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 249,
+   "date": "c. 1300",
+   "start": 1300,
+   "end": 1300,
+   "text": "great zimbabwe, with its huge dry-stone walls, is at the height of its power",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "cities",
+    "architecture"
+   ]
+  },
+  {
+   "id": 250,
+   "date": "1324",
+   "start": 1324,
+   "end": 1324,
+   "text": "mansa musa of mali makes his pilgrimage to mecca, spending so much gold in cairo that its value falls",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "religion",
+    "trade"
+   ]
+  },
+  {
+   "id": 251,
+   "date": "c. 1325",
+   "start": 1325,
+   "end": 1325,
+   "text": "the mexica (aztecs) found tenochtitlan on an island in lake texcoco",
+   "era": "the-middle-ages",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 268,
+   "date": "1325–1354",
+   "start": 1325,
+   "end": 1354,
+   "text": "ibn battuta travels about 120,000 kilometers through the islamic world and beyond, from west africa to china",
+   "era": "the-middle-ages",
+   "region": "the-whole-world",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 252,
+   "date": "1337–1453",
+   "start": 1337,
+   "end": 1453,
+   "text": "the hundred years' war between england and france",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 253,
+   "date": "1347–1351",
+   "start": 1347,
+   "end": 1351,
+   "text": "the black death kills roughly a third to a half of europe's people; it also ravages the middle east and north africa",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "disease",
+    "disaster"
+   ]
+  },
+  {
+   "id": 269,
+   "date": "c. 1350",
+   "start": 1350,
+   "end": 1350,
+   "text": "the majapahit empire, based on java, reaches its height and claims much of modern indonesia",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 254,
+   "date": "1368",
+   "start": 1368,
+   "end": 1368,
+   "text": "the ming dynasty drives out the mongols and rules china",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 270,
+   "date": "1370–1405",
+   "start": 1370,
+   "end": 1405,
+   "text": "timur conquers an empire from his capital at samarkand, from anatolia to india, at a terrible cost in lives",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 271,
+   "date": "c. 1390",
+   "start": 1390,
+   "end": 1390,
+   "text": "the kingdom of kongo takes shape south of the congo river",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 255,
+   "date": "1405–1433",
+   "start": 1405,
+   "end": 1433,
+   "text": "admiral zheng he leads seven giant treasure fleets as far as east africa",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "exploration",
+    "trade"
+   ]
+  },
+  {
+   "id": 256,
+   "date": "1429",
+   "start": 1429,
+   "end": 1429,
+   "text": "joan of arc leads the french to lift the siege of orléans",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 257,
+   "date": "c. 1438",
+   "start": 1438,
+   "end": 1438,
+   "text": "pachacuti becomes ruler of the inca and begins their rapid expansion",
+   "era": "the-middle-ages",
+   "region": "south-america",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 272,
+   "date": "1443",
+   "start": 1443,
+   "end": 1443,
+   "text": "king sejong of korea has hangul created, a simple alphabet for the korean language",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "writing"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "justinian",
+   "name": "justinian",
+   "dates": "c. 482–565 ce",
+   "role": "byzantine emperor",
+   "url": "api/people/justinian.json"
+  },
+  {
+   "slug": "muhammad",
+   "name": "muhammad",
+   "dates": "c. 570–632 ce",
+   "role": "prophet of islam",
+   "url": "api/people/muhammad.json"
+  },
+  {
+   "slug": "xuanzang",
+   "name": "xuanzang",
+   "dates": "c. 602–664 ce",
+   "role": "chinese buddhist monk and traveler",
+   "url": "api/people/xuanzang.json"
+  },
+  {
+   "slug": "wu-zetian",
+   "name": "wu zetian",
+   "dates": "624–705 ce",
+   "role": "empress of china",
+   "url": "api/people/wu-zetian.json"
+  },
+  {
+   "slug": "charlemagne",
+   "name": "charlemagne",
+   "dates": "c. 747–814 ce",
+   "role": "king of the franks, emperor",
+   "url": "api/people/charlemagne.json"
+  },
+  {
+   "slug": "harun-al-rashid",
+   "name": "harun al-rashid",
+   "dates": "c. 763–809 ce",
+   "role": "abbasid caliph",
+   "url": "api/people/harun-al-rashid.json"
+  },
+  {
+   "slug": "al-khwarizmi",
+   "name": "al-khwarizmi",
+   "dates": "c. 780–850 ce",
+   "role": "persian mathematician in baghdad",
+   "url": "api/people/al-khwarizmi.json"
+  },
+  {
+   "slug": "ibn-al-haytham",
+   "name": "ibn al-haytham",
+   "dates": "c. 965 ce–1040",
+   "role": "arab mathematician and physicist",
+   "url": "api/people/ibn-al-haytham.json"
+  },
+  {
+   "slug": "leif-erikson",
+   "name": "leif erikson",
+   "dates": "c. 970 ce–1020",
+   "role": "norse explorer",
+   "url": "api/people/leif-erikson.json"
+  },
+  {
+   "slug": "murasaki-shikibu",
+   "name": "murasaki shikibu",
+   "dates": "c. 973 ce–1014",
+   "role": "japanese court lady and writer",
+   "url": "api/people/murasaki-shikibu.json"
+  },
+  {
+   "slug": "ibn-sina",
+   "name": "ibn sina",
+   "dates": "980 ce–1037",
+   "role": "persian doctor and philosopher",
+   "url": "api/people/ibn-sina.json"
+  },
+  {
+   "slug": "bi-sheng",
+   "name": "bi sheng",
+   "dates": "c. 990 ce–1051",
+   "role": "chinese craftsman",
+   "url": "api/people/bi-sheng.json"
+  },
+  {
+   "slug": "william-the-conqueror",
+   "name": "william the conqueror",
+   "dates": "c. 1028–1087",
+   "role": "duke of normandy, king of england",
+   "url": "api/people/william-the-conqueror.json"
+  },
+  {
+   "slug": "shen-kuo",
+   "name": "shen kuo",
+   "dates": "1031–1095",
+   "role": "chinese scientist and official",
+   "url": "api/people/shen-kuo.json"
+  },
+  {
+   "slug": "hildegard-of-bingen",
+   "name": "hildegard of bingen",
+   "dates": "1098–1179",
+   "role": "german abbess, writer, and composer",
+   "url": "api/people/hildegard-of-bingen.json"
+  },
+  {
+   "slug": "eleanor-of-aquitaine",
+   "name": "eleanor of aquitaine",
+   "dates": "c. 1122–1204",
+   "role": "queen of france, then of england",
+   "url": "api/people/eleanor-of-aquitaine.json"
+  },
+  {
+   "slug": "jayavarman-vii",
+   "name": "jayavarman vii",
+   "dates": "c. 1122–1218",
+   "role": "king of the khmer empire",
+   "url": "api/people/jayavarman-vii.json"
+  },
+  {
+   "slug": "ibn-rushd",
+   "name": "ibn rushd",
+   "dates": "1126–1198",
+   "role": "philosopher and judge in muslim spain",
+   "url": "api/people/ibn-rushd.json"
+  },
+  {
+   "slug": "saladin",
+   "name": "saladin",
+   "dates": "1137–1193",
+   "role": "sultan of egypt and syria",
+   "url": "api/people/saladin.json"
+  },
+  {
+   "slug": "maimonides",
+   "name": "maimonides",
+   "dates": "c. 1138–1204",
+   "role": "jewish philosopher and doctor",
+   "url": "api/people/maimonides.json"
+  },
+  {
+   "slug": "genghis-khan",
+   "name": "genghis khan",
+   "dates": "c. 1162–1227",
+   "role": "founder of the mongol empire",
+   "url": "api/people/genghis-khan.json"
+  },
+  {
+   "slug": "rumi",
+   "name": "rumi",
+   "dates": "1207–1273",
+   "role": "persian poet and sufi mystic",
+   "url": "api/people/rumi.json"
+  },
+  {
+   "slug": "kublai-khan",
+   "name": "kublai khan",
+   "dates": "1215–1294",
+   "role": "mongol emperor of china",
+   "url": "api/people/kublai-khan.json"
+  },
+  {
+   "slug": "sundiata-keita",
+   "name": "sundiata keita",
+   "dates": "c. 1217–1255",
+   "role": "founder of the mali empire",
+   "url": "api/people/sundiata-keita.json"
+  },
+  {
+   "slug": "thomas-aquinas",
+   "name": "thomas aquinas",
+   "dates": "1225–1274",
+   "role": "italian theologian",
+   "url": "api/people/thomas-aquinas.json"
+  },
+  {
+   "slug": "marco-polo",
+   "name": "marco polo",
+   "dates": "1254–1324",
+   "role": "venetian merchant and traveler",
+   "url": "api/people/marco-polo.json"
+  },
+  {
+   "slug": "mansa-musa",
+   "name": "mansa musa",
+   "dates": "c. 1280–1337",
+   "role": "emperor of mali",
+   "url": "api/people/mansa-musa.json"
+  },
+  {
+   "slug": "ibn-battuta",
+   "name": "ibn battuta",
+   "dates": "1304–1369",
+   "role": "moroccan traveler",
+   "url": "api/people/ibn-battuta.json"
+  },
+  {
+   "slug": "ibn-khaldun",
+   "name": "ibn khaldun",
+   "dates": "1332–1406",
+   "role": "north african historian",
+   "url": "api/people/ibn-khaldun.json"
+  },
+  {
+   "slug": "timur",
+   "name": "timur",
+   "dates": "1336–1405",
+   "role": "turco-mongol conqueror",
+   "url": "api/people/timur.json"
+  },
+  {
+   "slug": "christine-de-pizan",
+   "name": "christine de pizan",
+   "dates": "c. 1364–1430",
+   "role": "writer at the french court",
+   "url": "api/people/christine-de-pizan.json"
+  },
+  {
+   "slug": "zheng-he",
+   "name": "zheng he",
+   "dates": "1371–1433",
+   "role": "chinese admiral",
+   "url": "api/people/zheng-he.json"
+  },
+  {
+   "slug": "sejong-the-great",
+   "name": "sejong the great",
+   "dates": "1397–1450",
+   "role": "king of korea",
+   "url": "api/people/sejong-the-great.json"
+  },
+  {
+   "slug": "joan-of-arc",
+   "name": "joan of arc",
+   "dates": "c. 1412–1431",
+   "role": "french peasant girl and military leader",
+   "url": "api/people/joan-of-arc.json"
+  },
+  {
+   "slug": "pachacuti",
+   "name": "pachacuti",
+   "dates": "c. 1418–1471",
+   "role": "ruler of the inca",
+   "url": "api/people/pachacuti.json"
+  }
+ ]
+}

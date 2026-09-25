@@ -1,0 +1,422 @@
+{
+ "slug": "south-asia",
+ "name": "south asia",
+ "description": "the indian subcontinent: the indus valley, the vedic age, the maurya and gupta empires, the mughals, british rule, and independence.",
+ "page": "regions.html#south-asia",
+ "events": [
+  {
+   "id": 32,
+   "date": "c. 50 million years ago",
+   "start": -49998050,
+   "end": -49998050,
+   "text": "india crashes into asia, beginning the rise of the himalayas",
+   "era": "the-beginning",
+   "region": "south-asia",
+   "tags": [
+    "earth"
+   ]
+  },
+  {
+   "id": 79,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "farmers at mehrgarh, in modern pakistan, grow barley and wheat and keep cattle",
+   "era": "the-first-farmers",
+   "region": "south-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 105,
+   "date": "c. 2600 bce",
+   "start": -2600,
+   "end": -2600,
+   "text": "the harappan cities of the indus valley, like harappa and mohenjo-daro, reach their height, with grid streets and covered drains",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 137,
+   "date": "c. 2500 bce",
+   "start": -2500,
+   "end": -2500,
+   "text": "the indus cities use short written signs on stamp seals and a standard set of stone weights; the script has never been deciphered",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "writing",
+    "trade"
+   ]
+  },
+  {
+   "id": 114,
+   "date": "c. 1900 bce",
+   "start": -1900,
+   "end": -1900,
+   "text": "the indus cities go into decline as rivers shift and the climate dries",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "collapse",
+    "environment"
+   ]
+  },
+  {
+   "id": 118,
+   "date": "c. 1500 bce",
+   "start": -1500,
+   "end": -1500,
+   "text": "indo-aryan speaking peoples settle in northern india; the rigveda, oldest of the vedas, is composed",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "religion",
+    "migration"
+   ]
+  },
+  {
+   "id": 152,
+   "date": "5th century bce",
+   "start": -500,
+   "end": -401,
+   "text": "siddhartha gautama, the buddha, teaches in northern india; mahavira teaches jainism in the same region (the exact dates are debated)",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "religion",
+    "philosophy"
+   ]
+  },
+  {
+   "id": 163,
+   "date": "c. 321 bce",
+   "start": -321,
+   "end": -321,
+   "text": "chandragupta maurya founds the maurya empire, the first to unite most of india",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 166,
+   "date": "c. 261 bce",
+   "start": -261,
+   "end": -261,
+   "text": "ashoka conquers kalinga, is horrified by the slaughter, and turns to buddhism and non-violence",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "religion",
+    "war"
+   ]
+  },
+  {
+   "id": 189,
+   "date": "c. 320 ce",
+   "start": 320,
+   "end": 320,
+   "text": "chandragupta i founds the gupta empire; a golden age of science, math, and art follows",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "empire",
+    "science"
+   ]
+  },
+  {
+   "id": 240,
+   "date": "1206",
+   "start": 1206,
+   "end": 1206,
+   "text": "the delhi sultanate is founded by turkic muslim rulers in northern india",
+   "era": "the-middle-ages",
+   "region": "south-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 278,
+   "date": "1498",
+   "start": 1498,
+   "end": 1498,
+   "text": "vasco da gama reaches calicut in india by sailing around africa",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "exploration",
+    "trade"
+   ]
+  },
+  {
+   "id": 314,
+   "date": "c. 1500",
+   "start": 1500,
+   "end": 1500,
+   "text": "guru nanak begins teaching in the punjab; his followers become the sikhs",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 287,
+   "date": "1526",
+   "start": 1526,
+   "end": 1526,
+   "text": "babur wins the battle of panipat and founds the mughal empire",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 293,
+   "date": "1556–1605",
+   "start": 1556,
+   "end": 1605,
+   "text": "akbar the great rules the mughal empire and welcomes debate between religions",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 304,
+   "date": "1632–1653",
+   "start": 1632,
+   "end": 1653,
+   "text": "the taj mahal is built by shah jahan as a tomb for his wife mumtaz mahal",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 327,
+   "date": "1757",
+   "start": 1757,
+   "end": 1757,
+   "text": "the east india company wins the battle of plassey and takes control of bengal",
+   "era": "the-age-of-revolutions",
+   "region": "south-asia",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 368,
+   "date": "1829",
+   "start": 1829,
+   "end": 1829,
+   "text": "after a campaign by ram mohan roy and others, british india bans sati, the burning of widows",
+   "era": "the-age-of-revolutions",
+   "region": "south-asia",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 377,
+   "date": "1857",
+   "start": 1857,
+   "end": 1857,
+   "text": "a great rebellion against the east india company spreads across northern india",
+   "era": "industry-and-empire",
+   "region": "south-asia",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 378,
+   "date": "1858",
+   "start": 1858,
+   "end": 1858,
+   "text": "the british crown takes direct control of india, beginning the raj",
+   "era": "industry-and-empire",
+   "region": "south-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 439,
+   "date": "1930",
+   "start": 1930,
+   "end": 1930,
+   "text": "gandhi leads the salt march against british rule",
+   "era": "the-world-wars",
+   "region": "south-asia",
+   "tags": [
+    "rights",
+    "independence"
+   ]
+  },
+  {
+   "id": 463,
+   "date": "1943",
+   "start": 1943,
+   "end": 1943,
+   "text": "the bengal famine kills about three million people under british wartime rule",
+   "era": "the-world-wars",
+   "region": "south-asia",
+   "tags": [
+    "disaster"
+   ]
+  },
+  {
+   "id": 465,
+   "date": "1947",
+   "start": 1947,
+   "end": 1947,
+   "text": "india and pakistan become independent; the partition displaces up to 15 million people and kills hundreds of thousands",
+   "era": "the-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "independence",
+    "migration"
+   ]
+  },
+  {
+   "id": 524,
+   "date": "c. 1965",
+   "start": 1965,
+   "end": 1965,
+   "text": "high-yield wheat and rice spread across india and pakistan in the green revolution, ending the threat of mass famine there",
+   "era": "the-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 491,
+   "date": "1971",
+   "start": 1971,
+   "end": 1971,
+   "text": "bangladesh wins independence from pakistan after a brutal war",
+   "era": "the-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "independence",
+    "war"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "mahavira",
+   "name": "mahavira",
+   "dates": "c. 599–527 bce",
+   "role": "teacher of jainism",
+   "url": "api/people/mahavira.json"
+  },
+  {
+   "slug": "siddhartha-gautama",
+   "name": "siddhartha gautama",
+   "dates": "c. 480–400 bce",
+   "role": "the buddha, founder of buddhism",
+   "url": "api/people/siddhartha-gautama.json"
+  },
+  {
+   "slug": "chandragupta-maurya",
+   "name": "chandragupta maurya",
+   "dates": "c. 350–295 bce",
+   "role": "founder of the maurya empire",
+   "url": "api/people/chandragupta-maurya.json"
+  },
+  {
+   "slug": "ashoka",
+   "name": "ashoka",
+   "dates": "c. 304–232 bce",
+   "role": "maurya emperor",
+   "url": "api/people/ashoka.json"
+  },
+  {
+   "slug": "aryabhata",
+   "name": "aryabhata",
+   "dates": "476–550 ce",
+   "role": "indian mathematician and astronomer",
+   "url": "api/people/aryabhata.json"
+  },
+  {
+   "slug": "guru-nanak",
+   "name": "guru nanak",
+   "dates": "1469–1539",
+   "role": "founder of sikhism",
+   "url": "api/people/guru-nanak.json"
+  },
+  {
+   "slug": "babur",
+   "name": "babur",
+   "dates": "1483–1530",
+   "role": "founder of the mughal empire",
+   "url": "api/people/babur.json"
+  },
+  {
+   "slug": "akbar",
+   "name": "akbar",
+   "dates": "1542–1605",
+   "role": "mughal emperor",
+   "url": "api/people/akbar.json"
+  },
+  {
+   "slug": "shah-jahan",
+   "name": "shah jahan",
+   "dates": "1592–1666",
+   "role": "mughal emperor",
+   "url": "api/people/shah-jahan.json"
+  },
+  {
+   "slug": "aurangzeb",
+   "name": "aurangzeb",
+   "dates": "1618–1707",
+   "role": "mughal emperor",
+   "url": "api/people/aurangzeb.json"
+  },
+  {
+   "slug": "ram-mohan-roy",
+   "name": "ram mohan roy",
+   "dates": "1772–1833",
+   "role": "indian reformer and writer",
+   "url": "api/people/ram-mohan-roy.json"
+  },
+  {
+   "slug": "mahatma-gandhi",
+   "name": "mahatma gandhi",
+   "dates": "1869–1948",
+   "role": "leader of indian independence",
+   "url": "api/people/mahatma-gandhi.json"
+  },
+  {
+   "slug": "jawaharlal-nehru",
+   "name": "jawaharlal nehru",
+   "dates": "1889–1964",
+   "role": "first prime minister of india",
+   "url": "api/people/jawaharlal-nehru.json"
+  },
+  {
+   "slug": "indira-gandhi",
+   "name": "indira gandhi",
+   "dates": "1917–1984",
+   "role": "prime minister of india",
+   "url": "api/people/indira-gandhi.json"
+  }
+ ]
+}

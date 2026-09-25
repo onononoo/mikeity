@@ -1,0 +1,530 @@
+{
+ "slug": "christianity",
+ "name": "christianity",
+ "began": "c. 30 ce, in judea",
+ "followers": "about 2.4 billion, the largest religion in the world",
+ "founder": "jesus of nazareth, and his apostles",
+ "scriptures": "the bible: the old testament (the hebrew bible) and the new testament",
+ "places": "jerusalem, bethlehem, rome, and many shrines of saints",
+ "summary": "faith in jesus of nazareth as the son of god and savior, who died on the cross and rose from the dead. it began as a movement within judaism and became the religion of the roman empire and then of much of the world.",
+ "creation": "the same account as the hebrew bible: god made the world in six days and made humans in his image. the gospel of john adds that all things were made through the word, which christians identify with jesus.",
+ "age": "the bible gives no date. in 1650 archbishop james ussher added up its lifespans and got 4004 bce, a reckoning that was widely printed. most churches today accept the scientific age of the earth; some christians hold to a young earth.",
+ "events": [
+  {
+   "id": 1,
+   "kind": "tradition",
+   "when": "4004 bce, by ussher's reckoning",
+   "text": "god creates the world in six days and makes humans in his image, as told in genesis. the date is archbishop ussher's calculation of 1650, not a teaching of the church",
+   "start": -4004,
+   "end": -4004
+  },
+  {
+   "id": 2,
+   "kind": "tradition",
+   "when": "the fall",
+   "text": "adam and eve disobey god in the garden of eden; sin and death enter the world, and god promises that evil will one day be defeated",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 3,
+   "kind": "tradition",
+   "when": "the old testament",
+   "text": "the story of israel, from abraham and moses to david and the prophets, which christians read as preparing the way for the messiah",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 4,
+   "kind": "tradition",
+   "when": "c. 4 bce",
+   "text": "the angel gabriel tells mary she will bear the son of god. jesus is born in bethlehem; angels sing to shepherds and wise men follow a star",
+   "start": -4,
+   "end": -4
+  },
+  {
+   "id": 5,
+   "kind": "history",
+   "when": "c. 4 bce",
+   "text": "jesus of nazareth is born, probably shortly before the death of king herod in 4 bce; the monk who later fixed the year 1 was a few years out",
+   "start": -4,
+   "end": -4
+  },
+  {
+   "id": 6,
+   "kind": "tradition",
+   "when": "c. 28 ce",
+   "text": "john the baptist baptizes jesus in the jordan. jesus begins teaching, healing the sick, and calls twelve disciples",
+   "start": 28,
+   "end": 28
+  },
+  {
+   "id": 7,
+   "kind": "history",
+   "when": "c. 30 ce",
+   "text": "jesus is crucified in jerusalem under the roman governor pontius pilate, an event also recorded by the roman historian tacitus",
+   "start": 30,
+   "end": 30
+  },
+  {
+   "id": 8,
+   "kind": "tradition",
+   "when": "the third day",
+   "text": "jesus rises from the dead, appears to mary magdalene and the disciples, and forty days later ascends into heaven",
+   "start": 30,
+   "end": 30
+  },
+  {
+   "id": 9,
+   "kind": "tradition",
+   "when": "pentecost",
+   "text": "the holy spirit comes down on the apostles in jerusalem, and they begin preaching; christians see this as the birth of the church",
+   "start": 30,
+   "end": 30
+  },
+  {
+   "id": 10,
+   "kind": "history",
+   "when": "c. 35 ce",
+   "text": "paul, who had persecuted the first christians, becomes one himself after a vision on the road to damascus",
+   "start": 35,
+   "end": 35
+  },
+  {
+   "id": 11,
+   "kind": "history",
+   "when": "c. 50 ce",
+   "text": "at a meeting in jerusalem, the apostles agree that gentiles who become christians need not follow the whole jewish law",
+   "start": 50,
+   "end": 50
+  },
+  {
+   "id": 12,
+   "kind": "history",
+   "when": "c. 50–60 ce",
+   "text": "paul writes letters to the churches he founded, the oldest christian writings to survive",
+   "start": 50,
+   "end": 60
+  },
+  {
+   "id": 13,
+   "kind": "history",
+   "when": "64 ce",
+   "text": "the emperor nero blames christians for the great fire of rome; by tradition peter and paul are put to death there",
+   "start": 64,
+   "end": 64
+  },
+  {
+   "id": 14,
+   "kind": "history",
+   "when": "c. 65–100 ce",
+   "text": "the four gospels, of mark, matthew, luke, and john, are written",
+   "start": 65,
+   "end": 100
+  },
+  {
+   "id": 15,
+   "kind": "history",
+   "when": "303–311 ce",
+   "text": "the great persecution under diocletian, the last and worst attempt by rome to wipe out christianity",
+   "start": 303,
+   "end": 311
+  },
+  {
+   "id": 16,
+   "kind": "history",
+   "when": "313 ce",
+   "text": "constantine and licinius issue the edict of milan, making christianity legal",
+   "start": 313,
+   "end": 313
+  },
+  {
+   "id": 17,
+   "kind": "history",
+   "when": "325 ce",
+   "text": "the council of nicaea agrees the nicene creed: the son is \"of one being with the father\"",
+   "start": 325,
+   "end": 325
+  },
+  {
+   "id": 18,
+   "kind": "history",
+   "when": "380 ce",
+   "text": "christianity becomes the official religion of the roman empire",
+   "start": 380,
+   "end": 380
+  },
+  {
+   "id": 19,
+   "kind": "history",
+   "when": "c. 405 ce",
+   "text": "jerome finishes translating the bible into latin, the vulgate, used in the western church for a thousand years",
+   "start": 405,
+   "end": 405
+  },
+  {
+   "id": 20,
+   "kind": "history",
+   "when": "426 ce",
+   "text": "augustine of hippo finishes the city of god, written after the sack of rome",
+   "start": 426,
+   "end": 426
+  },
+  {
+   "id": 21,
+   "kind": "history",
+   "when": "c. 529 ce",
+   "text": "benedict founds the monastery of monte cassino; his rule shapes western monks and nuns",
+   "start": 529,
+   "end": 529
+  },
+  {
+   "id": 22,
+   "kind": "history",
+   "when": "1054",
+   "text": "the great schism divides the catholic west from the orthodox east",
+   "start": 1054,
+   "end": 1054
+  },
+  {
+   "id": 23,
+   "kind": "history",
+   "when": "1095",
+   "text": "pope urban ii calls the first crusade",
+   "start": 1095,
+   "end": 1095
+  },
+  {
+   "id": 24,
+   "kind": "history",
+   "when": "1209",
+   "text": "francis of assisi gathers his first followers, who live in poverty and preach",
+   "start": 1209,
+   "end": 1209
+  },
+  {
+   "id": 25,
+   "kind": "history",
+   "when": "1517",
+   "text": "martin luther's 95 theses begin the protestant reformation",
+   "start": 1517,
+   "end": 1517
+  },
+  {
+   "id": 26,
+   "kind": "history",
+   "when": "1536",
+   "text": "john calvin publishes the institutes of the christian religion in geneva",
+   "start": 1536,
+   "end": 1536
+  },
+  {
+   "id": 27,
+   "kind": "history",
+   "when": "1540",
+   "text": "the pope approves the jesuits, founded by ignatius of loyola; they soon run schools and missions worldwide",
+   "start": 1540,
+   "end": 1540
+  },
+  {
+   "id": 28,
+   "kind": "history",
+   "when": "1545–1563",
+   "text": "the council of trent leads the catholic counter-reformation",
+   "start": 1545,
+   "end": 1563
+  },
+  {
+   "id": 29,
+   "kind": "history",
+   "when": "1611",
+   "text": "the king james bible is published in english",
+   "start": 1611,
+   "end": 1611
+  },
+  {
+   "id": 30,
+   "kind": "history",
+   "when": "1738",
+   "text": "john wesley's conversion begins the methodist revival in britain and america",
+   "start": 1738,
+   "end": 1738
+  },
+  {
+   "id": 31,
+   "kind": "history",
+   "when": "1962–1965",
+   "text": "the second vatican council modernizes the catholic church; mass is now said in local languages",
+   "start": 1962,
+   "end": 1965
+  },
+  {
+   "id": 32,
+   "kind": "history",
+   "when": "today",
+   "text": "most christians now live in africa, latin america, and asia, not in europe and north america",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 33,
+   "kind": "tradition",
+   "when": "the end of time",
+   "text": "christ will come again in glory; the dead will rise, the world will be judged, and god will make a new heaven and a new earth",
+   "start": null,
+   "end": null
+  }
+ ],
+ "people": [
+  {
+   "slug": "mary",
+   "name": "mary",
+   "dates": "1st century bce-1st century ce",
+   "kind": "tradition",
+   "role": "the mother of jesus",
+   "about": "honored by most christians as the mother of god and by catholics and orthodox as queen of heaven"
+  },
+  {
+   "slug": "john-the-baptist",
+   "name": "john the baptist",
+   "dates": "died c. 30 ce",
+   "kind": "history",
+   "role": "prophet and preacher",
+   "about": "baptized jesus in the jordan; beheaded by herod antipas, as the historian josephus also records"
+  },
+  {
+   "slug": "jesus-of-nazareth",
+   "name": "jesus of nazareth",
+   "dates": "c. 4 bce-30 ce",
+   "kind": "history",
+   "role": "teacher from galilee, whom christians worship as the son of god",
+   "about": "preached the coming of the kingdom of god, was crucified in jerusalem, and, christians believe, rose from the dead"
+  },
+  {
+   "slug": "mary-magdalene",
+   "name": "mary magdalene",
+   "dates": "1st century ce",
+   "kind": "tradition",
+   "role": "follower of jesus",
+   "about": "the gospels say she was the first to see the risen jesus"
+  },
+  {
+   "slug": "peter",
+   "name": "peter",
+   "dates": "died c. 64 ce",
+   "kind": "history",
+   "role": "leader of the twelve apostles",
+   "about": "a fisherman from galilee; catholics see him as the first pope, and by tradition he was crucified in rome"
+  },
+  {
+   "slug": "paul-of-tarsus",
+   "name": "paul of tarsus",
+   "dates": "c. 5-64 ce",
+   "kind": "history",
+   "role": "apostle to the gentiles",
+   "about": "spread christianity across the eastern mediterranean; his letters make up much of the new testament"
+  },
+  {
+   "slug": "constantine",
+   "name": "constantine",
+   "dates": "c. 272-337",
+   "kind": "history",
+   "role": "roman emperor",
+   "about": "the first christian emperor; he called the council of nicaea"
+  },
+  {
+   "slug": "jerome",
+   "name": "jerome",
+   "dates": "c. 342-420",
+   "kind": "history",
+   "role": "scholar and translator",
+   "about": "translated the bible into latin, the vulgate"
+  },
+  {
+   "slug": "augustine-of-hippo",
+   "name": "augustine of hippo",
+   "dates": "354-430",
+   "kind": "history",
+   "role": "bishop in north africa",
+   "about": "his confessions and city of god shaped western christian thought more than any writer after paul"
+  },
+  {
+   "slug": "benedict-of-nursia",
+   "name": "benedict of nursia",
+   "dates": "c. 480-547",
+   "kind": "history",
+   "role": "monk",
+   "about": "wrote the rule of saint benedict, the guide for most western monasteries"
+  },
+  {
+   "slug": "francis-of-assisi",
+   "name": "francis of assisi",
+   "dates": "c. 1181-1226",
+   "kind": "history",
+   "role": "friar",
+   "about": "gave up his wealth to live in poverty and serve the poor; loved all creatures as his brothers and sisters"
+  },
+  {
+   "slug": "thomas-aquinas",
+   "name": "thomas aquinas",
+   "dates": "1225-1274",
+   "kind": "history",
+   "role": "dominican friar and theologian",
+   "about": "joined christian teaching with the philosophy of aristotle in his summa theologiae"
+  },
+  {
+   "slug": "martin-luther",
+   "name": "martin luther",
+   "dates": "1483-1546",
+   "kind": "history",
+   "role": "german monk and reformer",
+   "about": "taught that people are saved by faith alone and translated the bible into german"
+  },
+  {
+   "slug": "ignatius-of-loyola",
+   "name": "ignatius of loyola",
+   "dates": "1491-1556",
+   "kind": "history",
+   "role": "spanish priest",
+   "about": "founded the jesuits and wrote the spiritual exercises"
+  },
+  {
+   "slug": "john-calvin",
+   "name": "john calvin",
+   "dates": "1509-1564",
+   "kind": "history",
+   "role": "french reformer in geneva",
+   "about": "his teaching shaped the reformed and presbyterian churches"
+  },
+  {
+   "slug": "john-wesley",
+   "name": "john wesley",
+   "dates": "1703-1791",
+   "kind": "history",
+   "role": "english preacher",
+   "about": "rode some 400,000 kilometers preaching in the open air; founder of methodism"
+  },
+  {
+   "slug": "mother-teresa",
+   "name": "mother teresa",
+   "dates": "1910-1997",
+   "kind": "history",
+   "role": "catholic nun",
+   "about": "cared for the dying poor of kolkata and founded the missionaries of charity"
+  },
+  {
+   "slug": "martin-luther-king-jr",
+   "name": "martin luther king jr.",
+   "dates": "1929-1968",
+   "kind": "history",
+   "role": "baptist minister and civil rights leader",
+   "about": "drew on the bible and the example of jesus to lead non-violent protest against segregation"
+  },
+  {
+   "slug": "desmond-tutu",
+   "name": "desmond tutu",
+   "dates": "1931-2021",
+   "kind": "history",
+   "role": "anglican archbishop of cape town",
+   "about": "fought apartheid without violence and chaired south africa's truth and reconciliation commission"
+  }
+ ],
+ "glossary": [
+  {
+   "slug": "apostle",
+   "term": "apostle",
+   "definition": "\"one who is sent\": the twelve closest followers of jesus, and early missionaries like paul."
+  },
+  {
+   "slug": "baptism",
+   "term": "baptism",
+   "definition": "the washing with water by which a person becomes a christian."
+  },
+  {
+   "slug": "bible",
+   "term": "bible",
+   "definition": "the christian scriptures: the old testament, shared with judaism, and the new testament, about jesus and the early church."
+  },
+  {
+   "slug": "catholic",
+   "term": "catholic",
+   "definition": "\"universal\": the church led by the pope in rome, the largest christian church."
+  },
+  {
+   "slug": "christmas",
+   "term": "christmas",
+   "definition": "the feast of the birth of jesus, on 25 december (7 january in many orthodox churches)."
+  },
+  {
+   "slug": "creed",
+   "term": "creed",
+   "definition": "a short statement of belief, like the nicene creed of 325."
+  },
+  {
+   "slug": "easter",
+   "term": "easter",
+   "definition": "the feast of the resurrection of jesus, the most important day of the christian year."
+  },
+  {
+   "slug": "eucharist",
+   "term": "eucharist",
+   "definition": "holy communion or the mass: sharing bread and wine as jesus did at the last supper."
+  },
+  {
+   "slug": "gospel",
+   "term": "gospel",
+   "definition": "\"good news\": the message of jesus, and the four books of matthew, mark, luke, and john that tell his life."
+  },
+  {
+   "slug": "incarnation",
+   "term": "incarnation",
+   "definition": "the belief that god became a human being in jesus."
+  },
+  {
+   "slug": "monastery",
+   "term": "monastery",
+   "definition": "a community of monks or nuns living under a rule of prayer and work."
+  },
+  {
+   "slug": "orthodox-church",
+   "term": "orthodox church",
+   "definition": "the eastern churches, such as the greek and russian, which split from rome in 1054."
+  },
+  {
+   "slug": "pentecost",
+   "term": "pentecost",
+   "definition": "the feast fifty days after easter, remembering the holy spirit coming down on the apostles."
+  },
+  {
+   "slug": "pope",
+   "term": "pope",
+   "definition": "the bishop of rome and head of the catholic church, seen as the successor of peter."
+  },
+  {
+   "slug": "protestant",
+   "term": "protestant",
+   "definition": "the churches that came out of the reformation, such as lutheran, reformed, anglican, baptist, and methodist, and later pentecostal."
+  },
+  {
+   "slug": "resurrection",
+   "term": "resurrection",
+   "definition": "jesus rising from the dead on the third day after his crucifixion; also the rising of all the dead at the end of time."
+  },
+  {
+   "slug": "sacrament",
+   "term": "sacrament",
+   "definition": "a holy rite through which, christians believe, god gives grace, such as baptism and the eucharist."
+  },
+  {
+   "slug": "saint",
+   "term": "saint",
+   "definition": "a holy person; in the catholic and orthodox churches, someone officially recognized as being in heaven."
+  },
+  {
+   "slug": "trinity",
+   "term": "trinity",
+   "definition": "the belief that the one god is three persons: father, son, and holy spirit."
+  }
+ ],
+ "page": "christianity/index.html"
+}

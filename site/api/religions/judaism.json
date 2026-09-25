@@ -1,0 +1,536 @@
+{
+ "slug": "judaism",
+ "name": "judaism",
+ "began": "c. 1000-500 bce, in the land of israel; by tradition with abraham",
+ "followers": "about 15 million",
+ "founder": "abraham, by tradition; moses, who received the torah",
+ "scriptures": "the hebrew bible (tanakh), above all the torah; the talmud",
+ "places": "jerusalem, above all the western wall of the temple mount",
+ "summary": "the religion of the jewish people: one god, who made a covenant with abraham and gave the torah to moses at sinai. it is the oldest of the three abrahamic faiths, and the root of christianity and islam.",
+ "creation": "god created the heavens and the earth in six days and rested on the seventh, as told in the book of genesis.",
+ "age": "the jewish calendar counts years from creation, which rabbinic tradition places in 3761 bce. many jews today read the six days as a teaching, not a clock, and accept the scientific age.",
+ "events": [
+  {
+   "id": 1,
+   "kind": "tradition",
+   "when": "3761 bce, by the traditional count",
+   "text": "god creates the heavens and the earth in six days and rests on the seventh, the first sabbath. the jewish calendar counts its years from here",
+   "start": -3761,
+   "end": -3761
+  },
+  {
+   "id": 2,
+   "kind": "tradition",
+   "when": "the sixth day",
+   "text": "god forms adam from the dust of the earth and makes eve; they live in the garden of eden until they eat the forbidden fruit and are sent out",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 3,
+   "kind": "tradition",
+   "when": "2105 bce, by the traditional count",
+   "text": "a great flood covers the earth. noah, his family, and the animals survive in the ark, and god promises never to destroy the world by flood again",
+   "start": -2105,
+   "end": -2105
+  },
+  {
+   "id": 4,
+   "kind": "tradition",
+   "when": "after the flood",
+   "text": "people build a tower at babel to reach the heavens; god confuses their language and scatters them across the earth",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 5,
+   "kind": "tradition",
+   "when": "1813 bce, by the traditional count",
+   "text": "abraham is born. god later calls him to leave his homeland for canaan and makes a covenant with him: his descendants will be a great nation",
+   "start": -1813,
+   "end": -1813
+  },
+  {
+   "id": 6,
+   "kind": "tradition",
+   "when": "the age of the patriarchs",
+   "text": "isaac, then jacob, who is renamed israel. jacob's twelve sons become the twelve tribes; one of them, joseph, is sold into egypt and rises to power there",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 7,
+   "kind": "tradition",
+   "when": "1313 bce, by the traditional count",
+   "text": "moses leads the israelites out of slavery in egypt: the exodus, remembered every year at passover",
+   "start": -1313,
+   "end": -1313
+  },
+  {
+   "id": 8,
+   "kind": "tradition",
+   "when": "1313 bce, by the traditional count",
+   "text": "at mount sinai god gives the torah to moses, including the ten commandments, and makes a covenant with the whole people",
+   "start": -1313,
+   "end": -1313
+  },
+  {
+   "id": 9,
+   "kind": "tradition",
+   "when": "after forty years in the desert",
+   "text": "joshua leads the israelites into the promised land of canaan",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 10,
+   "kind": "history",
+   "when": "c. 1208 bce",
+   "text": "a victory stone of the pharaoh merneptah names a people called israel in canaan, the oldest mention of israel outside the bible",
+   "start": -1208,
+   "end": -1208
+  },
+  {
+   "id": 11,
+   "kind": "tradition",
+   "when": "c. 1000 bce",
+   "text": "king david makes jerusalem his capital; his son solomon builds the first temple there",
+   "start": -1000,
+   "end": -1000
+  },
+  {
+   "id": 12,
+   "kind": "history",
+   "when": "c. 840 bce",
+   "text": "an aramean inscription found at tel dan mentions the \"house of david\", the oldest reference to david outside the bible",
+   "start": -840,
+   "end": -840
+  },
+  {
+   "id": 13,
+   "kind": "history",
+   "when": "722 bce",
+   "text": "assyria destroys the northern kingdom of israel; its ten tribes are scattered and later remembered as the lost tribes",
+   "start": -722,
+   "end": -722
+  },
+  {
+   "id": 14,
+   "kind": "history",
+   "when": "587 bce",
+   "text": "babylon destroys jerusalem and the first temple and carries many judeans into exile (rabbinic tradition dates this to 423 bce)",
+   "start": -587,
+   "end": -587
+  },
+  {
+   "id": 15,
+   "kind": "history",
+   "when": "538 bce",
+   "text": "cyrus the great lets the exiles go home; the second temple is finished around 516 bce",
+   "start": -538,
+   "end": -538
+  },
+  {
+   "id": 16,
+   "kind": "history",
+   "when": "c. 450 bce",
+   "text": "under ezra and nehemiah the torah is read out in public in jerusalem; many scholars think it reached its final form around this time",
+   "start": -450,
+   "end": -450
+  },
+  {
+   "id": 17,
+   "kind": "history",
+   "when": "167–164 bce",
+   "text": "the maccabees revolt against the greek seleucid kings and rededicate the temple, remembered at hanukkah",
+   "start": -167,
+   "end": -164
+  },
+  {
+   "id": 18,
+   "kind": "history",
+   "when": "70 ce",
+   "text": "the romans destroy the second temple. judaism survives through rabbis, synagogues, prayer, and study",
+   "start": 70,
+   "end": 70
+  },
+  {
+   "id": 19,
+   "kind": "history",
+   "when": "132–135 ce",
+   "text": "the bar kokhba revolt against rome is crushed; jews are banned from jerusalem and most now live in the diaspora",
+   "start": 132,
+   "end": 135
+  },
+  {
+   "id": 20,
+   "kind": "history",
+   "when": "c. 200 ce",
+   "text": "rabbi judah ha-nasi gathers the oral law into the mishnah",
+   "start": 200,
+   "end": 200
+  },
+  {
+   "id": 21,
+   "kind": "history",
+   "when": "c. 500 ce",
+   "text": "the babylonian talmud, a huge record of rabbinic debate built around the mishnah, is largely complete",
+   "start": 500,
+   "end": 500
+  },
+  {
+   "id": 22,
+   "kind": "history",
+   "when": "1040–1105",
+   "text": "rashi, in france, writes commentaries on the bible and talmud that are still printed beside the text today",
+   "start": 1040,
+   "end": 1105
+  },
+  {
+   "id": 23,
+   "kind": "history",
+   "when": "c. 1190",
+   "text": "maimonides, living in cairo, completes the guide for the perplexed, joining jewish faith with aristotle's philosophy",
+   "start": 1190,
+   "end": 1190
+  },
+  {
+   "id": 24,
+   "kind": "history",
+   "when": "1290",
+   "text": "england expels its jews; france and many german states do the same over the next two centuries",
+   "start": 1290,
+   "end": 1290
+  },
+  {
+   "id": 25,
+   "kind": "history",
+   "when": "1492",
+   "text": "spain expels its jews; many find refuge in the ottoman empire, north africa, and the netherlands",
+   "start": 1492,
+   "end": 1492
+  },
+  {
+   "id": 26,
+   "kind": "history",
+   "when": "c. 1740",
+   "text": "the baal shem tov begins the hasidic movement in eastern europe, stressing joy, prayer, and closeness to god",
+   "start": 1740,
+   "end": 1740
+  },
+  {
+   "id": 27,
+   "kind": "history",
+   "when": "1783",
+   "text": "moses mendelssohn publishes jerusalem and a german translation of the torah, leading the jewish enlightenment",
+   "start": 1783,
+   "end": 1783
+  },
+  {
+   "id": 28,
+   "kind": "history",
+   "when": "1881–1914",
+   "text": "pogroms in the russian empire drive about two million jews to emigrate, most to the united states",
+   "start": 1881,
+   "end": 1914
+  },
+  {
+   "id": 29,
+   "kind": "history",
+   "when": "1897",
+   "text": "theodor herzl holds the first zionist congress in basel, calling for a jewish homeland",
+   "start": 1897,
+   "end": 1897
+  },
+  {
+   "id": 30,
+   "kind": "history",
+   "when": "1941–1945",
+   "text": "the holocaust: nazi germany murders six million jews, about a third of all the jews in the world",
+   "start": 1941,
+   "end": 1945
+  },
+  {
+   "id": 31,
+   "kind": "history",
+   "when": "1948",
+   "text": "the state of israel is founded",
+   "start": 1948,
+   "end": 1948
+  },
+  {
+   "id": 32,
+   "kind": "tradition",
+   "when": "the time to come",
+   "text": "tradition looks forward to the messiah, a descendant of david, who will bring peace, gather the exiles, and rebuild the temple",
+   "start": null,
+   "end": null
+  }
+ ],
+ "people": [
+  {
+   "slug": "adam",
+   "name": "adam",
+   "dates": "the first man",
+   "kind": "tradition",
+   "role": "the first human",
+   "about": "formed by god from the dust of the earth and placed in the garden of eden"
+  },
+  {
+   "slug": "eve",
+   "name": "eve",
+   "dates": "the first woman",
+   "kind": "tradition",
+   "role": "the first woman",
+   "about": "\"the mother of all living\", who ate the forbidden fruit with adam"
+  },
+  {
+   "slug": "noah",
+   "name": "noah",
+   "dates": "before and after the flood",
+   "kind": "tradition",
+   "role": "builder of the ark",
+   "about": "a righteous man saved with his family from the flood; god made a covenant with him and all living things"
+  },
+  {
+   "slug": "abraham",
+   "name": "abraham",
+   "dates": "1813-1638 bce, by tradition",
+   "kind": "tradition",
+   "role": "the first patriarch",
+   "about": "left his homeland at god's call; the covenant with him is the beginning of the jewish people"
+  },
+  {
+   "slug": "sarah",
+   "name": "sarah",
+   "dates": "wife of abraham",
+   "kind": "tradition",
+   "role": "the first matriarch",
+   "about": "gave birth to isaac in old age, as god had promised"
+  },
+  {
+   "slug": "jacob",
+   "name": "jacob",
+   "dates": "grandson of abraham",
+   "kind": "tradition",
+   "role": "the third patriarch, also called israel",
+   "about": "wrestled with an angel and was renamed israel; his twelve sons became the twelve tribes"
+  },
+  {
+   "slug": "joseph",
+   "name": "joseph",
+   "dates": "son of jacob",
+   "kind": "tradition",
+   "role": "dreamer and minister of egypt",
+   "about": "sold into slavery by his brothers, he rose to rule egypt under pharaoh and saved his family from famine"
+  },
+  {
+   "slug": "moses",
+   "name": "moses",
+   "dates": "1393-1273 bce, by tradition",
+   "kind": "tradition",
+   "role": "prophet, lawgiver, and leader of the exodus",
+   "about": "led the israelites out of egypt and received the torah at sinai; the greatest of the prophets"
+  },
+  {
+   "slug": "miriam",
+   "name": "miriam",
+   "dates": "sister of moses",
+   "kind": "tradition",
+   "role": "prophet",
+   "about": "led the women in song after the crossing of the sea"
+  },
+  {
+   "slug": "david",
+   "name": "david",
+   "dates": "c. 1040-970 bce, by the biblical account",
+   "kind": "tradition",
+   "role": "king of israel",
+   "about": "shepherd, poet of the psalms, and king who made jerusalem his capital; the messiah is to be his descendant"
+  },
+  {
+   "slug": "solomon",
+   "name": "solomon",
+   "dates": "reigned c. 970-931 bce, by the biblical account",
+   "kind": "tradition",
+   "role": "king of israel",
+   "about": "famous for his wisdom; built the first temple in jerusalem"
+  },
+  {
+   "slug": "elijah",
+   "name": "elijah",
+   "dates": "9th century bce, by the biblical account",
+   "kind": "tradition",
+   "role": "prophet",
+   "about": "challenged the worship of baal and was carried to heaven in a chariot of fire; a cup is poured for him at passover"
+  },
+  {
+   "slug": "esther",
+   "name": "esther",
+   "dates": "5th century bce, by the biblical account",
+   "kind": "tradition",
+   "role": "queen of persia",
+   "about": "saved the jews of persia from destruction, remembered at the festival of purim"
+  },
+  {
+   "slug": "hillel",
+   "name": "hillel",
+   "dates": "c. 110 bce-10 ce",
+   "kind": "history",
+   "role": "sage in jerusalem",
+   "about": "summed up the torah as \"what is hateful to you, do not do to your neighbor; the rest is commentary\""
+  },
+  {
+   "slug": "rabbi-akiva",
+   "name": "rabbi akiva",
+   "dates": "c. 50-135 ce",
+   "kind": "history",
+   "role": "sage and teacher",
+   "about": "one of the great founders of rabbinic judaism, put to death by the romans after the bar kokhba revolt"
+  },
+  {
+   "slug": "judah-ha-nasi",
+   "name": "judah ha-nasi",
+   "dates": "c. 135-217 ce",
+   "kind": "history",
+   "role": "patriarch of the jews in roman palestine",
+   "about": "compiled the mishnah, the first written collection of the oral law"
+  },
+  {
+   "slug": "rashi",
+   "name": "rashi",
+   "dates": "1040-1105",
+   "kind": "history",
+   "role": "rabbi in troyes, france",
+   "about": "wrote the most widely read commentaries on the bible and talmud"
+  },
+  {
+   "slug": "maimonides",
+   "name": "maimonides",
+   "dates": "c. 1138-1204",
+   "kind": "history",
+   "role": "philosopher, legal scholar, and doctor",
+   "about": "wrote the mishneh torah and the guide for the perplexed; \"from moses to moses there was none like moses\""
+  },
+  {
+   "slug": "baal-shem-tov",
+   "name": "baal shem tov",
+   "dates": "c. 1698-1760",
+   "kind": "history",
+   "role": "founder of hasidism",
+   "about": "taught that god can be served with joy in every part of life, not only through study"
+  },
+  {
+   "slug": "moses-mendelssohn",
+   "name": "moses mendelssohn",
+   "dates": "1729-1786",
+   "kind": "history",
+   "role": "german jewish philosopher",
+   "about": "led the haskalah, the jewish enlightenment, and argued for religious freedom"
+  },
+  {
+   "slug": "theodor-herzl",
+   "name": "theodor herzl",
+   "dates": "1860-1904",
+   "kind": "history",
+   "role": "journalist and founder of political zionism",
+   "about": "wrote the jewish state and called the first zionist congress"
+  },
+  {
+   "slug": "anne-frank",
+   "name": "anne frank",
+   "dates": "1929-1945",
+   "kind": "history",
+   "role": "diarist",
+   "about": "hid from the nazis in amsterdam and died in bergen-belsen; her diary is read around the world"
+  }
+ ],
+ "glossary": [
+  {
+   "slug": "bar-mitzvah",
+   "term": "bar mitzvah",
+   "definition": "the coming of age of a jewish boy at thirteen, when he becomes responsible for keeping the commandments. for girls it is the bat mitzvah, at twelve or thirteen."
+  },
+  {
+   "slug": "covenant",
+   "term": "covenant",
+   "definition": "a binding agreement between god and people: with noah, with abraham, and with all israel at sinai."
+  },
+  {
+   "slug": "diaspora",
+   "term": "diaspora",
+   "definition": "the jewish communities living outside the land of israel, since the babylonian exile and above all since 70 ce."
+  },
+  {
+   "slug": "hanukkah",
+   "term": "hanukkah",
+   "definition": "the eight-day festival of lights, remembering the rededication of the temple by the maccabees in 164 bce."
+  },
+  {
+   "slug": "hasidism",
+   "term": "hasidism",
+   "definition": "a movement begun by the baal shem tov in the 1700s, stressing joyful prayer and devotion, led by rebbes."
+  },
+  {
+   "slug": "kosher",
+   "term": "kosher",
+   "definition": "food allowed by jewish law: certain animals only, slaughtered in a set way, with meat and milk kept apart."
+  },
+  {
+   "slug": "messiah",
+   "term": "messiah",
+   "definition": "\"the anointed one\": a future king descended from david who, jews believe, will bring an age of peace."
+  },
+  {
+   "slug": "mishnah",
+   "term": "mishnah",
+   "definition": "the first written collection of the oral law, compiled around 200 ce."
+  },
+  {
+   "slug": "passover",
+   "term": "passover",
+   "definition": "the spring festival remembering the exodus from egypt, with a special meal called the seder."
+  },
+  {
+   "slug": "rabbi",
+   "term": "rabbi",
+   "definition": "\"my teacher\": a scholar of jewish law who teaches and leads a community."
+  },
+  {
+   "slug": "sabbath",
+   "term": "sabbath",
+   "definition": "shabbat: the day of rest from friday evening to saturday evening, remembering that god rested on the seventh day."
+  },
+  {
+   "slug": "synagogue",
+   "term": "synagogue",
+   "definition": "a jewish house of prayer, study, and gathering."
+  },
+  {
+   "slug": "talmud",
+   "term": "talmud",
+   "definition": "the vast collection of rabbinic discussion of the mishnah, the foundation of jewish law."
+  },
+  {
+   "slug": "tanakh",
+   "term": "tanakh",
+   "definition": "the hebrew bible: the torah (teaching), the nevi'im (prophets), and the ketuvim (writings)."
+  },
+  {
+   "slug": "torah",
+   "term": "torah",
+   "definition": "the five books of moses, from genesis to deuteronomy; in a wider sense, all jewish teaching."
+  },
+  {
+   "slug": "yom-kippur",
+   "term": "yom kippur",
+   "definition": "the day of atonement, the holiest day of the year, spent in fasting and prayer."
+  },
+  {
+   "slug": "zionism",
+   "term": "zionism",
+   "definition": "the movement for a jewish homeland in the land of israel, which led to the founding of the state of israel in 1948."
+  }
+ ],
+ "page": "judaism/index.html"
+}

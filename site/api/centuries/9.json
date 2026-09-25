@@ -1,0 +1,30 @@
+{
+ "century": 9,
+ "events": [
+  {
+   "id": 223,
+   "date": "c. 830 ce",
+   "start": 830,
+   "end": 830,
+   "text": "al-khwarizmi writes his book on algebra at the house of wisdom in baghdad",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 225,
+   "date": "868 ce",
+   "start": 868,
+   "end": 868,
+   "text": "the diamond sutra is printed in china, the oldest dated printed book",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,780 @@
+{
+ "slug": "the-age-of-revolutions",
+ "number": 8,
+ "title": "the age of revolutions",
+ "starts": "1750",
+ "ends": "1850",
+ "summary": "enlightenment ideas about rights and reason fuel revolutions in america, france, haiti, and latin america, while steam power and factories begin the industrial revolution in britain.",
+ "page": "the-age-of-revolutions.html",
+ "events": [
+  {
+   "id": 325,
+   "date": "1751",
+   "start": 1751,
+   "end": 1751,
+   "text": "diderot and d'alembert publish the first volume of the encyclopédie",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "enlightenment",
+    "writing"
+   ]
+  },
+  {
+   "id": 326,
+   "date": "1756–1763",
+   "start": 1756,
+   "end": 1763,
+   "text": "the seven years' war is fought across europe, north america, india, and at sea; britain gains canada and power in india",
+   "era": "the-age-of-revolutions",
+   "region": "the-whole-world",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 327,
+   "date": "1757",
+   "start": 1757,
+   "end": 1757,
+   "text": "the east india company wins the battle of plassey and takes control of bengal",
+   "era": "the-age-of-revolutions",
+   "region": "south-asia",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 328,
+   "date": "1762",
+   "start": 1762,
+   "end": 1762,
+   "text": "rousseau publishes the social contract",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "enlightenment",
+    "philosophy"
+   ]
+  },
+  {
+   "id": 362,
+   "date": "1762–1796",
+   "start": 1762,
+   "end": 1796,
+   "text": "catherine the great rules russia, expanding it to the black sea",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 329,
+   "date": "1768–1779",
+   "start": 1768,
+   "end": 1779,
+   "text": "james cook makes three voyages across the pacific, mapping new zealand and eastern australia",
+   "era": "the-age-of-revolutions",
+   "region": "oceania",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 330,
+   "date": "1769",
+   "start": 1769,
+   "end": 1769,
+   "text": "james watt patents a much more efficient steam engine",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "technology",
+    "industry"
+   ]
+  },
+  {
+   "id": 331,
+   "date": "1773",
+   "start": 1773,
+   "end": 1773,
+   "text": "colonists dump british tea into boston harbor, the boston tea party",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 332,
+   "date": "1776",
+   "start": 1776,
+   "end": 1776,
+   "text": "the thirteen colonies declare independence from britain",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "revolution",
+    "rights"
+   ]
+  },
+  {
+   "id": 333,
+   "date": "1776",
+   "start": 1776,
+   "end": 1776,
+   "text": "adam smith publishes the wealth of nations",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "economy",
+    "enlightenment"
+   ]
+  },
+  {
+   "id": 363,
+   "date": "1780–1783",
+   "start": 1780,
+   "end": 1783,
+   "text": "tupac amaru ii leads a great indigenous uprising against spanish rule in peru; it is crushed and he is executed",
+   "era": "the-age-of-revolutions",
+   "region": "south-america",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 334,
+   "date": "1781",
+   "start": 1781,
+   "end": 1781,
+   "text": "british forces surrender at yorktown",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "war",
+    "revolution"
+   ]
+  },
+  {
+   "id": 335,
+   "date": "1787",
+   "start": 1787,
+   "end": 1787,
+   "text": "the united states constitution is written in philadelphia",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "politics",
+    "law"
+   ]
+  },
+  {
+   "id": 336,
+   "date": "1788",
+   "start": 1788,
+   "end": 1788,
+   "text": "the british \"first fleet\" arrives at sydney; the colonization of australia begins",
+   "era": "the-age-of-revolutions",
+   "region": "oceania",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 337,
+   "date": "1789",
+   "start": 1789,
+   "end": 1789,
+   "text": "the french revolution begins; a crowd storms the bastille and the declaration of the rights of man is issued",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "revolution",
+    "rights"
+   ]
+  },
+  {
+   "id": 338,
+   "date": "1791–1804",
+   "start": 1791,
+   "end": 1804,
+   "text": "the haitian revolution: enslaved people in saint-domingue rise up and create the free nation of haiti",
+   "era": "the-age-of-revolutions",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution",
+    "slavery",
+    "rights"
+   ]
+  },
+  {
+   "id": 339,
+   "date": "1792",
+   "start": 1792,
+   "end": 1792,
+   "text": "mary wollstonecraft publishes a vindication of the rights of woman",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "rights",
+    "enlightenment"
+   ]
+  },
+  {
+   "id": 340,
+   "date": "1793",
+   "start": 1793,
+   "end": 1793,
+   "text": "louis xvi is executed; the reign of terror begins",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 364,
+   "date": "1793",
+   "start": 1793,
+   "end": 1793,
+   "text": "the qianlong emperor turns away a british embassy asking for more trade, writing that china needs nothing from britain",
+   "era": "the-age-of-revolutions",
+   "region": "east-asia",
+   "tags": [
+    "diplomacy",
+    "trade"
+   ]
+  },
+  {
+   "id": 341,
+   "date": "1796",
+   "start": 1796,
+   "end": 1796,
+   "text": "edward jenner shows that cowpox can protect people against smallpox, the first vaccine",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "medicine",
+    "science"
+   ]
+  },
+  {
+   "id": 365,
+   "date": "1798",
+   "start": 1798,
+   "end": 1798,
+   "text": "thomas malthus argues that population will always grow faster than the food supply",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 342,
+   "date": "1799",
+   "start": 1799,
+   "end": 1799,
+   "text": "napoleon bonaparte seizes power in france; he crowns himself emperor in 1804",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 366,
+   "date": "1803",
+   "start": 1803,
+   "end": 1803,
+   "text": "the united states buys the vast louisiana territory from france, doubling its size",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 343,
+   "date": "1804",
+   "start": 1804,
+   "end": 1804,
+   "text": "the napoleonic code sets out equal civil law for all french men",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "law"
+   ]
+  },
+  {
+   "id": 344,
+   "date": "1807",
+   "start": 1807,
+   "end": 1807,
+   "text": "britain bans the atlantic slave trade",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "slavery",
+    "law"
+   ]
+  },
+  {
+   "id": 345,
+   "date": "1810–1821",
+   "start": 1810,
+   "end": 1821,
+   "text": "mexico fights for and wins independence from spain, after the call to revolt by miguel hidalgo",
+   "era": "the-age-of-revolutions",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 346,
+   "date": "1812",
+   "start": 1812,
+   "end": 1812,
+   "text": "napoleon's invasion of russia ends in disaster",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 347,
+   "date": "1815",
+   "start": 1815,
+   "end": 1815,
+   "text": "napoleon is defeated at waterloo; the congress of vienna redraws europe",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "war",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 348,
+   "date": "1815",
+   "start": 1815,
+   "end": 1815,
+   "text": "mount tambora in indonesia erupts; the next year is the \"year without a summer\"",
+   "era": "the-age-of-revolutions",
+   "region": "southeast-asia",
+   "tags": [
+    "disaster",
+    "environment"
+   ]
+  },
+  {
+   "id": 349,
+   "date": "c. 1816",
+   "start": 1816,
+   "end": 1816,
+   "text": "shaka builds the zulu kingdom into a powerful military state in southern africa",
+   "era": "the-age-of-revolutions",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 350,
+   "date": "1819",
+   "start": 1819,
+   "end": 1819,
+   "text": "simón bolívar wins the battle of boyacá, freeing new granada (colombia)",
+   "era": "the-age-of-revolutions",
+   "region": "south-america",
+   "tags": [
+    "revolution",
+    "war"
+   ]
+  },
+  {
+   "id": 367,
+   "date": "1820",
+   "start": 1820,
+   "end": 1820,
+   "text": "russian and british expeditions make the first confirmed sightings of antarctica",
+   "era": "the-age-of-revolutions",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 351,
+   "date": "1821",
+   "start": 1821,
+   "end": 1821,
+   "text": "the greek war of independence against the ottomans begins",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "revolution",
+    "nationalism"
+   ]
+  },
+  {
+   "id": 352,
+   "date": "1822",
+   "start": 1822,
+   "end": 1822,
+   "text": "brazil declares independence from portugal",
+   "era": "the-age-of-revolutions",
+   "region": "south-america",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 353,
+   "date": "1825",
+   "start": 1825,
+   "end": 1825,
+   "text": "the stockton and darlington railway opens in england, the first public steam railway",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "technology",
+    "industry"
+   ]
+  },
+  {
+   "id": 368,
+   "date": "1829",
+   "start": 1829,
+   "end": 1829,
+   "text": "after a campaign by ram mohan roy and others, british india bans sati, the burning of widows",
+   "era": "the-age-of-revolutions",
+   "region": "south-asia",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 369,
+   "date": "1830",
+   "start": 1830,
+   "end": 1830,
+   "text": "france invades algeria, beginning more than 130 years of french rule",
+   "era": "the-age-of-revolutions",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 370,
+   "date": "1831–1836",
+   "start": 1831,
+   "end": 1836,
+   "text": "charles darwin sails around the world on hms beagle, collecting the evidence for his theory of evolution",
+   "era": "the-age-of-revolutions",
+   "region": "the-whole-world",
+   "tags": [
+    "science",
+    "exploration"
+   ]
+  },
+  {
+   "id": 354,
+   "date": "1833",
+   "start": 1833,
+   "end": 1833,
+   "text": "britain passes the slavery abolition act, ending slavery in most of its empire",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "slavery",
+    "law"
+   ]
+  },
+  {
+   "id": 355,
+   "date": "1838",
+   "start": 1838,
+   "end": 1838,
+   "text": "the cherokee are forced from their lands on the trail of tears; thousands die",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "rights",
+    "migration"
+   ]
+  },
+  {
+   "id": 356,
+   "date": "1839–1842",
+   "start": 1839,
+   "end": 1842,
+   "text": "the first opium war: britain defeats china and takes hong kong",
+   "era": "the-age-of-revolutions",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "empire",
+    "trade"
+   ]
+  },
+  {
+   "id": 357,
+   "date": "1840",
+   "start": 1840,
+   "end": 1840,
+   "text": "the treaty of waitangi is signed between the british crown and māori chiefs in new zealand",
+   "era": "the-age-of-revolutions",
+   "region": "oceania",
+   "tags": [
+    "empire",
+    "law"
+   ]
+  },
+  {
+   "id": 371,
+   "date": "1843",
+   "start": 1843,
+   "end": 1843,
+   "text": "ada lovelace publishes notes on babbage's analytical engine, including what is often called the first computer program",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "computers",
+    "science"
+   ]
+  },
+  {
+   "id": 358,
+   "date": "1844",
+   "start": 1844,
+   "end": 1844,
+   "text": "samuel morse sends a telegraph message from washington to baltimore",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "technology"
+   ]
+  },
+  {
+   "id": 359,
+   "date": "1845–1852",
+   "start": 1845,
+   "end": 1852,
+   "text": "the great famine in ireland: about a million die and a million emigrate",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "disaster",
+    "migration"
+   ]
+  },
+  {
+   "id": 372,
+   "date": "1846",
+   "start": 1846,
+   "end": 1846,
+   "text": "surgeons in boston operate on a patient put to sleep with ether, the first public demonstration of anesthesia",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 373,
+   "date": "1847",
+   "start": 1847,
+   "end": 1847,
+   "text": "ignaz semmelweis shows that doctors washing their hands saves mothers from childbed fever",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 360,
+   "date": "1848",
+   "start": 1848,
+   "end": 1848,
+   "text": "revolutions break out across europe; marx and engels publish the communist manifesto",
+   "era": "the-age-of-revolutions",
+   "region": "europe",
+   "tags": [
+    "revolution",
+    "socialism"
+   ]
+  },
+  {
+   "id": 361,
+   "date": "1848",
+   "start": 1848,
+   "end": 1848,
+   "text": "the seneca falls convention demands equal rights for women, including the vote",
+   "era": "the-age-of-revolutions",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "voltaire",
+   "name": "voltaire",
+   "dates": "1694–1778",
+   "role": "french writer",
+   "url": "api/people/voltaire.json"
+  },
+  {
+   "slug": "jean-jacques-rousseau",
+   "name": "jean-jacques rousseau",
+   "dates": "1712–1778",
+   "role": "genevan philosopher",
+   "url": "api/people/jean-jacques-rousseau.json"
+  },
+  {
+   "slug": "adam-smith",
+   "name": "adam smith",
+   "dates": "1723–1790",
+   "role": "scottish economist",
+   "url": "api/people/adam-smith.json"
+  },
+  {
+   "slug": "james-cook",
+   "name": "james cook",
+   "dates": "1728–1779",
+   "role": "british navigator",
+   "url": "api/people/james-cook.json"
+  },
+  {
+   "slug": "catherine-the-great",
+   "name": "catherine the great",
+   "dates": "1729–1796",
+   "role": "empress of russia",
+   "url": "api/people/catherine-the-great.json"
+  },
+  {
+   "slug": "george-washington",
+   "name": "george washington",
+   "dates": "1732–1799",
+   "role": "american general and first president",
+   "url": "api/people/george-washington.json"
+  },
+  {
+   "slug": "james-watt",
+   "name": "james watt",
+   "dates": "1736–1819",
+   "role": "scottish engineer",
+   "url": "api/people/james-watt.json"
+  },
+  {
+   "slug": "tupac-amaru-ii",
+   "name": "tupac amaru ii",
+   "dates": "1738–1781",
+   "role": "leader of an uprising in peru",
+   "url": "api/people/tupac-amaru-ii.json"
+  },
+  {
+   "slug": "thomas-jefferson",
+   "name": "thomas jefferson",
+   "dates": "1743–1826",
+   "role": "american statesman",
+   "url": "api/people/thomas-jefferson.json"
+  },
+  {
+   "slug": "toussaint-louverture",
+   "name": "toussaint louverture",
+   "dates": "1743–1803",
+   "role": "leader of the haitian revolution",
+   "url": "api/people/toussaint-louverture.json"
+  },
+  {
+   "slug": "olaudah-equiano",
+   "name": "olaudah equiano",
+   "dates": "c. 1745–1797",
+   "role": "writer and abolitionist",
+   "url": "api/people/olaudah-equiano.json"
+  },
+  {
+   "slug": "jean-jacques-dessalines",
+   "name": "jean-jacques dessalines",
+   "dates": "1758–1806",
+   "role": "haitian leader",
+   "url": "api/people/jean-jacques-dessalines.json"
+  },
+  {
+   "slug": "maximilien-robespierre",
+   "name": "maximilien robespierre",
+   "dates": "1758–1794",
+   "role": "french revolutionary",
+   "url": "api/people/maximilien-robespierre.json"
+  },
+  {
+   "slug": "mary-wollstonecraft",
+   "name": "mary wollstonecraft",
+   "dates": "1759–1797",
+   "role": "english writer",
+   "url": "api/people/mary-wollstonecraft.json"
+  },
+  {
+   "slug": "william-wilberforce",
+   "name": "william wilberforce",
+   "dates": "1759–1833",
+   "role": "british politician",
+   "url": "api/people/william-wilberforce.json"
+  },
+  {
+   "slug": "tecumseh",
+   "name": "tecumseh",
+   "dates": "1768–1813",
+   "role": "shawnee leader",
+   "url": "api/people/tecumseh.json"
+  },
+  {
+   "slug": "napoleon-bonaparte",
+   "name": "napoleon bonaparte",
+   "dates": "1769–1821",
+   "role": "french general and emperor",
+   "url": "api/people/napoleon-bonaparte.json"
+  },
+  {
+   "slug": "ram-mohan-roy",
+   "name": "ram mohan roy",
+   "dates": "1772–1833",
+   "role": "indian reformer and writer",
+   "url": "api/people/ram-mohan-roy.json"
+  },
+  {
+   "slug": "simon-bolivar",
+   "name": "simón bolívar",
+   "dates": "1783–1830",
+   "role": "venezuelan revolutionary",
+   "url": "api/people/simon-bolivar.json"
+  },
+  {
+   "slug": "shaka",
+   "name": "shaka",
+   "dates": "c. 1787–1828",
+   "role": "zulu king",
+   "url": "api/people/shaka.json"
+  },
+  {
+   "slug": "ada-lovelace",
+   "name": "ada lovelace",
+   "dates": "1815–1852",
+   "role": "english mathematician",
+   "url": "api/people/ada-lovelace.json"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "the-beginning",
+  "number": 1,
+  "title": "the beginning",
+  "starts": "13.8 billion years ago",
+  "ends": "7 million years ago",
+  "summary": "the universe begins, stars forge the elements, the earth forms, life appears in the sea, and over billions of years it grows into fish, forests, dinosaurs, and mammals.",
+  "url": "api/eras/the-beginning.json",
+  "page": "the-beginning.html"
+ },
+ {
+  "slug": "the-first-humans",
+  "number": 2,
+  "title": "the first humans",
+  "starts": "7 million years ago",
+  "ends": "12,000 years ago",
+  "summary": "in africa, apes begin walking upright. their descendants make tools, tame fire, and develop language. our own species spreads across every continent but antarctica, outliving all other kinds of human.",
+  "url": "api/eras/the-first-humans.json",
+  "page": "the-first-humans.html"
+ },
+ {
+  "slug": "the-first-farmers",
+  "number": 3,
+  "title": "the first farmers",
+  "starts": "c. 10,000 bce",
+  "ends": "c. 3500 bce",
+  "summary": "as the ice age ends, people in at least seven parts of the world start farming on their own. villages, pottery, property, and new diseases follow, and the population of the world begins to climb.",
+  "url": "api/eras/the-first-farmers.json",
+  "page": "the-first-farmers.html"
+ },
+ {
+  "slug": "the-first-civilizations",
+  "number": 4,
+  "title": "the first civilizations",
+  "starts": "c. 3500 bce",
+  "ends": "c. 800 bce",
+  "summary": "cities, kings, writing, law, and organized war appear along the great rivers of mesopotamia, egypt, the indus, and china, and on their own in the americas. the bronze age ends in a sudden collapse.",
+  "url": "api/eras/the-first-civilizations.json",
+  "page": "the-first-civilizations.html"
+ },
+ {
+  "slug": "the-classical-world",
+  "number": 5,
+  "title": "the classical world",
+  "starts": "c. 800 bce",
+  "ends": "476 ce",
+  "summary": "persia, greece, rome, the mauryas, the guptas, the qin, and the han build vast empires. philosophers and prophets ask questions that are still argued about, and the silk roads link east and west.",
+  "url": "api/eras/the-classical-world.json",
+  "page": "the-classical-world.html"
+ },
+ {
+  "slug": "the-middle-ages",
+  "number": 6,
+  "title": "the middle ages",
+  "starts": "476 ce",
+  "ends": "1450",
+  "summary": "the western roman empire falls, islam spreads across three continents, tang and song china lead the world in technology, the mongols conquer most of eurasia, and the black death kills a third of europe.",
+  "url": "api/eras/the-middle-ages.json",
+  "page": "the-middle-ages.html"
+ },
+ {
+  "slug": "the-early-modern-world",
+  "number": 7,
+  "title": "the early modern world",
+  "starts": "1450",
+  "ends": "1750",
+  "summary": "the printing press, ocean voyages, and the conquest of the americas tie the whole world together for the first time, through trade, disease, and slavery. the reformation splits europe and science is reborn.",
+  "url": "api/eras/the-early-modern-world.json",
+  "page": "the-early-modern-world.html"
+ },
+ {
+  "slug": "the-age-of-revolutions",
+  "number": 8,
+  "title": "the age of revolutions",
+  "starts": "1750",
+  "ends": "1850",
+  "summary": "enlightenment ideas about rights and reason fuel revolutions in america, france, haiti, and latin america, while steam power and factories begin the industrial revolution in britain.",
+  "url": "api/eras/the-age-of-revolutions.json",
+  "page": "the-age-of-revolutions.html"
+ },
+ {
+  "slug": "industry-and-empire",
+  "number": 9,
+  "title": "industry and empire",
+  "starts": "1850",
+  "ends": "1914",
+  "summary": "railways, steel, electricity, and the telegraph remake daily life. industrial nations use their new power to seize most of africa and much of asia, while new ideas like nationalism and socialism spread.",
+  "url": "api/eras/industry-and-empire.json",
+  "page": "industry-and-empire.html"
+ },
+ {
+  "slug": "the-world-wars",
+  "number": 10,
+  "title": "the world wars",
+  "starts": "1914",
+  "ends": "1945",
+  "summary": "two world wars, the russian revolution, the great depression, and the rise of fascism make this the deadliest stretch in human history, ending with the holocaust and the atomic bomb.",
+  "url": "api/eras/the-world-wars.json",
+  "page": "the-world-wars.html"
+ },
+ {
+  "slug": "the-modern-world",
+  "number": 11,
+  "title": "the modern world",
+  "starts": "1945",
+  "ends": "the present",
+  "summary": "the cold war, the end of empires, the struggle for civil rights, space flight, the computer, and the internet shape the world we live in now, along with new dangers like climate change.",
+  "url": "api/eras/the-modern-world.json",
+  "page": "the-modern-world.html"
+ }
+]

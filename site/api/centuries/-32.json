@@ -1,0 +1,29 @@
+{
+ "century": -32,
+ "events": [
+  {
+   "id": 100,
+   "date": "c. 3200 bce",
+   "start": -3200,
+   "end": -3200,
+   "text": "writing is invented in sumer: first as tallies and pictures on clay for keeping accounts, later as cuneiform",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 101,
+   "date": "c. 3200 bce",
+   "start": -3200,
+   "end": -3200,
+   "text": "egyptian hieroglyphs appear, possibly invented independently of mesopotamian writing",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "writing"
+   ]
+  }
+ ]
+}

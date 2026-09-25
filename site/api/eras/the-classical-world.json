@@ -1,0 +1,1081 @@
+{
+ "slug": "the-classical-world",
+ "number": 5,
+ "title": "the classical world",
+ "starts": "c. 800 bce",
+ "ends": "476 ce",
+ "summary": "persia, greece, rome, the mauryas, the guptas, the qin, and the han build vast empires. philosophers and prophets ask questions that are still argued about, and the silk roads link east and west.",
+ "page": "the-classical-world.html",
+ "events": [
+  {
+   "id": 141,
+   "date": "776 bce",
+   "start": -776,
+   "end": -776,
+   "text": "the first recorded olympic games are held at olympia in greece, according to later tradition",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "culture",
+    "sport"
+   ]
+  },
+  {
+   "id": 143,
+   "date": "753 bce",
+   "start": -753,
+   "end": -753,
+   "text": "the legendary founding of rome by romulus",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 142,
+   "date": "c. 750 bce",
+   "start": -750,
+   "end": -750,
+   "text": "the greeks adopt the phoenician alphabet, adding vowels; the iliad and the odyssey take shape",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "writing",
+    "literature"
+   ]
+  },
+  {
+   "id": 144,
+   "date": "c. 750 bce",
+   "start": -750,
+   "end": -750,
+   "text": "kushite kings from nubia conquer egypt and rule it as its 25th dynasty",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 145,
+   "date": "722 bce",
+   "start": -722,
+   "end": -722,
+   "text": "the assyrian empire destroys the northern kingdom of israel and deports much of its population",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 146,
+   "date": "612 bce",
+   "start": -612,
+   "end": -612,
+   "text": "babylonians and medes sack nineveh, and the assyrian empire collapses",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "collapse"
+   ]
+  },
+  {
+   "id": 195,
+   "date": "c. 600 bce",
+   "start": -600,
+   "end": -600,
+   "text": "the kingdom of lydia in anatolia strikes the first coins, lumps of electrum stamped with a lion's head",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "economy",
+    "trade"
+   ]
+  },
+  {
+   "id": 147,
+   "date": "587 bce",
+   "start": -587,
+   "end": -587,
+   "text": "babylon destroys jerusalem and its temple; many judeans are exiled to babylon",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 149,
+   "date": "551 bce",
+   "start": -551,
+   "end": -551,
+   "text": "confucius is born in the state of lu, according to tradition",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "philosophy"
+   ]
+  },
+  {
+   "id": 150,
+   "date": "550 bce",
+   "start": -550,
+   "end": -550,
+   "text": "cyrus the great founds the achaemenid persian empire",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 151,
+   "date": "539 bce",
+   "start": -539,
+   "end": -539,
+   "text": "cyrus takes babylon and allows the exiled jews to return and rebuild their temple",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 153,
+   "date": "509 bce",
+   "start": -509,
+   "end": -509,
+   "text": "the romans expel their last king and found the republic, by tradition",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 154,
+   "date": "508 bce",
+   "start": -508,
+   "end": -508,
+   "text": "cleisthenes reforms athens, laying the foundations of democracy",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "politics",
+    "democracy"
+   ]
+  },
+  {
+   "id": 148,
+   "date": "c. 500 bce",
+   "start": -500,
+   "end": -500,
+   "text": "the nok culture of nigeria smelts iron and makes striking terracotta sculptures",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "art",
+    "metal"
+   ]
+  },
+  {
+   "id": 196,
+   "date": "c. 500 bce",
+   "start": -500,
+   "end": -500,
+   "text": "the dong son culture of northern vietnam casts large bronze drums that are traded across southeast asia",
+   "era": "the-classical-world",
+   "region": "southeast-asia",
+   "tags": [
+    "metal",
+    "art"
+   ]
+  },
+  {
+   "id": 152,
+   "date": "5th century bce",
+   "start": -500,
+   "end": -401,
+   "text": "siddhartha gautama, the buddha, teaches in northern india; mahavira teaches jainism in the same region (the exact dates are debated)",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "religion",
+    "philosophy"
+   ]
+  },
+  {
+   "id": 155,
+   "date": "490 bce",
+   "start": -490,
+   "end": -490,
+   "text": "athens defeats a persian invasion at the battle of marathon",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 156,
+   "date": "480 bce",
+   "start": -480,
+   "end": -480,
+   "text": "the spartans make their stand at thermopylae, and the greek fleet wins at salamis",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 160,
+   "date": "c. 475–221 bce",
+   "start": -475,
+   "end": -221,
+   "text": "the warring states period: rival chinese kingdoms fight for supremacy while philosophy flourishes",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "philosophy"
+   ]
+  },
+  {
+   "id": 157,
+   "date": "447–432 bce",
+   "start": -447,
+   "end": -432,
+   "text": "the parthenon is built on the acropolis of athens",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 158,
+   "date": "431–404 bce",
+   "start": -431,
+   "end": -404,
+   "text": "the peloponnesian war between athens and sparta ends in athens' defeat",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 197,
+   "date": "c. 400 bce",
+   "start": -400,
+   "end": -400,
+   "text": "hippocrates and his followers teach that illnesses have natural causes, not punishments from the gods",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "medicine",
+    "science"
+   ]
+  },
+  {
+   "id": 159,
+   "date": "399 bce",
+   "start": -399,
+   "end": -399,
+   "text": "socrates is tried in athens and put to death by drinking hemlock",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "philosophy"
+   ]
+  },
+  {
+   "id": 161,
+   "date": "334–323 bce",
+   "start": -334,
+   "end": -323,
+   "text": "alexander the great conquers the persian empire and marches to india",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 162,
+   "date": "323 bce",
+   "start": -323,
+   "end": -323,
+   "text": "alexander dies in babylon at 32; his generals split his empire",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 163,
+   "date": "c. 321 bce",
+   "start": -321,
+   "end": -321,
+   "text": "chandragupta maurya founds the maurya empire, the first to unite most of india",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 164,
+   "date": "c. 300 bce",
+   "start": -300,
+   "end": -300,
+   "text": "meroë becomes the capital of kush, a center of iron smelting with its own steep pyramids",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "cities",
+    "metal"
+   ]
+  },
+  {
+   "id": 165,
+   "date": "c. 300 bce",
+   "start": -300,
+   "end": -300,
+   "text": "the library of alexandria is founded in egypt under the ptolemies",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "science",
+    "writing"
+   ]
+  },
+  {
+   "id": 198,
+   "date": "c. 300 bce",
+   "start": -300,
+   "end": -300,
+   "text": "euclid writes the elements in alexandria, a textbook of geometry used for more than two thousand years",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 167,
+   "date": "264–146 bce",
+   "start": -264,
+   "end": -146,
+   "text": "the three punic wars between rome and carthage end with carthage destroyed",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 166,
+   "date": "c. 261 bce",
+   "start": -261,
+   "end": -261,
+   "text": "ashoka conquers kalinga, is horrified by the slaughter, and turns to buddhism and non-violence",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "religion",
+    "war"
+   ]
+  },
+  {
+   "id": 199,
+   "date": "c. 240 bce",
+   "start": -240,
+   "end": -240,
+   "text": "eratosthenes measures the size of the earth using the shadows cast in two egyptian cities",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 169,
+   "date": "221 bce",
+   "start": -221,
+   "end": -221,
+   "text": "the king of qin conquers the last rival state and becomes qin shi huang, the first emperor of china",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "politics"
+   ]
+  },
+  {
+   "id": 168,
+   "date": "218 bce",
+   "start": -218,
+   "end": -218,
+   "text": "hannibal of carthage crosses the alps into italy with an army and war elephants",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 200,
+   "date": "209 bce",
+   "start": -209,
+   "end": -209,
+   "text": "modu chanyu unites the xiongnu nomads of the mongolian steppe into an empire strong enough to make the han pay tribute",
+   "era": "the-classical-world",
+   "region": "central-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 170,
+   "date": "206 bce",
+   "start": -206,
+   "end": -206,
+   "text": "the han dynasty begins; it will rule china for about four centuries",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 171,
+   "date": "c. 200 bce–500 ce",
+   "start": -200,
+   "end": 500,
+   "text": "the nazca people of peru draw giant lines and animal figures across the desert",
+   "era": "the-classical-world",
+   "region": "south-america",
+   "tags": [
+    "art",
+    "religion"
+   ]
+  },
+  {
+   "id": 172,
+   "date": "c. 130 bce",
+   "start": -130,
+   "end": -130,
+   "text": "after the travels of the han envoy zhang qian, the trade routes later called the silk roads open between china and the west",
+   "era": "the-classical-world",
+   "region": "central-asia",
+   "tags": [
+    "trade",
+    "exploration"
+   ]
+  },
+  {
+   "id": 173,
+   "date": "c. 100 bce",
+   "start": -100,
+   "end": -100,
+   "text": "the hopewell culture builds large earthworks and trades across much of eastern north america",
+   "era": "the-classical-world",
+   "region": "north-america",
+   "tags": [
+    "trade",
+    "architecture"
+   ]
+  },
+  {
+   "id": 174,
+   "date": "44 bce",
+   "start": -44,
+   "end": -44,
+   "text": "julius caesar is assassinated by senators in rome",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 175,
+   "date": "27 bce",
+   "start": -27,
+   "end": -27,
+   "text": "octavian takes the name augustus and becomes the first roman emperor; the pax romana begins",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "empire",
+    "politics"
+   ]
+  },
+  {
+   "id": 176,
+   "date": "c. 4 bce",
+   "start": -4,
+   "end": -4,
+   "text": "jesus of nazareth is born in judea",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 201,
+   "date": "1st century ce",
+   "start": 1,
+   "end": 100,
+   "text": "the kingdom of funan grows rich in the mekong delta, trading between india and china",
+   "era": "the-classical-world",
+   "region": "southeast-asia",
+   "tags": [
+    "trade"
+   ]
+  },
+  {
+   "id": 177,
+   "date": "c. 30 ce",
+   "start": 30,
+   "end": 30,
+   "text": "jesus is crucified in jerusalem; his followers begin to spread christianity",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 178,
+   "date": "70 ce",
+   "start": 70,
+   "end": 70,
+   "text": "the romans crush a jewish revolt and destroy the second temple in jerusalem",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 179,
+   "date": "79 ce",
+   "start": 79,
+   "end": 79,
+   "text": "mount vesuvius erupts and buries pompeii and herculaneum",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "disaster"
+   ]
+  },
+  {
+   "id": 181,
+   "date": "c. 100 ce",
+   "start": 100,
+   "end": 100,
+   "text": "the moche culture on peru's north coast builds adobe pyramids and makes fine portrait pottery",
+   "era": "the-classical-world",
+   "region": "south-america",
+   "tags": [
+    "art"
+   ]
+  },
+  {
+   "id": 182,
+   "date": "c. 100 ce",
+   "start": 100,
+   "end": 100,
+   "text": "the kingdom of aksum in ethiopia and eritrea grows rich on red sea trade",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "trade",
+    "empire"
+   ]
+  },
+  {
+   "id": 180,
+   "date": "105 ce",
+   "start": 105,
+   "end": 105,
+   "text": "the court official cai lun presents an improved method of making paper",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  },
+  {
+   "id": 183,
+   "date": "117 ce",
+   "start": 117,
+   "end": 117,
+   "text": "the roman empire reaches its largest size under the emperor trajan",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 202,
+   "date": "132 ce",
+   "start": 132,
+   "end": 132,
+   "text": "zhang heng builds a bronze seismoscope that shows the direction of a distant earthquake",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "science",
+    "technology"
+   ]
+  },
+  {
+   "id": 203,
+   "date": "c. 162 ce",
+   "start": 162,
+   "end": 162,
+   "text": "the greek doctor galen begins working in rome; his books on medicine are followed for over a thousand years",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 204,
+   "date": "165–180 ce",
+   "start": 165,
+   "end": 180,
+   "text": "the antonine plague, probably smallpox, spreads through the roman empire and kills millions",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "disease"
+   ]
+  },
+  {
+   "id": 184,
+   "date": "c. 200 ce",
+   "start": 200,
+   "end": 200,
+   "text": "teotihuacan in central mexico, with its pyramid of the sun, becomes one of the largest cities in the world",
+   "era": "the-classical-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 185,
+   "date": "220 ce",
+   "start": 220,
+   "end": 220,
+   "text": "the han dynasty falls and china splits into three kingdoms",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "collapse"
+   ]
+  },
+  {
+   "id": 186,
+   "date": "224 ce",
+   "start": 224,
+   "end": 224,
+   "text": "the sasanian persian empire is founded; it will rival rome for four centuries",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 187,
+   "date": "c. 250 ce",
+   "start": 250,
+   "end": 250,
+   "text": "the classic period of the maya begins, with great cities like tikal and calakmul",
+   "era": "the-classical-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 188,
+   "date": "313 ce",
+   "start": 313,
+   "end": 313,
+   "text": "the edict of milan ends the persecution of christians in the roman empire",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "religion",
+    "law"
+   ]
+  },
+  {
+   "id": 189,
+   "date": "c. 320 ce",
+   "start": 320,
+   "end": 320,
+   "text": "chandragupta i founds the gupta empire; a golden age of science, math, and art follows",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "empire",
+    "science"
+   ]
+  },
+  {
+   "id": 190,
+   "date": "330 ce",
+   "start": 330,
+   "end": 330,
+   "text": "constantine makes byzantium, renamed constantinople, the new capital of the empire",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "cities",
+    "politics"
+   ]
+  },
+  {
+   "id": 191,
+   "date": "c. 330 ce",
+   "start": 330,
+   "end": 330,
+   "text": "king ezana of aksum converts to christianity",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 192,
+   "date": "380 ce",
+   "start": 380,
+   "end": 380,
+   "text": "christianity becomes the official religion of the roman empire",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "religion",
+    "law"
+   ]
+  },
+  {
+   "id": 193,
+   "date": "395 ce",
+   "start": 395,
+   "end": 395,
+   "text": "the roman empire is permanently divided into eastern and western halves",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "politics",
+    "empire"
+   ]
+  },
+  {
+   "id": 194,
+   "date": "410 ce",
+   "start": 410,
+   "end": 410,
+   "text": "the visigoths under alaric sack the city of rome",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "zoroaster",
+   "name": "zoroaster",
+   "dates": "c. 1500–500 bce",
+   "role": "persian prophet",
+   "url": "api/people/zoroaster.json"
+  },
+  {
+   "slug": "homer",
+   "name": "homer",
+   "dates": "c. 8th century bce",
+   "role": "greek poet",
+   "url": "api/people/homer.json"
+  },
+  {
+   "slug": "nebuchadnezzar-ii",
+   "name": "nebuchadnezzar ii",
+   "dates": "c. 642–562 bce",
+   "role": "king of babylon",
+   "url": "api/people/nebuchadnezzar-ii.json"
+  },
+  {
+   "slug": "sappho",
+   "name": "sappho",
+   "dates": "c. 630–570 bce",
+   "role": "greek poet from the island of lesbos",
+   "url": "api/people/sappho.json"
+  },
+  {
+   "slug": "cyrus-the-great",
+   "name": "cyrus the great",
+   "dates": "c. 600–530 bce",
+   "role": "founder of the achaemenid persian empire",
+   "url": "api/people/cyrus-the-great.json"
+  },
+  {
+   "slug": "laozi",
+   "name": "laozi",
+   "dates": "6th century bce",
+   "role": "chinese philosopher",
+   "url": "api/people/laozi.json"
+  },
+  {
+   "slug": "mahavira",
+   "name": "mahavira",
+   "dates": "c. 599–527 bce",
+   "role": "teacher of jainism",
+   "url": "api/people/mahavira.json"
+  },
+  {
+   "slug": "confucius",
+   "name": "confucius",
+   "dates": "551–479 bce",
+   "role": "chinese teacher and philosopher",
+   "url": "api/people/confucius.json"
+  },
+  {
+   "slug": "darius-i",
+   "name": "darius i",
+   "dates": "c. 550–486 bce",
+   "role": "king of persia",
+   "url": "api/people/darius-i.json"
+  },
+  {
+   "slug": "sun-tzu",
+   "name": "sun tzu",
+   "dates": "c. 544–496 bce",
+   "role": "chinese general and strategist",
+   "url": "api/people/sun-tzu.json"
+  },
+  {
+   "slug": "pericles",
+   "name": "pericles",
+   "dates": "c. 495–429 bce",
+   "role": "athenian statesman",
+   "url": "api/people/pericles.json"
+  },
+  {
+   "slug": "herodotus",
+   "name": "herodotus",
+   "dates": "c. 484–425 bce",
+   "role": "greek historian",
+   "url": "api/people/herodotus.json"
+  },
+  {
+   "slug": "siddhartha-gautama",
+   "name": "siddhartha gautama",
+   "dates": "c. 480–400 bce",
+   "role": "the buddha, founder of buddhism",
+   "url": "api/people/siddhartha-gautama.json"
+  },
+  {
+   "slug": "socrates",
+   "name": "socrates",
+   "dates": "c. 470–399 bce",
+   "role": "athenian philosopher",
+   "url": "api/people/socrates.json"
+  },
+  {
+   "slug": "hippocrates",
+   "name": "hippocrates",
+   "dates": "c. 460–370 bce",
+   "role": "greek physician",
+   "url": "api/people/hippocrates.json"
+  },
+  {
+   "slug": "plato",
+   "name": "plato",
+   "dates": "c. 428–348 bce",
+   "role": "greek philosopher",
+   "url": "api/people/plato.json"
+  },
+  {
+   "slug": "aristotle",
+   "name": "aristotle",
+   "dates": "384–322 bce",
+   "role": "greek philosopher and scientist",
+   "url": "api/people/aristotle.json"
+  },
+  {
+   "slug": "alexander-the-great",
+   "name": "alexander the great",
+   "dates": "356–323 bce",
+   "role": "king of macedon",
+   "url": "api/people/alexander-the-great.json"
+  },
+  {
+   "slug": "chandragupta-maurya",
+   "name": "chandragupta maurya",
+   "dates": "c. 350–295 bce",
+   "role": "founder of the maurya empire",
+   "url": "api/people/chandragupta-maurya.json"
+  },
+  {
+   "slug": "ashoka",
+   "name": "ashoka",
+   "dates": "c. 304–232 bce",
+   "role": "maurya emperor",
+   "url": "api/people/ashoka.json"
+  },
+  {
+   "slug": "euclid",
+   "name": "euclid",
+   "dates": "c. 300 bce",
+   "role": "greek mathematician in alexandria",
+   "url": "api/people/euclid.json"
+  },
+  {
+   "slug": "archimedes",
+   "name": "archimedes",
+   "dates": "c. 287–212 bce",
+   "role": "greek mathematician and inventor",
+   "url": "api/people/archimedes.json"
+  },
+  {
+   "slug": "eratosthenes",
+   "name": "eratosthenes",
+   "dates": "c. 276–194 bce",
+   "role": "greek scholar and head of the library of alexandria",
+   "url": "api/people/eratosthenes.json"
+  },
+  {
+   "slug": "qin-shi-huang",
+   "name": "qin shi huang",
+   "dates": "259–210 bce",
+   "role": "first emperor of china",
+   "url": "api/people/qin-shi-huang.json"
+  },
+  {
+   "slug": "hannibal",
+   "name": "hannibal",
+   "dates": "247–183 bce",
+   "role": "carthaginian general",
+   "url": "api/people/hannibal.json"
+  },
+  {
+   "slug": "sima-qian",
+   "name": "sima qian",
+   "dates": "c. 145–86 bce",
+   "role": "han dynasty historian",
+   "url": "api/people/sima-qian.json"
+  },
+  {
+   "slug": "julius-caesar",
+   "name": "julius caesar",
+   "dates": "100–44 bce",
+   "role": "roman general and dictator",
+   "url": "api/people/julius-caesar.json"
+  },
+  {
+   "slug": "cleopatra",
+   "name": "cleopatra",
+   "dates": "69–30 bce",
+   "role": "last ptolemaic ruler of egypt",
+   "url": "api/people/cleopatra.json"
+  },
+  {
+   "slug": "augustus",
+   "name": "augustus",
+   "dates": "63 bce–14 ce",
+   "role": "first roman emperor",
+   "url": "api/people/augustus.json"
+  },
+  {
+   "slug": "jesus-of-nazareth",
+   "name": "jesus of nazareth",
+   "dates": "c. 4 bce–30 ce",
+   "role": "jewish teacher, central figure of christianity",
+   "url": "api/people/jesus-of-nazareth.json"
+  },
+  {
+   "slug": "paul-of-tarsus",
+   "name": "paul of tarsus",
+   "dates": "c. 5–64 ce",
+   "role": "christian missionary",
+   "url": "api/people/paul-of-tarsus.json"
+  },
+  {
+   "slug": "cai-lun",
+   "name": "cai lun",
+   "dates": "c. 50–121 ce",
+   "role": "han court official",
+   "url": "api/people/cai-lun.json"
+  },
+  {
+   "slug": "zhang-heng",
+   "name": "zhang heng",
+   "dates": "78–139 ce",
+   "role": "chinese astronomer, poet, and inventor",
+   "url": "api/people/zhang-heng.json"
+  },
+  {
+   "slug": "galen",
+   "name": "galen",
+   "dates": "c. 129–216 ce",
+   "role": "greek doctor in the roman empire",
+   "url": "api/people/galen.json"
+  },
+  {
+   "slug": "constantine",
+   "name": "constantine",
+   "dates": "c. 272–337 ce",
+   "role": "roman emperor",
+   "url": "api/people/constantine.json"
+  },
+  {
+   "slug": "ezana",
+   "name": "ezana",
+   "dates": "4th century",
+   "role": "king of aksum",
+   "url": "api/people/ezana.json"
+  },
+  {
+   "slug": "hypatia",
+   "name": "hypatia",
+   "dates": "c. 360–415 ce",
+   "role": "mathematician and philosopher in alexandria",
+   "url": "api/people/hypatia.json"
+  },
+  {
+   "slug": "aryabhata",
+   "name": "aryabhata",
+   "dates": "476–550 ce",
+   "role": "indian mathematician and astronomer",
+   "url": "api/people/aryabhata.json"
+  }
+ ]
+}

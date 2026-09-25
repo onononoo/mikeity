@@ -1,0 +1,30 @@
+{
+ "century": -11,
+ "events": [
+  {
+   "id": 130,
+   "date": "c. 1050 bce",
+   "start": -1050,
+   "end": -1050,
+   "text": "the phoenicians use an alphabet of 22 letters, the ancestor of the greek, latin, hebrew, and arabic scripts",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 131,
+   "date": "c. 1046 bce",
+   "start": -1046,
+   "end": -1046,
+   "text": "the zhou overthrow the shang and claim the \"mandate of heaven\"",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "politics",
+    "philosophy"
+   ]
+  }
+ ]
+}

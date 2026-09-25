@@ -1,0 +1,31 @@
+{
+ "century": -2,
+ "events": [
+  {
+   "id": 171,
+   "date": "c. 200 bce–500 ce",
+   "start": -200,
+   "end": 500,
+   "text": "the nazca people of peru draw giant lines and animal figures across the desert",
+   "era": "the-classical-world",
+   "region": "south-america",
+   "tags": [
+    "art",
+    "religion"
+   ]
+  },
+  {
+   "id": 172,
+   "date": "c. 130 bce",
+   "start": -130,
+   "end": -130,
+   "text": "after the travels of the han envoy zhang qian, the trade routes later called the silk roads open between china and the west",
+   "era": "the-classical-world",
+   "region": "central-asia",
+   "tags": [
+    "trade",
+    "exploration"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "century": 12,
+ "events": [
+  {
+   "id": 235,
+   "date": "c. 1113–1150",
+   "start": 1113,
+   "end": 1150,
+   "text": "the khmer king suryavarman ii builds angkor wat, the largest religious monument in the world",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 238,
+   "date": "1187",
+   "start": 1187,
+   "end": 1187,
+   "text": "saladin defeats the crusaders at hattin and retakes jerusalem",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 236,
+   "date": "c. 1200",
+   "start": 1200,
+   "end": 1200,
+   "text": "king lalibela of ethiopia has churches carved down into solid rock",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 237,
+   "date": "c. 1200",
+   "start": 1200,
+   "end": 1200,
+   "text": "swahili trading cities like kilwa and mombasa prosper on indian ocean trade",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "trade",
+    "cities"
+   ]
+  },
+  {
+   "id": 265,
+   "date": "c. 1200",
+   "start": 1200,
+   "end": 1200,
+   "text": "polynesian voyagers reach rapa nui (easter island), where their descendants carve the giant moai statues",
+   "era": "the-middle-ages",
+   "region": "oceania",
+   "tags": [
+    "migration",
+    "art"
+   ]
+  }
+ ]
+}

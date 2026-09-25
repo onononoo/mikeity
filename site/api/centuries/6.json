@@ -1,0 +1,69 @@
+{
+ "century": 6,
+ "events": [
+  {
+   "id": 206,
+   "date": "527–565 ce",
+   "start": 527,
+   "end": 565,
+   "text": "justinian rules the byzantine empire, reconquers italy and north africa, and codifies roman law",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "empire",
+    "law"
+   ]
+  },
+  {
+   "id": 207,
+   "date": "537 ce",
+   "start": 537,
+   "end": 537,
+   "text": "the hagia sophia is completed in constantinople, the largest church in the world for nearly a thousand years",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 208,
+   "date": "541 ce",
+   "start": 541,
+   "end": 541,
+   "text": "the plague of justinian, the first known pandemic of bubonic plague, strikes the mediterranean world",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "disease",
+    "disaster"
+   ]
+  },
+  {
+   "id": 209,
+   "date": "c. 570 ce",
+   "start": 570,
+   "end": 570,
+   "text": "muhammad is born in mecca",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 210,
+   "date": "589 ce",
+   "start": 589,
+   "end": 589,
+   "text": "the sui dynasty reunites china after centuries of division and builds the grand canal",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "technology"
+   ]
+  }
+ ]
+}

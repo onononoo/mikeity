@@ -1,0 +1,30 @@
+{
+ "century": -50,
+ "events": [
+  {
+   "id": 87,
+   "date": "c. 5000 bce",
+   "start": -5000,
+   "end": -5000,
+   "text": "copper is smelted from ore in the balkans and iran, beginning the copper age",
+   "era": "the-first-farmers",
+   "region": "europe",
+   "tags": [
+    "technology",
+    "metal"
+   ]
+  },
+  {
+   "id": 88,
+   "date": "c. 5000 bce",
+   "start": -5000,
+   "end": -5000,
+   "text": "farming with barley, wheat, and cattle is established along the nile",
+   "era": "the-first-farmers",
+   "region": "africa",
+   "tags": [
+    "farming"
+   ]
+  }
+ ]
+}

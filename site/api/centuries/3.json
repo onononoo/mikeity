@@ -1,0 +1,41 @@
+{
+ "century": 3,
+ "events": [
+  {
+   "id": 185,
+   "date": "220 ce",
+   "start": 220,
+   "end": 220,
+   "text": "the han dynasty falls and china splits into three kingdoms",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "collapse"
+   ]
+  },
+  {
+   "id": 186,
+   "date": "224 ce",
+   "start": 224,
+   "end": 224,
+   "text": "the sasanian persian empire is founded; it will rival rome for four centuries",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 187,
+   "date": "c. 250 ce",
+   "start": 250,
+   "end": 250,
+   "text": "the classic period of the maya begins, with great cities like tikal and calakmul",
+   "era": "the-classical-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities"
+   ]
+  }
+ ]
+}

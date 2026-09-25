@@ -1,0 +1,105 @@
+{
+ "century": -5,
+ "events": [
+  {
+   "id": 148,
+   "date": "c. 500 bce",
+   "start": -500,
+   "end": -500,
+   "text": "the nok culture of nigeria smelts iron and makes striking terracotta sculptures",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "art",
+    "metal"
+   ]
+  },
+  {
+   "id": 196,
+   "date": "c. 500 bce",
+   "start": -500,
+   "end": -500,
+   "text": "the dong son culture of northern vietnam casts large bronze drums that are traded across southeast asia",
+   "era": "the-classical-world",
+   "region": "southeast-asia",
+   "tags": [
+    "metal",
+    "art"
+   ]
+  },
+  {
+   "id": 152,
+   "date": "5th century bce",
+   "start": -500,
+   "end": -401,
+   "text": "siddhartha gautama, the buddha, teaches in northern india; mahavira teaches jainism in the same region (the exact dates are debated)",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "religion",
+    "philosophy"
+   ]
+  },
+  {
+   "id": 155,
+   "date": "490 bce",
+   "start": -490,
+   "end": -490,
+   "text": "athens defeats a persian invasion at the battle of marathon",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 156,
+   "date": "480 bce",
+   "start": -480,
+   "end": -480,
+   "text": "the spartans make their stand at thermopylae, and the greek fleet wins at salamis",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 160,
+   "date": "c. 475–221 bce",
+   "start": -475,
+   "end": -221,
+   "text": "the warring states period: rival chinese kingdoms fight for supremacy while philosophy flourishes",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "philosophy"
+   ]
+  },
+  {
+   "id": 157,
+   "date": "447–432 bce",
+   "start": -447,
+   "end": -432,
+   "text": "the parthenon is built on the acropolis of athens",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 158,
+   "date": "431–404 bce",
+   "start": -431,
+   "end": -404,
+   "text": "the peloponnesian war between athens and sparta ends in athens' defeat",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  }
+ ]
+}

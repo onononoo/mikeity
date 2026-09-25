@@ -1,0 +1,116 @@
+{
+ "century": 14,
+ "events": [
+  {
+   "id": 250,
+   "date": "1324",
+   "start": 1324,
+   "end": 1324,
+   "text": "mansa musa of mali makes his pilgrimage to mecca, spending so much gold in cairo that its value falls",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "religion",
+    "trade"
+   ]
+  },
+  {
+   "id": 251,
+   "date": "c. 1325",
+   "start": 1325,
+   "end": 1325,
+   "text": "the mexica (aztecs) found tenochtitlan on an island in lake texcoco",
+   "era": "the-middle-ages",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 268,
+   "date": "1325–1354",
+   "start": 1325,
+   "end": 1354,
+   "text": "ibn battuta travels about 120,000 kilometers through the islamic world and beyond, from west africa to china",
+   "era": "the-middle-ages",
+   "region": "the-whole-world",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 252,
+   "date": "1337–1453",
+   "start": 1337,
+   "end": 1453,
+   "text": "the hundred years' war between england and france",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 253,
+   "date": "1347–1351",
+   "start": 1347,
+   "end": 1351,
+   "text": "the black death kills roughly a third to a half of europe's people; it also ravages the middle east and north africa",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "disease",
+    "disaster"
+   ]
+  },
+  {
+   "id": 269,
+   "date": "c. 1350",
+   "start": 1350,
+   "end": 1350,
+   "text": "the majapahit empire, based on java, reaches its height and claims much of modern indonesia",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 254,
+   "date": "1368",
+   "start": 1368,
+   "end": 1368,
+   "text": "the ming dynasty drives out the mongols and rules china",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 270,
+   "date": "1370–1405",
+   "start": 1370,
+   "end": 1405,
+   "text": "timur conquers an empire from his capital at samarkand, from anatolia to india, at a terrible cost in lives",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 271,
+   "date": "c. 1390",
+   "start": 1390,
+   "end": 1390,
+   "text": "the kingdom of kongo takes shape south of the congo river",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  }
+ ]
+}

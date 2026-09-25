@@ -1,0 +1,56 @@
+{
+ "century": -12,
+ "events": [
+  {
+   "id": 126,
+   "date": "c. 1200 bce",
+   "start": -1200,
+   "end": -1200,
+   "text": "the olmec civilization rises on the gulf coast of mexico, carving colossal stone heads",
+   "era": "the-first-civilizations",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities",
+    "art"
+   ]
+  },
+  {
+   "id": 129,
+   "date": "c. 1200 bce",
+   "start": -1200,
+   "end": -1200,
+   "text": "ironworking spreads across the region, starting the iron age",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "technology",
+    "metal"
+   ]
+  },
+  {
+   "id": 127,
+   "date": "c. 1200–1150 bce",
+   "start": -1200,
+   "end": -1150,
+   "text": "the bronze age collapse: the hittite empire, mycenaean greece, and many cities of the eastern mediterranean fall",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "collapse",
+    "war"
+   ]
+  },
+  {
+   "id": 128,
+   "date": "c. 1177 bce",
+   "start": -1177,
+   "end": -1177,
+   "text": "ramesses iii fights off the \"sea peoples\" in the nile delta, but egypt is left weakened",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "war"
+   ]
+  }
+ ]
+}

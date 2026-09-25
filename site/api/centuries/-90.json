@@ -1,0 +1,17 @@
+{
+ "century": -90,
+ "events": [
+  {
+   "id": 71,
+   "date": "c. 9000 bce",
+   "start": -9000,
+   "end": -9000,
+   "text": "wheat, barley, lentils, and peas are domesticated in the fertile crescent",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1032 @@
+{
+ "slug": "the-modern-world",
+ "number": 11,
+ "title": "the modern world",
+ "starts": "1945",
+ "ends": "the present",
+ "summary": "the cold war, the end of empires, the struggle for civil rights, space flight, the computer, and the internet shape the world we live in now, along with new dangers like climate change.",
+ "page": "the-modern-world.html",
+ "events": [
+  {
+   "id": 464,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "the united nations is founded",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 517,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "sukarno declares indonesia independent; the dutch fight to hold on until 1949",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "independence"
+   ]
+  },
+  {
+   "id": 518,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "ho chi minh declares the independence of vietnam; war with france follows",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "independence",
+    "war"
+   ]
+  },
+  {
+   "id": 465,
+   "date": "1947",
+   "start": 1947,
+   "end": 1947,
+   "text": "india and pakistan become independent; the partition displaces up to 15 million people and kills hundreds of thousands",
+   "era": "the-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "independence",
+    "migration"
+   ]
+  },
+  {
+   "id": 466,
+   "date": "1948",
+   "start": 1948,
+   "end": 1948,
+   "text": "the state of israel is founded; the first arab-israeli war follows and about 700,000 palestinians flee or are expelled",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "independence"
+   ]
+  },
+  {
+   "id": 467,
+   "date": "1948",
+   "start": 1948,
+   "end": 1948,
+   "text": "the un adopts the universal declaration of human rights",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 468,
+   "date": "1948",
+   "start": 1948,
+   "end": 1948,
+   "text": "south africa's government begins the system of apartheid",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 469,
+   "date": "1948–1949",
+   "start": 1948,
+   "end": 1949,
+   "text": "the berlin airlift supplies west berlin during a soviet blockade",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "cold war"
+   ]
+  },
+  {
+   "id": 470,
+   "date": "1949",
+   "start": 1949,
+   "end": 1949,
+   "text": "mao zedong proclaims the people's republic of china",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "communism",
+    "revolution"
+   ]
+  },
+  {
+   "id": 471,
+   "date": "1949",
+   "start": 1949,
+   "end": 1949,
+   "text": "nato is founded; the soviet union tests its first atomic bomb",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "cold war",
+    "nuclear"
+   ]
+  },
+  {
+   "id": 472,
+   "date": "1950–1953",
+   "start": 1950,
+   "end": 1953,
+   "text": "the korean war ends in a stalemate along the 38th parallel",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "cold war"
+   ]
+  },
+  {
+   "id": 473,
+   "date": "1953",
+   "start": 1953,
+   "end": 1953,
+   "text": "the work of watson, crick, franklin, and wilkins reveals the double helix structure of dna",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 474,
+   "date": "1954",
+   "start": 1954,
+   "end": 1954,
+   "text": "the supreme court rules school segregation unconstitutional in brown v. board of education",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights",
+    "law"
+   ]
+  },
+  {
+   "id": 519,
+   "date": "1955",
+   "start": 1955,
+   "end": 1955,
+   "text": "jonas salk's polio vaccine is declared safe and effective",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 475,
+   "date": "1955–1956",
+   "start": 1955,
+   "end": 1956,
+   "text": "the montgomery bus boycott, sparked by rosa parks",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 476,
+   "date": "1955–1975",
+   "start": 1955,
+   "end": 1975,
+   "text": "the vietnam war",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "war",
+    "cold war"
+   ]
+  },
+  {
+   "id": 477,
+   "date": "1957",
+   "start": 1957,
+   "end": 1957,
+   "text": "the soviet union launches sputnik 1, the first artificial satellite",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space",
+    "cold war"
+   ]
+  },
+  {
+   "id": 478,
+   "date": "1957",
+   "start": 1957,
+   "end": 1957,
+   "text": "ghana becomes the first sub-saharan african colony to win independence",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "independence"
+   ]
+  },
+  {
+   "id": 479,
+   "date": "1958–1962",
+   "start": 1958,
+   "end": 1962,
+   "text": "mao's great leap forward causes a famine that kills tens of millions",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "communism",
+    "disaster"
+   ]
+  },
+  {
+   "id": 520,
+   "date": "1959",
+   "start": 1959,
+   "end": 1959,
+   "text": "fidel castro's revolutionaries take power in cuba",
+   "era": "the-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 521,
+   "date": "1959",
+   "start": 1959,
+   "end": 1959,
+   "text": "twelve countries sign the antarctic treaty, keeping the continent for peaceful science",
+   "era": "the-modern-world",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 480,
+   "date": "1960",
+   "start": 1960,
+   "end": 1960,
+   "text": "the \"year of africa\": seventeen african countries become independent",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "independence"
+   ]
+  },
+  {
+   "id": 481,
+   "date": "1961",
+   "start": 1961,
+   "end": 1961,
+   "text": "yuri gagarin becomes the first human in space",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": 482,
+   "date": "1961",
+   "start": 1961,
+   "end": 1961,
+   "text": "the berlin wall is built",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "cold war"
+   ]
+  },
+  {
+   "id": 483,
+   "date": "1962",
+   "start": 1962,
+   "end": 1962,
+   "text": "the cuban missile crisis brings the world close to nuclear war",
+   "era": "the-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cold war",
+    "nuclear"
+   ]
+  },
+  {
+   "id": 484,
+   "date": "1962",
+   "start": 1962,
+   "end": 1962,
+   "text": "algeria wins independence from france after an eight-year war",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "independence",
+    "war"
+   ]
+  },
+  {
+   "id": 522,
+   "date": "1962",
+   "start": 1962,
+   "end": 1962,
+   "text": "rachel carson's silent spring warns about pesticides and helps start the modern environmental movement",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 485,
+   "date": "1963",
+   "start": 1963,
+   "end": 1963,
+   "text": "martin luther king jr. gives his \"i have a dream\" speech at the march on washington",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 523,
+   "date": "1963",
+   "start": 1963,
+   "end": 1963,
+   "text": "valentina tereshkova becomes the first woman in space",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": 486,
+   "date": "1964",
+   "start": 1964,
+   "end": 1964,
+   "text": "the civil rights act bans segregation and discrimination in the united states",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights",
+    "law"
+   ]
+  },
+  {
+   "id": 524,
+   "date": "c. 1965",
+   "start": 1965,
+   "end": 1965,
+   "text": "high-yield wheat and rice spread across india and pakistan in the green revolution, ending the threat of mass famine there",
+   "era": "the-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 487,
+   "date": "1966–1976",
+   "start": 1966,
+   "end": 1976,
+   "text": "mao's cultural revolution brings persecution and chaos to china",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "communism"
+   ]
+  },
+  {
+   "id": 525,
+   "date": "1967",
+   "start": 1967,
+   "end": 1967,
+   "text": "five countries found asean, the association of southeast asian nations",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 488,
+   "date": "1968",
+   "start": 1968,
+   "end": 1968,
+   "text": "martin luther king jr. is assassinated",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 489,
+   "date": "1969",
+   "start": 1969,
+   "end": 1969,
+   "text": "apollo 11: neil armstrong and buzz aldrin walk on the moon",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": 490,
+   "date": "1969",
+   "start": 1969,
+   "end": 1969,
+   "text": "arpanet, the forerunner of the internet, sends its first message",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 491,
+   "date": "1971",
+   "start": 1971,
+   "end": 1971,
+   "text": "bangladesh wins independence from pakistan after a brutal war",
+   "era": "the-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "independence",
+    "war"
+   ]
+  },
+  {
+   "id": 526,
+   "date": "1972",
+   "start": 1972,
+   "end": 1972,
+   "text": "tu youyou's team finds artemisinin, which becomes the main treatment for malaria",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 492,
+   "date": "1973",
+   "start": 1973,
+   "end": 1973,
+   "text": "an arab oil embargo causes a worldwide energy crisis",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 527,
+   "date": "1973",
+   "start": 1973,
+   "end": 1973,
+   "text": "a military coup overthrows chile's elected president salvador allende",
+   "era": "the-modern-world",
+   "region": "south-america",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 493,
+   "date": "1977",
+   "start": 1977,
+   "end": 1977,
+   "text": "mass-market personal computers go on sale",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 494,
+   "date": "1978",
+   "start": 1978,
+   "end": 1978,
+   "text": "deng xiaoping begins opening china's economy to markets",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 495,
+   "date": "1979",
+   "start": 1979,
+   "end": 1979,
+   "text": "the iranian revolution creates an islamic republic",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "revolution",
+    "religion"
+   ]
+  },
+  {
+   "id": 496,
+   "date": "1979–1989",
+   "start": 1979,
+   "end": 1989,
+   "text": "the soviet war in afghanistan",
+   "era": "the-modern-world",
+   "region": "central-asia",
+   "tags": [
+    "war",
+    "cold war"
+   ]
+  },
+  {
+   "id": 497,
+   "date": "1980",
+   "start": 1980,
+   "end": 1980,
+   "text": "the world health organization declares smallpox eradicated",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 528,
+   "date": "1981",
+   "start": 1981,
+   "end": 1981,
+   "text": "doctors first describe aids; hiv goes on to kill more than 40 million people",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "disease"
+   ]
+  },
+  {
+   "id": 498,
+   "date": "1986",
+   "start": 1986,
+   "end": 1986,
+   "text": "the chernobyl nuclear disaster in soviet ukraine",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "disaster",
+    "nuclear"
+   ]
+  },
+  {
+   "id": 499,
+   "date": "1989",
+   "start": 1989,
+   "end": 1989,
+   "text": "the berlin wall falls as communist governments collapse across eastern europe",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "cold war",
+    "revolution"
+   ]
+  },
+  {
+   "id": 500,
+   "date": "1989",
+   "start": 1989,
+   "end": 1989,
+   "text": "the chinese army crushes protests in and around tiananmen square",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 501,
+   "date": "1989",
+   "start": 1989,
+   "end": 1989,
+   "text": "tim berners-lee proposes the world wide web at cern; it goes public in 1991",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 502,
+   "date": "1991",
+   "start": 1991,
+   "end": 1991,
+   "text": "the soviet union dissolves into fifteen countries; the cold war is over",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "cold war",
+    "collapse"
+   ]
+  },
+  {
+   "id": 529,
+   "date": "1992",
+   "start": 1992,
+   "end": 1992,
+   "text": "in the mabo case, australia's high court recognizes that indigenous peoples held land before british colonization",
+   "era": "the-modern-world",
+   "region": "oceania",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 503,
+   "date": "1994",
+   "start": 1994,
+   "end": 1994,
+   "text": "nelson mandela becomes president of south africa in its first all-race election",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 504,
+   "date": "1994",
+   "start": 1994,
+   "end": 1994,
+   "text": "the rwandan genocide: about 800,000 people, mostly tutsi, are murdered in about 100 days",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "genocide"
+   ]
+  },
+  {
+   "id": 530,
+   "date": "1997",
+   "start": 1997,
+   "end": 1997,
+   "text": "britain hands hong kong back to china",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 505,
+   "date": "2001",
+   "start": 2001,
+   "end": 2001,
+   "text": "al-qaeda terrorists attack new york and washington on 11 september, killing nearly 3,000 people",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "war",
+    "terrorism"
+   ]
+  },
+  {
+   "id": 506,
+   "date": "2001–2021",
+   "start": 2001,
+   "end": 2021,
+   "text": "the united states and allies fight a war in afghanistan",
+   "era": "the-modern-world",
+   "region": "central-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 507,
+   "date": "2003",
+   "start": 2003,
+   "end": 2003,
+   "text": "a us-led coalition invades iraq",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 508,
+   "date": "2003",
+   "start": 2003,
+   "end": 2003,
+   "text": "the human genome project finishes reading human dna",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 531,
+   "date": "2004",
+   "start": 2004,
+   "end": 2004,
+   "text": "an earthquake off sumatra sets off an indian ocean tsunami that kills about 230,000 people",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "disaster"
+   ]
+  },
+  {
+   "id": 509,
+   "date": "2007",
+   "start": 2007,
+   "end": 2007,
+   "text": "modern touchscreen smartphones arrive and soon spread across the world",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 510,
+   "date": "2008",
+   "start": 2008,
+   "end": 2008,
+   "text": "a global financial crisis triggers the worst recession since the 1930s",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 511,
+   "date": "2011",
+   "start": 2011,
+   "end": 2011,
+   "text": "the arab spring uprisings; syria descends into civil war",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "revolution",
+    "war"
+   ]
+  },
+  {
+   "id": 512,
+   "date": "2015",
+   "start": 2015,
+   "end": 2015,
+   "text": "nearly every country signs the paris agreement to limit global warming",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "environment",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 513,
+   "date": "2020–2023",
+   "start": 2020,
+   "end": 2023,
+   "text": "the covid-19 pandemic kills millions and shuts down much of the world",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "disease",
+    "disaster"
+   ]
+  },
+  {
+   "id": 514,
+   "date": "2022",
+   "start": 2022,
+   "end": 2022,
+   "text": "russia launches a full-scale invasion of ukraine",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 515,
+   "date": "2022",
+   "start": 2022,
+   "end": 2022,
+   "text": "the world's population passes 8 billion; ai chat programs become widely used",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 516,
+   "date": "2024",
+   "start": 2024,
+   "end": 2024,
+   "text": "the hottest year on record so far, and the first calendar year more than 1.5 degrees above pre-industrial levels",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "jawaharlal-nehru",
+   "name": "jawaharlal nehru",
+   "dates": "1889–1964",
+   "role": "first prime minister of india",
+   "url": "api/people/jawaharlal-nehru.json"
+  },
+  {
+   "slug": "ho-chi-minh",
+   "name": "ho chi minh",
+   "dates": "1890–1969",
+   "role": "vietnamese revolutionary",
+   "url": "api/people/ho-chi-minh.json"
+  },
+  {
+   "slug": "mao-zedong",
+   "name": "mao zedong",
+   "dates": "1893–1976",
+   "role": "leader of communist china",
+   "url": "api/people/mao-zedong.json"
+  },
+  {
+   "slug": "sukarno",
+   "name": "sukarno",
+   "dates": "1901–1970",
+   "role": "first president of indonesia",
+   "url": "api/people/sukarno.json"
+  },
+  {
+   "slug": "deng-xiaoping",
+   "name": "deng xiaoping",
+   "dates": "1904–1997",
+   "role": "leader of china",
+   "url": "api/people/deng-xiaoping.json"
+  },
+  {
+   "slug": "rachel-carson",
+   "name": "rachel carson",
+   "dates": "1907–1964",
+   "role": "american biologist and writer",
+   "url": "api/people/rachel-carson.json"
+  },
+  {
+   "slug": "salvador-allende",
+   "name": "salvador allende",
+   "dates": "1908–1973",
+   "role": "president of chile",
+   "url": "api/people/salvador-allende.json"
+  },
+  {
+   "slug": "kwame-nkrumah",
+   "name": "kwame nkrumah",
+   "dates": "1909–1972",
+   "role": "first leader of ghana",
+   "url": "api/people/kwame-nkrumah.json"
+  },
+  {
+   "slug": "rosa-parks",
+   "name": "rosa parks",
+   "dates": "1913–2005",
+   "role": "civil rights activist",
+   "url": "api/people/rosa-parks.json"
+  },
+  {
+   "slug": "jonas-salk",
+   "name": "jonas salk",
+   "dates": "1914–1995",
+   "role": "american doctor",
+   "url": "api/people/jonas-salk.json"
+  },
+  {
+   "slug": "norman-borlaug",
+   "name": "norman borlaug",
+   "dates": "1914–2009",
+   "role": "american plant scientist",
+   "url": "api/people/norman-borlaug.json"
+  },
+  {
+   "slug": "indira-gandhi",
+   "name": "indira gandhi",
+   "dates": "1917–1984",
+   "role": "prime minister of india",
+   "url": "api/people/indira-gandhi.json"
+  },
+  {
+   "slug": "nelson-mandela",
+   "name": "nelson mandela",
+   "dates": "1918–2013",
+   "role": "anti-apartheid leader and president of south africa",
+   "url": "api/people/nelson-mandela.json"
+  },
+  {
+   "slug": "eva-peron",
+   "name": "eva perón",
+   "dates": "1919–1952",
+   "role": "first lady of argentina",
+   "url": "api/people/eva-peron.json"
+  },
+  {
+   "slug": "rosalind-franklin",
+   "name": "rosalind franklin",
+   "dates": "1920–1958",
+   "role": "british chemist",
+   "url": "api/people/rosalind-franklin.json"
+  },
+  {
+   "slug": "fidel-castro",
+   "name": "fidel castro",
+   "dates": "1926–2016",
+   "role": "cuban revolutionary and leader",
+   "url": "api/people/fidel-castro.json"
+  },
+  {
+   "slug": "martin-luther-king-jr",
+   "name": "martin luther king jr.",
+   "dates": "1929–1968",
+   "role": "civil rights leader",
+   "url": "api/people/martin-luther-king-jr.json"
+  },
+  {
+   "slug": "neil-armstrong",
+   "name": "neil armstrong",
+   "dates": "1930–2012",
+   "role": "american astronaut",
+   "url": "api/people/neil-armstrong.json"
+  },
+  {
+   "slug": "tu-youyou",
+   "name": "tu youyou",
+   "dates": "1930–present",
+   "role": "chinese scientist",
+   "url": "api/people/tu-youyou.json"
+  },
+  {
+   "slug": "mikhail-gorbachev",
+   "name": "mikhail gorbachev",
+   "dates": "1931–2022",
+   "role": "last leader of the soviet union",
+   "url": "api/people/mikhail-gorbachev.json"
+  },
+  {
+   "slug": "yuri-gagarin",
+   "name": "yuri gagarin",
+   "dates": "1934–1968",
+   "role": "soviet cosmonaut",
+   "url": "api/people/yuri-gagarin.json"
+  },
+  {
+   "slug": "eddie-mabo",
+   "name": "eddie mabo",
+   "dates": "1936–1992",
+   "role": "torres strait islander",
+   "url": "api/people/eddie-mabo.json"
+  },
+  {
+   "slug": "valentina-tereshkova",
+   "name": "valentina tereshkova",
+   "dates": "1937–present",
+   "role": "soviet cosmonaut",
+   "url": "api/people/valentina-tereshkova.json"
+  },
+  {
+   "slug": "wangari-maathai",
+   "name": "wangari maathai",
+   "dates": "1940–2011",
+   "role": "kenyan environmentalist",
+   "url": "api/people/wangari-maathai.json"
+  },
+  {
+   "slug": "tim-berners-lee",
+   "name": "tim berners-lee",
+   "dates": "1955–present",
+   "role": "british computer scientist",
+   "url": "api/people/tim-berners-lee.json"
+  }
+ ]
+}

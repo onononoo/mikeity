@@ -6,15 +6,16 @@ the finished site is in `site/`. open `site/index.html` in any browser. no serve
 
 ## putting it online
 
-the finished site is committed in `site/`, so it can be hosted anywhere that serves plain files. on vercel, import the repository and deploy: `vercel.json` tells vercel to serve `site/` as it is, with no install or build step. after changing the data, run the build locally and commit `site/` again.
+the finished site is committed in `site/`, so it can be hosted anywhere that serves plain files. that includes the json api in `site/api/`, which is plain files too. on vercel, import the repository and deploy: `vercel.json` tells vercel to serve `site/` as it is, with no install or build step. after changing the data, run the build locally and commit `site/` again.
 
 ## building
 
-you need python 3.9 or newer. everything else is optional: node, gcc, g++, awk, perl, and the .net 10 sdk. the build skips any step whose tool is missing, and the pages leave that part out.
+you need python 3.9 or newer. everything else is optional: node (22.6 or newer for the typescript step), gcc, g++, awk, perl, and the .net 10 sdk (for c# and f#). the build skips any step whose tool is missing, and the pages leave that part out.
 
 ```sh
 sh build.sh                        # mac, linux, git bash
-powershell -file build.ps1         # windows
+powershell -file build.ps1         # windows powershell
+build.cmd                          # windows command prompt
 make                               # if you have make
 ```
 
@@ -53,11 +54,14 @@ python -m builder query "select name, dates from people where region = 'africa'"
 | `tools/chart.cpp` | c++ | draws the svg charts on the statistics page from `site/data/events.tsv` |
 | `tools/gaps.awk` | awk | finds the quietest stretches and busiest years on the timeline |
 | `tools/contemporaries.cs` | c# (.net 10) | works out who was alive at the same time, for the people page |
+| `tools/shared.fsx` | f# (.net 10) | finds figures, places, and ideas shared between religions, for the religions page |
+| `tools/api.ts` | typescript (node 22.6+) | writes the static json api in `site/api/`, about 300 plain files |
+| `data/shared.json` | json | what `shared.fsx` looks for, and the other names each thing goes by |
 | `tools/checklinks.js` | javascript (node) | checks every link and anchor on the built site |
 | `tools/timeline.c` | c | a terminal timeline viewer that reads `site/data/events.tsv` |
 | `tools/stats.pl` | perl | word counts, link counts, and reading ease for each part |
 | `tests/` | python + javascript | unit tests for dates, markup, templates, the tool output parsers, and the browser date parser |
-| `build.sh`, `build.ps1`, `makefile` | shell, powershell, make | run every step in order |
+| `build.sh`, `build.ps1`, `build.cmd`, `makefile` | shell, powershell, batch, make | run every step in order |
 | `vercel.json` | json | tells vercel to serve `site/` with no build |
 
 ## the terminal timeline

@@ -1,0 +1,6676 @@
+[
+ {
+  "id": 1,
+  "date": "13.8 billion years ago",
+  "start": -13799998050,
+  "end": -13799998050,
+  "text": "the big bang: space, time, matter, and energy begin expanding from an extremely hot, dense state",
+  "era": "the-beginning",
+  "region": "the-universe",
+  "tags": [
+   "universe",
+   "science"
+  ]
+ },
+ {
+  "id": 2,
+  "date": "13.8 billion years ago",
+  "start": -13799998050,
+  "end": -13799998050,
+  "text": "about 380,000 years after the big bang, the first atoms form and light travels freely for the first time; it survives today as the cosmic microwave background",
+  "era": "the-beginning",
+  "region": "the-universe",
+  "tags": [
+   "universe",
+   "science"
+  ]
+ },
+ {
+  "id": 3,
+  "date": "13.6 billion years ago",
+  "start": -13599998050,
+  "end": -13599998050,
+  "text": "the first stars ignite, made almost entirely of hydrogen and helium",
+  "era": "the-beginning",
+  "region": "the-universe",
+  "tags": [
+   "universe"
+  ]
+ },
+ {
+  "id": 4,
+  "date": "c. 13 billion years ago",
+  "start": -12999998050,
+  "end": -12999998050,
+  "text": "early galaxies take shape, including the oldest parts of our own milky way",
+  "era": "the-beginning",
+  "region": "the-universe",
+  "tags": [
+   "universe"
+  ]
+ },
+ {
+  "id": 5,
+  "date": "4.6 billion years ago",
+  "start": -4599998050,
+  "end": -4599998050,
+  "text": "a cloud of gas and dust, enriched by the remains of earlier stars, collapses to form the sun and a disk of material around it",
+  "era": "the-beginning",
+  "region": "the-universe",
+  "tags": [
+   "universe"
+  ]
+ },
+ {
+  "id": 6,
+  "date": "4.54 billion years ago",
+  "start": -4539998050,
+  "end": -4539998050,
+  "text": "the earth forms as rock and dust in the young solar system clump together",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "earth"
+  ]
+ },
+ {
+  "id": 7,
+  "date": "4.5 billion years ago",
+  "start": -4499998050,
+  "end": -4499998050,
+  "text": "a mars-sized body, often called theia, strikes the young earth; the debris forms the moon",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "earth",
+   "disaster"
+  ]
+ },
+ {
+  "id": 8,
+  "date": "4.4 billion years ago",
+  "start": -4399998050,
+  "end": -4399998050,
+  "text": "the oldest known mineral crystals on earth form; zircons later found in western australia hint that liquid water already existed",
+  "era": "the-beginning",
+  "region": "oceania",
+  "tags": [
+   "earth",
+   "science"
+  ]
+ },
+ {
+  "id": 9,
+  "date": "c. 3.7 billion years ago",
+  "start": -3699998050,
+  "end": -3699998050,
+  "text": "the earliest likely traces of life: chemical signs of microbes preserved in ancient rocks",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life"
+  ]
+ },
+ {
+  "id": 10,
+  "date": "3.5 billion years ago",
+  "start": -3499998050,
+  "end": -3499998050,
+  "text": "microbial mats build stromatolites, layered rock mounds that are among the oldest clear fossils, found in western australia",
+  "era": "the-beginning",
+  "region": "oceania",
+  "tags": [
+   "life"
+  ]
+ },
+ {
+  "id": 11,
+  "date": "2.4 billion years ago",
+  "start": -2399998050,
+  "end": -2399998050,
+  "text": "the great oxidation event: oxygen made by photosynthesizing cyanobacteria begins to build up in the air",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life",
+   "environment"
+  ]
+ },
+ {
+  "id": 12,
+  "date": "c. 2 billion years ago",
+  "start": -1999998050,
+  "end": -1999998050,
+  "text": "complex cells (eukaryotes) appear, with a nucleus and mitochondria that were once free-living bacteria",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life"
+  ]
+ },
+ {
+  "id": 13,
+  "date": "c. 1 billion years ago",
+  "start": -999998050,
+  "end": -999998050,
+  "text": "the first known multicellular algae, and some of the earliest evidence of sexual reproduction",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life"
+  ]
+ },
+ {
+  "id": 14,
+  "date": "c. 700 million years ago",
+  "start": -699998050,
+  "end": -699998050,
+  "text": "\"snowball earth\": ice spreads close to the equator in one of the most extreme cold periods in the planet's history",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "environment"
+  ]
+ },
+ {
+  "id": 15,
+  "date": "c. 575 million years ago",
+  "start": -574998050,
+  "end": -574998050,
+  "text": "the ediacaran biota: strange soft-bodied creatures, among the first large complex organisms, live on the sea floor",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life"
+  ]
+ },
+ {
+  "id": 16,
+  "date": "538 million years ago",
+  "start": -537998050,
+  "end": -537998050,
+  "text": "the cambrian explosion begins: most major animal groups appear within a few tens of millions of years",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life"
+  ]
+ },
+ {
+  "id": 17,
+  "date": "c. 470 million years ago",
+  "start": -469998050,
+  "end": -469998050,
+  "text": "simple plants related to mosses begin to colonize the land",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life"
+  ]
+ },
+ {
+  "id": 18,
+  "date": "443 million years ago",
+  "start": -442998050,
+  "end": -442998050,
+  "text": "the end-ordovician extinction, caused by a sharp ice age, wipes out most species in the sea",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "extinction",
+   "disaster"
+  ]
+ },
+ {
+  "id": 19,
+  "date": "375 million years ago",
+  "start": -374998050,
+  "end": -374998050,
+  "text": "tiktaalik, a fish with sturdy limb-like fins and a neck, lives in shallow streams; it shows how fish gave rise to land animals",
+  "era": "the-beginning",
+  "region": "north-america",
+  "tags": [
+   "life"
+  ]
+ },
+ {
+  "id": 20,
+  "date": "372 million years ago",
+  "start": -371998050,
+  "end": -371998050,
+  "text": "the late devonian extinction devastates reefs and ocean life",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "extinction"
+  ]
+ },
+ {
+  "id": 21,
+  "date": "c. 330 million years ago",
+  "start": -329998050,
+  "end": -329998050,
+  "text": "vast swamp forests of giant ferns and club mosses cover the land; their buried remains become much of today's coal",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life",
+   "environment"
+  ]
+ },
+ {
+  "id": 22,
+  "date": "c. 312 million years ago",
+  "start": -311998050,
+  "end": -311998050,
+  "text": "the first amniotes, the ancestors of reptiles, birds, and mammals, lay eggs that can survive on dry land",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life"
+  ]
+ },
+ {
+  "id": 23,
+  "date": "252 million years ago",
+  "start": -251998050,
+  "end": -251998050,
+  "text": "the great dying (permian-triassic extinction), driven by huge volcanic eruptions in siberia, kills about 90 percent of species in the sea",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "extinction",
+   "disaster"
+  ]
+ },
+ {
+  "id": 24,
+  "date": "c. 235 million years ago",
+  "start": -234998050,
+  "end": -234998050,
+  "text": "the earliest known dinosaurs, small two-legged hunters, live in what is now argentina and brazil",
+  "era": "the-beginning",
+  "region": "south-america",
+  "tags": [
+   "life",
+   "dinosaurs"
+  ]
+ },
+ {
+  "id": 25,
+  "date": "c. 225 million years ago",
+  "start": -224998050,
+  "end": -224998050,
+  "text": "the first mammal-like animals appear: small, furry, and probably active at night",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life",
+   "mammals"
+  ]
+ },
+ {
+  "id": 26,
+  "date": "201 million years ago",
+  "start": -200998050,
+  "end": -200998050,
+  "text": "the end-triassic extinction clears the way for dinosaurs to dominate",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "extinction",
+   "dinosaurs"
+  ]
+ },
+ {
+  "id": 27,
+  "date": "c. 200 million years ago",
+  "start": -199998050,
+  "end": -199998050,
+  "text": "the supercontinent pangaea begins to split apart, opening the atlantic ocean",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "earth"
+  ]
+ },
+ {
+  "id": 28,
+  "date": "150 million years ago",
+  "start": -149998050,
+  "end": -149998050,
+  "text": "archaeopteryx, a feathered dinosaur that could probably fly, lives in what is now germany",
+  "era": "the-beginning",
+  "region": "europe",
+  "tags": [
+   "life",
+   "dinosaurs",
+   "birds"
+  ]
+ },
+ {
+  "id": 29,
+  "date": "c. 130 million years ago",
+  "start": -129998050,
+  "end": -129998050,
+  "text": "the first flowering plants appear, and later spread alongside pollinating insects",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "life"
+  ]
+ },
+ {
+  "id": 30,
+  "date": "66 million years ago",
+  "start": -65998050,
+  "end": -65998050,
+  "text": "an asteroid about ten kilometers wide hits chicxulub in mexico; all non-bird dinosaurs die out along with about three quarters of all species",
+  "era": "the-beginning",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "extinction",
+   "disaster",
+   "dinosaurs"
+  ]
+ },
+ {
+  "id": 31,
+  "date": "c. 55 million years ago",
+  "start": -54998050,
+  "end": -54998050,
+  "text": "a sudden hot spell warms the planet; early primates, horses, and many other mammal groups spread widely",
+  "era": "the-beginning",
+  "region": "the-whole-world",
+  "tags": [
+   "mammals",
+   "environment"
+  ]
+ },
+ {
+  "id": 32,
+  "date": "c. 50 million years ago",
+  "start": -49998050,
+  "end": -49998050,
+  "text": "india crashes into asia, beginning the rise of the himalayas",
+  "era": "the-beginning",
+  "region": "south-asia",
+  "tags": [
+   "earth"
+  ]
+ },
+ {
+  "id": 33,
+  "date": "c. 34 million years ago",
+  "start": -33998050,
+  "end": -33998050,
+  "text": "permanent ice sheets begin to form on antarctica as the planet cools",
+  "era": "the-beginning",
+  "region": "the-arctic-and-antarctica",
+  "tags": [
+   "environment"
+  ]
+ },
+ {
+  "id": 34,
+  "date": "c. 25 million years ago",
+  "start": -24998050,
+  "end": -24998050,
+  "text": "the ancestors of apes split from old world monkeys",
+  "era": "the-beginning",
+  "region": "africa",
+  "tags": [
+   "mammals",
+   "primates"
+  ]
+ },
+ {
+  "id": 35,
+  "date": "c. 7 million years ago",
+  "start": -6998050,
+  "end": -6998050,
+  "text": "the lineage leading to humans separates from the one leading to chimpanzees; sahelanthropus in chad may be one of the earliest members",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "evolution"
+  ]
+ },
+ {
+  "id": 36,
+  "date": "c. 4.4 million years ago",
+  "start": -4398050,
+  "end": -4398050,
+  "text": "ardipithecus (\"ardi\") in ethiopia walks upright on the ground but still climbs trees with grasping feet",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "evolution"
+  ]
+ },
+ {
+  "id": 37,
+  "date": "3.66 million years ago",
+  "start": -3658050,
+  "end": -3658050,
+  "text": "hominins leave a trail of footprints in volcanic ash at laetoli, tanzania, proving they walked fully upright",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "evolution"
+  ]
+ },
+ {
+  "id": 38,
+  "date": "3.3 million years ago",
+  "start": -3298050,
+  "end": -3298050,
+  "text": "the oldest known stone tools are made at lomekwi, kenya, before our own genus existed",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "technology"
+  ]
+ },
+ {
+  "id": 39,
+  "date": "3.2 million years ago",
+  "start": -3198050,
+  "end": -3198050,
+  "text": "\"lucy\", an australopithecus afarensis, lives and dies in the afar region of ethiopia",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "evolution"
+  ]
+ },
+ {
+  "id": 40,
+  "date": "2.8 million years ago",
+  "start": -2798050,
+  "end": -2798050,
+  "text": "the earliest known fossil of our genus, homo, a jawbone from ledi-geraru, ethiopia",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "evolution"
+  ]
+ },
+ {
+  "id": 41,
+  "date": "2.6 million years ago",
+  "start": -2598050,
+  "end": -2598050,
+  "text": "the pleistocene ice ages begin: dozens of cycles of cold glacial and warmer periods",
+  "era": "the-first-humans",
+  "region": "the-whole-world",
+  "tags": [
+   "environment"
+  ]
+ },
+ {
+  "id": 42,
+  "date": "2.6 million years ago",
+  "start": -2598050,
+  "end": -2598050,
+  "text": "oldowan stone tools, simple sharp flakes, become common in east africa",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "technology"
+  ]
+ },
+ {
+  "id": 43,
+  "date": "c. 1.9 million years ago",
+  "start": -1898050,
+  "end": -1898050,
+  "text": "homo erectus appears, with a body much like ours and a larger brain",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "evolution"
+  ]
+ },
+ {
+  "id": 44,
+  "date": "c. 1.8 million years ago",
+  "start": -1798050,
+  "end": -1798050,
+  "text": "early humans reach dmanisi in the caucasus of georgia, among the first to leave africa",
+  "era": "the-first-humans",
+  "region": "europe",
+  "tags": [
+   "humans",
+   "migration"
+  ]
+ },
+ {
+  "id": 45,
+  "date": "c. 1.76 million years ago",
+  "start": -1758050,
+  "end": -1758050,
+  "text": "acheulean hand axes, carefully shaped teardrop tools, are made; the design lasts over a million years",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "technology"
+  ]
+ },
+ {
+  "id": 46,
+  "date": "c. 1.6 million years ago",
+  "start": -1598050,
+  "end": -1598050,
+  "text": "homo erectus lives on java, in what is now indonesia",
+  "era": "the-first-humans",
+  "region": "southeast-asia",
+  "tags": [
+   "humans",
+   "migration"
+  ]
+ },
+ {
+  "id": 47,
+  "date": "c. 1 million years ago",
+  "start": -998050,
+  "end": -998050,
+  "text": "burned bone and ash in wonderwerk cave, south africa, are some of the earliest evidence of fire use",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "technology",
+   "fire"
+  ]
+ },
+ {
+  "id": 48,
+  "date": "c. 780,000 years ago",
+  "start": -778050,
+  "end": -778050,
+  "text": "hearths at gesher benot ya'aqov in israel show humans controlling fire repeatedly",
+  "era": "the-first-humans",
+  "region": "the-middle-east",
+  "tags": [
+   "humans",
+   "fire"
+  ]
+ },
+ {
+  "id": 49,
+  "date": "c. 430,000 years ago",
+  "start": -428050,
+  "end": -428050,
+  "text": "at sima de los huesos in spain, early ancestors of the neanderthals leave their remains in a deep cave pit",
+  "era": "the-first-humans",
+  "region": "europe",
+  "tags": [
+   "humans",
+   "neanderthals"
+  ]
+ },
+ {
+  "id": 50,
+  "date": "c. 300,000 years ago",
+  "start": -298050,
+  "end": -298050,
+  "text": "the oldest known fossils of homo sapiens, our own species, from jebel irhoud, morocco",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "evolution"
+  ]
+ },
+ {
+  "id": 51,
+  "date": "c. 100,000 years ago",
+  "start": -98050,
+  "end": -98050,
+  "text": "early homo sapiens live for a time at skhul and qafzeh in israel, then seem to disappear from the region",
+  "era": "the-first-humans",
+  "region": "the-middle-east",
+  "tags": [
+   "humans",
+   "migration"
+  ]
+ },
+ {
+  "id": 52,
+  "date": "c. 75,000 years ago",
+  "start": -73050,
+  "end": -73050,
+  "text": "people at blombos cave, south africa, engrave patterns on red ochre and make shell beads: early signs of symbolic thought",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "art"
+  ]
+ },
+ {
+  "id": 53,
+  "date": "c. 74,000 years ago",
+  "start": -72050,
+  "end": -72050,
+  "text": "the toba supervolcano on sumatra erupts, the largest eruption of the last two million years",
+  "era": "the-first-humans",
+  "region": "southeast-asia",
+  "tags": [
+   "disaster",
+   "environment"
+  ]
+ },
+ {
+  "id": 54,
+  "date": "c. 65,000 years ago",
+  "start": -63050,
+  "end": -63050,
+  "text": "people may have reached australia by now, crossing open sea by boat; the ancestors of aboriginal australians",
+  "era": "the-first-humans",
+  "region": "oceania",
+  "tags": [
+   "humans",
+   "migration"
+  ]
+ },
+ {
+  "id": 55,
+  "date": "c. 60,000 years ago",
+  "start": -58050,
+  "end": -58050,
+  "text": "the main migration of homo sapiens out of africa begins; nearly everyone outside africa today descends from it",
+  "era": "the-first-humans",
+  "region": "africa",
+  "tags": [
+   "humans",
+   "migration"
+  ]
+ },
+ {
+  "id": 56,
+  "date": "c. 51,000 years ago",
+  "start": -49050,
+  "end": -49050,
+  "text": "a painting of a wild pig and people on a cave wall on sulawesi, indonesia, the oldest known picture of a scene",
+  "era": "the-first-humans",
+  "region": "southeast-asia",
+  "tags": [
+   "humans",
+   "art"
+  ]
+ },
+ {
+  "id": 57,
+  "date": "c. 45,000 years ago",
+  "start": -43050,
+  "end": -43050,
+  "text": "homo sapiens arrive in europe, where neanderthals already live",
+  "era": "the-first-humans",
+  "region": "europe",
+  "tags": [
+   "humans",
+   "migration"
+  ]
+ },
+ {
+  "id": 58,
+  "date": "c. 40,000 years ago",
+  "start": -38050,
+  "end": -38050,
+  "text": "the neanderthals die out; many people today carry a small share of their dna",
+  "era": "the-first-humans",
+  "region": "europe",
+  "tags": [
+   "humans",
+   "neanderthals",
+   "extinction"
+  ]
+ },
+ {
+  "id": 59,
+  "date": "c. 40,000 years ago",
+  "start": -38050,
+  "end": -38050,
+  "text": "the lion man of hohlenstein-stadel, a half-lion half-human ivory figure, and bone flutes are made in germany",
+  "era": "the-first-humans",
+  "region": "europe",
+  "tags": [
+   "humans",
+   "art",
+   "music"
+  ]
+ },
+ {
+  "id": 60,
+  "date": "c. 36,000 years ago",
+  "start": -34050,
+  "end": -34050,
+  "text": "artists paint lions, rhinos, and horses on the walls of chauvet cave in france",
+  "era": "the-first-humans",
+  "region": "europe",
+  "tags": [
+   "humans",
+   "art"
+  ]
+ },
+ {
+  "id": 61,
+  "date": "c. 23,000 years ago",
+  "start": -21050,
+  "end": -21050,
+  "text": "human footprints at white sands, new mexico, show people in the americas during the height of the ice age",
+  "era": "the-first-humans",
+  "region": "north-america",
+  "tags": [
+   "humans",
+   "migration"
+  ]
+ },
+ {
+  "id": 62,
+  "date": "c. 20,000 years ago",
+  "start": -18050,
+  "end": -18050,
+  "text": "the last glacial maximum: ice sheets are at their largest and sea levels about 120 meters lower than today",
+  "era": "the-first-humans",
+  "region": "the-whole-world",
+  "tags": [
+   "environment"
+  ]
+ },
+ {
+  "id": 63,
+  "date": "c. 17,000 years ago",
+  "start": -15050,
+  "end": -15050,
+  "text": "the painted caves of lascaux in france are decorated with hundreds of animals",
+  "era": "the-first-humans",
+  "region": "europe",
+  "tags": [
+   "humans",
+   "art"
+  ]
+ },
+ {
+  "id": 64,
+  "date": "c. 15,000 years ago",
+  "start": -13050,
+  "end": -13050,
+  "text": "dogs, descended from wolves, are firmly established as human companions, the first tamed animal",
+  "era": "the-first-humans",
+  "region": "the-whole-world",
+  "tags": [
+   "humans",
+   "animals"
+  ]
+ },
+ {
+  "id": 65,
+  "date": "c. 14,000 years ago",
+  "start": -12550,
+  "end": -12550,
+  "text": "people live at monte verde in southern chile, far down the americas",
+  "era": "the-first-humans",
+  "region": "south-america",
+  "tags": [
+   "humans",
+   "migration"
+  ]
+ },
+ {
+  "id": 66,
+  "date": "c. 13,000 years ago",
+  "start": -11050,
+  "end": -11050,
+  "text": "the clovis culture spreads across north america, famous for its fluted stone spear points",
+  "era": "the-first-humans",
+  "region": "north-america",
+  "tags": [
+   "humans",
+   "technology"
+  ]
+ },
+ {
+  "id": 67,
+  "date": "c. 13,000 years ago",
+  "start": -10950,
+  "end": -10950,
+  "text": "the younger dryas: a sudden return to near ice-age cold that lasts about 1,200 years",
+  "era": "the-first-humans",
+  "region": "the-whole-world",
+  "tags": [
+   "environment"
+  ]
+ },
+ {
+  "id": 68,
+  "date": "c. 12,000 years ago",
+  "start": -10050,
+  "end": -10050,
+  "text": "many large animals, including mammoths, giant ground sloths, and woolly rhinos, have died out, likely from climate change and hunting",
+  "era": "the-first-humans",
+  "region": "the-whole-world",
+  "tags": [
+   "extinction",
+   "animals"
+  ]
+ },
+ {
+  "id": 69,
+  "date": "c. 9700 bce",
+  "start": -9700,
+  "end": -9700,
+  "text": "the younger dryas ends and the holocene begins: a warm, stable climate that has lasted to today",
+  "era": "the-first-farmers",
+  "region": "the-whole-world",
+  "tags": [
+   "environment"
+  ]
+ },
+ {
+  "id": 70,
+  "date": "c. 9500 bce",
+  "start": -9500,
+  "end": -9500,
+  "text": "göbekli tepe in southern turkey: huge carved stone pillars raised by hunter-gatherers, the oldest known monumental site",
+  "era": "the-first-farmers",
+  "region": "the-middle-east",
+  "tags": [
+   "religion",
+   "architecture"
+  ]
+ },
+ {
+  "id": 71,
+  "date": "c. 9000 bce",
+  "start": -9000,
+  "end": -9000,
+  "text": "wheat, barley, lentils, and peas are domesticated in the fertile crescent",
+  "era": "the-first-farmers",
+  "region": "the-middle-east",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 72,
+  "date": "c. 8500 bce",
+  "start": -8500,
+  "end": -8500,
+  "text": "sheep and goats are domesticated in the zagros mountains and nearby",
+  "era": "the-first-farmers",
+  "region": "the-middle-east",
+  "tags": [
+   "farming",
+   "animals"
+  ]
+ },
+ {
+  "id": 73,
+  "date": "c. 8300 bce",
+  "start": -8300,
+  "end": -8300,
+  "text": "cattle are tamed from the wild aurochs, both in the near east and separately in south asia",
+  "era": "the-first-farmers",
+  "region": "the-middle-east",
+  "tags": [
+   "farming",
+   "animals"
+  ]
+ },
+ {
+  "id": 74,
+  "date": "c. 8000 bce",
+  "start": -8000,
+  "end": -8000,
+  "text": "jericho is surrounded by a stone wall with a great tower, one of the oldest town walls known",
+  "era": "the-first-farmers",
+  "region": "the-middle-east",
+  "tags": [
+   "cities",
+   "architecture"
+  ]
+ },
+ {
+  "id": 75,
+  "date": "c. 8000 bce",
+  "start": -8000,
+  "end": -8000,
+  "text": "millet is farmed in northern china, along the yellow river",
+  "era": "the-first-farmers",
+  "region": "east-asia",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 76,
+  "date": "c. 8000 bce",
+  "start": -8000,
+  "end": -8000,
+  "text": "squash is domesticated in mexico",
+  "era": "the-first-farmers",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 77,
+  "date": "c. 7100 bce",
+  "start": -7100,
+  "end": -7100,
+  "text": "çatalhöyük in anatolia grows into a crowded town of mud-brick houses entered through the roof",
+  "era": "the-first-farmers",
+  "region": "the-middle-east",
+  "tags": [
+   "cities"
+  ]
+ },
+ {
+  "id": 78,
+  "date": "c. 7000 bce",
+  "start": -7000,
+  "end": -7000,
+  "text": "rice is domesticated in the lower yangtze valley of china",
+  "era": "the-first-farmers",
+  "region": "east-asia",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 79,
+  "date": "c. 7000 bce",
+  "start": -7000,
+  "end": -7000,
+  "text": "farmers at mehrgarh, in modern pakistan, grow barley and wheat and keep cattle",
+  "era": "the-first-farmers",
+  "region": "south-asia",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 80,
+  "date": "c. 7000 bce",
+  "start": -7000,
+  "end": -7000,
+  "text": "farmers in the highlands of new guinea dig drainage ditches to grow taro and bananas",
+  "era": "the-first-farmers",
+  "region": "oceania",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 81,
+  "date": "c. 7000 bce",
+  "start": -7000,
+  "end": -7000,
+  "text": "maize begins to be domesticated from a wild grass called teosinte in southern mexico",
+  "era": "the-first-farmers",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 82,
+  "date": "c. 7000 bce",
+  "start": -7000,
+  "end": -7000,
+  "text": "people at jiahu in china brew a fermented drink of rice, honey, and fruit, and play bone flutes",
+  "era": "the-first-farmers",
+  "region": "east-asia",
+  "tags": [
+   "culture",
+   "music"
+  ]
+ },
+ {
+  "id": 83,
+  "date": "c. 6500 bce",
+  "start": -6500,
+  "end": -6500,
+  "text": "farming spreads from anatolia into greece and the balkans, carried by migrating farmers",
+  "era": "the-first-farmers",
+  "region": "europe",
+  "tags": [
+   "farming",
+   "migration"
+  ]
+ },
+ {
+  "id": 84,
+  "date": "c. 6000 bce",
+  "start": -6000,
+  "end": -6000,
+  "text": "potatoes, quinoa, and beans are being domesticated in the andes",
+  "era": "the-first-farmers",
+  "region": "south-america",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 85,
+  "date": "c. 6000 bce",
+  "start": -6000,
+  "end": -6000,
+  "text": "farmers in mesopotamia dig irrigation canals to water fields with river water",
+  "era": "the-first-farmers",
+  "region": "the-middle-east",
+  "tags": [
+   "farming",
+   "technology"
+  ]
+ },
+ {
+  "id": 86,
+  "date": "c. 6000 bce",
+  "start": -6000,
+  "end": -6000,
+  "text": "during the \"green sahara\", herders graze cattle across lands that are now desert, and paint them on rocks",
+  "era": "the-first-farmers",
+  "region": "africa",
+  "tags": [
+   "farming",
+   "animals",
+   "art"
+  ]
+ },
+ {
+  "id": 87,
+  "date": "c. 5000 bce",
+  "start": -5000,
+  "end": -5000,
+  "text": "copper is smelted from ore in the balkans and iran, beginning the copper age",
+  "era": "the-first-farmers",
+  "region": "europe",
+  "tags": [
+   "technology",
+   "metal"
+  ]
+ },
+ {
+  "id": 88,
+  "date": "c. 5000 bce",
+  "start": -5000,
+  "end": -5000,
+  "text": "farming with barley, wheat, and cattle is established along the nile",
+  "era": "the-first-farmers",
+  "region": "africa",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 89,
+  "date": "c. 4500 bce",
+  "start": -4500,
+  "end": -4500,
+  "text": "the varna cemetery in bulgaria holds the oldest worked gold known, buried with a few very rich people",
+  "era": "the-first-farmers",
+  "region": "europe",
+  "tags": [
+   "metal",
+   "inequality"
+  ]
+ },
+ {
+  "id": 90,
+  "date": "c. 4500 bce",
+  "start": -4500,
+  "end": -4500,
+  "text": "people in brittany, france, raise thousands of standing stones at carnac",
+  "era": "the-first-farmers",
+  "region": "europe",
+  "tags": [
+   "architecture",
+   "religion"
+  ]
+ },
+ {
+  "id": 91,
+  "date": "c. 4000 bce",
+  "start": -4000,
+  "end": -4000,
+  "text": "the plow pulled by oxen lets farmers work much more land",
+  "era": "the-first-farmers",
+  "region": "the-middle-east",
+  "tags": [
+   "farming",
+   "technology"
+  ]
+ },
+ {
+  "id": 92,
+  "date": "c. 4000 bce",
+  "start": -4000,
+  "end": -4000,
+  "text": "the sahara begins drying out; herders move toward the nile and the savanna",
+  "era": "the-first-farmers",
+  "region": "africa",
+  "tags": [
+   "environment",
+   "migration"
+  ]
+ },
+ {
+  "id": 93,
+  "date": "c. 3700 bce",
+  "start": -3700,
+  "end": -3700,
+  "text": "farmers build large wooden and stone tombs across britain and ireland",
+  "era": "the-first-farmers",
+  "region": "europe",
+  "tags": [
+   "architecture",
+   "religion"
+  ]
+ },
+ {
+  "id": 94,
+  "date": "c. 3500 bce",
+  "start": -3500,
+  "end": -3500,
+  "text": "the botai people of kazakhstan use horses, perhaps riding and milking them",
+  "era": "the-first-farmers",
+  "region": "central-asia",
+  "tags": [
+   "animals",
+   "horses"
+  ]
+ },
+ {
+  "id": 95,
+  "date": "c. 3500 bce",
+  "start": -3500,
+  "end": -3500,
+  "text": "the wheel appears in mesopotamia and central europe at almost the same time",
+  "era": "the-first-farmers",
+  "region": "the-middle-east",
+  "tags": [
+   "technology"
+  ]
+ },
+ {
+  "id": 96,
+  "date": "c. 3500 bce",
+  "start": -3500,
+  "end": -3500,
+  "text": "llamas and alpacas are domesticated in the andes",
+  "era": "the-first-farmers",
+  "region": "south-america",
+  "tags": [
+   "farming",
+   "animals"
+  ]
+ },
+ {
+  "id": 97,
+  "date": "c. 3500 bce",
+  "start": -3500,
+  "end": -3500,
+  "text": "uruk in southern mesopotamia grows into perhaps the first true city, with tens of thousands of people and huge temples",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "cities"
+  ]
+ },
+ {
+  "id": 98,
+  "date": "c. 3300 bce",
+  "start": -3300,
+  "end": -3300,
+  "text": "the bronze age begins in the near east as smiths alloy copper with arsenic and later tin",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "technology",
+   "metal"
+  ]
+ },
+ {
+  "id": 99,
+  "date": "c. 3300 bce",
+  "start": -3300,
+  "end": -3300,
+  "text": "ötzi the iceman dies in the alps; his frozen body, clothes, and copper axe survive to modern times",
+  "era": "the-first-civilizations",
+  "region": "europe",
+  "tags": [
+   "archaeology"
+  ]
+ },
+ {
+  "id": 100,
+  "date": "c. 3200 bce",
+  "start": -3200,
+  "end": -3200,
+  "text": "writing is invented in sumer: first as tallies and pictures on clay for keeping accounts, later as cuneiform",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "id": 101,
+  "date": "c. 3200 bce",
+  "start": -3200,
+  "end": -3200,
+  "text": "egyptian hieroglyphs appear, possibly invented independently of mesopotamian writing",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "id": 102,
+  "date": "c. 3100 bce",
+  "start": -3100,
+  "end": -3100,
+  "text": "upper and lower egypt are united under one king, remembered as narmer or menes",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "politics",
+   "empire"
+  ]
+ },
+ {
+  "id": 103,
+  "date": "c. 3000 bce",
+  "start": -3000,
+  "end": -3000,
+  "text": "the first stage of stonehenge, a circular ditch and bank, is dug in southern britain",
+  "era": "the-first-civilizations",
+  "region": "europe",
+  "tags": [
+   "architecture",
+   "religion"
+  ]
+ },
+ {
+  "id": 104,
+  "date": "c. 3000 bce",
+  "start": -3000,
+  "end": -3000,
+  "text": "austronesian-speaking peoples begin sailing out of taiwan, starting a migration that will reach madagascar and easter island",
+  "era": "the-first-civilizations",
+  "region": "east-asia",
+  "tags": [
+   "migration",
+   "exploration"
+  ]
+ },
+ {
+  "id": 136,
+  "date": "c. 2650 bce",
+  "start": -2650,
+  "end": -2650,
+  "text": "the architect imhotep builds the step pyramid of djoser at saqqara, the first large building made entirely of stone",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "architecture"
+  ]
+ },
+ {
+  "id": 105,
+  "date": "c. 2600 bce",
+  "start": -2600,
+  "end": -2600,
+  "text": "the harappan cities of the indus valley, like harappa and mohenjo-daro, reach their height, with grid streets and covered drains",
+  "era": "the-first-civilizations",
+  "region": "south-asia",
+  "tags": [
+   "cities"
+  ]
+ },
+ {
+  "id": 106,
+  "date": "c. 2600 bce",
+  "start": -2600,
+  "end": -2600,
+  "text": "caral in peru's supe valley builds pyramids and sunken plazas, the oldest city in the americas",
+  "era": "the-first-civilizations",
+  "region": "south-america",
+  "tags": [
+   "cities",
+   "architecture"
+  ]
+ },
+ {
+  "id": 107,
+  "date": "c. 2560 bce",
+  "start": -2560,
+  "end": -2560,
+  "text": "the great pyramid of giza is completed for the pharaoh khufu; it stays the tallest human-made structure for nearly 4,000 years",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "architecture"
+  ]
+ },
+ {
+  "id": 108,
+  "date": "c. 2500 bce",
+  "start": -2500,
+  "end": -2500,
+  "text": "kerma, the first kingdom of kush, flourishes on the nile in what is now sudan",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 137,
+  "date": "c. 2500 bce",
+  "start": -2500,
+  "end": -2500,
+  "text": "the indus cities use short written signs on stamp seals and a standard set of stone weights; the script has never been deciphered",
+  "era": "the-first-civilizations",
+  "region": "south-asia",
+  "tags": [
+   "writing",
+   "trade"
+  ]
+ },
+ {
+  "id": 109,
+  "date": "c. 2334 bce",
+  "start": -2334,
+  "end": -2334,
+  "text": "sargon of akkad conquers the sumerian cities and builds what is often called the first empire",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "empire",
+   "war"
+  ]
+ },
+ {
+  "id": 110,
+  "date": "c. 2100 bce",
+  "start": -2100,
+  "end": -2100,
+  "text": "ur-nammu of ur issues the oldest surviving law code; the first poems about gilgamesh are written down",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "law",
+   "writing"
+  ]
+ },
+ {
+  "id": 111,
+  "date": "c. 2000 bce",
+  "start": -2000,
+  "end": -2000,
+  "text": "minoan palaces rise on crete, centered on knossos",
+  "era": "the-first-civilizations",
+  "region": "europe",
+  "tags": [
+   "cities",
+   "trade"
+  ]
+ },
+ {
+  "id": 112,
+  "date": "c. 2000 bce",
+  "start": -2000,
+  "end": -2000,
+  "text": "people of the sintashta culture on the steppe build light chariots with spoked wheels",
+  "era": "the-first-civilizations",
+  "region": "central-asia",
+  "tags": [
+   "technology",
+   "horses",
+   "war"
+  ]
+ },
+ {
+  "id": 113,
+  "date": "c. 2000 bce",
+  "start": -2000,
+  "end": -2000,
+  "text": "people in eastern north america domesticate squash, sunflowers, and other seed plants",
+  "era": "the-first-civilizations",
+  "region": "north-america",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 114,
+  "date": "c. 1900 bce",
+  "start": -1900,
+  "end": -1900,
+  "text": "the indus cities go into decline as rivers shift and the climate dries",
+  "era": "the-first-civilizations",
+  "region": "south-asia",
+  "tags": [
+   "collapse",
+   "environment"
+  ]
+ },
+ {
+  "id": 138,
+  "date": "c. 1850 bce",
+  "start": -1850,
+  "end": -1850,
+  "text": "semitic-speaking workers in egypt scratch the earliest known alphabet onto rocks in sinai and the western desert",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "id": 139,
+  "date": "c. 1800 bce",
+  "start": -1800,
+  "end": -1800,
+  "text": "babylonian scribes do advanced mathematics in base sixty; we still use it for 60 minutes and 360 degrees",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "science",
+   "writing"
+  ]
+ },
+ {
+  "id": 115,
+  "date": "c. 1754 bce",
+  "start": -1754,
+  "end": -1754,
+  "text": "hammurabi of babylon has 282 laws carved on a stone pillar, the famous code of hammurabi",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "law"
+  ]
+ },
+ {
+  "id": 116,
+  "date": "c. 1600 bce",
+  "start": -1600,
+  "end": -1600,
+  "text": "the shang dynasty takes power along the yellow river, the first chinese dynasty with written records",
+  "era": "the-first-civilizations",
+  "region": "east-asia",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 117,
+  "date": "c. 1600 bce",
+  "start": -1600,
+  "end": -1600,
+  "text": "the volcano of thera (santorini) erupts in one of the largest blasts in human history; mycenaean greece begins to rise",
+  "era": "the-first-civilizations",
+  "region": "europe",
+  "tags": [
+   "disaster"
+  ]
+ },
+ {
+  "id": 118,
+  "date": "c. 1500 bce",
+  "start": -1500,
+  "end": -1500,
+  "text": "indo-aryan speaking peoples settle in northern india; the rigveda, oldest of the vedas, is composed",
+  "era": "the-first-civilizations",
+  "region": "south-asia",
+  "tags": [
+   "religion",
+   "migration"
+  ]
+ },
+ {
+  "id": 119,
+  "date": "1479–1458 bce",
+  "start": -1479,
+  "end": -1458,
+  "text": "hatshepsut rules egypt as pharaoh, sending trade expeditions to the land of punt",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "politics",
+   "trade"
+  ]
+ },
+ {
+  "id": 140,
+  "date": "c. 1450 bce",
+  "start": -1450,
+  "end": -1450,
+  "text": "mycenaean greeks take over knossos and write an early form of greek in the script called linear b",
+  "era": "the-first-civilizations",
+  "region": "europe",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "id": 121,
+  "date": "c. 1353 bce",
+  "start": -1353,
+  "end": -1353,
+  "text": "akhenaten becomes pharaoh and orders egypt to worship only the sun disk, the aten",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "religion"
+  ]
+ },
+ {
+  "id": 120,
+  "date": "c. 1350 bce",
+  "start": -1350,
+  "end": -1350,
+  "text": "the hittite empire of anatolia is at the height of its power",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 122,
+  "date": "c. 1323 bce",
+  "start": -1323,
+  "end": -1323,
+  "text": "the young pharaoh tutankhamun dies; his tomb is found almost untouched in 1922",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "archaeology"
+  ]
+ },
+ {
+  "id": 123,
+  "date": "c. 1300 bce",
+  "start": -1300,
+  "end": -1300,
+  "text": "lapita peoples sail from the islands off new guinea into the remote pacific, reaching fiji, tonga, and samoa",
+  "era": "the-first-civilizations",
+  "region": "oceania",
+  "tags": [
+   "migration",
+   "exploration"
+  ]
+ },
+ {
+  "id": 124,
+  "date": "1274 bce",
+  "start": -1274,
+  "end": -1274,
+  "text": "egypt under ramesses ii and the hittites fight the battle of kadesh; later they sign one of the oldest known peace treaties",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 125,
+  "date": "c. 1250 bce",
+  "start": -1250,
+  "end": -1250,
+  "text": "shang kings carve questions to their ancestors on oracle bones, the oldest chinese writing",
+  "era": "the-first-civilizations",
+  "region": "east-asia",
+  "tags": [
+   "writing",
+   "religion"
+  ]
+ },
+ {
+  "id": 126,
+  "date": "c. 1200 bce",
+  "start": -1200,
+  "end": -1200,
+  "text": "the olmec civilization rises on the gulf coast of mexico, carving colossal stone heads",
+  "era": "the-first-civilizations",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "cities",
+   "art"
+  ]
+ },
+ {
+  "id": 129,
+  "date": "c. 1200 bce",
+  "start": -1200,
+  "end": -1200,
+  "text": "ironworking spreads across the region, starting the iron age",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "technology",
+   "metal"
+  ]
+ },
+ {
+  "id": 127,
+  "date": "c. 1200–1150 bce",
+  "start": -1200,
+  "end": -1150,
+  "text": "the bronze age collapse: the hittite empire, mycenaean greece, and many cities of the eastern mediterranean fall",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "collapse",
+   "war"
+  ]
+ },
+ {
+  "id": 128,
+  "date": "c. 1177 bce",
+  "start": -1177,
+  "end": -1177,
+  "text": "ramesses iii fights off the \"sea peoples\" in the nile delta, but egypt is left weakened",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 130,
+  "date": "c. 1050 bce",
+  "start": -1050,
+  "end": -1050,
+  "text": "the phoenicians use an alphabet of 22 letters, the ancestor of the greek, latin, hebrew, and arabic scripts",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "id": 131,
+  "date": "c. 1046 bce",
+  "start": -1046,
+  "end": -1046,
+  "text": "the zhou overthrow the shang and claim the \"mandate of heaven\"",
+  "era": "the-first-civilizations",
+  "region": "east-asia",
+  "tags": [
+   "politics",
+   "philosophy"
+  ]
+ },
+ {
+  "id": 132,
+  "date": "c. 1000 bce",
+  "start": -1000,
+  "end": -1000,
+  "text": "david rules a kingdom of israel from jerusalem; his son solomon is said to build the first temple",
+  "era": "the-first-civilizations",
+  "region": "the-middle-east",
+  "tags": [
+   "religion",
+   "politics"
+  ]
+ },
+ {
+  "id": 133,
+  "date": "c. 1000 bce",
+  "start": -1000,
+  "end": -1000,
+  "text": "bantu-speaking farmers begin spreading south and east from west-central africa, carrying farming and later iron",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "migration",
+   "farming"
+  ]
+ },
+ {
+  "id": 134,
+  "date": "c. 900 bce",
+  "start": -900,
+  "end": -900,
+  "text": "the temple center of chavín de huántar spreads a shared religion and art style through the andes",
+  "era": "the-first-civilizations",
+  "region": "south-america",
+  "tags": [
+   "religion",
+   "art"
+  ]
+ },
+ {
+  "id": 135,
+  "date": "c. 814 bce",
+  "start": -814,
+  "end": -814,
+  "text": "phoenicians from tyre found carthage in north africa, according to tradition",
+  "era": "the-first-civilizations",
+  "region": "africa",
+  "tags": [
+   "cities",
+   "trade"
+  ]
+ },
+ {
+  "id": 141,
+  "date": "776 bce",
+  "start": -776,
+  "end": -776,
+  "text": "the first recorded olympic games are held at olympia in greece, according to later tradition",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "culture",
+   "sport"
+  ]
+ },
+ {
+  "id": 143,
+  "date": "753 bce",
+  "start": -753,
+  "end": -753,
+  "text": "the legendary founding of rome by romulus",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "cities"
+  ]
+ },
+ {
+  "id": 142,
+  "date": "c. 750 bce",
+  "start": -750,
+  "end": -750,
+  "text": "the greeks adopt the phoenician alphabet, adding vowels; the iliad and the odyssey take shape",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "writing",
+   "literature"
+  ]
+ },
+ {
+  "id": 144,
+  "date": "c. 750 bce",
+  "start": -750,
+  "end": -750,
+  "text": "kushite kings from nubia conquer egypt and rule it as its 25th dynasty",
+  "era": "the-classical-world",
+  "region": "africa",
+  "tags": [
+   "empire",
+   "war"
+  ]
+ },
+ {
+  "id": 145,
+  "date": "722 bce",
+  "start": -722,
+  "end": -722,
+  "text": "the assyrian empire destroys the northern kingdom of israel and deports much of its population",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 146,
+  "date": "612 bce",
+  "start": -612,
+  "end": -612,
+  "text": "babylonians and medes sack nineveh, and the assyrian empire collapses",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "collapse"
+  ]
+ },
+ {
+  "id": 195,
+  "date": "c. 600 bce",
+  "start": -600,
+  "end": -600,
+  "text": "the kingdom of lydia in anatolia strikes the first coins, lumps of electrum stamped with a lion's head",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "economy",
+   "trade"
+  ]
+ },
+ {
+  "id": 147,
+  "date": "587 bce",
+  "start": -587,
+  "end": -587,
+  "text": "babylon destroys jerusalem and its temple; many judeans are exiled to babylon",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "religion"
+  ]
+ },
+ {
+  "id": 149,
+  "date": "551 bce",
+  "start": -551,
+  "end": -551,
+  "text": "confucius is born in the state of lu, according to tradition",
+  "era": "the-classical-world",
+  "region": "east-asia",
+  "tags": [
+   "philosophy"
+  ]
+ },
+ {
+  "id": 150,
+  "date": "550 bce",
+  "start": -550,
+  "end": -550,
+  "text": "cyrus the great founds the achaemenid persian empire",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 151,
+  "date": "539 bce",
+  "start": -539,
+  "end": -539,
+  "text": "cyrus takes babylon and allows the exiled jews to return and rebuild their temple",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "empire",
+   "religion"
+  ]
+ },
+ {
+  "id": 153,
+  "date": "509 bce",
+  "start": -509,
+  "end": -509,
+  "text": "the romans expel their last king and found the republic, by tradition",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "politics"
+  ]
+ },
+ {
+  "id": 154,
+  "date": "508 bce",
+  "start": -508,
+  "end": -508,
+  "text": "cleisthenes reforms athens, laying the foundations of democracy",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "politics",
+   "democracy"
+  ]
+ },
+ {
+  "id": 148,
+  "date": "c. 500 bce",
+  "start": -500,
+  "end": -500,
+  "text": "the nok culture of nigeria smelts iron and makes striking terracotta sculptures",
+  "era": "the-classical-world",
+  "region": "africa",
+  "tags": [
+   "art",
+   "metal"
+  ]
+ },
+ {
+  "id": 196,
+  "date": "c. 500 bce",
+  "start": -500,
+  "end": -500,
+  "text": "the dong son culture of northern vietnam casts large bronze drums that are traded across southeast asia",
+  "era": "the-classical-world",
+  "region": "southeast-asia",
+  "tags": [
+   "metal",
+   "art"
+  ]
+ },
+ {
+  "id": 152,
+  "date": "5th century bce",
+  "start": -500,
+  "end": -401,
+  "text": "siddhartha gautama, the buddha, teaches in northern india; mahavira teaches jainism in the same region (the exact dates are debated)",
+  "era": "the-classical-world",
+  "region": "south-asia",
+  "tags": [
+   "religion",
+   "philosophy"
+  ]
+ },
+ {
+  "id": 155,
+  "date": "490 bce",
+  "start": -490,
+  "end": -490,
+  "text": "athens defeats a persian invasion at the battle of marathon",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 156,
+  "date": "480 bce",
+  "start": -480,
+  "end": -480,
+  "text": "the spartans make their stand at thermopylae, and the greek fleet wins at salamis",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 160,
+  "date": "c. 475–221 bce",
+  "start": -475,
+  "end": -221,
+  "text": "the warring states period: rival chinese kingdoms fight for supremacy while philosophy flourishes",
+  "era": "the-classical-world",
+  "region": "east-asia",
+  "tags": [
+   "war",
+   "philosophy"
+  ]
+ },
+ {
+  "id": 157,
+  "date": "447–432 bce",
+  "start": -447,
+  "end": -432,
+  "text": "the parthenon is built on the acropolis of athens",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "architecture"
+  ]
+ },
+ {
+  "id": 158,
+  "date": "431–404 bce",
+  "start": -431,
+  "end": -404,
+  "text": "the peloponnesian war between athens and sparta ends in athens' defeat",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 197,
+  "date": "c. 400 bce",
+  "start": -400,
+  "end": -400,
+  "text": "hippocrates and his followers teach that illnesses have natural causes, not punishments from the gods",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "medicine",
+   "science"
+  ]
+ },
+ {
+  "id": 159,
+  "date": "399 bce",
+  "start": -399,
+  "end": -399,
+  "text": "socrates is tried in athens and put to death by drinking hemlock",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "philosophy"
+  ]
+ },
+ {
+  "id": 161,
+  "date": "334–323 bce",
+  "start": -334,
+  "end": -323,
+  "text": "alexander the great conquers the persian empire and marches to india",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 162,
+  "date": "323 bce",
+  "start": -323,
+  "end": -323,
+  "text": "alexander dies in babylon at 32; his generals split his empire",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 163,
+  "date": "c. 321 bce",
+  "start": -321,
+  "end": -321,
+  "text": "chandragupta maurya founds the maurya empire, the first to unite most of india",
+  "era": "the-classical-world",
+  "region": "south-asia",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 164,
+  "date": "c. 300 bce",
+  "start": -300,
+  "end": -300,
+  "text": "meroë becomes the capital of kush, a center of iron smelting with its own steep pyramids",
+  "era": "the-classical-world",
+  "region": "africa",
+  "tags": [
+   "cities",
+   "metal"
+  ]
+ },
+ {
+  "id": 165,
+  "date": "c. 300 bce",
+  "start": -300,
+  "end": -300,
+  "text": "the library of alexandria is founded in egypt under the ptolemies",
+  "era": "the-classical-world",
+  "region": "africa",
+  "tags": [
+   "science",
+   "writing"
+  ]
+ },
+ {
+  "id": 198,
+  "date": "c. 300 bce",
+  "start": -300,
+  "end": -300,
+  "text": "euclid writes the elements in alexandria, a textbook of geometry used for more than two thousand years",
+  "era": "the-classical-world",
+  "region": "africa",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 167,
+  "date": "264–146 bce",
+  "start": -264,
+  "end": -146,
+  "text": "the three punic wars between rome and carthage end with carthage destroyed",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 166,
+  "date": "c. 261 bce",
+  "start": -261,
+  "end": -261,
+  "text": "ashoka conquers kalinga, is horrified by the slaughter, and turns to buddhism and non-violence",
+  "era": "the-classical-world",
+  "region": "south-asia",
+  "tags": [
+   "religion",
+   "war"
+  ]
+ },
+ {
+  "id": 199,
+  "date": "c. 240 bce",
+  "start": -240,
+  "end": -240,
+  "text": "eratosthenes measures the size of the earth using the shadows cast in two egyptian cities",
+  "era": "the-classical-world",
+  "region": "africa",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 169,
+  "date": "221 bce",
+  "start": -221,
+  "end": -221,
+  "text": "the king of qin conquers the last rival state and becomes qin shi huang, the first emperor of china",
+  "era": "the-classical-world",
+  "region": "east-asia",
+  "tags": [
+   "empire",
+   "politics"
+  ]
+ },
+ {
+  "id": 168,
+  "date": "218 bce",
+  "start": -218,
+  "end": -218,
+  "text": "hannibal of carthage crosses the alps into italy with an army and war elephants",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 200,
+  "date": "209 bce",
+  "start": -209,
+  "end": -209,
+  "text": "modu chanyu unites the xiongnu nomads of the mongolian steppe into an empire strong enough to make the han pay tribute",
+  "era": "the-classical-world",
+  "region": "central-asia",
+  "tags": [
+   "empire",
+   "war"
+  ]
+ },
+ {
+  "id": 170,
+  "date": "206 bce",
+  "start": -206,
+  "end": -206,
+  "text": "the han dynasty begins; it will rule china for about four centuries",
+  "era": "the-classical-world",
+  "region": "east-asia",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 171,
+  "date": "c. 200 bce–500 ce",
+  "start": -200,
+  "end": 500,
+  "text": "the nazca people of peru draw giant lines and animal figures across the desert",
+  "era": "the-classical-world",
+  "region": "south-america",
+  "tags": [
+   "art",
+   "religion"
+  ]
+ },
+ {
+  "id": 172,
+  "date": "c. 130 bce",
+  "start": -130,
+  "end": -130,
+  "text": "after the travels of the han envoy zhang qian, the trade routes later called the silk roads open between china and the west",
+  "era": "the-classical-world",
+  "region": "central-asia",
+  "tags": [
+   "trade",
+   "exploration"
+  ]
+ },
+ {
+  "id": 173,
+  "date": "c. 100 bce",
+  "start": -100,
+  "end": -100,
+  "text": "the hopewell culture builds large earthworks and trades across much of eastern north america",
+  "era": "the-classical-world",
+  "region": "north-america",
+  "tags": [
+   "trade",
+   "architecture"
+  ]
+ },
+ {
+  "id": 174,
+  "date": "44 bce",
+  "start": -44,
+  "end": -44,
+  "text": "julius caesar is assassinated by senators in rome",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "politics"
+  ]
+ },
+ {
+  "id": 175,
+  "date": "27 bce",
+  "start": -27,
+  "end": -27,
+  "text": "octavian takes the name augustus and becomes the first roman emperor; the pax romana begins",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "empire",
+   "politics"
+  ]
+ },
+ {
+  "id": 176,
+  "date": "c. 4 bce",
+  "start": -4,
+  "end": -4,
+  "text": "jesus of nazareth is born in judea",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "religion"
+  ]
+ },
+ {
+  "id": 201,
+  "date": "1st century ce",
+  "start": 1,
+  "end": 100,
+  "text": "the kingdom of funan grows rich in the mekong delta, trading between india and china",
+  "era": "the-classical-world",
+  "region": "southeast-asia",
+  "tags": [
+   "trade"
+  ]
+ },
+ {
+  "id": 177,
+  "date": "c. 30 ce",
+  "start": 30,
+  "end": 30,
+  "text": "jesus is crucified in jerusalem; his followers begin to spread christianity",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "religion"
+  ]
+ },
+ {
+  "id": 178,
+  "date": "70 ce",
+  "start": 70,
+  "end": 70,
+  "text": "the romans crush a jewish revolt and destroy the second temple in jerusalem",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "religion"
+  ]
+ },
+ {
+  "id": 179,
+  "date": "79 ce",
+  "start": 79,
+  "end": 79,
+  "text": "mount vesuvius erupts and buries pompeii and herculaneum",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "disaster"
+  ]
+ },
+ {
+  "id": 181,
+  "date": "c. 100 ce",
+  "start": 100,
+  "end": 100,
+  "text": "the moche culture on peru's north coast builds adobe pyramids and makes fine portrait pottery",
+  "era": "the-classical-world",
+  "region": "south-america",
+  "tags": [
+   "art"
+  ]
+ },
+ {
+  "id": 182,
+  "date": "c. 100 ce",
+  "start": 100,
+  "end": 100,
+  "text": "the kingdom of aksum in ethiopia and eritrea grows rich on red sea trade",
+  "era": "the-classical-world",
+  "region": "africa",
+  "tags": [
+   "trade",
+   "empire"
+  ]
+ },
+ {
+  "id": 180,
+  "date": "105 ce",
+  "start": 105,
+  "end": 105,
+  "text": "the court official cai lun presents an improved method of making paper",
+  "era": "the-classical-world",
+  "region": "east-asia",
+  "tags": [
+   "technology",
+   "writing"
+  ]
+ },
+ {
+  "id": 183,
+  "date": "117 ce",
+  "start": 117,
+  "end": 117,
+  "text": "the roman empire reaches its largest size under the emperor trajan",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 202,
+  "date": "132 ce",
+  "start": 132,
+  "end": 132,
+  "text": "zhang heng builds a bronze seismoscope that shows the direction of a distant earthquake",
+  "era": "the-classical-world",
+  "region": "east-asia",
+  "tags": [
+   "science",
+   "technology"
+  ]
+ },
+ {
+  "id": 203,
+  "date": "c. 162 ce",
+  "start": 162,
+  "end": 162,
+  "text": "the greek doctor galen begins working in rome; his books on medicine are followed for over a thousand years",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "medicine"
+  ]
+ },
+ {
+  "id": 204,
+  "date": "165–180 ce",
+  "start": 165,
+  "end": 180,
+  "text": "the antonine plague, probably smallpox, spreads through the roman empire and kills millions",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "disease"
+  ]
+ },
+ {
+  "id": 184,
+  "date": "c. 200 ce",
+  "start": 200,
+  "end": 200,
+  "text": "teotihuacan in central mexico, with its pyramid of the sun, becomes one of the largest cities in the world",
+  "era": "the-classical-world",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "cities"
+  ]
+ },
+ {
+  "id": 185,
+  "date": "220 ce",
+  "start": 220,
+  "end": 220,
+  "text": "the han dynasty falls and china splits into three kingdoms",
+  "era": "the-classical-world",
+  "region": "east-asia",
+  "tags": [
+   "collapse"
+  ]
+ },
+ {
+  "id": 186,
+  "date": "224 ce",
+  "start": 224,
+  "end": 224,
+  "text": "the sasanian persian empire is founded; it will rival rome for four centuries",
+  "era": "the-classical-world",
+  "region": "the-middle-east",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 187,
+  "date": "c. 250 ce",
+  "start": 250,
+  "end": 250,
+  "text": "the classic period of the maya begins, with great cities like tikal and calakmul",
+  "era": "the-classical-world",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "cities"
+  ]
+ },
+ {
+  "id": 188,
+  "date": "313 ce",
+  "start": 313,
+  "end": 313,
+  "text": "the edict of milan ends the persecution of christians in the roman empire",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "religion",
+   "law"
+  ]
+ },
+ {
+  "id": 189,
+  "date": "c. 320 ce",
+  "start": 320,
+  "end": 320,
+  "text": "chandragupta i founds the gupta empire; a golden age of science, math, and art follows",
+  "era": "the-classical-world",
+  "region": "south-asia",
+  "tags": [
+   "empire",
+   "science"
+  ]
+ },
+ {
+  "id": 190,
+  "date": "330 ce",
+  "start": 330,
+  "end": 330,
+  "text": "constantine makes byzantium, renamed constantinople, the new capital of the empire",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "cities",
+   "politics"
+  ]
+ },
+ {
+  "id": 191,
+  "date": "c. 330 ce",
+  "start": 330,
+  "end": 330,
+  "text": "king ezana of aksum converts to christianity",
+  "era": "the-classical-world",
+  "region": "africa",
+  "tags": [
+   "religion"
+  ]
+ },
+ {
+  "id": 192,
+  "date": "380 ce",
+  "start": 380,
+  "end": 380,
+  "text": "christianity becomes the official religion of the roman empire",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "religion",
+   "law"
+  ]
+ },
+ {
+  "id": 193,
+  "date": "395 ce",
+  "start": 395,
+  "end": 395,
+  "text": "the roman empire is permanently divided into eastern and western halves",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "politics",
+   "empire"
+  ]
+ },
+ {
+  "id": 194,
+  "date": "410 ce",
+  "start": 410,
+  "end": 410,
+  "text": "the visigoths under alaric sack the city of rome",
+  "era": "the-classical-world",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 205,
+  "date": "476 ce",
+  "start": 476,
+  "end": 476,
+  "text": "the germanic general odoacer deposes romulus augustulus, the last western roman emperor",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "collapse",
+   "politics"
+  ]
+ },
+ {
+  "id": 206,
+  "date": "527–565 ce",
+  "start": 527,
+  "end": 565,
+  "text": "justinian rules the byzantine empire, reconquers italy and north africa, and codifies roman law",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "empire",
+   "law"
+  ]
+ },
+ {
+  "id": 207,
+  "date": "537 ce",
+  "start": 537,
+  "end": 537,
+  "text": "the hagia sophia is completed in constantinople, the largest church in the world for nearly a thousand years",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "architecture",
+   "religion"
+  ]
+ },
+ {
+  "id": 208,
+  "date": "541 ce",
+  "start": 541,
+  "end": 541,
+  "text": "the plague of justinian, the first known pandemic of bubonic plague, strikes the mediterranean world",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "disease",
+   "disaster"
+  ]
+ },
+ {
+  "id": 209,
+  "date": "c. 570 ce",
+  "start": 570,
+  "end": 570,
+  "text": "muhammad is born in mecca",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "religion"
+  ]
+ },
+ {
+  "id": 210,
+  "date": "589 ce",
+  "start": 589,
+  "end": 589,
+  "text": "the sui dynasty reunites china after centuries of division and builds the grand canal",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "empire",
+   "technology"
+  ]
+ },
+ {
+  "id": 211,
+  "date": "c. 610 ce",
+  "start": 610,
+  "end": 610,
+  "text": "muhammad begins receiving the revelations that become the quran, according to muslim tradition",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "religion"
+  ]
+ },
+ {
+  "id": 212,
+  "date": "618 ce",
+  "start": 618,
+  "end": 618,
+  "text": "the tang dynasty begins, a golden age of poetry, trade, and buddhism",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "empire",
+   "culture"
+  ]
+ },
+ {
+  "id": 213,
+  "date": "622 ce",
+  "start": 622,
+  "end": 622,
+  "text": "the hijra: muhammad and his followers move from mecca to medina, year one of the islamic calendar",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "religion"
+  ]
+ },
+ {
+  "id": 258,
+  "date": "629–645 ce",
+  "start": 629,
+  "end": 645,
+  "text": "the monk xuanzang travels from china to india along the silk roads and returns with hundreds of buddhist texts",
+  "era": "the-middle-ages",
+  "region": "central-asia",
+  "tags": [
+   "religion",
+   "exploration"
+  ]
+ },
+ {
+  "id": 214,
+  "date": "632 ce",
+  "start": 632,
+  "end": 632,
+  "text": "muhammad dies; abu bakr becomes the first caliph",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "religion",
+   "politics"
+  ]
+ },
+ {
+  "id": 215,
+  "date": "c. 632–750 ce",
+  "start": 632,
+  "end": 750,
+  "text": "arab muslim armies conquer the sasanian empire, syria, egypt, north africa, and spain",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "empire",
+   "religion"
+  ]
+ },
+ {
+  "id": 259,
+  "date": "c. 670 ce",
+  "start": 670,
+  "end": 670,
+  "text": "srivijaya, a trading empire based on sumatra, controls the strait of malacca and becomes a center of buddhist learning",
+  "era": "the-middle-ages",
+  "region": "southeast-asia",
+  "tags": [
+   "trade",
+   "empire",
+   "religion"
+  ]
+ },
+ {
+  "id": 216,
+  "date": "680 ce",
+  "start": 680,
+  "end": 680,
+  "text": "husayn, grandson of muhammad, is killed at karbala, deepening the split between sunni and shia muslims",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "religion",
+   "war"
+  ]
+ },
+ {
+  "id": 260,
+  "date": "c. 700 ce",
+  "start": 700,
+  "end": 700,
+  "text": "the empire of ghana, the \"land of gold\", grows rich on camel caravans carrying gold and salt across the sahara",
+  "era": "the-middle-ages",
+  "region": "africa",
+  "tags": [
+   "trade",
+   "empire"
+  ]
+ },
+ {
+  "id": 217,
+  "date": "711 ce",
+  "start": 711,
+  "end": 711,
+  "text": "muslim forces cross into spain and conquer most of the iberian peninsula",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 218,
+  "date": "750 ce",
+  "start": 750,
+  "end": 750,
+  "text": "the abbasid dynasty overthrows the umayyads and later builds baghdad as its capital",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "politics",
+   "empire"
+  ]
+ },
+ {
+  "id": 219,
+  "date": "751 ce",
+  "start": 751,
+  "end": 751,
+  "text": "abbasid and tang armies clash at the talas river; papermaking spreads west to the islamic world",
+  "era": "the-middle-ages",
+  "region": "central-asia",
+  "tags": [
+   "war",
+   "technology"
+  ]
+ },
+ {
+  "id": 220,
+  "date": "793 ce",
+  "start": 793,
+  "end": 793,
+  "text": "vikings raid the monastery of lindisfarne in england, beginning the viking age",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 221,
+  "date": "800 ce",
+  "start": 800,
+  "end": 800,
+  "text": "the pope crowns charlemagne emperor of the romans",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "politics",
+   "religion"
+  ]
+ },
+ {
+  "id": 222,
+  "date": "c. 800 ce",
+  "start": 800,
+  "end": 800,
+  "text": "the huge buddhist monument of borobudur is built on java",
+  "era": "the-middle-ages",
+  "region": "southeast-asia",
+  "tags": [
+   "architecture",
+   "religion"
+  ]
+ },
+ {
+  "id": 224,
+  "date": "c. 800–900 ce",
+  "start": 800,
+  "end": 900,
+  "text": "most of the great classic maya cities of the southern lowlands are abandoned",
+  "era": "the-middle-ages",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "collapse"
+  ]
+ },
+ {
+  "id": 223,
+  "date": "c. 830 ce",
+  "start": 830,
+  "end": 830,
+  "text": "al-khwarizmi writes his book on algebra at the house of wisdom in baghdad",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 225,
+  "date": "868 ce",
+  "start": 868,
+  "end": 868,
+  "text": "the diamond sutra is printed in china, the oldest dated printed book",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "technology",
+   "writing"
+  ]
+ },
+ {
+  "id": 226,
+  "date": "960 ce",
+  "start": 960,
+  "end": 960,
+  "text": "the song dynasty begins; china leads the world in technology, trade, and city life",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "empire",
+   "technology"
+  ]
+ },
+ {
+  "id": 227,
+  "date": "c. 1000",
+  "start": 1000,
+  "end": 1000,
+  "text": "leif erikson and other norse sailors reach newfoundland, at l'anse aux meadows",
+  "era": "the-middle-ages",
+  "region": "north-america",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 228,
+  "date": "c. 1000",
+  "start": 1000,
+  "end": 1000,
+  "text": "polynesian voyagers settle the far corners of the pacific, reaching hawaii and later easter island",
+  "era": "the-middle-ages",
+  "region": "oceania",
+  "tags": [
+   "exploration",
+   "migration"
+  ]
+ },
+ {
+  "id": 261,
+  "date": "c. 1015",
+  "start": 1015,
+  "end": 1015,
+  "text": "ibn al-haytham writes his book of optics in cairo, testing ideas about light and sight with careful experiments",
+  "era": "the-middle-ages",
+  "region": "africa",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 262,
+  "date": "1024",
+  "start": 1024,
+  "end": 1024,
+  "text": "the song government issues the jiaozi in sichuan, the world's first official paper money",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "economy"
+  ]
+ },
+ {
+  "id": 229,
+  "date": "c. 1025",
+  "start": 1025,
+  "end": 1025,
+  "text": "ibn sina (avicenna) completes the canon of medicine, used in europe and the islamic world for centuries",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "science",
+   "medicine"
+  ]
+ },
+ {
+  "id": 263,
+  "date": "c. 1040",
+  "start": 1040,
+  "end": 1040,
+  "text": "bi sheng invents movable type made of baked clay",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "technology",
+   "writing"
+  ]
+ },
+ {
+  "id": 264,
+  "date": "1044",
+  "start": 1044,
+  "end": 1044,
+  "text": "a chinese military handbook records the earliest known formula for gunpowder",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "technology",
+   "war"
+  ]
+ },
+ {
+  "id": 231,
+  "date": "c. 1050",
+  "start": 1050,
+  "end": 1050,
+  "text": "cahokia near the mississippi river grows into the largest city north of mexico, with huge earthen mounds",
+  "era": "the-middle-ages",
+  "region": "north-america",
+  "tags": [
+   "cities"
+  ]
+ },
+ {
+  "id": 230,
+  "date": "1054",
+  "start": 1054,
+  "end": 1054,
+  "text": "the great schism: the catholic and orthodox churches formally split",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "religion"
+  ]
+ },
+ {
+  "id": 232,
+  "date": "1066",
+  "start": 1066,
+  "end": 1066,
+  "text": "william of normandy wins the battle of hastings and conquers england",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "war",
+   "politics"
+  ]
+ },
+ {
+  "id": 233,
+  "date": "1088",
+  "start": 1088,
+  "end": 1088,
+  "text": "the university of bologna is founded, the oldest in continuous operation in europe",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "science",
+   "culture"
+  ]
+ },
+ {
+  "id": 234,
+  "date": "1099",
+  "start": 1099,
+  "end": 1099,
+  "text": "the first crusade captures jerusalem and massacres many of its people",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "religion"
+  ]
+ },
+ {
+  "id": 235,
+  "date": "c. 1113–1150",
+  "start": 1113,
+  "end": 1150,
+  "text": "the khmer king suryavarman ii builds angkor wat, the largest religious monument in the world",
+  "era": "the-middle-ages",
+  "region": "southeast-asia",
+  "tags": [
+   "architecture",
+   "religion"
+  ]
+ },
+ {
+  "id": 238,
+  "date": "1187",
+  "start": 1187,
+  "end": 1187,
+  "text": "saladin defeats the crusaders at hattin and retakes jerusalem",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "religion"
+  ]
+ },
+ {
+  "id": 236,
+  "date": "c. 1200",
+  "start": 1200,
+  "end": 1200,
+  "text": "king lalibela of ethiopia has churches carved down into solid rock",
+  "era": "the-middle-ages",
+  "region": "africa",
+  "tags": [
+   "architecture",
+   "religion"
+  ]
+ },
+ {
+  "id": 237,
+  "date": "c. 1200",
+  "start": 1200,
+  "end": 1200,
+  "text": "swahili trading cities like kilwa and mombasa prosper on indian ocean trade",
+  "era": "the-middle-ages",
+  "region": "africa",
+  "tags": [
+   "trade",
+   "cities"
+  ]
+ },
+ {
+  "id": 265,
+  "date": "c. 1200",
+  "start": 1200,
+  "end": 1200,
+  "text": "polynesian voyagers reach rapa nui (easter island), where their descendants carve the giant moai statues",
+  "era": "the-middle-ages",
+  "region": "oceania",
+  "tags": [
+   "migration",
+   "art"
+  ]
+ },
+ {
+  "id": 239,
+  "date": "1206",
+  "start": 1206,
+  "end": 1206,
+  "text": "temüjin unites the mongol tribes and is proclaimed genghis khan",
+  "era": "the-middle-ages",
+  "region": "central-asia",
+  "tags": [
+   "empire",
+   "politics"
+  ]
+ },
+ {
+  "id": 240,
+  "date": "1206",
+  "start": 1206,
+  "end": 1206,
+  "text": "the delhi sultanate is founded by turkic muslim rulers in northern india",
+  "era": "the-middle-ages",
+  "region": "south-asia",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 241,
+  "date": "1215",
+  "start": 1215,
+  "end": 1215,
+  "text": "english barons force king john to agree to the magna carta",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "law",
+   "politics",
+   "rights"
+  ]
+ },
+ {
+  "id": 242,
+  "date": "c. 1235",
+  "start": 1235,
+  "end": 1235,
+  "text": "sundiata keita defeats the sosso and founds the mali empire",
+  "era": "the-middle-ages",
+  "region": "africa",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 244,
+  "date": "c. 1250",
+  "start": 1250,
+  "end": 1250,
+  "text": "the ancestors of the māori, sailing from eastern polynesia, settle new zealand, the last large land mass humans reached",
+  "era": "the-middle-ages",
+  "region": "oceania",
+  "tags": [
+   "exploration",
+   "migration"
+  ]
+ },
+ {
+  "id": 266,
+  "date": "c. 1250",
+  "start": 1250,
+  "end": 1250,
+  "text": "ancestral puebloans build cliff dwellings at mesa verde in colorado; by 1300 they have moved away",
+  "era": "the-middle-ages",
+  "region": "north-america",
+  "tags": [
+   "architecture"
+  ]
+ },
+ {
+  "id": 267,
+  "date": "c. 1250",
+  "start": 1250,
+  "end": 1250,
+  "text": "the thule people, ancestors of the inuit, spread east across arctic canada to greenland, hunting whales from skin boats",
+  "era": "the-middle-ages",
+  "region": "the-arctic-and-antarctica",
+  "tags": [
+   "migration"
+  ]
+ },
+ {
+  "id": 243,
+  "date": "1258",
+  "start": 1258,
+  "end": 1258,
+  "text": "the mongols sack baghdad and end the abbasid caliphate",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "collapse"
+  ]
+ },
+ {
+  "id": 245,
+  "date": "1271–1295",
+  "start": 1271,
+  "end": 1295,
+  "text": "marco polo travels to china and serves at the court of kublai khan",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "exploration",
+   "trade"
+  ]
+ },
+ {
+  "id": 246,
+  "date": "1274–1281",
+  "start": 1274,
+  "end": 1281,
+  "text": "two mongol invasions of japan are wrecked by typhoons, the \"kamikaze\" or divine winds",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 247,
+  "date": "1279",
+  "start": 1279,
+  "end": 1279,
+  "text": "kublai khan completes the conquest of the song; the mongol yuan dynasty rules all of china",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "empire",
+   "war"
+  ]
+ },
+ {
+  "id": 248,
+  "date": "c. 1299",
+  "start": 1299,
+  "end": 1299,
+  "text": "osman i founds the small anatolian state that becomes the ottoman empire",
+  "era": "the-middle-ages",
+  "region": "the-middle-east",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 249,
+  "date": "c. 1300",
+  "start": 1300,
+  "end": 1300,
+  "text": "great zimbabwe, with its huge dry-stone walls, is at the height of its power",
+  "era": "the-middle-ages",
+  "region": "africa",
+  "tags": [
+   "cities",
+   "architecture"
+  ]
+ },
+ {
+  "id": 250,
+  "date": "1324",
+  "start": 1324,
+  "end": 1324,
+  "text": "mansa musa of mali makes his pilgrimage to mecca, spending so much gold in cairo that its value falls",
+  "era": "the-middle-ages",
+  "region": "africa",
+  "tags": [
+   "religion",
+   "trade"
+  ]
+ },
+ {
+  "id": 251,
+  "date": "c. 1325",
+  "start": 1325,
+  "end": 1325,
+  "text": "the mexica (aztecs) found tenochtitlan on an island in lake texcoco",
+  "era": "the-middle-ages",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "cities"
+  ]
+ },
+ {
+  "id": 268,
+  "date": "1325–1354",
+  "start": 1325,
+  "end": 1354,
+  "text": "ibn battuta travels about 120,000 kilometers through the islamic world and beyond, from west africa to china",
+  "era": "the-middle-ages",
+  "region": "the-whole-world",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 252,
+  "date": "1337–1453",
+  "start": 1337,
+  "end": 1453,
+  "text": "the hundred years' war between england and france",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 253,
+  "date": "1347–1351",
+  "start": 1347,
+  "end": 1351,
+  "text": "the black death kills roughly a third to a half of europe's people; it also ravages the middle east and north africa",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "disease",
+   "disaster"
+  ]
+ },
+ {
+  "id": 269,
+  "date": "c. 1350",
+  "start": 1350,
+  "end": 1350,
+  "text": "the majapahit empire, based on java, reaches its height and claims much of modern indonesia",
+  "era": "the-middle-ages",
+  "region": "southeast-asia",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 254,
+  "date": "1368",
+  "start": 1368,
+  "end": 1368,
+  "text": "the ming dynasty drives out the mongols and rules china",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 270,
+  "date": "1370–1405",
+  "start": 1370,
+  "end": 1405,
+  "text": "timur conquers an empire from his capital at samarkand, from anatolia to india, at a terrible cost in lives",
+  "era": "the-middle-ages",
+  "region": "central-asia",
+  "tags": [
+   "empire",
+   "war"
+  ]
+ },
+ {
+  "id": 271,
+  "date": "c. 1390",
+  "start": 1390,
+  "end": 1390,
+  "text": "the kingdom of kongo takes shape south of the congo river",
+  "era": "the-middle-ages",
+  "region": "africa",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 255,
+  "date": "1405–1433",
+  "start": 1405,
+  "end": 1433,
+  "text": "admiral zheng he leads seven giant treasure fleets as far as east africa",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "exploration",
+   "trade"
+  ]
+ },
+ {
+  "id": 256,
+  "date": "1429",
+  "start": 1429,
+  "end": 1429,
+  "text": "joan of arc leads the french to lift the siege of orléans",
+  "era": "the-middle-ages",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 257,
+  "date": "c. 1438",
+  "start": 1438,
+  "end": 1438,
+  "text": "pachacuti becomes ruler of the inca and begins their rapid expansion",
+  "era": "the-middle-ages",
+  "region": "south-america",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 272,
+  "date": "1443",
+  "start": 1443,
+  "end": 1443,
+  "text": "king sejong of korea has hangul created, a simple alphabet for the korean language",
+  "era": "the-middle-ages",
+  "region": "east-asia",
+  "tags": [
+   "writing"
+  ]
+ },
+ {
+  "id": 273,
+  "date": "c. 1450",
+  "start": 1450,
+  "end": 1450,
+  "text": "johannes gutenberg builds a printing press with movable metal type in mainz",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "technology",
+   "writing"
+  ]
+ },
+ {
+  "id": 274,
+  "date": "1453",
+  "start": 1453,
+  "end": 1453,
+  "text": "the ottomans under mehmed ii capture constantinople, ending the byzantine empire",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "war",
+   "empire",
+   "collapse"
+  ]
+ },
+ {
+  "id": 313,
+  "date": "1464–1492",
+  "start": 1464,
+  "end": 1492,
+  "text": "sonni ali builds the songhai empire along the niger river, taking timbuktu and djenné",
+  "era": "the-early-modern-world",
+  "region": "africa",
+  "tags": [
+   "empire",
+   "war"
+  ]
+ },
+ {
+  "id": 275,
+  "date": "1488",
+  "start": 1488,
+  "end": 1488,
+  "text": "bartolomeu dias sails around the southern tip of africa",
+  "era": "the-early-modern-world",
+  "region": "africa",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 276,
+  "date": "1492",
+  "start": 1492,
+  "end": 1492,
+  "text": "christopher columbus, sailing for spain, reaches the caribbean",
+  "era": "the-early-modern-world",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 277,
+  "date": "1492",
+  "start": 1492,
+  "end": 1492,
+  "text": "granada, the last muslim state in spain, falls; spain expels its jews",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "religion",
+   "war"
+  ]
+ },
+ {
+  "id": 278,
+  "date": "1498",
+  "start": 1498,
+  "end": 1498,
+  "text": "vasco da gama reaches calicut in india by sailing around africa",
+  "era": "the-early-modern-world",
+  "region": "south-asia",
+  "tags": [
+   "exploration",
+   "trade"
+  ]
+ },
+ {
+  "id": 314,
+  "date": "c. 1500",
+  "start": 1500,
+  "end": 1500,
+  "text": "guru nanak begins teaching in the punjab; his followers become the sikhs",
+  "era": "the-early-modern-world",
+  "region": "south-asia",
+  "tags": [
+   "religion"
+  ]
+ },
+ {
+  "id": 279,
+  "date": "1501",
+  "start": 1501,
+  "end": 1501,
+  "text": "ismail i founds the safavid empire in persia and makes shia islam the state religion",
+  "era": "the-early-modern-world",
+  "region": "the-middle-east",
+  "tags": [
+   "empire",
+   "religion"
+  ]
+ },
+ {
+  "id": 280,
+  "date": "1501–1866",
+  "start": 1501,
+  "end": 1866,
+  "text": "the transatlantic slave trade carries about 12.5 million africans in chains to the americas; nearly 2 million die at sea",
+  "era": "the-early-modern-world",
+  "region": "africa",
+  "tags": [
+   "slavery",
+   "trade"
+  ]
+ },
+ {
+  "id": 281,
+  "date": "1503",
+  "start": 1503,
+  "end": 1503,
+  "text": "leonardo da vinci begins painting the mona lisa",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "art"
+  ]
+ },
+ {
+  "id": 282,
+  "date": "1508–1512",
+  "start": 1508,
+  "end": 1512,
+  "text": "michelangelo paints the ceiling of the sistine chapel",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "art"
+  ]
+ },
+ {
+  "id": 283,
+  "date": "1517",
+  "start": 1517,
+  "end": 1517,
+  "text": "martin luther's 95 theses challenge the catholic church and start the reformation",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "religion"
+  ]
+ },
+ {
+  "id": 284,
+  "date": "1519–1521",
+  "start": 1519,
+  "end": 1521,
+  "text": "hernán cortés and indigenous allies conquer the aztec empire; smallpox kills much of tenochtitlan",
+  "era": "the-early-modern-world",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "war",
+   "empire",
+   "disease"
+  ]
+ },
+ {
+  "id": 285,
+  "date": "1519–1522",
+  "start": 1519,
+  "end": 1522,
+  "text": "the expedition begun by ferdinand magellan becomes the first to sail around the world",
+  "era": "the-early-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 315,
+  "date": "1520",
+  "start": 1520,
+  "end": 1520,
+  "text": "smallpox, brought by the spanish, kills a huge share of the people of tenochtitlan",
+  "era": "the-early-modern-world",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "disease"
+  ]
+ },
+ {
+  "id": 286,
+  "date": "1520–1566",
+  "start": 1520,
+  "end": 1566,
+  "text": "suleiman the magnificent rules the ottoman empire at its height",
+  "era": "the-early-modern-world",
+  "region": "the-middle-east",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 287,
+  "date": "1526",
+  "start": 1526,
+  "end": 1526,
+  "text": "babur wins the battle of panipat and founds the mughal empire",
+  "era": "the-early-modern-world",
+  "region": "south-asia",
+  "tags": [
+   "empire",
+   "war"
+  ]
+ },
+ {
+  "id": 288,
+  "date": "1529",
+  "start": 1529,
+  "end": 1529,
+  "text": "the ottomans besiege vienna but fail to take it",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 289,
+  "date": "1532–1533",
+  "start": 1532,
+  "end": 1533,
+  "text": "francisco pizarro captures and executes the inca ruler atahualpa, and the inca empire falls",
+  "era": "the-early-modern-world",
+  "region": "south-america",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 290,
+  "date": "1534",
+  "start": 1534,
+  "end": 1534,
+  "text": "henry viii makes himself head of the church of england",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "religion",
+   "politics"
+  ]
+ },
+ {
+  "id": 291,
+  "date": "1543",
+  "start": 1543,
+  "end": 1543,
+  "text": "copernicus publishes his theory that the earth orbits the sun",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 292,
+  "date": "1545",
+  "start": 1545,
+  "end": 1545,
+  "text": "silver is found at potosí in bolivia; forced native labor makes it one of the richest mines in history",
+  "era": "the-early-modern-world",
+  "region": "south-america",
+  "tags": [
+   "trade",
+   "economy"
+  ]
+ },
+ {
+  "id": 316,
+  "date": "1550–1551",
+  "start": 1550,
+  "end": 1551,
+  "text": "in the valladolid debate, bartolomé de las casas argues against the enslavement and abuse of the peoples of the americas",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 293,
+  "date": "1556–1605",
+  "start": 1556,
+  "end": 1605,
+  "text": "akbar the great rules the mughal empire and welcomes debate between religions",
+  "era": "the-early-modern-world",
+  "region": "south-asia",
+  "tags": [
+   "empire",
+   "religion"
+  ]
+ },
+ {
+  "id": 294,
+  "date": "1571",
+  "start": 1571,
+  "end": 1571,
+  "text": "spain founds manila; galleons now link the americas and asia, and american silver flows to china",
+  "era": "the-early-modern-world",
+  "region": "southeast-asia",
+  "tags": [
+   "trade"
+  ]
+ },
+ {
+  "id": 295,
+  "date": "1588",
+  "start": 1588,
+  "end": 1588,
+  "text": "the spanish armada fails to invade england",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 296,
+  "date": "1591",
+  "start": 1591,
+  "end": 1591,
+  "text": "a moroccan army with guns defeats the songhai empire",
+  "era": "the-early-modern-world",
+  "region": "africa",
+  "tags": [
+   "war",
+   "collapse"
+  ]
+ },
+ {
+  "id": 297,
+  "date": "1592–1598",
+  "start": 1592,
+  "end": 1598,
+  "text": "japan invades korea; admiral yi sun-sin's navy, with its armored turtle ships, helps drive them back",
+  "era": "the-early-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 298,
+  "date": "1600",
+  "start": 1600,
+  "end": 1600,
+  "text": "the english east india company is chartered; the dutch company follows in 1602",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "trade",
+   "empire"
+  ]
+ },
+ {
+  "id": 299,
+  "date": "1603",
+  "start": 1603,
+  "end": 1603,
+  "text": "tokugawa ieyasu becomes shogun; japan enters over 250 years of peace and isolation",
+  "era": "the-early-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "politics"
+  ]
+ },
+ {
+  "id": 317,
+  "date": "1606",
+  "start": 1606,
+  "end": 1606,
+  "text": "the dutch sailor willem janszoon makes the first recorded european landing in australia",
+  "era": "the-early-modern-world",
+  "region": "oceania",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 300,
+  "date": "1607",
+  "start": 1607,
+  "end": 1607,
+  "text": "the english found jamestown in virginia",
+  "era": "the-early-modern-world",
+  "region": "north-america",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 318,
+  "date": "1609",
+  "start": 1609,
+  "end": 1609,
+  "text": "johannes kepler shows that the planets move around the sun in ellipses, not perfect circles",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 301,
+  "date": "1610",
+  "start": 1610,
+  "end": 1610,
+  "text": "galileo uses a telescope to see the moons of jupiter",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 302,
+  "date": "1618–1648",
+  "start": 1618,
+  "end": 1648,
+  "text": "the thirty years' war devastates central europe; the peace of westphalia ends it",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "war",
+   "religion"
+  ]
+ },
+ {
+  "id": 303,
+  "date": "1619",
+  "start": 1619,
+  "end": 1619,
+  "text": "the first recorded enslaved africans arrive in english virginia",
+  "era": "the-early-modern-world",
+  "region": "north-america",
+  "tags": [
+   "slavery"
+  ]
+ },
+ {
+  "id": 304,
+  "date": "1632–1653",
+  "start": 1632,
+  "end": 1653,
+  "text": "the taj mahal is built by shah jahan as a tomb for his wife mumtaz mahal",
+  "era": "the-early-modern-world",
+  "region": "south-asia",
+  "tags": [
+   "architecture"
+  ]
+ },
+ {
+  "id": 319,
+  "date": "1642",
+  "start": 1642,
+  "end": 1642,
+  "text": "abel tasman reaches tasmania and new zealand",
+  "era": "the-early-modern-world",
+  "region": "oceania",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 305,
+  "date": "1644",
+  "start": 1644,
+  "end": 1644,
+  "text": "the manchus take beijing and found the qing dynasty, china's last",
+  "era": "the-early-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "empire",
+   "war"
+  ]
+ },
+ {
+  "id": 306,
+  "date": "1652",
+  "start": 1652,
+  "end": 1652,
+  "text": "the dutch east india company founds cape town",
+  "era": "the-early-modern-world",
+  "region": "africa",
+  "tags": [
+   "empire",
+   "trade"
+  ]
+ },
+ {
+  "id": 321,
+  "date": "1661–1722",
+  "start": 1661,
+  "end": 1722,
+  "text": "the kangxi emperor rules qing china for 61 years, one of the longest reigns in history",
+  "era": "the-early-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 320,
+  "date": "1665",
+  "start": 1665,
+  "end": 1665,
+  "text": "the great plague of london kills about 100,000 people, nearly a quarter of the city",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "disease"
+  ]
+ },
+ {
+  "id": 307,
+  "date": "1680",
+  "start": 1680,
+  "end": 1680,
+  "text": "the pueblo revolt drives spanish colonists out of new mexico for twelve years",
+  "era": "the-early-modern-world",
+  "region": "north-america",
+  "tags": [
+   "war",
+   "rights"
+  ]
+ },
+ {
+  "id": 308,
+  "date": "1682–1725",
+  "start": 1682,
+  "end": 1725,
+  "text": "peter the great rules russia and forces it to modernize along western lines",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "politics"
+  ]
+ },
+ {
+  "id": 309,
+  "date": "1683",
+  "start": 1683,
+  "end": 1683,
+  "text": "the ottomans are defeated at the second siege of vienna",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 310,
+  "date": "1687",
+  "start": 1687,
+  "end": 1687,
+  "text": "isaac newton publishes the principia, explaining gravity and the laws of motion",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 311,
+  "date": "1688",
+  "start": 1688,
+  "end": 1688,
+  "text": "the glorious revolution in england limits the power of the crown; a bill of rights follows",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "politics",
+   "rights"
+  ]
+ },
+ {
+  "id": 322,
+  "date": "1689",
+  "start": 1689,
+  "end": 1689,
+  "text": "the treaty of nerchinsk sets the border between russia and qing china, china's first treaty with a european power",
+  "era": "the-early-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 323,
+  "date": "c. 1700",
+  "start": 1700,
+  "end": 1700,
+  "text": "osei tutu founds the asante kingdom in the gold-rich forests of modern ghana, united by the golden stool",
+  "era": "the-early-modern-world",
+  "region": "africa",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 312,
+  "date": "1712",
+  "start": 1712,
+  "end": 1712,
+  "text": "thomas newcomen builds the first practical steam engine, to pump water from mines",
+  "era": "the-early-modern-world",
+  "region": "europe",
+  "tags": [
+   "technology"
+  ]
+ },
+ {
+  "id": 324,
+  "date": "1741",
+  "start": 1741,
+  "end": 1741,
+  "text": "vitus bering, sailing for russia, reaches alaska",
+  "era": "the-early-modern-world",
+  "region": "the-arctic-and-antarctica",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 325,
+  "date": "1751",
+  "start": 1751,
+  "end": 1751,
+  "text": "diderot and d'alembert publish the first volume of the encyclopédie",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "enlightenment",
+   "writing"
+  ]
+ },
+ {
+  "id": 326,
+  "date": "1756–1763",
+  "start": 1756,
+  "end": 1763,
+  "text": "the seven years' war is fought across europe, north america, india, and at sea; britain gains canada and power in india",
+  "era": "the-age-of-revolutions",
+  "region": "the-whole-world",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 327,
+  "date": "1757",
+  "start": 1757,
+  "end": 1757,
+  "text": "the east india company wins the battle of plassey and takes control of bengal",
+  "era": "the-age-of-revolutions",
+  "region": "south-asia",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 328,
+  "date": "1762",
+  "start": 1762,
+  "end": 1762,
+  "text": "rousseau publishes the social contract",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "enlightenment",
+   "philosophy"
+  ]
+ },
+ {
+  "id": 362,
+  "date": "1762–1796",
+  "start": 1762,
+  "end": 1796,
+  "text": "catherine the great rules russia, expanding it to the black sea",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 329,
+  "date": "1768–1779",
+  "start": 1768,
+  "end": 1779,
+  "text": "james cook makes three voyages across the pacific, mapping new zealand and eastern australia",
+  "era": "the-age-of-revolutions",
+  "region": "oceania",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 330,
+  "date": "1769",
+  "start": 1769,
+  "end": 1769,
+  "text": "james watt patents a much more efficient steam engine",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "technology",
+   "industry"
+  ]
+ },
+ {
+  "id": 331,
+  "date": "1773",
+  "start": 1773,
+  "end": 1773,
+  "text": "colonists dump british tea into boston harbor, the boston tea party",
+  "era": "the-age-of-revolutions",
+  "region": "north-america",
+  "tags": [
+   "revolution"
+  ]
+ },
+ {
+  "id": 332,
+  "date": "1776",
+  "start": 1776,
+  "end": 1776,
+  "text": "the thirteen colonies declare independence from britain",
+  "era": "the-age-of-revolutions",
+  "region": "north-america",
+  "tags": [
+   "revolution",
+   "rights"
+  ]
+ },
+ {
+  "id": 333,
+  "date": "1776",
+  "start": 1776,
+  "end": 1776,
+  "text": "adam smith publishes the wealth of nations",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "economy",
+   "enlightenment"
+  ]
+ },
+ {
+  "id": 363,
+  "date": "1780–1783",
+  "start": 1780,
+  "end": 1783,
+  "text": "tupac amaru ii leads a great indigenous uprising against spanish rule in peru; it is crushed and he is executed",
+  "era": "the-age-of-revolutions",
+  "region": "south-america",
+  "tags": [
+   "revolution"
+  ]
+ },
+ {
+  "id": 334,
+  "date": "1781",
+  "start": 1781,
+  "end": 1781,
+  "text": "british forces surrender at yorktown",
+  "era": "the-age-of-revolutions",
+  "region": "north-america",
+  "tags": [
+   "war",
+   "revolution"
+  ]
+ },
+ {
+  "id": 335,
+  "date": "1787",
+  "start": 1787,
+  "end": 1787,
+  "text": "the united states constitution is written in philadelphia",
+  "era": "the-age-of-revolutions",
+  "region": "north-america",
+  "tags": [
+   "politics",
+   "law"
+  ]
+ },
+ {
+  "id": 336,
+  "date": "1788",
+  "start": 1788,
+  "end": 1788,
+  "text": "the british \"first fleet\" arrives at sydney; the colonization of australia begins",
+  "era": "the-age-of-revolutions",
+  "region": "oceania",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 337,
+  "date": "1789",
+  "start": 1789,
+  "end": 1789,
+  "text": "the french revolution begins; a crowd storms the bastille and the declaration of the rights of man is issued",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "revolution",
+   "rights"
+  ]
+ },
+ {
+  "id": 338,
+  "date": "1791–1804",
+  "start": 1791,
+  "end": 1804,
+  "text": "the haitian revolution: enslaved people in saint-domingue rise up and create the free nation of haiti",
+  "era": "the-age-of-revolutions",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "revolution",
+   "slavery",
+   "rights"
+  ]
+ },
+ {
+  "id": 339,
+  "date": "1792",
+  "start": 1792,
+  "end": 1792,
+  "text": "mary wollstonecraft publishes a vindication of the rights of woman",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "rights",
+   "enlightenment"
+  ]
+ },
+ {
+  "id": 340,
+  "date": "1793",
+  "start": 1793,
+  "end": 1793,
+  "text": "louis xvi is executed; the reign of terror begins",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "revolution"
+  ]
+ },
+ {
+  "id": 364,
+  "date": "1793",
+  "start": 1793,
+  "end": 1793,
+  "text": "the qianlong emperor turns away a british embassy asking for more trade, writing that china needs nothing from britain",
+  "era": "the-age-of-revolutions",
+  "region": "east-asia",
+  "tags": [
+   "diplomacy",
+   "trade"
+  ]
+ },
+ {
+  "id": 341,
+  "date": "1796",
+  "start": 1796,
+  "end": 1796,
+  "text": "edward jenner shows that cowpox can protect people against smallpox, the first vaccine",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "medicine",
+   "science"
+  ]
+ },
+ {
+  "id": 365,
+  "date": "1798",
+  "start": 1798,
+  "end": 1798,
+  "text": "thomas malthus argues that population will always grow faster than the food supply",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "economy"
+  ]
+ },
+ {
+  "id": 342,
+  "date": "1799",
+  "start": 1799,
+  "end": 1799,
+  "text": "napoleon bonaparte seizes power in france; he crowns himself emperor in 1804",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "politics"
+  ]
+ },
+ {
+  "id": 366,
+  "date": "1803",
+  "start": 1803,
+  "end": 1803,
+  "text": "the united states buys the vast louisiana territory from france, doubling its size",
+  "era": "the-age-of-revolutions",
+  "region": "north-america",
+  "tags": [
+   "politics"
+  ]
+ },
+ {
+  "id": 343,
+  "date": "1804",
+  "start": 1804,
+  "end": 1804,
+  "text": "the napoleonic code sets out equal civil law for all french men",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "law"
+  ]
+ },
+ {
+  "id": 344,
+  "date": "1807",
+  "start": 1807,
+  "end": 1807,
+  "text": "britain bans the atlantic slave trade",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "slavery",
+   "law"
+  ]
+ },
+ {
+  "id": 345,
+  "date": "1810–1821",
+  "start": 1810,
+  "end": 1821,
+  "text": "mexico fights for and wins independence from spain, after the call to revolt by miguel hidalgo",
+  "era": "the-age-of-revolutions",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "revolution"
+  ]
+ },
+ {
+  "id": 346,
+  "date": "1812",
+  "start": 1812,
+  "end": 1812,
+  "text": "napoleon's invasion of russia ends in disaster",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 347,
+  "date": "1815",
+  "start": 1815,
+  "end": 1815,
+  "text": "napoleon is defeated at waterloo; the congress of vienna redraws europe",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "war",
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 348,
+  "date": "1815",
+  "start": 1815,
+  "end": 1815,
+  "text": "mount tambora in indonesia erupts; the next year is the \"year without a summer\"",
+  "era": "the-age-of-revolutions",
+  "region": "southeast-asia",
+  "tags": [
+   "disaster",
+   "environment"
+  ]
+ },
+ {
+  "id": 349,
+  "date": "c. 1816",
+  "start": 1816,
+  "end": 1816,
+  "text": "shaka builds the zulu kingdom into a powerful military state in southern africa",
+  "era": "the-age-of-revolutions",
+  "region": "africa",
+  "tags": [
+   "empire",
+   "war"
+  ]
+ },
+ {
+  "id": 350,
+  "date": "1819",
+  "start": 1819,
+  "end": 1819,
+  "text": "simón bolívar wins the battle of boyacá, freeing new granada (colombia)",
+  "era": "the-age-of-revolutions",
+  "region": "south-america",
+  "tags": [
+   "revolution",
+   "war"
+  ]
+ },
+ {
+  "id": 367,
+  "date": "1820",
+  "start": 1820,
+  "end": 1820,
+  "text": "russian and british expeditions make the first confirmed sightings of antarctica",
+  "era": "the-age-of-revolutions",
+  "region": "the-arctic-and-antarctica",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 351,
+  "date": "1821",
+  "start": 1821,
+  "end": 1821,
+  "text": "the greek war of independence against the ottomans begins",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "revolution",
+   "nationalism"
+  ]
+ },
+ {
+  "id": 352,
+  "date": "1822",
+  "start": 1822,
+  "end": 1822,
+  "text": "brazil declares independence from portugal",
+  "era": "the-age-of-revolutions",
+  "region": "south-america",
+  "tags": [
+   "revolution"
+  ]
+ },
+ {
+  "id": 353,
+  "date": "1825",
+  "start": 1825,
+  "end": 1825,
+  "text": "the stockton and darlington railway opens in england, the first public steam railway",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "technology",
+   "industry"
+  ]
+ },
+ {
+  "id": 368,
+  "date": "1829",
+  "start": 1829,
+  "end": 1829,
+  "text": "after a campaign by ram mohan roy and others, british india bans sati, the burning of widows",
+  "era": "the-age-of-revolutions",
+  "region": "south-asia",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 369,
+  "date": "1830",
+  "start": 1830,
+  "end": 1830,
+  "text": "france invades algeria, beginning more than 130 years of french rule",
+  "era": "the-age-of-revolutions",
+  "region": "africa",
+  "tags": [
+   "empire",
+   "war"
+  ]
+ },
+ {
+  "id": 370,
+  "date": "1831–1836",
+  "start": 1831,
+  "end": 1836,
+  "text": "charles darwin sails around the world on hms beagle, collecting the evidence for his theory of evolution",
+  "era": "the-age-of-revolutions",
+  "region": "the-whole-world",
+  "tags": [
+   "science",
+   "exploration"
+  ]
+ },
+ {
+  "id": 354,
+  "date": "1833",
+  "start": 1833,
+  "end": 1833,
+  "text": "britain passes the slavery abolition act, ending slavery in most of its empire",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "slavery",
+   "law"
+  ]
+ },
+ {
+  "id": 355,
+  "date": "1838",
+  "start": 1838,
+  "end": 1838,
+  "text": "the cherokee are forced from their lands on the trail of tears; thousands die",
+  "era": "the-age-of-revolutions",
+  "region": "north-america",
+  "tags": [
+   "rights",
+   "migration"
+  ]
+ },
+ {
+  "id": 356,
+  "date": "1839–1842",
+  "start": 1839,
+  "end": 1842,
+  "text": "the first opium war: britain defeats china and takes hong kong",
+  "era": "the-age-of-revolutions",
+  "region": "east-asia",
+  "tags": [
+   "war",
+   "empire",
+   "trade"
+  ]
+ },
+ {
+  "id": 357,
+  "date": "1840",
+  "start": 1840,
+  "end": 1840,
+  "text": "the treaty of waitangi is signed between the british crown and māori chiefs in new zealand",
+  "era": "the-age-of-revolutions",
+  "region": "oceania",
+  "tags": [
+   "empire",
+   "law"
+  ]
+ },
+ {
+  "id": 371,
+  "date": "1843",
+  "start": 1843,
+  "end": 1843,
+  "text": "ada lovelace publishes notes on babbage's analytical engine, including what is often called the first computer program",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "computers",
+   "science"
+  ]
+ },
+ {
+  "id": 358,
+  "date": "1844",
+  "start": 1844,
+  "end": 1844,
+  "text": "samuel morse sends a telegraph message from washington to baltimore",
+  "era": "the-age-of-revolutions",
+  "region": "north-america",
+  "tags": [
+   "technology"
+  ]
+ },
+ {
+  "id": 359,
+  "date": "1845–1852",
+  "start": 1845,
+  "end": 1852,
+  "text": "the great famine in ireland: about a million die and a million emigrate",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "disaster",
+   "migration"
+  ]
+ },
+ {
+  "id": 372,
+  "date": "1846",
+  "start": 1846,
+  "end": 1846,
+  "text": "surgeons in boston operate on a patient put to sleep with ether, the first public demonstration of anesthesia",
+  "era": "the-age-of-revolutions",
+  "region": "north-america",
+  "tags": [
+   "medicine"
+  ]
+ },
+ {
+  "id": 373,
+  "date": "1847",
+  "start": 1847,
+  "end": 1847,
+  "text": "ignaz semmelweis shows that doctors washing their hands saves mothers from childbed fever",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "medicine"
+  ]
+ },
+ {
+  "id": 360,
+  "date": "1848",
+  "start": 1848,
+  "end": 1848,
+  "text": "revolutions break out across europe; marx and engels publish the communist manifesto",
+  "era": "the-age-of-revolutions",
+  "region": "europe",
+  "tags": [
+   "revolution",
+   "socialism"
+  ]
+ },
+ {
+  "id": 361,
+  "date": "1848",
+  "start": 1848,
+  "end": 1848,
+  "text": "the seneca falls convention demands equal rights for women, including the vote",
+  "era": "the-age-of-revolutions",
+  "region": "north-america",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 374,
+  "date": "1850–1864",
+  "start": 1850,
+  "end": 1864,
+  "text": "the taiping rebellion in china, one of the deadliest wars in history, kills perhaps 20 to 30 million people",
+  "era": "industry-and-empire",
+  "region": "east-asia",
+  "tags": [
+   "war",
+   "religion"
+  ]
+ },
+ {
+  "id": 375,
+  "date": "1851",
+  "start": 1851,
+  "end": 1851,
+  "text": "the great exhibition in london's crystal palace shows off the machines of the industrial age",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "industry",
+   "technology"
+  ]
+ },
+ {
+  "id": 376,
+  "date": "1853",
+  "start": 1853,
+  "end": 1853,
+  "text": "american warships under commodore perry force japan to open to trade",
+  "era": "industry-and-empire",
+  "region": "east-asia",
+  "tags": [
+   "empire",
+   "trade"
+  ]
+ },
+ {
+  "id": 412,
+  "date": "1854",
+  "start": 1854,
+  "end": 1854,
+  "text": "john snow traces a london cholera outbreak to a single water pump, a founding moment of epidemiology",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "disease",
+   "science"
+  ]
+ },
+ {
+  "id": 413,
+  "date": "1854–1856",
+  "start": 1854,
+  "end": 1856,
+  "text": "during the crimean war, florence nightingale cuts deaths in army hospitals and uses statistics to push for reform",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "medicine",
+   "war"
+  ]
+ },
+ {
+  "id": 377,
+  "date": "1857",
+  "start": 1857,
+  "end": 1857,
+  "text": "a great rebellion against the east india company spreads across northern india",
+  "era": "industry-and-empire",
+  "region": "south-asia",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 378,
+  "date": "1858",
+  "start": 1858,
+  "end": 1858,
+  "text": "the british crown takes direct control of india, beginning the raj",
+  "era": "industry-and-empire",
+  "region": "south-asia",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 379,
+  "date": "1859",
+  "start": 1859,
+  "end": 1859,
+  "text": "charles darwin publishes on the origin of species",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 414,
+  "date": "1859",
+  "start": 1859,
+  "end": 1859,
+  "text": "the first commercial oil well is drilled in pennsylvania, beginning the age of oil",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "industry",
+   "technology"
+  ]
+ },
+ {
+  "id": 380,
+  "date": "1861",
+  "start": 1861,
+  "end": 1861,
+  "text": "the kingdom of italy is proclaimed; russia frees its serfs",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "nationalism",
+   "rights"
+  ]
+ },
+ {
+  "id": 381,
+  "date": "1861–1865",
+  "start": 1861,
+  "end": 1865,
+  "text": "the american civil war; around 700,000 soldiers die",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "war",
+   "slavery"
+  ]
+ },
+ {
+  "id": 382,
+  "date": "1863",
+  "start": 1863,
+  "end": 1863,
+  "text": "abraham lincoln issues the emancipation proclamation",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "slavery",
+   "rights"
+  ]
+ },
+ {
+  "id": 383,
+  "date": "1865",
+  "start": 1865,
+  "end": 1865,
+  "text": "the thirteenth amendment abolishes slavery in the united states; lincoln is assassinated",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "slavery",
+   "law"
+  ]
+ },
+ {
+  "id": 384,
+  "date": "1867",
+  "start": 1867,
+  "end": 1867,
+  "text": "karl marx publishes the first volume of das kapital",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "socialism",
+   "economy"
+  ]
+ },
+ {
+  "id": 385,
+  "date": "1868",
+  "start": 1868,
+  "end": 1868,
+  "text": "the meiji restoration begins japan's rapid modernization",
+  "era": "industry-and-empire",
+  "region": "east-asia",
+  "tags": [
+   "politics",
+   "industry"
+  ]
+ },
+ {
+  "id": 386,
+  "date": "1869",
+  "start": 1869,
+  "end": 1869,
+  "text": "the suez canal opens, linking the mediterranean and the red sea",
+  "era": "industry-and-empire",
+  "region": "africa",
+  "tags": [
+   "trade",
+   "technology"
+  ]
+ },
+ {
+  "id": 387,
+  "date": "1869",
+  "start": 1869,
+  "end": 1869,
+  "text": "the first transcontinental railroad across the united states is completed",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "technology",
+   "industry"
+  ]
+ },
+ {
+  "id": 388,
+  "date": "1869",
+  "start": 1869,
+  "end": 1869,
+  "text": "dmitri mendeleev publishes the periodic table of the elements",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 389,
+  "date": "1871",
+  "start": 1871,
+  "end": 1871,
+  "text": "germany is unified under prussia; wilhelm i is proclaimed emperor",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "nationalism",
+   "politics"
+  ]
+ },
+ {
+  "id": 390,
+  "date": "1876",
+  "start": 1876,
+  "end": 1876,
+  "text": "alexander graham bell patents the telephone",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "technology"
+  ]
+ },
+ {
+  "id": 391,
+  "date": "1879",
+  "start": 1879,
+  "end": 1879,
+  "text": "thomas edison's team demonstrates a long-lasting electric light bulb",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "technology"
+  ]
+ },
+ {
+  "id": 392,
+  "date": "1882",
+  "start": 1882,
+  "end": 1882,
+  "text": "robert koch identifies the germ that causes tuberculosis",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "medicine",
+   "science"
+  ]
+ },
+ {
+  "id": 415,
+  "date": "1882",
+  "start": 1882,
+  "end": 1882,
+  "text": "edison's pearl street station in new york begins supplying electricity to paying customers",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "technology",
+   "industry"
+  ]
+ },
+ {
+  "id": 416,
+  "date": "1883",
+  "start": 1883,
+  "end": 1883,
+  "text": "krakatoa erupts in indonesia; the blast is heard nearly 5,000 kilometers away",
+  "era": "industry-and-empire",
+  "region": "southeast-asia",
+  "tags": [
+   "disaster"
+  ]
+ },
+ {
+  "id": 393,
+  "date": "1884–1885",
+  "start": 1884,
+  "end": 1885,
+  "text": "at the berlin conference, european powers set rules for dividing africa; no africans are present",
+  "era": "industry-and-empire",
+  "region": "africa",
+  "tags": [
+   "empire",
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 417,
+  "date": "1885",
+  "start": 1885,
+  "end": 1885,
+  "text": "louis pasteur gives the first rabies vaccine to a boy bitten by a rabid dog",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "medicine"
+  ]
+ },
+ {
+  "id": 394,
+  "date": "1885–1908",
+  "start": 1885,
+  "end": 1908,
+  "text": "the congo free state, run by king leopold ii of belgium, forces people to harvest rubber; millions die",
+  "era": "industry-and-empire",
+  "region": "africa",
+  "tags": [
+   "empire",
+   "rights"
+  ]
+ },
+ {
+  "id": 395,
+  "date": "1886",
+  "start": 1886,
+  "end": 1886,
+  "text": "karl benz patents a gasoline-powered automobile",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "technology"
+  ]
+ },
+ {
+  "id": 396,
+  "date": "1888",
+  "start": 1888,
+  "end": 1888,
+  "text": "brazil becomes the last country in the americas to abolish slavery",
+  "era": "industry-and-empire",
+  "region": "south-america",
+  "tags": [
+   "slavery",
+   "law"
+  ]
+ },
+ {
+  "id": 418,
+  "date": "1890",
+  "start": 1890,
+  "end": 1890,
+  "text": "us soldiers kill about 250 to 300 lakota men, women, and children at wounded knee",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 397,
+  "date": "1893",
+  "start": 1893,
+  "end": 1893,
+  "text": "new zealand becomes the first self-governing country to give women the vote",
+  "era": "industry-and-empire",
+  "region": "oceania",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 419,
+  "date": "1893",
+  "start": 1893,
+  "end": 1893,
+  "text": "american businessmen backed by us marines overthrow queen liliuokalani of hawaii; the united states annexes the islands in 1898",
+  "era": "industry-and-empire",
+  "region": "oceania",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 398,
+  "date": "1895",
+  "start": 1895,
+  "end": 1895,
+  "text": "wilhelm röntgen discovers x-rays; the lumière brothers show the first public films",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "science",
+   "technology"
+  ]
+ },
+ {
+  "id": 399,
+  "date": "1896",
+  "start": 1896,
+  "end": 1896,
+  "text": "ethiopia defeats an invading italian army at the battle of adwa and stays independent",
+  "era": "industry-and-empire",
+  "region": "africa",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 420,
+  "date": "1896",
+  "start": 1896,
+  "end": 1896,
+  "text": "the philippine revolution against spain begins; the spanish execute the writer josé rizal",
+  "era": "industry-and-empire",
+  "region": "southeast-asia",
+  "tags": [
+   "revolution"
+  ]
+ },
+ {
+  "id": 400,
+  "date": "1898",
+  "start": 1898,
+  "end": 1898,
+  "text": "the spanish-american war: the united states takes puerto rico, guam, and the philippines",
+  "era": "industry-and-empire",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 421,
+  "date": "1898",
+  "start": 1898,
+  "end": 1898,
+  "text": "samori ture, who fought the french conquest of west africa for nearly two decades, is captured",
+  "era": "industry-and-empire",
+  "region": "africa",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 401,
+  "date": "1899–1902",
+  "start": 1899,
+  "end": 1902,
+  "text": "the second boer war in south africa; the british use concentration camps",
+  "era": "industry-and-empire",
+  "region": "africa",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 402,
+  "date": "1900",
+  "start": 1900,
+  "end": 1900,
+  "text": "the boxer rebellion against foreigners in china is crushed by eight foreign powers",
+  "era": "industry-and-empire",
+  "region": "east-asia",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 403,
+  "date": "1903",
+  "start": 1903,
+  "end": 1903,
+  "text": "the wright brothers make the first powered airplane flights",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "technology"
+  ]
+ },
+ {
+  "id": 404,
+  "date": "1903",
+  "start": 1903,
+  "end": 1903,
+  "text": "marie curie shares the nobel prize in physics for research on radioactivity",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 405,
+  "date": "1904–1905",
+  "start": 1904,
+  "end": 1905,
+  "text": "japan defeats russia in the russo-japanese war",
+  "era": "industry-and-empire",
+  "region": "east-asia",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 406,
+  "date": "1904–1908",
+  "start": 1904,
+  "end": 1908,
+  "text": "german colonial forces carry out genocide against the herero and nama in southwest africa (namibia)",
+  "era": "industry-and-empire",
+  "region": "africa",
+  "tags": [
+   "empire",
+   "genocide"
+  ]
+ },
+ {
+  "id": 407,
+  "date": "1905",
+  "start": 1905,
+  "end": 1905,
+  "text": "albert einstein publishes special relativity and his work on light quanta",
+  "era": "industry-and-empire",
+  "region": "europe",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 408,
+  "date": "1908",
+  "start": 1908,
+  "end": 1908,
+  "text": "ford begins making the model t, soon on a moving assembly line",
+  "era": "industry-and-empire",
+  "region": "north-america",
+  "tags": [
+   "industry",
+   "technology"
+  ]
+ },
+ {
+  "id": 422,
+  "date": "1908",
+  "start": 1908,
+  "end": 1908,
+  "text": "oil is struck in persia, the first great oil find in the middle east",
+  "era": "industry-and-empire",
+  "region": "the-middle-east",
+  "tags": [
+   "industry"
+  ]
+ },
+ {
+  "id": 409,
+  "date": "1910–1920",
+  "start": 1910,
+  "end": 1920,
+  "text": "the mexican revolution overthrows porfirio díaz",
+  "era": "industry-and-empire",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "revolution"
+  ]
+ },
+ {
+  "id": 423,
+  "date": "1911",
+  "start": 1911,
+  "end": 1911,
+  "text": "roald amundsen's norwegian team is the first to reach the south pole",
+  "era": "industry-and-empire",
+  "region": "the-arctic-and-antarctica",
+  "tags": [
+   "exploration"
+  ]
+ },
+ {
+  "id": 410,
+  "date": "1911–1912",
+  "start": 1911,
+  "end": 1912,
+  "text": "the xinhai revolution ends the qing dynasty and more than 2,000 years of imperial rule in china",
+  "era": "industry-and-empire",
+  "region": "east-asia",
+  "tags": [
+   "revolution"
+  ]
+ },
+ {
+  "id": 411,
+  "date": "1914",
+  "start": 1914,
+  "end": 1914,
+  "text": "the panama canal opens",
+  "era": "industry-and-empire",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "trade",
+   "technology"
+  ]
+ },
+ {
+  "id": 424,
+  "date": "1914",
+  "start": 1914,
+  "end": 1914,
+  "text": "archduke franz ferdinand is assassinated in sarajevo; within weeks the great powers are at war",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 425,
+  "date": "1914–1918",
+  "start": 1914,
+  "end": 1918,
+  "text": "the first world war: about 20 million soldiers and civilians die",
+  "era": "the-world-wars",
+  "region": "the-whole-world",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 426,
+  "date": "1915",
+  "start": 1915,
+  "end": 1915,
+  "text": "allied troops land at gallipoli but fail to knock the ottoman empire out of the war",
+  "era": "the-world-wars",
+  "region": "the-middle-east",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 427,
+  "date": "1915–1917",
+  "start": 1915,
+  "end": 1917,
+  "text": "the ottoman government carries out the armenian genocide, killing around a million armenians",
+  "era": "the-world-wars",
+  "region": "the-middle-east",
+  "tags": [
+   "genocide"
+  ]
+ },
+ {
+  "id": 428,
+  "date": "1916",
+  "start": 1916,
+  "end": 1916,
+  "text": "the battles of verdun and the somme cause over a million casualties each",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 429,
+  "date": "1917",
+  "start": 1917,
+  "end": 1917,
+  "text": "the russian revolution: the tsar falls, then the bolsheviks under lenin seize power",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "revolution",
+   "communism"
+  ]
+ },
+ {
+  "id": 430,
+  "date": "1917",
+  "start": 1917,
+  "end": 1917,
+  "text": "the united states enters the war against germany",
+  "era": "the-world-wars",
+  "region": "north-america",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 431,
+  "date": "1918",
+  "start": 1918,
+  "end": 1918,
+  "text": "the armistice ends the fighting on 11 november",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "war",
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 432,
+  "date": "1918–1920",
+  "start": 1918,
+  "end": 1920,
+  "text": "an influenza pandemic kills an estimated 50 million people",
+  "era": "the-world-wars",
+  "region": "the-whole-world",
+  "tags": [
+   "disease",
+   "disaster"
+  ]
+ },
+ {
+  "id": 433,
+  "date": "1919",
+  "start": 1919,
+  "end": 1919,
+  "text": "the treaty of versailles punishes germany; the league of nations is created",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 459,
+  "date": "1919",
+  "start": 1919,
+  "end": 1919,
+  "text": "emiliano zapata, who fought for land for mexico's poor farmers, is assassinated",
+  "era": "the-world-wars",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "revolution"
+  ]
+ },
+ {
+  "id": 434,
+  "date": "1920",
+  "start": 1920,
+  "end": 1920,
+  "text": "the nineteenth amendment gives american women the vote",
+  "era": "the-world-wars",
+  "region": "north-america",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 435,
+  "date": "1922",
+  "start": 1922,
+  "end": 1922,
+  "text": "the soviet union is formed; mussolini's fascists march on rome and take power",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "communism",
+   "fascism"
+  ]
+ },
+ {
+  "id": 436,
+  "date": "1923",
+  "start": 1923,
+  "end": 1923,
+  "text": "mustafa kemal atatürk founds the republic of turkey",
+  "era": "the-world-wars",
+  "region": "the-middle-east",
+  "tags": [
+   "nationalism",
+   "politics"
+  ]
+ },
+ {
+  "id": 460,
+  "date": "1927",
+  "start": 1927,
+  "end": 1927,
+  "text": "the world's population reaches two billion",
+  "era": "the-world-wars",
+  "region": "the-whole-world",
+  "tags": [
+   "humans"
+  ]
+ },
+ {
+  "id": 437,
+  "date": "1928",
+  "start": 1928,
+  "end": 1928,
+  "text": "alexander fleming discovers penicillin, the first antibiotic",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "medicine",
+   "science"
+  ]
+ },
+ {
+  "id": 438,
+  "date": "1929",
+  "start": 1929,
+  "end": 1929,
+  "text": "the wall street crash starts the great depression",
+  "era": "the-world-wars",
+  "region": "north-america",
+  "tags": [
+   "economy"
+  ]
+ },
+ {
+  "id": 439,
+  "date": "1930",
+  "start": 1930,
+  "end": 1930,
+  "text": "gandhi leads the salt march against british rule",
+  "era": "the-world-wars",
+  "region": "south-asia",
+  "tags": [
+   "rights",
+   "independence"
+  ]
+ },
+ {
+  "id": 440,
+  "date": "1931",
+  "start": 1931,
+  "end": 1931,
+  "text": "japan invades manchuria",
+  "era": "the-world-wars",
+  "region": "east-asia",
+  "tags": [
+   "war",
+   "empire"
+  ]
+ },
+ {
+  "id": 441,
+  "date": "1932–1933",
+  "start": 1932,
+  "end": 1933,
+  "text": "famine caused by stalin's policies kills millions in ukraine (the holodomor) and kazakhstan",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "communism",
+   "disaster"
+  ]
+ },
+ {
+  "id": 442,
+  "date": "1933",
+  "start": 1933,
+  "end": 1933,
+  "text": "adolf hitler becomes chancellor of germany and quickly makes himself dictator",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "fascism"
+  ]
+ },
+ {
+  "id": 443,
+  "date": "1933",
+  "start": 1933,
+  "end": 1933,
+  "text": "franklin d. roosevelt begins the new deal",
+  "era": "the-world-wars",
+  "region": "north-america",
+  "tags": [
+   "economy",
+   "politics"
+  ]
+ },
+ {
+  "id": 444,
+  "date": "1935–1936",
+  "start": 1935,
+  "end": 1936,
+  "text": "fascist italy invades and occupies ethiopia, using poison gas",
+  "era": "the-world-wars",
+  "region": "africa",
+  "tags": [
+   "war",
+   "fascism"
+  ]
+ },
+ {
+  "id": 461,
+  "date": "1936",
+  "start": 1936,
+  "end": 1936,
+  "text": "alan turing describes a universal computing machine, the idea behind every modern computer",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "computers",
+   "science"
+  ]
+ },
+ {
+  "id": 445,
+  "date": "1936–1939",
+  "start": 1936,
+  "end": 1939,
+  "text": "the spanish civil war ends with franco's nationalists in power",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "war",
+   "fascism"
+  ]
+ },
+ {
+  "id": 446,
+  "date": "1937",
+  "start": 1937,
+  "end": 1937,
+  "text": "japan launches full-scale war on china; japanese troops massacre civilians at nanjing",
+  "era": "the-world-wars",
+  "region": "east-asia",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 447,
+  "date": "1938",
+  "start": 1938,
+  "end": 1938,
+  "text": "germany annexes austria; britain and france let hitler take part of czechoslovakia at munich; the kristallnacht pogrom",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "fascism",
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 462,
+  "date": "1938",
+  "start": 1938,
+  "end": 1938,
+  "text": "otto hahn and fritz strassmann split uranium atoms; lise meitner and otto frisch explain it as nuclear fission",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "science",
+   "nuclear"
+  ]
+ },
+ {
+  "id": 448,
+  "date": "1939",
+  "start": 1939,
+  "end": 1939,
+  "text": "germany invades poland; britain and france declare war",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 449,
+  "date": "1939–1945",
+  "start": 1939,
+  "end": 1945,
+  "text": "the second world war: an estimated 70 to 85 million people die, most of them civilians",
+  "era": "the-world-wars",
+  "region": "the-whole-world",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 450,
+  "date": "1940",
+  "start": 1940,
+  "end": 1940,
+  "text": "germany conquers france; britain wins the battle of britain in the air",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 451,
+  "date": "1941",
+  "start": 1941,
+  "end": 1941,
+  "text": "germany invades the soviet union",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 452,
+  "date": "1941",
+  "start": 1941,
+  "end": 1941,
+  "text": "japan attacks pearl harbor; the united states enters the war",
+  "era": "the-world-wars",
+  "region": "north-america",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 453,
+  "date": "1941–1945",
+  "start": 1941,
+  "end": 1945,
+  "text": "the holocaust: nazi germany murders six million jews, as well as roma, disabled people, and others",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "genocide",
+   "fascism"
+  ]
+ },
+ {
+  "id": 454,
+  "date": "1942",
+  "start": 1942,
+  "end": 1942,
+  "text": "the united states defeats japan at the battle of midway",
+  "era": "the-world-wars",
+  "region": "oceania",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 455,
+  "date": "1942–1943",
+  "start": 1942,
+  "end": 1943,
+  "text": "the soviets destroy a german army at stalingrad",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 463,
+  "date": "1943",
+  "start": 1943,
+  "end": 1943,
+  "text": "the bengal famine kills about three million people under british wartime rule",
+  "era": "the-world-wars",
+  "region": "south-asia",
+  "tags": [
+   "disaster"
+  ]
+ },
+ {
+  "id": 456,
+  "date": "1944",
+  "start": 1944,
+  "end": 1944,
+  "text": "d-day: allied forces land in normandy",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 457,
+  "date": "1945",
+  "start": 1945,
+  "end": 1945,
+  "text": "soviet troops liberate auschwitz; hitler kills himself; germany surrenders in may",
+  "era": "the-world-wars",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 458,
+  "date": "1945",
+  "start": 1945,
+  "end": 1945,
+  "text": "the united states drops atomic bombs on hiroshima and nagasaki; japan surrenders",
+  "era": "the-world-wars",
+  "region": "east-asia",
+  "tags": [
+   "war",
+   "nuclear"
+  ]
+ },
+ {
+  "id": 464,
+  "date": "1945",
+  "start": 1945,
+  "end": 1945,
+  "text": "the united nations is founded",
+  "era": "the-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 517,
+  "date": "1945",
+  "start": 1945,
+  "end": 1945,
+  "text": "sukarno declares indonesia independent; the dutch fight to hold on until 1949",
+  "era": "the-modern-world",
+  "region": "southeast-asia",
+  "tags": [
+   "independence"
+  ]
+ },
+ {
+  "id": 518,
+  "date": "1945",
+  "start": 1945,
+  "end": 1945,
+  "text": "ho chi minh declares the independence of vietnam; war with france follows",
+  "era": "the-modern-world",
+  "region": "southeast-asia",
+  "tags": [
+   "independence",
+   "war"
+  ]
+ },
+ {
+  "id": 465,
+  "date": "1947",
+  "start": 1947,
+  "end": 1947,
+  "text": "india and pakistan become independent; the partition displaces up to 15 million people and kills hundreds of thousands",
+  "era": "the-modern-world",
+  "region": "south-asia",
+  "tags": [
+   "independence",
+   "migration"
+  ]
+ },
+ {
+  "id": 466,
+  "date": "1948",
+  "start": 1948,
+  "end": 1948,
+  "text": "the state of israel is founded; the first arab-israeli war follows and about 700,000 palestinians flee or are expelled",
+  "era": "the-modern-world",
+  "region": "the-middle-east",
+  "tags": [
+   "war",
+   "independence"
+  ]
+ },
+ {
+  "id": 467,
+  "date": "1948",
+  "start": 1948,
+  "end": 1948,
+  "text": "the un adopts the universal declaration of human rights",
+  "era": "the-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 468,
+  "date": "1948",
+  "start": 1948,
+  "end": 1948,
+  "text": "south africa's government begins the system of apartheid",
+  "era": "the-modern-world",
+  "region": "africa",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 469,
+  "date": "1948–1949",
+  "start": 1948,
+  "end": 1949,
+  "text": "the berlin airlift supplies west berlin during a soviet blockade",
+  "era": "the-modern-world",
+  "region": "europe",
+  "tags": [
+   "cold war"
+  ]
+ },
+ {
+  "id": 470,
+  "date": "1949",
+  "start": 1949,
+  "end": 1949,
+  "text": "mao zedong proclaims the people's republic of china",
+  "era": "the-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "communism",
+   "revolution"
+  ]
+ },
+ {
+  "id": 471,
+  "date": "1949",
+  "start": 1949,
+  "end": 1949,
+  "text": "nato is founded; the soviet union tests its first atomic bomb",
+  "era": "the-modern-world",
+  "region": "europe",
+  "tags": [
+   "cold war",
+   "nuclear"
+  ]
+ },
+ {
+  "id": 472,
+  "date": "1950–1953",
+  "start": 1950,
+  "end": 1953,
+  "text": "the korean war ends in a stalemate along the 38th parallel",
+  "era": "the-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "war",
+   "cold war"
+  ]
+ },
+ {
+  "id": 473,
+  "date": "1953",
+  "start": 1953,
+  "end": 1953,
+  "text": "the work of watson, crick, franklin, and wilkins reveals the double helix structure of dna",
+  "era": "the-modern-world",
+  "region": "europe",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 474,
+  "date": "1954",
+  "start": 1954,
+  "end": 1954,
+  "text": "the supreme court rules school segregation unconstitutional in brown v. board of education",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "rights",
+   "law"
+  ]
+ },
+ {
+  "id": 519,
+  "date": "1955",
+  "start": 1955,
+  "end": 1955,
+  "text": "jonas salk's polio vaccine is declared safe and effective",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "medicine"
+  ]
+ },
+ {
+  "id": 475,
+  "date": "1955–1956",
+  "start": 1955,
+  "end": 1956,
+  "text": "the montgomery bus boycott, sparked by rosa parks",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 476,
+  "date": "1955–1975",
+  "start": 1955,
+  "end": 1975,
+  "text": "the vietnam war",
+  "era": "the-modern-world",
+  "region": "southeast-asia",
+  "tags": [
+   "war",
+   "cold war"
+  ]
+ },
+ {
+  "id": 477,
+  "date": "1957",
+  "start": 1957,
+  "end": 1957,
+  "text": "the soviet union launches sputnik 1, the first artificial satellite",
+  "era": "the-modern-world",
+  "region": "the-universe",
+  "tags": [
+   "space",
+   "cold war"
+  ]
+ },
+ {
+  "id": 478,
+  "date": "1957",
+  "start": 1957,
+  "end": 1957,
+  "text": "ghana becomes the first sub-saharan african colony to win independence",
+  "era": "the-modern-world",
+  "region": "africa",
+  "tags": [
+   "independence"
+  ]
+ },
+ {
+  "id": 479,
+  "date": "1958–1962",
+  "start": 1958,
+  "end": 1962,
+  "text": "mao's great leap forward causes a famine that kills tens of millions",
+  "era": "the-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "communism",
+   "disaster"
+  ]
+ },
+ {
+  "id": 520,
+  "date": "1959",
+  "start": 1959,
+  "end": 1959,
+  "text": "fidel castro's revolutionaries take power in cuba",
+  "era": "the-modern-world",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "revolution"
+  ]
+ },
+ {
+  "id": 521,
+  "date": "1959",
+  "start": 1959,
+  "end": 1959,
+  "text": "twelve countries sign the antarctic treaty, keeping the continent for peaceful science",
+  "era": "the-modern-world",
+  "region": "the-arctic-and-antarctica",
+  "tags": [
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 480,
+  "date": "1960",
+  "start": 1960,
+  "end": 1960,
+  "text": "the \"year of africa\": seventeen african countries become independent",
+  "era": "the-modern-world",
+  "region": "africa",
+  "tags": [
+   "independence"
+  ]
+ },
+ {
+  "id": 481,
+  "date": "1961",
+  "start": 1961,
+  "end": 1961,
+  "text": "yuri gagarin becomes the first human in space",
+  "era": "the-modern-world",
+  "region": "the-universe",
+  "tags": [
+   "space"
+  ]
+ },
+ {
+  "id": 482,
+  "date": "1961",
+  "start": 1961,
+  "end": 1961,
+  "text": "the berlin wall is built",
+  "era": "the-modern-world",
+  "region": "europe",
+  "tags": [
+   "cold war"
+  ]
+ },
+ {
+  "id": 483,
+  "date": "1962",
+  "start": 1962,
+  "end": 1962,
+  "text": "the cuban missile crisis brings the world close to nuclear war",
+  "era": "the-modern-world",
+  "region": "mesoamerica-and-the-caribbean",
+  "tags": [
+   "cold war",
+   "nuclear"
+  ]
+ },
+ {
+  "id": 484,
+  "date": "1962",
+  "start": 1962,
+  "end": 1962,
+  "text": "algeria wins independence from france after an eight-year war",
+  "era": "the-modern-world",
+  "region": "africa",
+  "tags": [
+   "independence",
+   "war"
+  ]
+ },
+ {
+  "id": 522,
+  "date": "1962",
+  "start": 1962,
+  "end": 1962,
+  "text": "rachel carson's silent spring warns about pesticides and helps start the modern environmental movement",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "environment"
+  ]
+ },
+ {
+  "id": 485,
+  "date": "1963",
+  "start": 1963,
+  "end": 1963,
+  "text": "martin luther king jr. gives his \"i have a dream\" speech at the march on washington",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 523,
+  "date": "1963",
+  "start": 1963,
+  "end": 1963,
+  "text": "valentina tereshkova becomes the first woman in space",
+  "era": "the-modern-world",
+  "region": "the-universe",
+  "tags": [
+   "space"
+  ]
+ },
+ {
+  "id": 486,
+  "date": "1964",
+  "start": 1964,
+  "end": 1964,
+  "text": "the civil rights act bans segregation and discrimination in the united states",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "rights",
+   "law"
+  ]
+ },
+ {
+  "id": 524,
+  "date": "c. 1965",
+  "start": 1965,
+  "end": 1965,
+  "text": "high-yield wheat and rice spread across india and pakistan in the green revolution, ending the threat of mass famine there",
+  "era": "the-modern-world",
+  "region": "south-asia",
+  "tags": [
+   "farming"
+  ]
+ },
+ {
+  "id": 487,
+  "date": "1966–1976",
+  "start": 1966,
+  "end": 1976,
+  "text": "mao's cultural revolution brings persecution and chaos to china",
+  "era": "the-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "communism"
+  ]
+ },
+ {
+  "id": 525,
+  "date": "1967",
+  "start": 1967,
+  "end": 1967,
+  "text": "five countries found asean, the association of southeast asian nations",
+  "era": "the-modern-world",
+  "region": "southeast-asia",
+  "tags": [
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 488,
+  "date": "1968",
+  "start": 1968,
+  "end": 1968,
+  "text": "martin luther king jr. is assassinated",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 489,
+  "date": "1969",
+  "start": 1969,
+  "end": 1969,
+  "text": "apollo 11: neil armstrong and buzz aldrin walk on the moon",
+  "era": "the-modern-world",
+  "region": "the-universe",
+  "tags": [
+   "space"
+  ]
+ },
+ {
+  "id": 490,
+  "date": "1969",
+  "start": 1969,
+  "end": 1969,
+  "text": "arpanet, the forerunner of the internet, sends its first message",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "technology",
+   "computers"
+  ]
+ },
+ {
+  "id": 491,
+  "date": "1971",
+  "start": 1971,
+  "end": 1971,
+  "text": "bangladesh wins independence from pakistan after a brutal war",
+  "era": "the-modern-world",
+  "region": "south-asia",
+  "tags": [
+   "independence",
+   "war"
+  ]
+ },
+ {
+  "id": 526,
+  "date": "1972",
+  "start": 1972,
+  "end": 1972,
+  "text": "tu youyou's team finds artemisinin, which becomes the main treatment for malaria",
+  "era": "the-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "medicine"
+  ]
+ },
+ {
+  "id": 492,
+  "date": "1973",
+  "start": 1973,
+  "end": 1973,
+  "text": "an arab oil embargo causes a worldwide energy crisis",
+  "era": "the-modern-world",
+  "region": "the-middle-east",
+  "tags": [
+   "economy"
+  ]
+ },
+ {
+  "id": 527,
+  "date": "1973",
+  "start": 1973,
+  "end": 1973,
+  "text": "a military coup overthrows chile's elected president salvador allende",
+  "era": "the-modern-world",
+  "region": "south-america",
+  "tags": [
+   "politics"
+  ]
+ },
+ {
+  "id": 493,
+  "date": "1977",
+  "start": 1977,
+  "end": 1977,
+  "text": "mass-market personal computers go on sale",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "technology",
+   "computers"
+  ]
+ },
+ {
+  "id": 494,
+  "date": "1978",
+  "start": 1978,
+  "end": 1978,
+  "text": "deng xiaoping begins opening china's economy to markets",
+  "era": "the-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "economy"
+  ]
+ },
+ {
+  "id": 495,
+  "date": "1979",
+  "start": 1979,
+  "end": 1979,
+  "text": "the iranian revolution creates an islamic republic",
+  "era": "the-modern-world",
+  "region": "the-middle-east",
+  "tags": [
+   "revolution",
+   "religion"
+  ]
+ },
+ {
+  "id": 496,
+  "date": "1979–1989",
+  "start": 1979,
+  "end": 1989,
+  "text": "the soviet war in afghanistan",
+  "era": "the-modern-world",
+  "region": "central-asia",
+  "tags": [
+   "war",
+   "cold war"
+  ]
+ },
+ {
+  "id": 497,
+  "date": "1980",
+  "start": 1980,
+  "end": 1980,
+  "text": "the world health organization declares smallpox eradicated",
+  "era": "the-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "medicine"
+  ]
+ },
+ {
+  "id": 528,
+  "date": "1981",
+  "start": 1981,
+  "end": 1981,
+  "text": "doctors first describe aids; hiv goes on to kill more than 40 million people",
+  "era": "the-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "disease"
+  ]
+ },
+ {
+  "id": 498,
+  "date": "1986",
+  "start": 1986,
+  "end": 1986,
+  "text": "the chernobyl nuclear disaster in soviet ukraine",
+  "era": "the-modern-world",
+  "region": "europe",
+  "tags": [
+   "disaster",
+   "nuclear"
+  ]
+ },
+ {
+  "id": 499,
+  "date": "1989",
+  "start": 1989,
+  "end": 1989,
+  "text": "the berlin wall falls as communist governments collapse across eastern europe",
+  "era": "the-modern-world",
+  "region": "europe",
+  "tags": [
+   "cold war",
+   "revolution"
+  ]
+ },
+ {
+  "id": 500,
+  "date": "1989",
+  "start": 1989,
+  "end": 1989,
+  "text": "the chinese army crushes protests in and around tiananmen square",
+  "era": "the-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 501,
+  "date": "1989",
+  "start": 1989,
+  "end": 1989,
+  "text": "tim berners-lee proposes the world wide web at cern; it goes public in 1991",
+  "era": "the-modern-world",
+  "region": "europe",
+  "tags": [
+   "technology",
+   "computers"
+  ]
+ },
+ {
+  "id": 502,
+  "date": "1991",
+  "start": 1991,
+  "end": 1991,
+  "text": "the soviet union dissolves into fifteen countries; the cold war is over",
+  "era": "the-modern-world",
+  "region": "europe",
+  "tags": [
+   "cold war",
+   "collapse"
+  ]
+ },
+ {
+  "id": 529,
+  "date": "1992",
+  "start": 1992,
+  "end": 1992,
+  "text": "in the mabo case, australia's high court recognizes that indigenous peoples held land before british colonization",
+  "era": "the-modern-world",
+  "region": "oceania",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 503,
+  "date": "1994",
+  "start": 1994,
+  "end": 1994,
+  "text": "nelson mandela becomes president of south africa in its first all-race election",
+  "era": "the-modern-world",
+  "region": "africa",
+  "tags": [
+   "rights"
+  ]
+ },
+ {
+  "id": 504,
+  "date": "1994",
+  "start": 1994,
+  "end": 1994,
+  "text": "the rwandan genocide: about 800,000 people, mostly tutsi, are murdered in about 100 days",
+  "era": "the-modern-world",
+  "region": "africa",
+  "tags": [
+   "genocide"
+  ]
+ },
+ {
+  "id": 530,
+  "date": "1997",
+  "start": 1997,
+  "end": 1997,
+  "text": "britain hands hong kong back to china",
+  "era": "the-modern-world",
+  "region": "east-asia",
+  "tags": [
+   "empire"
+  ]
+ },
+ {
+  "id": 505,
+  "date": "2001",
+  "start": 2001,
+  "end": 2001,
+  "text": "al-qaeda terrorists attack new york and washington on 11 september, killing nearly 3,000 people",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "war",
+   "terrorism"
+  ]
+ },
+ {
+  "id": 506,
+  "date": "2001–2021",
+  "start": 2001,
+  "end": 2021,
+  "text": "the united states and allies fight a war in afghanistan",
+  "era": "the-modern-world",
+  "region": "central-asia",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 507,
+  "date": "2003",
+  "start": 2003,
+  "end": 2003,
+  "text": "a us-led coalition invades iraq",
+  "era": "the-modern-world",
+  "region": "the-middle-east",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 508,
+  "date": "2003",
+  "start": 2003,
+  "end": 2003,
+  "text": "the human genome project finishes reading human dna",
+  "era": "the-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "science"
+  ]
+ },
+ {
+  "id": 531,
+  "date": "2004",
+  "start": 2004,
+  "end": 2004,
+  "text": "an earthquake off sumatra sets off an indian ocean tsunami that kills about 230,000 people",
+  "era": "the-modern-world",
+  "region": "southeast-asia",
+  "tags": [
+   "disaster"
+  ]
+ },
+ {
+  "id": 509,
+  "date": "2007",
+  "start": 2007,
+  "end": 2007,
+  "text": "modern touchscreen smartphones arrive and soon spread across the world",
+  "era": "the-modern-world",
+  "region": "north-america",
+  "tags": [
+   "technology",
+   "computers"
+  ]
+ },
+ {
+  "id": 510,
+  "date": "2008",
+  "start": 2008,
+  "end": 2008,
+  "text": "a global financial crisis triggers the worst recession since the 1930s",
+  "era": "the-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "economy"
+  ]
+ },
+ {
+  "id": 511,
+  "date": "2011",
+  "start": 2011,
+  "end": 2011,
+  "text": "the arab spring uprisings; syria descends into civil war",
+  "era": "the-modern-world",
+  "region": "the-middle-east",
+  "tags": [
+   "revolution",
+   "war"
+  ]
+ },
+ {
+  "id": 512,
+  "date": "2015",
+  "start": 2015,
+  "end": 2015,
+  "text": "nearly every country signs the paris agreement to limit global warming",
+  "era": "the-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "environment",
+   "diplomacy"
+  ]
+ },
+ {
+  "id": 513,
+  "date": "2020–2023",
+  "start": 2020,
+  "end": 2023,
+  "text": "the covid-19 pandemic kills millions and shuts down much of the world",
+  "era": "the-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "disease",
+   "disaster"
+  ]
+ },
+ {
+  "id": 514,
+  "date": "2022",
+  "start": 2022,
+  "end": 2022,
+  "text": "russia launches a full-scale invasion of ukraine",
+  "era": "the-modern-world",
+  "region": "europe",
+  "tags": [
+   "war"
+  ]
+ },
+ {
+  "id": 515,
+  "date": "2022",
+  "start": 2022,
+  "end": 2022,
+  "text": "the world's population passes 8 billion; ai chat programs become widely used",
+  "era": "the-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "technology",
+   "computers"
+  ]
+ },
+ {
+  "id": 516,
+  "date": "2024",
+  "start": 2024,
+  "end": 2024,
+  "text": "the hottest year on record so far, and the first calendar year more than 1.5 degrees above pre-industrial levels",
+  "era": "the-modern-world",
+  "region": "the-whole-world",
+  "tags": [
+   "environment"
+  ]
+ }
+]

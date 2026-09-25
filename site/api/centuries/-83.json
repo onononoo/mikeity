@@ -1,0 +1,18 @@
+{
+ "century": -83,
+ "events": [
+  {
+   "id": 73,
+   "date": "c. 8300 bce",
+   "start": -8300,
+   "end": -8300,
+   "text": "cattle are tamed from the wild aurochs, both in the near east and separately in south asia",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "animals"
+   ]
+  }
+ ]
+}

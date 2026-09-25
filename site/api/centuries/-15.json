@@ -1,0 +1,43 @@
+{
+ "century": -15,
+ "events": [
+  {
+   "id": 118,
+   "date": "c. 1500 bce",
+   "start": -1500,
+   "end": -1500,
+   "text": "indo-aryan speaking peoples settle in northern india; the rigveda, oldest of the vedas, is composed",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "religion",
+    "migration"
+   ]
+  },
+  {
+   "id": 119,
+   "date": "1479–1458 bce",
+   "start": -1479,
+   "end": -1458,
+   "text": "hatshepsut rules egypt as pharaoh, sending trade expeditions to the land of punt",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "politics",
+    "trade"
+   ]
+  },
+  {
+   "id": 140,
+   "date": "c. 1450 bce",
+   "start": -1450,
+   "end": -1450,
+   "text": "mycenaean greeks take over knossos and write an early form of greek in the script called linear b",
+   "era": "the-first-civilizations",
+   "region": "europe",
+   "tags": [
+    "writing"
+   ]
+  }
+ ]
+}

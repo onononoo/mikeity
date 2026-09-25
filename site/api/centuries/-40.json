@@ -1,0 +1,31 @@
+{
+ "century": -40,
+ "events": [
+  {
+   "id": 91,
+   "date": "c. 4000 bce",
+   "start": -4000,
+   "end": -4000,
+   "text": "the plow pulled by oxen lets farmers work much more land",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "technology"
+   ]
+  },
+  {
+   "id": 92,
+   "date": "c. 4000 bce",
+   "start": -4000,
+   "end": -4000,
+   "text": "the sahara begins drying out; herders move toward the nile and the savanna",
+   "era": "the-first-farmers",
+   "region": "africa",
+   "tags": [
+    "environment",
+    "migration"
+   ]
+  }
+ ]
+}

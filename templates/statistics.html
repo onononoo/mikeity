@@ -83,5 +83,5 @@
 <table class="grid">
 <tr><th>language</th><th>program</th><th>what it adds</th><th>this build</th></tr>
 <tr><td>sql</td><td><tt>sql/reports.sql</tt></td><td>the database reports</td><td>ran</td></tr>
-{% for step in extras.log %}<tr><td>{{ step.language }}</td><td><tt>{{ step.source }}</tt></td><td>{% if step.name == "charts" %}the charts{% elif step.name == "gaps" %}the quietest stretches and busiest years{% else %}the most crowded lifetimes{% endif %}</td><td>{{ step.status }}</td></tr>
+{% for step in extras.log %}<tr><td>{{ step.language }}</td><td><tt>{{ step.source }}</tt></td><td>{{ step.adds }}</td><td>{{ step.status }}</td></tr>
 {% endfor %}</table>

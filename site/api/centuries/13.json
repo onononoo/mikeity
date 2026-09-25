@@ -1,0 +1,169 @@
+{
+ "century": 13,
+ "events": [
+  {
+   "id": 239,
+   "date": "1206",
+   "start": 1206,
+   "end": 1206,
+   "text": "temüjin unites the mongol tribes and is proclaimed genghis khan",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "empire",
+    "politics"
+   ]
+  },
+  {
+   "id": 240,
+   "date": "1206",
+   "start": 1206,
+   "end": 1206,
+   "text": "the delhi sultanate is founded by turkic muslim rulers in northern india",
+   "era": "the-middle-ages",
+   "region": "south-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 241,
+   "date": "1215",
+   "start": 1215,
+   "end": 1215,
+   "text": "english barons force king john to agree to the magna carta",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "law",
+    "politics",
+    "rights"
+   ]
+  },
+  {
+   "id": 242,
+   "date": "c. 1235",
+   "start": 1235,
+   "end": 1235,
+   "text": "sundiata keita defeats the sosso and founds the mali empire",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 244,
+   "date": "c. 1250",
+   "start": 1250,
+   "end": 1250,
+   "text": "the ancestors of the māori, sailing from eastern polynesia, settle new zealand, the last large land mass humans reached",
+   "era": "the-middle-ages",
+   "region": "oceania",
+   "tags": [
+    "exploration",
+    "migration"
+   ]
+  },
+  {
+   "id": 266,
+   "date": "c. 1250",
+   "start": 1250,
+   "end": 1250,
+   "text": "ancestral puebloans build cliff dwellings at mesa verde in colorado; by 1300 they have moved away",
+   "era": "the-middle-ages",
+   "region": "north-america",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 267,
+   "date": "c. 1250",
+   "start": 1250,
+   "end": 1250,
+   "text": "the thule people, ancestors of the inuit, spread east across arctic canada to greenland, hunting whales from skin boats",
+   "era": "the-middle-ages",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "migration"
+   ]
+  },
+  {
+   "id": 243,
+   "date": "1258",
+   "start": 1258,
+   "end": 1258,
+   "text": "the mongols sack baghdad and end the abbasid caliphate",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "collapse"
+   ]
+  },
+  {
+   "id": 245,
+   "date": "1271–1295",
+   "start": 1271,
+   "end": 1295,
+   "text": "marco polo travels to china and serves at the court of kublai khan",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "exploration",
+    "trade"
+   ]
+  },
+  {
+   "id": 246,
+   "date": "1274–1281",
+   "start": 1274,
+   "end": 1281,
+   "text": "two mongol invasions of japan are wrecked by typhoons, the \"kamikaze\" or divine winds",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 247,
+   "date": "1279",
+   "start": 1279,
+   "end": 1279,
+   "text": "kublai khan completes the conquest of the song; the mongol yuan dynasty rules all of china",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 248,
+   "date": "c. 1299",
+   "start": 1299,
+   "end": 1299,
+   "text": "osman i founds the small anatolian state that becomes the ottoman empire",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 249,
+   "date": "c. 1300",
+   "start": 1300,
+   "end": 1300,
+   "text": "great zimbabwe, with its huge dry-stone walls, is at the height of its power",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "cities",
+    "architecture"
+   ]
+  }
+ ]
+}

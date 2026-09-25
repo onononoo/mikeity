@@ -1,0 +1,30 @@
+{
+ "century": -33,
+ "events": [
+  {
+   "id": 98,
+   "date": "c. 3300 bce",
+   "start": -3300,
+   "end": -3300,
+   "text": "the bronze age begins in the near east as smiths alloy copper with arsenic and later tin",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "technology",
+    "metal"
+   ]
+  },
+  {
+   "id": 99,
+   "date": "c. 3300 bce",
+   "start": -3300,
+   "end": -3300,
+   "text": "ötzi the iceman dies in the alps; his frozen body, clothes, and copper axe survive to modern times",
+   "era": "the-first-civilizations",
+   "region": "europe",
+   "tags": [
+    "archaeology"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "century": 4,
+ "events": [
+  {
+   "id": 188,
+   "date": "313 ce",
+   "start": 313,
+   "end": 313,
+   "text": "the edict of milan ends the persecution of christians in the roman empire",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "religion",
+    "law"
+   ]
+  },
+  {
+   "id": 189,
+   "date": "c. 320 ce",
+   "start": 320,
+   "end": 320,
+   "text": "chandragupta i founds the gupta empire; a golden age of science, math, and art follows",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "empire",
+    "science"
+   ]
+  },
+  {
+   "id": 190,
+   "date": "330 ce",
+   "start": 330,
+   "end": 330,
+   "text": "constantine makes byzantium, renamed constantinople, the new capital of the empire",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "cities",
+    "politics"
+   ]
+  },
+  {
+   "id": 191,
+   "date": "c. 330 ce",
+   "start": 330,
+   "end": 330,
+   "text": "king ezana of aksum converts to christianity",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 192,
+   "date": "380 ce",
+   "start": 380,
+   "end": 380,
+   "text": "christianity becomes the official religion of the roman empire",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "religion",
+    "law"
+   ]
+  },
+  {
+   "id": 193,
+   "date": "395 ce",
+   "start": 395,
+   "end": 395,
+   "text": "the roman empire is permanently divided into eastern and western halves",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "politics",
+    "empire"
+   ]
+  }
+ ]
+}

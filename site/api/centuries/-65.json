@@ -1,0 +1,18 @@
+{
+ "century": -65,
+ "events": [
+  {
+   "id": 83,
+   "date": "c. 6500 bce",
+   "start": -6500,
+   "end": -6500,
+   "text": "farming spreads from anatolia into greece and the balkans, carried by migrating farmers",
+   "era": "the-first-farmers",
+   "region": "europe",
+   "tags": [
+    "farming",
+    "migration"
+   ]
+  }
+ ]
+}

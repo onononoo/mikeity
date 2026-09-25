@@ -1,0 +1,18 @@
+{
+ "century": -24,
+ "events": [
+  {
+   "id": 109,
+   "date": "c. 2334 bce",
+   "start": -2334,
+   "end": -2334,
+   "text": "sargon of akkad conquers the sumerian cities and builds what is often called the first empire",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  }
+ ]
+}

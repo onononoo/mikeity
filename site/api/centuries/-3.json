@@ -1,0 +1,131 @@
+{
+ "century": -3,
+ "events": [
+  {
+   "id": 164,
+   "date": "c. 300 bce",
+   "start": -300,
+   "end": -300,
+   "text": "meroë becomes the capital of kush, a center of iron smelting with its own steep pyramids",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "cities",
+    "metal"
+   ]
+  },
+  {
+   "id": 165,
+   "date": "c. 300 bce",
+   "start": -300,
+   "end": -300,
+   "text": "the library of alexandria is founded in egypt under the ptolemies",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "science",
+    "writing"
+   ]
+  },
+  {
+   "id": 198,
+   "date": "c. 300 bce",
+   "start": -300,
+   "end": -300,
+   "text": "euclid writes the elements in alexandria, a textbook of geometry used for more than two thousand years",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 167,
+   "date": "264–146 bce",
+   "start": -264,
+   "end": -146,
+   "text": "the three punic wars between rome and carthage end with carthage destroyed",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 166,
+   "date": "c. 261 bce",
+   "start": -261,
+   "end": -261,
+   "text": "ashoka conquers kalinga, is horrified by the slaughter, and turns to buddhism and non-violence",
+   "era": "the-classical-world",
+   "region": "south-asia",
+   "tags": [
+    "religion",
+    "war"
+   ]
+  },
+  {
+   "id": 199,
+   "date": "c. 240 bce",
+   "start": -240,
+   "end": -240,
+   "text": "eratosthenes measures the size of the earth using the shadows cast in two egyptian cities",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 169,
+   "date": "221 bce",
+   "start": -221,
+   "end": -221,
+   "text": "the king of qin conquers the last rival state and becomes qin shi huang, the first emperor of china",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "politics"
+   ]
+  },
+  {
+   "id": 168,
+   "date": "218 bce",
+   "start": -218,
+   "end": -218,
+   "text": "hannibal of carthage crosses the alps into italy with an army and war elephants",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 200,
+   "date": "209 bce",
+   "start": -209,
+   "end": -209,
+   "text": "modu chanyu unites the xiongnu nomads of the mongolian steppe into an empire strong enough to make the han pay tribute",
+   "era": "the-classical-world",
+   "region": "central-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 170,
+   "date": "206 bce",
+   "start": -206,
+   "end": -206,
+   "text": "the han dynasty begins; it will rule china for about four centuries",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "century": -13,
+ "events": [
+  {
+   "id": 123,
+   "date": "c. 1300 bce",
+   "start": -1300,
+   "end": -1300,
+   "text": "lapita peoples sail from the islands off new guinea into the remote pacific, reaching fiji, tonga, and samoa",
+   "era": "the-first-civilizations",
+   "region": "oceania",
+   "tags": [
+    "migration",
+    "exploration"
+   ]
+  },
+  {
+   "id": 124,
+   "date": "1274 bce",
+   "start": -1274,
+   "end": -1274,
+   "text": "egypt under ramesses ii and the hittites fight the battle of kadesh; later they sign one of the oldest known peace treaties",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 125,
+   "date": "c. 1250 bce",
+   "start": -1250,
+   "end": -1250,
+   "text": "shang kings carve questions to their ancestors on oracle bones, the oldest chinese writing",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "writing",
+    "religion"
+   ]
+  }
+ ]
+}

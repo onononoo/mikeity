@@ -1,0 +1,79 @@
+{
+ "century": 1,
+ "events": [
+  {
+   "id": 201,
+   "date": "1st century ce",
+   "start": 1,
+   "end": 100,
+   "text": "the kingdom of funan grows rich in the mekong delta, trading between india and china",
+   "era": "the-classical-world",
+   "region": "southeast-asia",
+   "tags": [
+    "trade"
+   ]
+  },
+  {
+   "id": 177,
+   "date": "c. 30 ce",
+   "start": 30,
+   "end": 30,
+   "text": "jesus is crucified in jerusalem; his followers begin to spread christianity",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 178,
+   "date": "70 ce",
+   "start": 70,
+   "end": 70,
+   "text": "the romans crush a jewish revolt and destroy the second temple in jerusalem",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 179,
+   "date": "79 ce",
+   "start": 79,
+   "end": 79,
+   "text": "mount vesuvius erupts and buries pompeii and herculaneum",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "disaster"
+   ]
+  },
+  {
+   "id": 181,
+   "date": "c. 100 ce",
+   "start": 100,
+   "end": 100,
+   "text": "the moche culture on peru's north coast builds adobe pyramids and makes fine portrait pottery",
+   "era": "the-classical-world",
+   "region": "south-america",
+   "tags": [
+    "art"
+   ]
+  },
+  {
+   "id": 182,
+   "date": "c. 100 ce",
+   "start": 100,
+   "end": 100,
+   "text": "the kingdom of aksum in ethiopia and eritrea grows rich on red sea trade",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "trade",
+    "empire"
+   ]
+  }
+ ]
+}

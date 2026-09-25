@@ -1,0 +1,483 @@
+{
+ "slug": "the-first-humans",
+ "number": 2,
+ "title": "the first humans",
+ "starts": "7 million years ago",
+ "ends": "12,000 years ago",
+ "summary": "in africa, apes begin walking upright. their descendants make tools, tame fire, and develop language. our own species spreads across every continent but antarctica, outliving all other kinds of human.",
+ "page": "the-first-humans.html",
+ "events": [
+  {
+   "id": 35,
+   "date": "c. 7 million years ago",
+   "start": -6998050,
+   "end": -6998050,
+   "text": "the lineage leading to humans separates from the one leading to chimpanzees; sahelanthropus in chad may be one of the earliest members",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 36,
+   "date": "c. 4.4 million years ago",
+   "start": -4398050,
+   "end": -4398050,
+   "text": "ardipithecus (\"ardi\") in ethiopia walks upright on the ground but still climbs trees with grasping feet",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 37,
+   "date": "3.66 million years ago",
+   "start": -3658050,
+   "end": -3658050,
+   "text": "hominins leave a trail of footprints in volcanic ash at laetoli, tanzania, proving they walked fully upright",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 38,
+   "date": "3.3 million years ago",
+   "start": -3298050,
+   "end": -3298050,
+   "text": "the oldest known stone tools are made at lomekwi, kenya, before our own genus existed",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "technology"
+   ]
+  },
+  {
+   "id": 39,
+   "date": "3.2 million years ago",
+   "start": -3198050,
+   "end": -3198050,
+   "text": "\"lucy\", an australopithecus afarensis, lives and dies in the afar region of ethiopia",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 40,
+   "date": "2.8 million years ago",
+   "start": -2798050,
+   "end": -2798050,
+   "text": "the earliest known fossil of our genus, homo, a jawbone from ledi-geraru, ethiopia",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 41,
+   "date": "2.6 million years ago",
+   "start": -2598050,
+   "end": -2598050,
+   "text": "the pleistocene ice ages begin: dozens of cycles of cold glacial and warmer periods",
+   "era": "the-first-humans",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 42,
+   "date": "2.6 million years ago",
+   "start": -2598050,
+   "end": -2598050,
+   "text": "oldowan stone tools, simple sharp flakes, become common in east africa",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "technology"
+   ]
+  },
+  {
+   "id": 43,
+   "date": "c. 1.9 million years ago",
+   "start": -1898050,
+   "end": -1898050,
+   "text": "homo erectus appears, with a body much like ours and a larger brain",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 44,
+   "date": "c. 1.8 million years ago",
+   "start": -1798050,
+   "end": -1798050,
+   "text": "early humans reach dmanisi in the caucasus of georgia, among the first to leave africa",
+   "era": "the-first-humans",
+   "region": "europe",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 45,
+   "date": "c. 1.76 million years ago",
+   "start": -1758050,
+   "end": -1758050,
+   "text": "acheulean hand axes, carefully shaped teardrop tools, are made; the design lasts over a million years",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "technology"
+   ]
+  },
+  {
+   "id": 46,
+   "date": "c. 1.6 million years ago",
+   "start": -1598050,
+   "end": -1598050,
+   "text": "homo erectus lives on java, in what is now indonesia",
+   "era": "the-first-humans",
+   "region": "southeast-asia",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 47,
+   "date": "c. 1 million years ago",
+   "start": -998050,
+   "end": -998050,
+   "text": "burned bone and ash in wonderwerk cave, south africa, are some of the earliest evidence of fire use",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "technology",
+    "fire"
+   ]
+  },
+  {
+   "id": 48,
+   "date": "c. 780,000 years ago",
+   "start": -778050,
+   "end": -778050,
+   "text": "hearths at gesher benot ya'aqov in israel show humans controlling fire repeatedly",
+   "era": "the-first-humans",
+   "region": "the-middle-east",
+   "tags": [
+    "humans",
+    "fire"
+   ]
+  },
+  {
+   "id": 49,
+   "date": "c. 430,000 years ago",
+   "start": -428050,
+   "end": -428050,
+   "text": "at sima de los huesos in spain, early ancestors of the neanderthals leave their remains in a deep cave pit",
+   "era": "the-first-humans",
+   "region": "europe",
+   "tags": [
+    "humans",
+    "neanderthals"
+   ]
+  },
+  {
+   "id": 50,
+   "date": "c. 300,000 years ago",
+   "start": -298050,
+   "end": -298050,
+   "text": "the oldest known fossils of homo sapiens, our own species, from jebel irhoud, morocco",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "evolution"
+   ]
+  },
+  {
+   "id": 51,
+   "date": "c. 100,000 years ago",
+   "start": -98050,
+   "end": -98050,
+   "text": "early homo sapiens live for a time at skhul and qafzeh in israel, then seem to disappear from the region",
+   "era": "the-first-humans",
+   "region": "the-middle-east",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 52,
+   "date": "c. 75,000 years ago",
+   "start": -73050,
+   "end": -73050,
+   "text": "people at blombos cave, south africa, engrave patterns on red ochre and make shell beads: early signs of symbolic thought",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "art"
+   ]
+  },
+  {
+   "id": 53,
+   "date": "c. 74,000 years ago",
+   "start": -72050,
+   "end": -72050,
+   "text": "the toba supervolcano on sumatra erupts, the largest eruption of the last two million years",
+   "era": "the-first-humans",
+   "region": "southeast-asia",
+   "tags": [
+    "disaster",
+    "environment"
+   ]
+  },
+  {
+   "id": 54,
+   "date": "c. 65,000 years ago",
+   "start": -63050,
+   "end": -63050,
+   "text": "people may have reached australia by now, crossing open sea by boat; the ancestors of aboriginal australians",
+   "era": "the-first-humans",
+   "region": "oceania",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 55,
+   "date": "c. 60,000 years ago",
+   "start": -58050,
+   "end": -58050,
+   "text": "the main migration of homo sapiens out of africa begins; nearly everyone outside africa today descends from it",
+   "era": "the-first-humans",
+   "region": "africa",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 56,
+   "date": "c. 51,000 years ago",
+   "start": -49050,
+   "end": -49050,
+   "text": "a painting of a wild pig and people on a cave wall on sulawesi, indonesia, the oldest known picture of a scene",
+   "era": "the-first-humans",
+   "region": "southeast-asia",
+   "tags": [
+    "humans",
+    "art"
+   ]
+  },
+  {
+   "id": 57,
+   "date": "c. 45,000 years ago",
+   "start": -43050,
+   "end": -43050,
+   "text": "homo sapiens arrive in europe, where neanderthals already live",
+   "era": "the-first-humans",
+   "region": "europe",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 58,
+   "date": "c. 40,000 years ago",
+   "start": -38050,
+   "end": -38050,
+   "text": "the neanderthals die out; many people today carry a small share of their dna",
+   "era": "the-first-humans",
+   "region": "europe",
+   "tags": [
+    "humans",
+    "neanderthals",
+    "extinction"
+   ]
+  },
+  {
+   "id": 59,
+   "date": "c. 40,000 years ago",
+   "start": -38050,
+   "end": -38050,
+   "text": "the lion man of hohlenstein-stadel, a half-lion half-human ivory figure, and bone flutes are made in germany",
+   "era": "the-first-humans",
+   "region": "europe",
+   "tags": [
+    "humans",
+    "art",
+    "music"
+   ]
+  },
+  {
+   "id": 60,
+   "date": "c. 36,000 years ago",
+   "start": -34050,
+   "end": -34050,
+   "text": "artists paint lions, rhinos, and horses on the walls of chauvet cave in france",
+   "era": "the-first-humans",
+   "region": "europe",
+   "tags": [
+    "humans",
+    "art"
+   ]
+  },
+  {
+   "id": 61,
+   "date": "c. 23,000 years ago",
+   "start": -21050,
+   "end": -21050,
+   "text": "human footprints at white sands, new mexico, show people in the americas during the height of the ice age",
+   "era": "the-first-humans",
+   "region": "north-america",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 62,
+   "date": "c. 20,000 years ago",
+   "start": -18050,
+   "end": -18050,
+   "text": "the last glacial maximum: ice sheets are at their largest and sea levels about 120 meters lower than today",
+   "era": "the-first-humans",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 63,
+   "date": "c. 17,000 years ago",
+   "start": -15050,
+   "end": -15050,
+   "text": "the painted caves of lascaux in france are decorated with hundreds of animals",
+   "era": "the-first-humans",
+   "region": "europe",
+   "tags": [
+    "humans",
+    "art"
+   ]
+  },
+  {
+   "id": 64,
+   "date": "c. 15,000 years ago",
+   "start": -13050,
+   "end": -13050,
+   "text": "dogs, descended from wolves, are firmly established as human companions, the first tamed animal",
+   "era": "the-first-humans",
+   "region": "the-whole-world",
+   "tags": [
+    "humans",
+    "animals"
+   ]
+  },
+  {
+   "id": 65,
+   "date": "c. 14,000 years ago",
+   "start": -12550,
+   "end": -12550,
+   "text": "people live at monte verde in southern chile, far down the americas",
+   "era": "the-first-humans",
+   "region": "south-america",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 66,
+   "date": "c. 13,000 years ago",
+   "start": -11050,
+   "end": -11050,
+   "text": "the clovis culture spreads across north america, famous for its fluted stone spear points",
+   "era": "the-first-humans",
+   "region": "north-america",
+   "tags": [
+    "humans",
+    "technology"
+   ]
+  },
+  {
+   "id": 67,
+   "date": "c. 13,000 years ago",
+   "start": -10950,
+   "end": -10950,
+   "text": "the younger dryas: a sudden return to near ice-age cold that lasts about 1,200 years",
+   "era": "the-first-humans",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 68,
+   "date": "c. 12,000 years ago",
+   "start": -10050,
+   "end": -10050,
+   "text": "many large animals, including mammoths, giant ground sloths, and woolly rhinos, have died out, likely from climate change and hunting",
+   "era": "the-first-humans",
+   "region": "the-whole-world",
+   "tags": [
+    "extinction",
+    "animals"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "lucy",
+   "name": "lucy",
+   "dates": "3.2 million years ago",
+   "role": "an australopithecus afarensis",
+   "url": "api/people/lucy.json"
+  },
+  {
+   "slug": "turkana-boy",
+   "name": "turkana boy",
+   "dates": "c. 1.5 million years ago",
+   "role": "a young homo erectus",
+   "url": "api/people/turkana-boy.json"
+  },
+  {
+   "slug": "denny",
+   "name": "denny",
+   "dates": "c. 90,000 years ago",
+   "role": "a girl known from a bone fragment in denisova cave, siberia",
+   "url": "api/people/denny.json"
+  },
+  {
+   "slug": "mungo-man",
+   "name": "mungo man",
+   "dates": "c. 40,000 years ago",
+   "role": "an ancient aboriginal australian",
+   "url": "api/people/mungo-man.json"
+  }
+ ]
+}

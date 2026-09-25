@@ -19,7 +19,7 @@
 {% endif %}
 {{ body|raw }}
 <hr>
-<p class="small"><a href="#top">back to top</a> | <a href="{{ root }}data/history.json">raw data (json)</a> | <a href="{{ root }}data/events.tsv">timeline (tsv)</a> | <a href="{{ root }}data/history.db">database (sqlite)</a></p>
+<p class="small"><a href="#top">back to top</a> | <a href="{{ root }}data/history.json">raw data (json)</a> | <a href="{{ root }}data/events.tsv">timeline (tsv)</a> | <a href="{{ root }}data/history.db">database (sqlite)</a> | <a href="{{ root }}api.html">json api</a></p>
 {% for js in scripts %}<script src="{{ root }}js/{{ js }}"></script>
 {% endfor %}</body>
 </html>

@@ -1,0 +1,66 @@
+{
+ "century": -70,
+ "events": [
+  {
+   "id": 78,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "rice is domesticated in the lower yangtze valley of china",
+   "era": "the-first-farmers",
+   "region": "east-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 79,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "farmers at mehrgarh, in modern pakistan, grow barley and wheat and keep cattle",
+   "era": "the-first-farmers",
+   "region": "south-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 80,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "farmers in the highlands of new guinea dig drainage ditches to grow taro and bananas",
+   "era": "the-first-farmers",
+   "region": "oceania",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 81,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "maize begins to be domesticated from a wild grass called teosinte in southern mexico",
+   "era": "the-first-farmers",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 82,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "people at jiahu in china brew a fermented drink of rice, honey, and fruit, and play bone flutes",
+   "era": "the-first-farmers",
+   "region": "east-asia",
+   "tags": [
+    "culture",
+    "music"
+   ]
+  }
+ ]
+}

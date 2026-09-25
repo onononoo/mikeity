@@ -1,0 +1,265 @@
+{
+ "slug": "southeast-asia",
+ "name": "southeast asia",
+ "description": "the lands and islands between india and china, including the khmer empire, srivijaya, and modern indonesia and vietnam.",
+ "page": "regions.html#southeast-asia",
+ "events": [
+  {
+   "id": 46,
+   "date": "c. 1.6 million years ago",
+   "start": -1598050,
+   "end": -1598050,
+   "text": "homo erectus lives on java, in what is now indonesia",
+   "era": "the-first-humans",
+   "region": "southeast-asia",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 53,
+   "date": "c. 74,000 years ago",
+   "start": -72050,
+   "end": -72050,
+   "text": "the toba supervolcano on sumatra erupts, the largest eruption of the last two million years",
+   "era": "the-first-humans",
+   "region": "southeast-asia",
+   "tags": [
+    "disaster",
+    "environment"
+   ]
+  },
+  {
+   "id": 56,
+   "date": "c. 51,000 years ago",
+   "start": -49050,
+   "end": -49050,
+   "text": "a painting of a wild pig and people on a cave wall on sulawesi, indonesia, the oldest known picture of a scene",
+   "era": "the-first-humans",
+   "region": "southeast-asia",
+   "tags": [
+    "humans",
+    "art"
+   ]
+  },
+  {
+   "id": 196,
+   "date": "c. 500 bce",
+   "start": -500,
+   "end": -500,
+   "text": "the dong son culture of northern vietnam casts large bronze drums that are traded across southeast asia",
+   "era": "the-classical-world",
+   "region": "southeast-asia",
+   "tags": [
+    "metal",
+    "art"
+   ]
+  },
+  {
+   "id": 201,
+   "date": "1st century ce",
+   "start": 1,
+   "end": 100,
+   "text": "the kingdom of funan grows rich in the mekong delta, trading between india and china",
+   "era": "the-classical-world",
+   "region": "southeast-asia",
+   "tags": [
+    "trade"
+   ]
+  },
+  {
+   "id": 259,
+   "date": "c. 670 ce",
+   "start": 670,
+   "end": 670,
+   "text": "srivijaya, a trading empire based on sumatra, controls the strait of malacca and becomes a center of buddhist learning",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "trade",
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 222,
+   "date": "c. 800 ce",
+   "start": 800,
+   "end": 800,
+   "text": "the huge buddhist monument of borobudur is built on java",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 235,
+   "date": "c. 1113–1150",
+   "start": 1113,
+   "end": 1150,
+   "text": "the khmer king suryavarman ii builds angkor wat, the largest religious monument in the world",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 269,
+   "date": "c. 1350",
+   "start": 1350,
+   "end": 1350,
+   "text": "the majapahit empire, based on java, reaches its height and claims much of modern indonesia",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 294,
+   "date": "1571",
+   "start": 1571,
+   "end": 1571,
+   "text": "spain founds manila; galleons now link the americas and asia, and american silver flows to china",
+   "era": "the-early-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "trade"
+   ]
+  },
+  {
+   "id": 348,
+   "date": "1815",
+   "start": 1815,
+   "end": 1815,
+   "text": "mount tambora in indonesia erupts; the next year is the \"year without a summer\"",
+   "era": "the-age-of-revolutions",
+   "region": "southeast-asia",
+   "tags": [
+    "disaster",
+    "environment"
+   ]
+  },
+  {
+   "id": 416,
+   "date": "1883",
+   "start": 1883,
+   "end": 1883,
+   "text": "krakatoa erupts in indonesia; the blast is heard nearly 5,000 kilometers away",
+   "era": "industry-and-empire",
+   "region": "southeast-asia",
+   "tags": [
+    "disaster"
+   ]
+  },
+  {
+   "id": 420,
+   "date": "1896",
+   "start": 1896,
+   "end": 1896,
+   "text": "the philippine revolution against spain begins; the spanish execute the writer josé rizal",
+   "era": "industry-and-empire",
+   "region": "southeast-asia",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 517,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "sukarno declares indonesia independent; the dutch fight to hold on until 1949",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "independence"
+   ]
+  },
+  {
+   "id": 518,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "ho chi minh declares the independence of vietnam; war with france follows",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "independence",
+    "war"
+   ]
+  },
+  {
+   "id": 476,
+   "date": "1955–1975",
+   "start": 1955,
+   "end": 1975,
+   "text": "the vietnam war",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "war",
+    "cold war"
+   ]
+  },
+  {
+   "id": 525,
+   "date": "1967",
+   "start": 1967,
+   "end": 1967,
+   "text": "five countries found asean, the association of southeast asian nations",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 531,
+   "date": "2004",
+   "start": 2004,
+   "end": 2004,
+   "text": "an earthquake off sumatra sets off an indian ocean tsunami that kills about 230,000 people",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "disaster"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "jayavarman-vii",
+   "name": "jayavarman vii",
+   "dates": "c. 1122–1218",
+   "role": "king of the khmer empire",
+   "url": "api/people/jayavarman-vii.json"
+  },
+  {
+   "slug": "jose-rizal",
+   "name": "josé rizal",
+   "dates": "1861–1896",
+   "role": "filipino writer and doctor",
+   "url": "api/people/jose-rizal.json"
+  },
+  {
+   "slug": "ho-chi-minh",
+   "name": "ho chi minh",
+   "dates": "1890–1969",
+   "role": "vietnamese revolutionary",
+   "url": "api/people/ho-chi-minh.json"
+  },
+  {
+   "slug": "sukarno",
+   "name": "sukarno",
+   "dates": "1901–1970",
+   "role": "first president of indonesia",
+   "url": "api/people/sukarno.json"
+  }
+ ]
+}

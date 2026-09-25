@@ -1,0 +1,42 @@
+{
+ "century": -26,
+ "events": [
+  {
+   "id": 105,
+   "date": "c. 2600 bce",
+   "start": -2600,
+   "end": -2600,
+   "text": "the harappan cities of the indus valley, like harappa and mohenjo-daro, reach their height, with grid streets and covered drains",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 106,
+   "date": "c. 2600 bce",
+   "start": -2600,
+   "end": -2600,
+   "text": "caral in peru's supe valley builds pyramids and sunken plazas, the oldest city in the americas",
+   "era": "the-first-civilizations",
+   "region": "south-america",
+   "tags": [
+    "cities",
+    "architecture"
+   ]
+  },
+  {
+   "id": 107,
+   "date": "c. 2560 bce",
+   "start": -2560,
+   "end": -2560,
+   "text": "the great pyramid of giza is completed for the pharaoh khufu; it stays the tallest human-made structure for nearly 4,000 years",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "architecture"
+   ]
+  }
+ ]
+}

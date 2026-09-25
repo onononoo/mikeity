@@ -1,0 +1,453 @@
+{
+ "slug": "hinduism",
+ "name": "hinduism",
+ "began": "no single founder; roots in the vedas, c. 1500 bce, and older",
+ "followers": "about 1.2 billion, mostly in india and nepal",
+ "founder": "none; the vedas were \"heard\" by ancient seers, the rishis",
+ "scriptures": "the vedas and upanishads; the epics, the mahabharata (with the bhagavad gita) and the ramayana; the puranas",
+ "places": "varanasi on the ganges, and thousands of temples and pilgrimage sites",
+ "summary": "the family of traditions of india, called by many followers sanatana dharma, \"the eternal way\". it includes many gods seen as forms of one reality, and belief in karma, rebirth, and liberation.",
+ "creation": "the universe is created, sustained, and dissolved again and again, without beginning. in one telling, brahma the creator is born on a lotus from the navel of vishnu. an old hymn of the rigveda asks who really knows how it began.",
+ "age": "time runs in vast cycles. one day of brahma, a kalpa, lasts 4.32 billion years, close to the scientific age of the earth. we now live in the kali yuga, the last and darkest of four ages, which tradition says began in 3102 bce.",
+ "events": [
+  {
+   "id": 1,
+   "kind": "tradition",
+   "when": "before creation",
+   "text": "\"then there was neither being nor non-being.\" the creation hymn of the rigveda asks how it all began, and ends: perhaps even the one who watches from the highest heaven does not know",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 2,
+   "kind": "tradition",
+   "when": "the dawn of a kalpa",
+   "text": "vishnu sleeps on the great serpent shesha, floating on the cosmic ocean. a lotus grows from his navel, and on it brahma is born and creates the worlds",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 3,
+   "kind": "tradition",
+   "when": "every day of brahma",
+   "text": "a day of brahma, a kalpa, lasts 4.32 billion years, and his night as long. at night the worlds dissolve; at dawn they are made again. after a hundred years of such days, all dissolves and a new brahma is born",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 4,
+   "kind": "tradition",
+   "when": "the first flood",
+   "text": "vishnu, as the fish matsya, warns manu of a great flood and tows his boat to safety with the seeds of all life and the seven sages",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 5,
+   "kind": "tradition",
+   "when": "satya yuga: 1,728,000 years",
+   "text": "the age of truth. dharma stands firm on four legs; people are good, wise, and live very long lives",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 6,
+   "kind": "tradition",
+   "when": "treta yuga: 1,296,000 years",
+   "text": "dharma stands on three legs. rama, the seventh avatar of vishnu, rescues his wife sita from the demon king ravana: the story of the ramayana",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 7,
+   "kind": "tradition",
+   "when": "dvapara yuga: 864,000 years",
+   "text": "dharma stands on two legs. krishna, the eighth avatar, is born; he guides arjuna in the great war at kurukshetra, and his teaching becomes the bhagavad gita",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 8,
+   "kind": "tradition",
+   "when": "3102 bce, by tradition",
+   "text": "krishna leaves the world and the kali yuga begins: the age of strife, 432,000 years long, in which we live now",
+   "start": -3102,
+   "end": -3102
+  },
+  {
+   "id": 9,
+   "kind": "history",
+   "when": "c. 2600–1900 bce",
+   "text": "the indus cities flourish; some of their seals show figures in yoga-like poses, but how they relate to later hinduism is debated",
+   "start": -2600,
+   "end": -1900
+  },
+  {
+   "id": 10,
+   "kind": "history",
+   "when": "c. 1500–1200 bce",
+   "text": "the hymns of the rigveda are composed in early sanskrit and passed down by memory, word for word, for many centuries",
+   "start": -1500,
+   "end": -1200
+  },
+  {
+   "id": 11,
+   "kind": "history",
+   "when": "c. 800–200 bce",
+   "text": "the upanishads explore the self (atman), ultimate reality (brahman), karma, and rebirth",
+   "start": -800,
+   "end": -200
+  },
+  {
+   "id": 12,
+   "kind": "history",
+   "when": "c. 400 bce–400 ce",
+   "text": "the great epics, the mahabharata and the ramayana, take their final form; the bhagavad gita becomes part of the mahabharata",
+   "start": -400,
+   "end": 400
+  },
+  {
+   "id": 13,
+   "kind": "history",
+   "when": "c. 320–550 ce",
+   "text": "in the gupta age, the puranas are written, and the first stone temples to vishnu, shiva, and the goddess are built",
+   "start": 320,
+   "end": 550
+  },
+  {
+   "id": 14,
+   "kind": "history",
+   "when": "c. 600–900 ce",
+   "text": "tamil poet-saints, the alvars and nayanars, sing of loving devotion (bhakti) to vishnu and shiva",
+   "start": 600,
+   "end": 900
+  },
+  {
+   "id": 15,
+   "kind": "history",
+   "when": "c. 800 ce",
+   "text": "adi shankara teaches that the self and brahman are one (advaita), and founds monasteries at the four corners of india",
+   "start": 800,
+   "end": 800
+  },
+  {
+   "id": 16,
+   "kind": "history",
+   "when": "c. 1100",
+   "text": "ramanuja teaches that loving devotion to vishnu leads to liberation",
+   "start": 1100,
+   "end": 1100
+  },
+  {
+   "id": 17,
+   "kind": "history",
+   "when": "c. 1113–1150",
+   "text": "the khmer king suryavarman ii builds angkor wat in cambodia, a vast temple to vishnu",
+   "start": 1113,
+   "end": 1150
+  },
+  {
+   "id": 18,
+   "kind": "history",
+   "when": "c. 1510",
+   "text": "chaitanya leads ecstatic singing of krishna's names in bengal; in rajasthan, mirabai writes songs of love for krishna",
+   "start": 1510,
+   "end": 1510
+  },
+  {
+   "id": 19,
+   "kind": "history",
+   "when": "1574",
+   "text": "tulsidas begins the ramcharitmanas, a retelling of the ramayana in hindi, still recited across north india",
+   "start": 1574,
+   "end": 1574
+  },
+  {
+   "id": 20,
+   "kind": "history",
+   "when": "1828",
+   "text": "ram mohan roy founds the brahmo samaj, calling for reform and the worship of one god",
+   "start": 1828,
+   "end": 1828
+  },
+  {
+   "id": 21,
+   "kind": "history",
+   "when": "1893",
+   "text": "swami vivekananda speaks at the parliament of the world's religions in chicago, bringing hindu teaching to the west",
+   "start": 1893,
+   "end": 1893
+  },
+  {
+   "id": 22,
+   "kind": "history",
+   "when": "1947",
+   "text": "india becomes independent as a secular republic; partition divides hindus and muslims with great bloodshed",
+   "start": 1947,
+   "end": 1947
+  },
+  {
+   "id": 23,
+   "kind": "history",
+   "when": "1966",
+   "text": "a. c. bhaktivedanta swami prabhupada founds the hare krishna movement in new york",
+   "start": 1966,
+   "end": 1966
+  },
+  {
+   "id": 24,
+   "kind": "history",
+   "when": "today",
+   "text": "about 1.2 billion hindus live mainly in india and nepal; the kumbh mela, held every twelve years at prayagraj, is often called the largest gathering of people on earth",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 25,
+   "kind": "tradition",
+   "when": "the end of the kali yuga",
+   "text": "kalki, the tenth avatar of vishnu, will come on a white horse to end the age of darkness, and a new satya yuga will begin",
+   "start": null,
+   "end": null
+  }
+ ],
+ "people": [
+  {
+   "slug": "manu",
+   "name": "manu",
+   "dates": "the first of this age",
+   "kind": "tradition",
+   "role": "the forefather of humankind",
+   "about": "saved from the flood by vishnu as a fish; the laws of manu are named after him"
+  },
+  {
+   "slug": "vyasa",
+   "name": "vyasa",
+   "dates": "the end of the dvapara yuga, by tradition",
+   "kind": "tradition",
+   "role": "sage",
+   "about": "said to have arranged the vedas and told the mahabharata, in which he also appears"
+  },
+  {
+   "slug": "valmiki",
+   "name": "valmiki",
+   "dates": "the treta yuga, by tradition",
+   "kind": "tradition",
+   "role": "sage and poet",
+   "about": "a robber turned sage who composed the ramayana, called the first poem"
+  },
+  {
+   "slug": "rama",
+   "name": "rama",
+   "dates": "the treta yuga, by tradition",
+   "kind": "tradition",
+   "role": "prince of ayodhya and avatar of vishnu",
+   "about": "the model of a righteous ruler, who defeats ravana to rescue sita"
+  },
+  {
+   "slug": "sita",
+   "name": "sita",
+   "dates": "the treta yuga, by tradition",
+   "kind": "tradition",
+   "role": "wife of rama",
+   "about": "honored for her courage and faithfulness while held captive in lanka"
+  },
+  {
+   "slug": "hanuman",
+   "name": "hanuman",
+   "dates": "the treta yuga, by tradition",
+   "kind": "tradition",
+   "role": "the monkey god",
+   "about": "rama's devoted helper, who leaps across the sea to find sita; a symbol of strength and loyalty"
+  },
+  {
+   "slug": "krishna",
+   "name": "krishna",
+   "dates": "died 3102 bce, by tradition",
+   "kind": "tradition",
+   "role": "avatar of vishnu",
+   "about": "a playful cowherd, a hero, and the teacher of the bhagavad gita; for many hindus the supreme god himself"
+  },
+  {
+   "slug": "arjuna",
+   "name": "arjuna",
+   "dates": "the dvapara yuga, by tradition",
+   "kind": "tradition",
+   "role": "warrior prince",
+   "about": "his doubts before the battle of kurukshetra lead to krishna's teaching in the gita"
+  },
+  {
+   "slug": "adi-shankara",
+   "name": "adi shankara",
+   "dates": "8th century",
+   "kind": "history",
+   "role": "philosopher and teacher",
+   "about": "taught advaita vedanta, the oneness of the self and brahman, and traveled all over india"
+  },
+  {
+   "slug": "ramanuja",
+   "name": "ramanuja",
+   "dates": "c. 1017-1137, by tradition",
+   "kind": "history",
+   "role": "philosopher and teacher",
+   "about": "taught that the soul is real and distinct, and is saved by loving devotion to vishnu"
+  },
+  {
+   "slug": "chaitanya",
+   "name": "chaitanya",
+   "dates": "1486-1534",
+   "kind": "history",
+   "role": "saint of bengal",
+   "about": "spread devotion to krishna through chanting and dancing in the streets"
+  },
+  {
+   "slug": "mirabai",
+   "name": "mirabai",
+   "dates": "c. 1498-1547",
+   "kind": "history",
+   "role": "princess and poet-saint",
+   "about": "defied her royal family to devote her life to krishna; her songs are still sung"
+  },
+  {
+   "slug": "tulsidas",
+   "name": "tulsidas",
+   "dates": "c. 1532-1623",
+   "kind": "history",
+   "role": "poet",
+   "about": "wrote the ramcharitmanas, the best-loved book in north india"
+  },
+  {
+   "slug": "ram-mohan-roy",
+   "name": "ram mohan roy",
+   "dates": "1772-1833",
+   "kind": "history",
+   "role": "reformer",
+   "about": "founded the brahmo samaj and campaigned against the burning of widows"
+  },
+  {
+   "slug": "ramakrishna",
+   "name": "ramakrishna",
+   "dates": "1836-1886",
+   "kind": "history",
+   "role": "mystic of kolkata",
+   "about": "taught that all religions are different paths to the same god"
+  },
+  {
+   "slug": "swami-vivekananda",
+   "name": "swami vivekananda",
+   "dates": "1863-1902",
+   "kind": "history",
+   "role": "monk and teacher",
+   "about": "a follower of ramakrishna who brought vedanta and yoga to the west"
+  },
+  {
+   "slug": "mahatma-gandhi",
+   "name": "mahatma gandhi",
+   "dates": "1869-1948",
+   "kind": "history",
+   "role": "leader of india's independence movement",
+   "about": "drew on the bhagavad gita for his teaching of non-violence and truth"
+  },
+  {
+   "slug": "a-c-bhaktivedanta-swami-prabhupada",
+   "name": "a. c. bhaktivedanta swami prabhupada",
+   "dates": "1896-1977",
+   "kind": "history",
+   "role": "monk and teacher",
+   "about": "went to new york at 69 and founded the international society for krishna consciousness"
+  }
+ ],
+ "glossary": [
+  {
+   "slug": "atman",
+   "term": "atman",
+   "definition": "the true self or soul, which is not born and does not die."
+  },
+  {
+   "slug": "avatar",
+   "term": "avatar",
+   "definition": "a god coming down to earth in bodily form. vishnu has ten main avatars, including rama and krishna."
+  },
+  {
+   "slug": "bhagavad-gita",
+   "term": "bhagavad gita",
+   "definition": "\"the song of the lord\": krishna's teaching to arjuna in the mahabharata, on duty, devotion, and the self."
+  },
+  {
+   "slug": "bhakti",
+   "term": "bhakti",
+   "definition": "loving devotion to a personal god, such as vishnu, shiva, or the goddess."
+  },
+  {
+   "slug": "brahman",
+   "term": "brahman",
+   "definition": "the ultimate reality behind everything, of which all gods are forms."
+  },
+  {
+   "slug": "dharma",
+   "term": "dharma",
+   "definition": "the right order of things, and each person's duty within it."
+  },
+  {
+   "slug": "diwali",
+   "term": "diwali",
+   "definition": "the festival of lights in autumn, celebrating the victory of light over darkness and rama's return home."
+  },
+  {
+   "slug": "kalpa",
+   "term": "kalpa",
+   "definition": "a day of brahma: 4.32 billion years, made of a thousand cycles of the four yugas."
+  },
+  {
+   "slug": "karma",
+   "term": "karma",
+   "definition": "the law that every action has consequences, in this life or the next."
+  },
+  {
+   "slug": "moksha",
+   "term": "moksha",
+   "definition": "liberation from the cycle of rebirth, the highest goal of life."
+  },
+  {
+   "slug": "om",
+   "term": "om",
+   "definition": "the sacred sound said at the start of prayers, seen as the sound of brahman."
+  },
+  {
+   "slug": "puja",
+   "term": "puja",
+   "definition": "worship, at home or in a temple, with offerings of flowers, food, light, and incense."
+  },
+  {
+   "slug": "samsara",
+   "term": "samsara",
+   "definition": "the endless cycle of birth, death, and rebirth."
+  },
+  {
+   "slug": "trimurti",
+   "term": "trimurti",
+   "definition": "the three great gods: brahma the creator, vishnu the preserver, and shiva the destroyer and renewer."
+  },
+  {
+   "slug": "upanishads",
+   "term": "upanishads",
+   "definition": "philosophical texts at the end of the vedas, about the self and ultimate reality."
+  },
+  {
+   "slug": "vedas",
+   "term": "vedas",
+   "definition": "the oldest scriptures, hymns and rituals in sanskrit, believed to have been heard by ancient seers."
+  },
+  {
+   "slug": "yoga",
+   "term": "yoga",
+   "definition": "\"joining\": paths of discipline of body and mind that lead toward union with the divine."
+  },
+  {
+   "slug": "yuga",
+   "term": "yuga",
+   "definition": "one of four ages in each cycle of time: satya, treta, dvapara, and kali, each shorter and darker than the last."
+  }
+ ],
+ "page": "hinduism/index.html"
+}

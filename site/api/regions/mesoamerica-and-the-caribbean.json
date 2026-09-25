@@ -1,0 +1,311 @@
+{
+ "slug": "mesoamerica-and-the-caribbean",
+ "name": "mesoamerica and the caribbean",
+ "description": "mexico, central america, and the caribbean islands: the olmecs, maya, teotihuacan, and aztecs, then spanish rule and haiti's revolution.",
+ "page": "regions.html#mesoamerica-and-the-caribbean",
+ "events": [
+  {
+   "id": 30,
+   "date": "66 million years ago",
+   "start": -65998050,
+   "end": -65998050,
+   "text": "an asteroid about ten kilometers wide hits chicxulub in mexico; all non-bird dinosaurs die out along with about three quarters of all species",
+   "era": "the-beginning",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "extinction",
+    "disaster",
+    "dinosaurs"
+   ]
+  },
+  {
+   "id": 76,
+   "date": "c. 8000 bce",
+   "start": -8000,
+   "end": -8000,
+   "text": "squash is domesticated in mexico",
+   "era": "the-first-farmers",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 81,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "maize begins to be domesticated from a wild grass called teosinte in southern mexico",
+   "era": "the-first-farmers",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 126,
+   "date": "c. 1200 bce",
+   "start": -1200,
+   "end": -1200,
+   "text": "the olmec civilization rises on the gulf coast of mexico, carving colossal stone heads",
+   "era": "the-first-civilizations",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities",
+    "art"
+   ]
+  },
+  {
+   "id": 184,
+   "date": "c. 200 ce",
+   "start": 200,
+   "end": 200,
+   "text": "teotihuacan in central mexico, with its pyramid of the sun, becomes one of the largest cities in the world",
+   "era": "the-classical-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 187,
+   "date": "c. 250 ce",
+   "start": 250,
+   "end": 250,
+   "text": "the classic period of the maya begins, with great cities like tikal and calakmul",
+   "era": "the-classical-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 224,
+   "date": "c. 800–900 ce",
+   "start": 800,
+   "end": 900,
+   "text": "most of the great classic maya cities of the southern lowlands are abandoned",
+   "era": "the-middle-ages",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "collapse"
+   ]
+  },
+  {
+   "id": 251,
+   "date": "c. 1325",
+   "start": 1325,
+   "end": 1325,
+   "text": "the mexica (aztecs) found tenochtitlan on an island in lake texcoco",
+   "era": "the-middle-ages",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 276,
+   "date": "1492",
+   "start": 1492,
+   "end": 1492,
+   "text": "christopher columbus, sailing for spain, reaches the caribbean",
+   "era": "the-early-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 284,
+   "date": "1519–1521",
+   "start": 1519,
+   "end": 1521,
+   "text": "hernán cortés and indigenous allies conquer the aztec empire; smallpox kills much of tenochtitlan",
+   "era": "the-early-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "war",
+    "empire",
+    "disease"
+   ]
+  },
+  {
+   "id": 315,
+   "date": "1520",
+   "start": 1520,
+   "end": 1520,
+   "text": "smallpox, brought by the spanish, kills a huge share of the people of tenochtitlan",
+   "era": "the-early-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "disease"
+   ]
+  },
+  {
+   "id": 338,
+   "date": "1791–1804",
+   "start": 1791,
+   "end": 1804,
+   "text": "the haitian revolution: enslaved people in saint-domingue rise up and create the free nation of haiti",
+   "era": "the-age-of-revolutions",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution",
+    "slavery",
+    "rights"
+   ]
+  },
+  {
+   "id": 345,
+   "date": "1810–1821",
+   "start": 1810,
+   "end": 1821,
+   "text": "mexico fights for and wins independence from spain, after the call to revolt by miguel hidalgo",
+   "era": "the-age-of-revolutions",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 400,
+   "date": "1898",
+   "start": 1898,
+   "end": 1898,
+   "text": "the spanish-american war: the united states takes puerto rico, guam, and the philippines",
+   "era": "industry-and-empire",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 409,
+   "date": "1910–1920",
+   "start": 1910,
+   "end": 1920,
+   "text": "the mexican revolution overthrows porfirio díaz",
+   "era": "industry-and-empire",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 411,
+   "date": "1914",
+   "start": 1914,
+   "end": 1914,
+   "text": "the panama canal opens",
+   "era": "industry-and-empire",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "trade",
+    "technology"
+   ]
+  },
+  {
+   "id": 459,
+   "date": "1919",
+   "start": 1919,
+   "end": 1919,
+   "text": "emiliano zapata, who fought for land for mexico's poor farmers, is assassinated",
+   "era": "the-world-wars",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 520,
+   "date": "1959",
+   "start": 1959,
+   "end": 1959,
+   "text": "fidel castro's revolutionaries take power in cuba",
+   "era": "the-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 483,
+   "date": "1962",
+   "start": 1962,
+   "end": 1962,
+   "text": "the cuban missile crisis brings the world close to nuclear war",
+   "era": "the-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cold war",
+    "nuclear"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "moctezuma-ii",
+   "name": "moctezuma ii",
+   "dates": "c. 1466–1520",
+   "role": "aztec emperor",
+   "url": "api/people/moctezuma-ii.json"
+  },
+  {
+   "slug": "bartolome-de-las-casas",
+   "name": "bartolomé de las casas",
+   "dates": "c. 1484–1566",
+   "role": "spanish priest and historian",
+   "url": "api/people/bartolome-de-las-casas.json"
+  },
+  {
+   "slug": "hernan-cortes",
+   "name": "hernán cortés",
+   "dates": "1485–1547",
+   "role": "spanish conquistador",
+   "url": "api/people/hernan-cortes.json"
+  },
+  {
+   "slug": "malintzin",
+   "name": "malintzin",
+   "dates": "c. 1500–1529",
+   "role": "nahua interpreter",
+   "url": "api/people/malintzin.json"
+  },
+  {
+   "slug": "sor-juana-ines-de-la-cruz",
+   "name": "sor juana inés de la cruz",
+   "dates": "c. 1648–1695",
+   "role": "mexican nun, poet, and scholar",
+   "url": "api/people/sor-juana-ines-de-la-cruz.json"
+  },
+  {
+   "slug": "toussaint-louverture",
+   "name": "toussaint louverture",
+   "dates": "1743–1803",
+   "role": "leader of the haitian revolution",
+   "url": "api/people/toussaint-louverture.json"
+  },
+  {
+   "slug": "jean-jacques-dessalines",
+   "name": "jean-jacques dessalines",
+   "dates": "1758–1806",
+   "role": "haitian leader",
+   "url": "api/people/jean-jacques-dessalines.json"
+  },
+  {
+   "slug": "emiliano-zapata",
+   "name": "emiliano zapata",
+   "dates": "1879–1919",
+   "role": "leader in the mexican revolution",
+   "url": "api/people/emiliano-zapata.json"
+  },
+  {
+   "slug": "fidel-castro",
+   "name": "fidel castro",
+   "dates": "1926–2016",
+   "role": "cuban revolutionary and leader",
+   "url": "api/people/fidel-castro.json"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "century": 10,
+ "events": [
+  {
+   "id": 226,
+   "date": "960 ce",
+   "start": 960,
+   "end": 960,
+   "text": "the song dynasty begins; china leads the world in technology, trade, and city life",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "technology"
+   ]
+  },
+  {
+   "id": 227,
+   "date": "c. 1000",
+   "start": 1000,
+   "end": 1000,
+   "text": "leif erikson and other norse sailors reach newfoundland, at l'anse aux meadows",
+   "era": "the-middle-ages",
+   "region": "north-america",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 228,
+   "date": "c. 1000",
+   "start": 1000,
+   "end": 1000,
+   "text": "polynesian voyagers settle the far corners of the pacific, reaching hawaii and later easter island",
+   "era": "the-middle-ages",
+   "region": "oceania",
+   "tags": [
+    "exploration",
+    "migration"
+   ]
+  }
+ ]
+}

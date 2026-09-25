@@ -1,0 +1,120 @@
+{
+ "slug": "the-universe",
+ "name": "the universe",
+ "description": "events that happened before there was an earth, or far beyond it.",
+ "page": "regions.html#the-universe",
+ "events": [
+  {
+   "id": 1,
+   "date": "13.8 billion years ago",
+   "start": -13799998050,
+   "end": -13799998050,
+   "text": "the big bang: space, time, matter, and energy begin expanding from an extremely hot, dense state",
+   "era": "the-beginning",
+   "region": "the-universe",
+   "tags": [
+    "universe",
+    "science"
+   ]
+  },
+  {
+   "id": 2,
+   "date": "13.8 billion years ago",
+   "start": -13799998050,
+   "end": -13799998050,
+   "text": "about 380,000 years after the big bang, the first atoms form and light travels freely for the first time; it survives today as the cosmic microwave background",
+   "era": "the-beginning",
+   "region": "the-universe",
+   "tags": [
+    "universe",
+    "science"
+   ]
+  },
+  {
+   "id": 3,
+   "date": "13.6 billion years ago",
+   "start": -13599998050,
+   "end": -13599998050,
+   "text": "the first stars ignite, made almost entirely of hydrogen and helium",
+   "era": "the-beginning",
+   "region": "the-universe",
+   "tags": [
+    "universe"
+   ]
+  },
+  {
+   "id": 4,
+   "date": "c. 13 billion years ago",
+   "start": -12999998050,
+   "end": -12999998050,
+   "text": "early galaxies take shape, including the oldest parts of our own milky way",
+   "era": "the-beginning",
+   "region": "the-universe",
+   "tags": [
+    "universe"
+   ]
+  },
+  {
+   "id": 5,
+   "date": "4.6 billion years ago",
+   "start": -4599998050,
+   "end": -4599998050,
+   "text": "a cloud of gas and dust, enriched by the remains of earlier stars, collapses to form the sun and a disk of material around it",
+   "era": "the-beginning",
+   "region": "the-universe",
+   "tags": [
+    "universe"
+   ]
+  },
+  {
+   "id": 477,
+   "date": "1957",
+   "start": 1957,
+   "end": 1957,
+   "text": "the soviet union launches sputnik 1, the first artificial satellite",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space",
+    "cold war"
+   ]
+  },
+  {
+   "id": 481,
+   "date": "1961",
+   "start": 1961,
+   "end": 1961,
+   "text": "yuri gagarin becomes the first human in space",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": 523,
+   "date": "1963",
+   "start": 1963,
+   "end": 1963,
+   "text": "valentina tereshkova becomes the first woman in space",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": 489,
+   "date": "1969",
+   "start": 1969,
+   "end": 1969,
+   "text": "apollo 11: neil armstrong and buzz aldrin walk on the moon",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space"
+   ]
+  }
+ ],
+ "people": []
+}

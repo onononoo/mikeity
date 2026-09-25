@@ -1,0 +1,1437 @@
+[
+ {
+  "slug": "lucy",
+  "name": "lucy",
+  "dates": "3.2 million years ago",
+  "role": "an australopithecus afarensis",
+  "url": "api/people/lucy.json"
+ },
+ {
+  "slug": "turkana-boy",
+  "name": "turkana boy",
+  "dates": "c. 1.5 million years ago",
+  "role": "a young homo erectus",
+  "url": "api/people/turkana-boy.json"
+ },
+ {
+  "slug": "denny",
+  "name": "denny",
+  "dates": "c. 90,000 years ago",
+  "role": "a girl known from a bone fragment in denisova cave, siberia",
+  "url": "api/people/denny.json"
+ },
+ {
+  "slug": "mungo-man",
+  "name": "mungo man",
+  "dates": "c. 40,000 years ago",
+  "role": "an ancient aboriginal australian",
+  "url": "api/people/mungo-man.json"
+ },
+ {
+  "slug": "otzi",
+  "name": "ötzi",
+  "dates": "c. 3350–3300 bce",
+  "role": "a copper age man found frozen in the alps",
+  "url": "api/people/otzi.json"
+ },
+ {
+  "slug": "narmer",
+  "name": "narmer",
+  "dates": "c. 3100 bce",
+  "role": "an early king of egypt",
+  "url": "api/people/narmer.json"
+ },
+ {
+  "slug": "imhotep",
+  "name": "imhotep",
+  "dates": "27th century bce",
+  "role": "egyptian architect and official",
+  "url": "api/people/imhotep.json"
+ },
+ {
+  "slug": "khufu",
+  "name": "khufu",
+  "dates": "c. 2589–2566 bce",
+  "role": "pharaoh of egypt's old kingdom",
+  "url": "api/people/khufu.json"
+ },
+ {
+  "slug": "sargon-of-akkad",
+  "name": "sargon of akkad",
+  "dates": "c. 2334–2279 bce",
+  "role": "king of akkad",
+  "url": "api/people/sargon-of-akkad.json"
+ },
+ {
+  "slug": "enheduanna",
+  "name": "enheduanna",
+  "dates": "c. 2285–2250 bce",
+  "role": "high priestess of ur and poet",
+  "url": "api/people/enheduanna.json"
+ },
+ {
+  "slug": "hammurabi",
+  "name": "hammurabi",
+  "dates": "c. 1810–1750 bce",
+  "role": "king of babylon",
+  "url": "api/people/hammurabi.json"
+ },
+ {
+  "slug": "hatshepsut",
+  "name": "hatshepsut",
+  "dates": "c. 1507–1458 bce",
+  "role": "pharaoh of egypt",
+  "url": "api/people/hatshepsut.json"
+ },
+ {
+  "slug": "zoroaster",
+  "name": "zoroaster",
+  "dates": "c. 1500–500 bce",
+  "role": "persian prophet",
+  "url": "api/people/zoroaster.json"
+ },
+ {
+  "slug": "akhenaten",
+  "name": "akhenaten",
+  "dates": "c. 1380–1336 bce",
+  "role": "pharaoh of egypt",
+  "url": "api/people/akhenaten.json"
+ },
+ {
+  "slug": "nefertiti",
+  "name": "nefertiti",
+  "dates": "c. 1370–1330 bce",
+  "role": "queen of egypt",
+  "url": "api/people/nefertiti.json"
+ },
+ {
+  "slug": "tutankhamun",
+  "name": "tutankhamun",
+  "dates": "c. 1341–1323 bce",
+  "role": "pharaoh of egypt",
+  "url": "api/people/tutankhamun.json"
+ },
+ {
+  "slug": "ramesses-ii",
+  "name": "ramesses ii",
+  "dates": "c. 1303–1213 bce",
+  "role": "pharaoh of egypt",
+  "url": "api/people/ramesses-ii.json"
+ },
+ {
+  "slug": "homer",
+  "name": "homer",
+  "dates": "c. 8th century bce",
+  "role": "greek poet",
+  "url": "api/people/homer.json"
+ },
+ {
+  "slug": "nebuchadnezzar-ii",
+  "name": "nebuchadnezzar ii",
+  "dates": "c. 642–562 bce",
+  "role": "king of babylon",
+  "url": "api/people/nebuchadnezzar-ii.json"
+ },
+ {
+  "slug": "sappho",
+  "name": "sappho",
+  "dates": "c. 630–570 bce",
+  "role": "greek poet from the island of lesbos",
+  "url": "api/people/sappho.json"
+ },
+ {
+  "slug": "cyrus-the-great",
+  "name": "cyrus the great",
+  "dates": "c. 600–530 bce",
+  "role": "founder of the achaemenid persian empire",
+  "url": "api/people/cyrus-the-great.json"
+ },
+ {
+  "slug": "laozi",
+  "name": "laozi",
+  "dates": "6th century bce",
+  "role": "chinese philosopher",
+  "url": "api/people/laozi.json"
+ },
+ {
+  "slug": "mahavira",
+  "name": "mahavira",
+  "dates": "c. 599–527 bce",
+  "role": "teacher of jainism",
+  "url": "api/people/mahavira.json"
+ },
+ {
+  "slug": "confucius",
+  "name": "confucius",
+  "dates": "551–479 bce",
+  "role": "chinese teacher and philosopher",
+  "url": "api/people/confucius.json"
+ },
+ {
+  "slug": "darius-i",
+  "name": "darius i",
+  "dates": "c. 550–486 bce",
+  "role": "king of persia",
+  "url": "api/people/darius-i.json"
+ },
+ {
+  "slug": "sun-tzu",
+  "name": "sun tzu",
+  "dates": "c. 544–496 bce",
+  "role": "chinese general and strategist",
+  "url": "api/people/sun-tzu.json"
+ },
+ {
+  "slug": "pericles",
+  "name": "pericles",
+  "dates": "c. 495–429 bce",
+  "role": "athenian statesman",
+  "url": "api/people/pericles.json"
+ },
+ {
+  "slug": "herodotus",
+  "name": "herodotus",
+  "dates": "c. 484–425 bce",
+  "role": "greek historian",
+  "url": "api/people/herodotus.json"
+ },
+ {
+  "slug": "siddhartha-gautama",
+  "name": "siddhartha gautama",
+  "dates": "c. 480–400 bce",
+  "role": "the buddha, founder of buddhism",
+  "url": "api/people/siddhartha-gautama.json"
+ },
+ {
+  "slug": "socrates",
+  "name": "socrates",
+  "dates": "c. 470–399 bce",
+  "role": "athenian philosopher",
+  "url": "api/people/socrates.json"
+ },
+ {
+  "slug": "hippocrates",
+  "name": "hippocrates",
+  "dates": "c. 460–370 bce",
+  "role": "greek physician",
+  "url": "api/people/hippocrates.json"
+ },
+ {
+  "slug": "plato",
+  "name": "plato",
+  "dates": "c. 428–348 bce",
+  "role": "greek philosopher",
+  "url": "api/people/plato.json"
+ },
+ {
+  "slug": "aristotle",
+  "name": "aristotle",
+  "dates": "384–322 bce",
+  "role": "greek philosopher and scientist",
+  "url": "api/people/aristotle.json"
+ },
+ {
+  "slug": "alexander-the-great",
+  "name": "alexander the great",
+  "dates": "356–323 bce",
+  "role": "king of macedon",
+  "url": "api/people/alexander-the-great.json"
+ },
+ {
+  "slug": "chandragupta-maurya",
+  "name": "chandragupta maurya",
+  "dates": "c. 350–295 bce",
+  "role": "founder of the maurya empire",
+  "url": "api/people/chandragupta-maurya.json"
+ },
+ {
+  "slug": "ashoka",
+  "name": "ashoka",
+  "dates": "c. 304–232 bce",
+  "role": "maurya emperor",
+  "url": "api/people/ashoka.json"
+ },
+ {
+  "slug": "euclid",
+  "name": "euclid",
+  "dates": "c. 300 bce",
+  "role": "greek mathematician in alexandria",
+  "url": "api/people/euclid.json"
+ },
+ {
+  "slug": "archimedes",
+  "name": "archimedes",
+  "dates": "c. 287–212 bce",
+  "role": "greek mathematician and inventor",
+  "url": "api/people/archimedes.json"
+ },
+ {
+  "slug": "eratosthenes",
+  "name": "eratosthenes",
+  "dates": "c. 276–194 bce",
+  "role": "greek scholar and head of the library of alexandria",
+  "url": "api/people/eratosthenes.json"
+ },
+ {
+  "slug": "qin-shi-huang",
+  "name": "qin shi huang",
+  "dates": "259–210 bce",
+  "role": "first emperor of china",
+  "url": "api/people/qin-shi-huang.json"
+ },
+ {
+  "slug": "hannibal",
+  "name": "hannibal",
+  "dates": "247–183 bce",
+  "role": "carthaginian general",
+  "url": "api/people/hannibal.json"
+ },
+ {
+  "slug": "sima-qian",
+  "name": "sima qian",
+  "dates": "c. 145–86 bce",
+  "role": "han dynasty historian",
+  "url": "api/people/sima-qian.json"
+ },
+ {
+  "slug": "julius-caesar",
+  "name": "julius caesar",
+  "dates": "100–44 bce",
+  "role": "roman general and dictator",
+  "url": "api/people/julius-caesar.json"
+ },
+ {
+  "slug": "cleopatra",
+  "name": "cleopatra",
+  "dates": "69–30 bce",
+  "role": "last ptolemaic ruler of egypt",
+  "url": "api/people/cleopatra.json"
+ },
+ {
+  "slug": "augustus",
+  "name": "augustus",
+  "dates": "63 bce–14 ce",
+  "role": "first roman emperor",
+  "url": "api/people/augustus.json"
+ },
+ {
+  "slug": "jesus-of-nazareth",
+  "name": "jesus of nazareth",
+  "dates": "c. 4 bce–30 ce",
+  "role": "jewish teacher, central figure of christianity",
+  "url": "api/people/jesus-of-nazareth.json"
+ },
+ {
+  "slug": "paul-of-tarsus",
+  "name": "paul of tarsus",
+  "dates": "c. 5–64 ce",
+  "role": "christian missionary",
+  "url": "api/people/paul-of-tarsus.json"
+ },
+ {
+  "slug": "cai-lun",
+  "name": "cai lun",
+  "dates": "c. 50–121 ce",
+  "role": "han court official",
+  "url": "api/people/cai-lun.json"
+ },
+ {
+  "slug": "zhang-heng",
+  "name": "zhang heng",
+  "dates": "78–139 ce",
+  "role": "chinese astronomer, poet, and inventor",
+  "url": "api/people/zhang-heng.json"
+ },
+ {
+  "slug": "galen",
+  "name": "galen",
+  "dates": "c. 129–216 ce",
+  "role": "greek doctor in the roman empire",
+  "url": "api/people/galen.json"
+ },
+ {
+  "slug": "constantine",
+  "name": "constantine",
+  "dates": "c. 272–337 ce",
+  "role": "roman emperor",
+  "url": "api/people/constantine.json"
+ },
+ {
+  "slug": "ezana",
+  "name": "ezana",
+  "dates": "4th century",
+  "role": "king of aksum",
+  "url": "api/people/ezana.json"
+ },
+ {
+  "slug": "hypatia",
+  "name": "hypatia",
+  "dates": "c. 360–415 ce",
+  "role": "mathematician and philosopher in alexandria",
+  "url": "api/people/hypatia.json"
+ },
+ {
+  "slug": "aryabhata",
+  "name": "aryabhata",
+  "dates": "476–550 ce",
+  "role": "indian mathematician and astronomer",
+  "url": "api/people/aryabhata.json"
+ },
+ {
+  "slug": "justinian",
+  "name": "justinian",
+  "dates": "c. 482–565 ce",
+  "role": "byzantine emperor",
+  "url": "api/people/justinian.json"
+ },
+ {
+  "slug": "muhammad",
+  "name": "muhammad",
+  "dates": "c. 570–632 ce",
+  "role": "prophet of islam",
+  "url": "api/people/muhammad.json"
+ },
+ {
+  "slug": "xuanzang",
+  "name": "xuanzang",
+  "dates": "c. 602–664 ce",
+  "role": "chinese buddhist monk and traveler",
+  "url": "api/people/xuanzang.json"
+ },
+ {
+  "slug": "wu-zetian",
+  "name": "wu zetian",
+  "dates": "624–705 ce",
+  "role": "empress of china",
+  "url": "api/people/wu-zetian.json"
+ },
+ {
+  "slug": "charlemagne",
+  "name": "charlemagne",
+  "dates": "c. 747–814 ce",
+  "role": "king of the franks, emperor",
+  "url": "api/people/charlemagne.json"
+ },
+ {
+  "slug": "harun-al-rashid",
+  "name": "harun al-rashid",
+  "dates": "c. 763–809 ce",
+  "role": "abbasid caliph",
+  "url": "api/people/harun-al-rashid.json"
+ },
+ {
+  "slug": "al-khwarizmi",
+  "name": "al-khwarizmi",
+  "dates": "c. 780–850 ce",
+  "role": "persian mathematician in baghdad",
+  "url": "api/people/al-khwarizmi.json"
+ },
+ {
+  "slug": "ibn-al-haytham",
+  "name": "ibn al-haytham",
+  "dates": "c. 965 ce–1040",
+  "role": "arab mathematician and physicist",
+  "url": "api/people/ibn-al-haytham.json"
+ },
+ {
+  "slug": "leif-erikson",
+  "name": "leif erikson",
+  "dates": "c. 970 ce–1020",
+  "role": "norse explorer",
+  "url": "api/people/leif-erikson.json"
+ },
+ {
+  "slug": "murasaki-shikibu",
+  "name": "murasaki shikibu",
+  "dates": "c. 973 ce–1014",
+  "role": "japanese court lady and writer",
+  "url": "api/people/murasaki-shikibu.json"
+ },
+ {
+  "slug": "ibn-sina",
+  "name": "ibn sina",
+  "dates": "980 ce–1037",
+  "role": "persian doctor and philosopher",
+  "url": "api/people/ibn-sina.json"
+ },
+ {
+  "slug": "bi-sheng",
+  "name": "bi sheng",
+  "dates": "c. 990 ce–1051",
+  "role": "chinese craftsman",
+  "url": "api/people/bi-sheng.json"
+ },
+ {
+  "slug": "william-the-conqueror",
+  "name": "william the conqueror",
+  "dates": "c. 1028–1087",
+  "role": "duke of normandy, king of england",
+  "url": "api/people/william-the-conqueror.json"
+ },
+ {
+  "slug": "shen-kuo",
+  "name": "shen kuo",
+  "dates": "1031–1095",
+  "role": "chinese scientist and official",
+  "url": "api/people/shen-kuo.json"
+ },
+ {
+  "slug": "hildegard-of-bingen",
+  "name": "hildegard of bingen",
+  "dates": "1098–1179",
+  "role": "german abbess, writer, and composer",
+  "url": "api/people/hildegard-of-bingen.json"
+ },
+ {
+  "slug": "eleanor-of-aquitaine",
+  "name": "eleanor of aquitaine",
+  "dates": "c. 1122–1204",
+  "role": "queen of france, then of england",
+  "url": "api/people/eleanor-of-aquitaine.json"
+ },
+ {
+  "slug": "jayavarman-vii",
+  "name": "jayavarman vii",
+  "dates": "c. 1122–1218",
+  "role": "king of the khmer empire",
+  "url": "api/people/jayavarman-vii.json"
+ },
+ {
+  "slug": "ibn-rushd",
+  "name": "ibn rushd",
+  "dates": "1126–1198",
+  "role": "philosopher and judge in muslim spain",
+  "url": "api/people/ibn-rushd.json"
+ },
+ {
+  "slug": "saladin",
+  "name": "saladin",
+  "dates": "1137–1193",
+  "role": "sultan of egypt and syria",
+  "url": "api/people/saladin.json"
+ },
+ {
+  "slug": "maimonides",
+  "name": "maimonides",
+  "dates": "c. 1138–1204",
+  "role": "jewish philosopher and doctor",
+  "url": "api/people/maimonides.json"
+ },
+ {
+  "slug": "genghis-khan",
+  "name": "genghis khan",
+  "dates": "c. 1162–1227",
+  "role": "founder of the mongol empire",
+  "url": "api/people/genghis-khan.json"
+ },
+ {
+  "slug": "rumi",
+  "name": "rumi",
+  "dates": "1207–1273",
+  "role": "persian poet and sufi mystic",
+  "url": "api/people/rumi.json"
+ },
+ {
+  "slug": "kublai-khan",
+  "name": "kublai khan",
+  "dates": "1215–1294",
+  "role": "mongol emperor of china",
+  "url": "api/people/kublai-khan.json"
+ },
+ {
+  "slug": "sundiata-keita",
+  "name": "sundiata keita",
+  "dates": "c. 1217–1255",
+  "role": "founder of the mali empire",
+  "url": "api/people/sundiata-keita.json"
+ },
+ {
+  "slug": "thomas-aquinas",
+  "name": "thomas aquinas",
+  "dates": "1225–1274",
+  "role": "italian theologian",
+  "url": "api/people/thomas-aquinas.json"
+ },
+ {
+  "slug": "marco-polo",
+  "name": "marco polo",
+  "dates": "1254–1324",
+  "role": "venetian merchant and traveler",
+  "url": "api/people/marco-polo.json"
+ },
+ {
+  "slug": "mansa-musa",
+  "name": "mansa musa",
+  "dates": "c. 1280–1337",
+  "role": "emperor of mali",
+  "url": "api/people/mansa-musa.json"
+ },
+ {
+  "slug": "ibn-battuta",
+  "name": "ibn battuta",
+  "dates": "1304–1369",
+  "role": "moroccan traveler",
+  "url": "api/people/ibn-battuta.json"
+ },
+ {
+  "slug": "ibn-khaldun",
+  "name": "ibn khaldun",
+  "dates": "1332–1406",
+  "role": "north african historian",
+  "url": "api/people/ibn-khaldun.json"
+ },
+ {
+  "slug": "timur",
+  "name": "timur",
+  "dates": "1336–1405",
+  "role": "turco-mongol conqueror",
+  "url": "api/people/timur.json"
+ },
+ {
+  "slug": "christine-de-pizan",
+  "name": "christine de pizan",
+  "dates": "c. 1364–1430",
+  "role": "writer at the french court",
+  "url": "api/people/christine-de-pizan.json"
+ },
+ {
+  "slug": "zheng-he",
+  "name": "zheng he",
+  "dates": "1371–1433",
+  "role": "chinese admiral",
+  "url": "api/people/zheng-he.json"
+ },
+ {
+  "slug": "sejong-the-great",
+  "name": "sejong the great",
+  "dates": "1397–1450",
+  "role": "king of korea",
+  "url": "api/people/sejong-the-great.json"
+ },
+ {
+  "slug": "johannes-gutenberg",
+  "name": "johannes gutenberg",
+  "dates": "c. 1400–1468",
+  "role": "german printer",
+  "url": "api/people/johannes-gutenberg.json"
+ },
+ {
+  "slug": "joan-of-arc",
+  "name": "joan of arc",
+  "dates": "c. 1412–1431",
+  "role": "french peasant girl and military leader",
+  "url": "api/people/joan-of-arc.json"
+ },
+ {
+  "slug": "pachacuti",
+  "name": "pachacuti",
+  "dates": "c. 1418–1471",
+  "role": "ruler of the inca",
+  "url": "api/people/pachacuti.json"
+ },
+ {
+  "slug": "mehmed-ii",
+  "name": "mehmed ii",
+  "dates": "1432–1481",
+  "role": "ottoman sultan",
+  "url": "api/people/mehmed-ii.json"
+ },
+ {
+  "slug": "christopher-columbus",
+  "name": "christopher columbus",
+  "dates": "1451–1506",
+  "role": "genoese navigator sailing for spain",
+  "url": "api/people/christopher-columbus.json"
+ },
+ {
+  "slug": "leonardo-da-vinci",
+  "name": "leonardo da vinci",
+  "dates": "1452–1519",
+  "role": "italian painter, engineer, and scientist",
+  "url": "api/people/leonardo-da-vinci.json"
+ },
+ {
+  "slug": "afonso-i-of-kongo",
+  "name": "afonso i of kongo",
+  "dates": "c. 1456–1542",
+  "role": "king of kongo",
+  "url": "api/people/afonso-i-of-kongo.json"
+ },
+ {
+  "slug": "vasco-da-gama",
+  "name": "vasco da gama",
+  "dates": "c. 1460–1524",
+  "role": "portuguese navigator",
+  "url": "api/people/vasco-da-gama.json"
+ },
+ {
+  "slug": "moctezuma-ii",
+  "name": "moctezuma ii",
+  "dates": "c. 1466–1520",
+  "role": "aztec emperor",
+  "url": "api/people/moctezuma-ii.json"
+ },
+ {
+  "slug": "guru-nanak",
+  "name": "guru nanak",
+  "dates": "1469–1539",
+  "role": "founder of sikhism",
+  "url": "api/people/guru-nanak.json"
+ },
+ {
+  "slug": "nicolaus-copernicus",
+  "name": "nicolaus copernicus",
+  "dates": "1473–1543",
+  "role": "polish astronomer",
+  "url": "api/people/nicolaus-copernicus.json"
+ },
+ {
+  "slug": "michelangelo",
+  "name": "michelangelo",
+  "dates": "1475–1564",
+  "role": "italian sculptor and painter",
+  "url": "api/people/michelangelo.json"
+ },
+ {
+  "slug": "ferdinand-magellan",
+  "name": "ferdinand magellan",
+  "dates": "1480–1521",
+  "role": "portuguese navigator sailing for spain",
+  "url": "api/people/ferdinand-magellan.json"
+ },
+ {
+  "slug": "babur",
+  "name": "babur",
+  "dates": "1483–1530",
+  "role": "founder of the mughal empire",
+  "url": "api/people/babur.json"
+ },
+ {
+  "slug": "martin-luther",
+  "name": "martin luther",
+  "dates": "1483–1546",
+  "role": "german monk and reformer",
+  "url": "api/people/martin-luther.json"
+ },
+ {
+  "slug": "bartolome-de-las-casas",
+  "name": "bartolomé de las casas",
+  "dates": "c. 1484–1566",
+  "role": "spanish priest and historian",
+  "url": "api/people/bartolome-de-las-casas.json"
+ },
+ {
+  "slug": "hernan-cortes",
+  "name": "hernán cortés",
+  "dates": "1485–1547",
+  "role": "spanish conquistador",
+  "url": "api/people/hernan-cortes.json"
+ },
+ {
+  "slug": "suleiman-the-magnificent",
+  "name": "suleiman the magnificent",
+  "dates": "1494–1566",
+  "role": "ottoman sultan",
+  "url": "api/people/suleiman-the-magnificent.json"
+ },
+ {
+  "slug": "malintzin",
+  "name": "malintzin",
+  "dates": "c. 1500–1529",
+  "role": "nahua interpreter",
+  "url": "api/people/malintzin.json"
+ },
+ {
+  "slug": "atahualpa",
+  "name": "atahualpa",
+  "dates": "c. 1502–1533",
+  "role": "last sovereign inca emperor",
+  "url": "api/people/atahualpa.json"
+ },
+ {
+  "slug": "elizabeth-i",
+  "name": "elizabeth i",
+  "dates": "1533–1603",
+  "role": "queen of england",
+  "url": "api/people/elizabeth-i.json"
+ },
+ {
+  "slug": "akbar",
+  "name": "akbar",
+  "dates": "1542–1605",
+  "role": "mughal emperor",
+  "url": "api/people/akbar.json"
+ },
+ {
+  "slug": "tokugawa-ieyasu",
+  "name": "tokugawa ieyasu",
+  "dates": "1543–1616",
+  "role": "japanese shogun",
+  "url": "api/people/tokugawa-ieyasu.json"
+ },
+ {
+  "slug": "yi-sun-sin",
+  "name": "yi sun-sin",
+  "dates": "1545–1598",
+  "role": "korean admiral",
+  "url": "api/people/yi-sun-sin.json"
+ },
+ {
+  "slug": "galileo-galilei",
+  "name": "galileo galilei",
+  "dates": "1564–1642",
+  "role": "italian scientist",
+  "url": "api/people/galileo-galilei.json"
+ },
+ {
+  "slug": "william-shakespeare",
+  "name": "william shakespeare",
+  "dates": "1564–1616",
+  "role": "english playwright and poet",
+  "url": "api/people/william-shakespeare.json"
+ },
+ {
+  "slug": "johannes-kepler",
+  "name": "johannes kepler",
+  "dates": "1571–1630",
+  "role": "german astronomer",
+  "url": "api/people/johannes-kepler.json"
+ },
+ {
+  "slug": "queen-nzinga",
+  "name": "queen nzinga",
+  "dates": "c. 1583–1663",
+  "role": "queen of ndongo and matamba",
+  "url": "api/people/queen-nzinga.json"
+ },
+ {
+  "slug": "shah-jahan",
+  "name": "shah jahan",
+  "dates": "1592–1666",
+  "role": "mughal emperor",
+  "url": "api/people/shah-jahan.json"
+ },
+ {
+  "slug": "aurangzeb",
+  "name": "aurangzeb",
+  "dates": "1618–1707",
+  "role": "mughal emperor",
+  "url": "api/people/aurangzeb.json"
+ },
+ {
+  "slug": "john-locke",
+  "name": "john locke",
+  "dates": "1632–1704",
+  "role": "english philosopher",
+  "url": "api/people/john-locke.json"
+ },
+ {
+  "slug": "isaac-newton",
+  "name": "isaac newton",
+  "dates": "1643–1727",
+  "role": "english mathematician and physicist",
+  "url": "api/people/isaac-newton.json"
+ },
+ {
+  "slug": "matsuo-basho",
+  "name": "matsuo bashō",
+  "dates": "1644–1694",
+  "role": "japanese poet",
+  "url": "api/people/matsuo-basho.json"
+ },
+ {
+  "slug": "sor-juana-ines-de-la-cruz",
+  "name": "sor juana inés de la cruz",
+  "dates": "c. 1648–1695",
+  "role": "mexican nun, poet, and scholar",
+  "url": "api/people/sor-juana-ines-de-la-cruz.json"
+ },
+ {
+  "slug": "kangxi-emperor",
+  "name": "kangxi emperor",
+  "dates": "1654–1722",
+  "role": "emperor of qing china",
+  "url": "api/people/kangxi-emperor.json"
+ },
+ {
+  "slug": "peter-the-great",
+  "name": "peter the great",
+  "dates": "1672–1725",
+  "role": "tsar of russia",
+  "url": "api/people/peter-the-great.json"
+ },
+ {
+  "slug": "voltaire",
+  "name": "voltaire",
+  "dates": "1694–1778",
+  "role": "french writer",
+  "url": "api/people/voltaire.json"
+ },
+ {
+  "slug": "jean-jacques-rousseau",
+  "name": "jean-jacques rousseau",
+  "dates": "1712–1778",
+  "role": "genevan philosopher",
+  "url": "api/people/jean-jacques-rousseau.json"
+ },
+ {
+  "slug": "adam-smith",
+  "name": "adam smith",
+  "dates": "1723–1790",
+  "role": "scottish economist",
+  "url": "api/people/adam-smith.json"
+ },
+ {
+  "slug": "james-cook",
+  "name": "james cook",
+  "dates": "1728–1779",
+  "role": "british navigator",
+  "url": "api/people/james-cook.json"
+ },
+ {
+  "slug": "catherine-the-great",
+  "name": "catherine the great",
+  "dates": "1729–1796",
+  "role": "empress of russia",
+  "url": "api/people/catherine-the-great.json"
+ },
+ {
+  "slug": "george-washington",
+  "name": "george washington",
+  "dates": "1732–1799",
+  "role": "american general and first president",
+  "url": "api/people/george-washington.json"
+ },
+ {
+  "slug": "james-watt",
+  "name": "james watt",
+  "dates": "1736–1819",
+  "role": "scottish engineer",
+  "url": "api/people/james-watt.json"
+ },
+ {
+  "slug": "tupac-amaru-ii",
+  "name": "tupac amaru ii",
+  "dates": "1738–1781",
+  "role": "leader of an uprising in peru",
+  "url": "api/people/tupac-amaru-ii.json"
+ },
+ {
+  "slug": "thomas-jefferson",
+  "name": "thomas jefferson",
+  "dates": "1743–1826",
+  "role": "american statesman",
+  "url": "api/people/thomas-jefferson.json"
+ },
+ {
+  "slug": "toussaint-louverture",
+  "name": "toussaint louverture",
+  "dates": "1743–1803",
+  "role": "leader of the haitian revolution",
+  "url": "api/people/toussaint-louverture.json"
+ },
+ {
+  "slug": "olaudah-equiano",
+  "name": "olaudah equiano",
+  "dates": "c. 1745–1797",
+  "role": "writer and abolitionist",
+  "url": "api/people/olaudah-equiano.json"
+ },
+ {
+  "slug": "jean-jacques-dessalines",
+  "name": "jean-jacques dessalines",
+  "dates": "1758–1806",
+  "role": "haitian leader",
+  "url": "api/people/jean-jacques-dessalines.json"
+ },
+ {
+  "slug": "maximilien-robespierre",
+  "name": "maximilien robespierre",
+  "dates": "1758–1794",
+  "role": "french revolutionary",
+  "url": "api/people/maximilien-robespierre.json"
+ },
+ {
+  "slug": "mary-wollstonecraft",
+  "name": "mary wollstonecraft",
+  "dates": "1759–1797",
+  "role": "english writer",
+  "url": "api/people/mary-wollstonecraft.json"
+ },
+ {
+  "slug": "william-wilberforce",
+  "name": "william wilberforce",
+  "dates": "1759–1833",
+  "role": "british politician",
+  "url": "api/people/william-wilberforce.json"
+ },
+ {
+  "slug": "tecumseh",
+  "name": "tecumseh",
+  "dates": "1768–1813",
+  "role": "shawnee leader",
+  "url": "api/people/tecumseh.json"
+ },
+ {
+  "slug": "napoleon-bonaparte",
+  "name": "napoleon bonaparte",
+  "dates": "1769–1821",
+  "role": "french general and emperor",
+  "url": "api/people/napoleon-bonaparte.json"
+ },
+ {
+  "slug": "ram-mohan-roy",
+  "name": "ram mohan roy",
+  "dates": "1772–1833",
+  "role": "indian reformer and writer",
+  "url": "api/people/ram-mohan-roy.json"
+ },
+ {
+  "slug": "simon-bolivar",
+  "name": "simón bolívar",
+  "dates": "1783–1830",
+  "role": "venezuelan revolutionary",
+  "url": "api/people/simon-bolivar.json"
+ },
+ {
+  "slug": "shaka",
+  "name": "shaka",
+  "dates": "c. 1787–1828",
+  "role": "zulu king",
+  "url": "api/people/shaka.json"
+ },
+ {
+  "slug": "abraham-lincoln",
+  "name": "abraham lincoln",
+  "dates": "1809–1865",
+  "role": "sixteenth president of the united states",
+  "url": "api/people/abraham-lincoln.json"
+ },
+ {
+  "slug": "charles-darwin",
+  "name": "charles darwin",
+  "dates": "1809–1882",
+  "role": "english naturalist",
+  "url": "api/people/charles-darwin.json"
+ },
+ {
+  "slug": "john-snow",
+  "name": "john snow",
+  "dates": "1813–1858",
+  "role": "english doctor",
+  "url": "api/people/john-snow.json"
+ },
+ {
+  "slug": "hong-xiuquan",
+  "name": "hong xiuquan",
+  "dates": "1814–1864",
+  "role": "leader of the taiping rebellion",
+  "url": "api/people/hong-xiuquan.json"
+ },
+ {
+  "slug": "ada-lovelace",
+  "name": "ada lovelace",
+  "dates": "1815–1852",
+  "role": "english mathematician",
+  "url": "api/people/ada-lovelace.json"
+ },
+ {
+  "slug": "otto-von-bismarck",
+  "name": "otto von bismarck",
+  "dates": "1815–1898",
+  "role": "prussian and german chancellor",
+  "url": "api/people/otto-von-bismarck.json"
+ },
+ {
+  "slug": "frederick-douglass",
+  "name": "frederick douglass",
+  "dates": "c. 1818–1895",
+  "role": "abolitionist and writer",
+  "url": "api/people/frederick-douglass.json"
+ },
+ {
+  "slug": "karl-marx",
+  "name": "karl marx",
+  "dates": "1818–1883",
+  "role": "german philosopher and economist",
+  "url": "api/people/karl-marx.json"
+ },
+ {
+  "slug": "florence-nightingale",
+  "name": "florence nightingale",
+  "dates": "1820–1910",
+  "role": "english nurse and statistician",
+  "url": "api/people/florence-nightingale.json"
+ },
+ {
+  "slug": "harriet-tubman",
+  "name": "harriet tubman",
+  "dates": "c. 1822–1913",
+  "role": "abolitionist",
+  "url": "api/people/harriet-tubman.json"
+ },
+ {
+  "slug": "louis-pasteur",
+  "name": "louis pasteur",
+  "dates": "1822–1895",
+  "role": "french chemist",
+  "url": "api/people/louis-pasteur.json"
+ },
+ {
+  "slug": "samori-ture",
+  "name": "samori ture",
+  "dates": "c. 1828–1900",
+  "role": "founder of the wassoulou empire in west africa",
+  "url": "api/people/samori-ture.json"
+ },
+ {
+  "slug": "sitting-bull",
+  "name": "sitting bull",
+  "dates": "c. 1831–1890",
+  "role": "lakota leader",
+  "url": "api/people/sitting-bull.json"
+ },
+ {
+  "slug": "cixi",
+  "name": "cixi",
+  "dates": "1835–1908",
+  "role": "empress dowager of china",
+  "url": "api/people/cixi.json"
+ },
+ {
+  "slug": "leopold-ii",
+  "name": "leopold ii",
+  "dates": "1835–1909",
+  "role": "king of the belgians",
+  "url": "api/people/leopold-ii.json"
+ },
+ {
+  "slug": "liliuokalani",
+  "name": "liliuokalani",
+  "dates": "1838–1917",
+  "role": "the last queen of hawaii",
+  "url": "api/people/liliuokalani.json"
+ },
+ {
+  "slug": "menelik-ii",
+  "name": "menelik ii",
+  "dates": "1844–1913",
+  "role": "emperor of ethiopia",
+  "url": "api/people/menelik-ii.json"
+ },
+ {
+  "slug": "thomas-edison",
+  "name": "thomas edison",
+  "dates": "1847–1931",
+  "role": "american inventor",
+  "url": "api/people/thomas-edison.json"
+ },
+ {
+  "slug": "emperor-meiji",
+  "name": "emperor meiji",
+  "dates": "1852–1912",
+  "role": "emperor of japan",
+  "url": "api/people/emperor-meiji.json"
+ },
+ {
+  "slug": "emmeline-pankhurst",
+  "name": "emmeline pankhurst",
+  "dates": "1858–1928",
+  "role": "british suffragette",
+  "url": "api/people/emmeline-pankhurst.json"
+ },
+ {
+  "slug": "jose-rizal",
+  "name": "josé rizal",
+  "dates": "1861–1896",
+  "role": "filipino writer and doctor",
+  "url": "api/people/jose-rizal.json"
+ },
+ {
+  "slug": "sun-yat-sen",
+  "name": "sun yat-sen",
+  "dates": "1866–1925",
+  "role": "chinese revolutionary",
+  "url": "api/people/sun-yat-sen.json"
+ },
+ {
+  "slug": "marie-curie",
+  "name": "marie curie",
+  "dates": "1867–1934",
+  "role": "polish-french scientist",
+  "url": "api/people/marie-curie.json"
+ },
+ {
+  "slug": "mahatma-gandhi",
+  "name": "mahatma gandhi",
+  "dates": "1869–1948",
+  "role": "leader of indian independence",
+  "url": "api/people/mahatma-gandhi.json"
+ },
+ {
+  "slug": "vladimir-lenin",
+  "name": "vladimir lenin",
+  "dates": "1870–1924",
+  "role": "russian revolutionary",
+  "url": "api/people/vladimir-lenin.json"
+ },
+ {
+  "slug": "winston-churchill",
+  "name": "winston churchill",
+  "dates": "1874–1965",
+  "role": "british prime minister",
+  "url": "api/people/winston-churchill.json"
+ },
+ {
+  "slug": "joseph-stalin",
+  "name": "joseph stalin",
+  "dates": "1878–1953",
+  "role": "soviet dictator",
+  "url": "api/people/joseph-stalin.json"
+ },
+ {
+  "slug": "lise-meitner",
+  "name": "lise meitner",
+  "dates": "1878–1968",
+  "role": "austrian physicist",
+  "url": "api/people/lise-meitner.json"
+ },
+ {
+  "slug": "albert-einstein",
+  "name": "albert einstein",
+  "dates": "1879–1955",
+  "role": "german-born physicist",
+  "url": "api/people/albert-einstein.json"
+ },
+ {
+  "slug": "emiliano-zapata",
+  "name": "emiliano zapata",
+  "dates": "1879–1919",
+  "role": "leader in the mexican revolution",
+  "url": "api/people/emiliano-zapata.json"
+ },
+ {
+  "slug": "mustafa-kemal-ataturk",
+  "name": "mustafa kemal atatürk",
+  "dates": "1881–1938",
+  "role": "founder of modern turkey",
+  "url": "api/people/mustafa-kemal-ataturk.json"
+ },
+ {
+  "slug": "franklin-d-roosevelt",
+  "name": "franklin d. roosevelt",
+  "dates": "1882–1945",
+  "role": "president of the united states",
+  "url": "api/people/franklin-d-roosevelt.json"
+ },
+ {
+  "slug": "benito-mussolini",
+  "name": "benito mussolini",
+  "dates": "1883–1945",
+  "role": "italian fascist dictator",
+  "url": "api/people/benito-mussolini.json"
+ },
+ {
+  "slug": "adolf-hitler",
+  "name": "adolf hitler",
+  "dates": "1889–1945",
+  "role": "nazi dictator of germany",
+  "url": "api/people/adolf-hitler.json"
+ },
+ {
+  "slug": "jawaharlal-nehru",
+  "name": "jawaharlal nehru",
+  "dates": "1889–1964",
+  "role": "first prime minister of india",
+  "url": "api/people/jawaharlal-nehru.json"
+ },
+ {
+  "slug": "ho-chi-minh",
+  "name": "ho chi minh",
+  "dates": "1890–1969",
+  "role": "vietnamese revolutionary",
+  "url": "api/people/ho-chi-minh.json"
+ },
+ {
+  "slug": "haile-selassie",
+  "name": "haile selassie",
+  "dates": "1892–1975",
+  "role": "emperor of ethiopia",
+  "url": "api/people/haile-selassie.json"
+ },
+ {
+  "slug": "mao-zedong",
+  "name": "mao zedong",
+  "dates": "1893–1976",
+  "role": "leader of communist china",
+  "url": "api/people/mao-zedong.json"
+ },
+ {
+  "slug": "sukarno",
+  "name": "sukarno",
+  "dates": "1901–1970",
+  "role": "first president of indonesia",
+  "url": "api/people/sukarno.json"
+ },
+ {
+  "slug": "deng-xiaoping",
+  "name": "deng xiaoping",
+  "dates": "1904–1997",
+  "role": "leader of china",
+  "url": "api/people/deng-xiaoping.json"
+ },
+ {
+  "slug": "rachel-carson",
+  "name": "rachel carson",
+  "dates": "1907–1964",
+  "role": "american biologist and writer",
+  "url": "api/people/rachel-carson.json"
+ },
+ {
+  "slug": "salvador-allende",
+  "name": "salvador allende",
+  "dates": "1908–1973",
+  "role": "president of chile",
+  "url": "api/people/salvador-allende.json"
+ },
+ {
+  "slug": "kwame-nkrumah",
+  "name": "kwame nkrumah",
+  "dates": "1909–1972",
+  "role": "first leader of ghana",
+  "url": "api/people/kwame-nkrumah.json"
+ },
+ {
+  "slug": "alan-turing",
+  "name": "alan turing",
+  "dates": "1912–1954",
+  "role": "british mathematician",
+  "url": "api/people/alan-turing.json"
+ },
+ {
+  "slug": "rosa-parks",
+  "name": "rosa parks",
+  "dates": "1913–2005",
+  "role": "civil rights activist",
+  "url": "api/people/rosa-parks.json"
+ },
+ {
+  "slug": "jonas-salk",
+  "name": "jonas salk",
+  "dates": "1914–1995",
+  "role": "american doctor",
+  "url": "api/people/jonas-salk.json"
+ },
+ {
+  "slug": "norman-borlaug",
+  "name": "norman borlaug",
+  "dates": "1914–2009",
+  "role": "american plant scientist",
+  "url": "api/people/norman-borlaug.json"
+ },
+ {
+  "slug": "indira-gandhi",
+  "name": "indira gandhi",
+  "dates": "1917–1984",
+  "role": "prime minister of india",
+  "url": "api/people/indira-gandhi.json"
+ },
+ {
+  "slug": "nelson-mandela",
+  "name": "nelson mandela",
+  "dates": "1918–2013",
+  "role": "anti-apartheid leader and president of south africa",
+  "url": "api/people/nelson-mandela.json"
+ },
+ {
+  "slug": "eva-peron",
+  "name": "eva perón",
+  "dates": "1919–1952",
+  "role": "first lady of argentina",
+  "url": "api/people/eva-peron.json"
+ },
+ {
+  "slug": "rosalind-franklin",
+  "name": "rosalind franklin",
+  "dates": "1920–1958",
+  "role": "british chemist",
+  "url": "api/people/rosalind-franklin.json"
+ },
+ {
+  "slug": "fidel-castro",
+  "name": "fidel castro",
+  "dates": "1926–2016",
+  "role": "cuban revolutionary and leader",
+  "url": "api/people/fidel-castro.json"
+ },
+ {
+  "slug": "anne-frank",
+  "name": "anne frank",
+  "dates": "1929–1945",
+  "role": "jewish diarist",
+  "url": "api/people/anne-frank.json"
+ },
+ {
+  "slug": "martin-luther-king-jr",
+  "name": "martin luther king jr.",
+  "dates": "1929–1968",
+  "role": "civil rights leader",
+  "url": "api/people/martin-luther-king-jr.json"
+ },
+ {
+  "slug": "neil-armstrong",
+  "name": "neil armstrong",
+  "dates": "1930–2012",
+  "role": "american astronaut",
+  "url": "api/people/neil-armstrong.json"
+ },
+ {
+  "slug": "tu-youyou",
+  "name": "tu youyou",
+  "dates": "1930–present",
+  "role": "chinese scientist",
+  "url": "api/people/tu-youyou.json"
+ },
+ {
+  "slug": "mikhail-gorbachev",
+  "name": "mikhail gorbachev",
+  "dates": "1931–2022",
+  "role": "last leader of the soviet union",
+  "url": "api/people/mikhail-gorbachev.json"
+ },
+ {
+  "slug": "yuri-gagarin",
+  "name": "yuri gagarin",
+  "dates": "1934–1968",
+  "role": "soviet cosmonaut",
+  "url": "api/people/yuri-gagarin.json"
+ },
+ {
+  "slug": "eddie-mabo",
+  "name": "eddie mabo",
+  "dates": "1936–1992",
+  "role": "torres strait islander",
+  "url": "api/people/eddie-mabo.json"
+ },
+ {
+  "slug": "valentina-tereshkova",
+  "name": "valentina tereshkova",
+  "dates": "1937–present",
+  "role": "soviet cosmonaut",
+  "url": "api/people/valentina-tereshkova.json"
+ },
+ {
+  "slug": "wangari-maathai",
+  "name": "wangari maathai",
+  "dates": "1940–2011",
+  "role": "kenyan environmentalist",
+  "url": "api/people/wangari-maathai.json"
+ },
+ {
+  "slug": "tim-berners-lee",
+  "name": "tim berners-lee",
+  "dates": "1955–present",
+  "role": "british computer scientist",
+  "url": "api/people/tim-berners-lee.json"
+ }
+]

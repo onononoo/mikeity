@@ -1,0 +1,44 @@
+{
+ "century": -20,
+ "events": [
+  {
+   "id": 111,
+   "date": "c. 2000 bce",
+   "start": -2000,
+   "end": -2000,
+   "text": "minoan palaces rise on crete, centered on knossos",
+   "era": "the-first-civilizations",
+   "region": "europe",
+   "tags": [
+    "cities",
+    "trade"
+   ]
+  },
+  {
+   "id": 112,
+   "date": "c. 2000 bce",
+   "start": -2000,
+   "end": -2000,
+   "text": "people of the sintashta culture on the steppe build light chariots with spoked wheels",
+   "era": "the-first-civilizations",
+   "region": "central-asia",
+   "tags": [
+    "technology",
+    "horses",
+    "war"
+   ]
+  },
+  {
+   "id": 113,
+   "date": "c. 2000 bce",
+   "start": -2000,
+   "end": -2000,
+   "text": "people in eastern north america domesticate squash, sunflowers, and other seed plants",
+   "era": "the-first-civilizations",
+   "region": "north-america",
+   "tags": [
+    "farming"
+   ]
+  }
+ ]
+}

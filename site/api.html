@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>json api - the history of the world</title>
+<link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="icon" type="image/png" href="favicon.png" sizes="180x180">
+<link rel="apple-touch-icon" href="favicon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a id="top"></a>
+<p class="name"><b><a href="index.html">the history of the world</a></b></p>
+<p class="nav"><a href="index.html">home</a> | <a href="timeline.html">timeline</a> | <a href="topics.html">topics</a> | <a href="religions.html">religions</a> | <a href="regions.html">regions</a> | <a href="people.html">people</a> | <a href="glossary.html">glossary</a> | <a href="search.html">search</a> | <a href="statistics.html">statistics</a> | <a href="about.html">about</a></p>
+<hr>
+<p class="small"><a href="index.html">home</a> &gt; json api</p>
+
+<h1>json api</h1>
+
+<p>everything on this site is also available as json, for programs, spreadsheets, and other websites. there is no server: every address below is a plain file, made by a typescript program (<tt>tools/api.ts</tt>) each time the site is built, so it works on any static host, and even from a copy on your own computer.</p>
+
+
+<p>there are 306 files in all. start with <a href="api/index.json">api/index.json</a>, which lists the rest.</p>
+
+<table class="grid">
+<tr><th>address</th><th>files</th><th>what it holds</th><th>example</th></tr>
+<tr><td class="nowrap"><tt>api/eras.json</tt></td><td>1</td><td>the eleven parts of the story, in order</td><td><a href="api/eras.json">api/eras.json</a></td></tr>
+<tr><td class="nowrap"><tt>api/eras/{}.json</tt></td><td>11</td><td>one part, with its events and people</td><td><a href="api/eras/the-beginning.json">api/eras/the-beginning.json</a></td></tr>
+<tr><td class="nowrap"><tt>api/events.json</tt></td><td>1</td><td>every dated event on the main timeline</td><td><a href="api/events.json">api/events.json</a></td></tr>
+<tr><td class="nowrap"><tt>api/centuries/{}.json</tt></td><td>64</td><td>the events that began in one century, from 10,000 bce (-5 is the 5th century bce)</td><td><a href="api/centuries/-97.json">api/centuries/-97.json</a></td></tr>
+<tr><td class="nowrap"><tt>api/people.json</tt></td><td>1</td><td>everyone on the people page, in short</td><td><a href="api/people.json">api/people.json</a></td></tr>
+<tr><td class="nowrap"><tt>api/people/{}.json</tt></td><td>205</td><td>one person, with their part and region</td><td><a href="api/people/lucy.json">api/people/lucy.json</a></td></tr>
+<tr><td class="nowrap"><tt>api/regions/{}.json</tt></td><td>14</td><td>one region, with its events and people</td><td><a href="api/regions/the-universe.json">api/regions/the-universe.json</a></td></tr>
+<tr><td class="nowrap"><tt>api/glossary.json</tt></td><td>1</td><td>every term in the glossary</td><td><a href="api/glossary.json">api/glossary.json</a></td></tr>
+<tr><td class="nowrap"><tt>api/religions.json</tt></td><td>1</td><td>the six religions, in short</td><td><a href="api/religions.json">api/religions.json</a></td></tr>
+<tr><td class="nowrap"><tt>api/religions/{}.json</tt></td><td>6</td><td>one religion: facts, timeline, people, and glossary</td><td><a href="api/religions/judaism.json">api/religions/judaism.json</a></td></tr>
+<tr><td class="nowrap"><tt>api/index.json</tt></td><td>1</td><td>this list</td><td><a href="api/index.json">api/index.json</a></td></tr>
+</table>
+
+<p class="small">in addresses with <tt>{}</tt>, put a slug in its place: the same short names used in this site's own page addresses, like <tt>the-middle-ages</tt> or <tt>ibn-battuta</tt>. centuries are numbered like the database: <tt>15</tt> is the 15th century (the 1400s), <tt>-5</tt> is the 5th century bce.</p>
+
+<h2 id="using">using it</h2>
+
+<p>from a web page (the files can be read from other websites):</p>
+
+<pre>fetch("https://your-site.vercel.app/api/people/ibn-battuta.json")
+    .then(function (r) { return r.json(); })
+    .then(function (p) { alert(p.name + " (" + p.dates + "): " + p.role); });</pre>
+
+<p>from python:</p>
+
+<pre>import json, urllib.request
+url = "https://your-site.vercel.app/api/centuries/15.json"
+for ev in json.load(urllib.request.urlopen(url))["events"]:
+    print(ev["date"], ev["text"])</pre>
+
+<p>the same data is also in one file, <a href="data/history.json">data/history.json</a>, as a <a href="data/history.db">sqlite database</a>, and as a <a href="data/events.tsv">tab separated timeline</a>.</p>
+
+
+<hr>
+<p class="small"><a href="#top">back to top</a> | <a href="data/history.json">raw data (json)</a> | <a href="data/events.tsv">timeline (tsv)</a> | <a href="data/history.db">database (sqlite)</a> | <a href="api.html">json api</a></p>
+</body>
+</html>

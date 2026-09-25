@@ -1,0 +1,156 @@
+{
+ "century": 15,
+ "events": [
+  {
+   "id": 255,
+   "date": "1405–1433",
+   "start": 1405,
+   "end": 1433,
+   "text": "admiral zheng he leads seven giant treasure fleets as far as east africa",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "exploration",
+    "trade"
+   ]
+  },
+  {
+   "id": 256,
+   "date": "1429",
+   "start": 1429,
+   "end": 1429,
+   "text": "joan of arc leads the french to lift the siege of orléans",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 257,
+   "date": "c. 1438",
+   "start": 1438,
+   "end": 1438,
+   "text": "pachacuti becomes ruler of the inca and begins their rapid expansion",
+   "era": "the-middle-ages",
+   "region": "south-america",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 272,
+   "date": "1443",
+   "start": 1443,
+   "end": 1443,
+   "text": "king sejong of korea has hangul created, a simple alphabet for the korean language",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 273,
+   "date": "c. 1450",
+   "start": 1450,
+   "end": 1450,
+   "text": "johannes gutenberg builds a printing press with movable metal type in mainz",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  },
+  {
+   "id": 274,
+   "date": "1453",
+   "start": 1453,
+   "end": 1453,
+   "text": "the ottomans under mehmed ii capture constantinople, ending the byzantine empire",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "war",
+    "empire",
+    "collapse"
+   ]
+  },
+  {
+   "id": 313,
+   "date": "1464–1492",
+   "start": 1464,
+   "end": 1492,
+   "text": "sonni ali builds the songhai empire along the niger river, taking timbuktu and djenné",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 275,
+   "date": "1488",
+   "start": 1488,
+   "end": 1488,
+   "text": "bartolomeu dias sails around the southern tip of africa",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 276,
+   "date": "1492",
+   "start": 1492,
+   "end": 1492,
+   "text": "christopher columbus, sailing for spain, reaches the caribbean",
+   "era": "the-early-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 277,
+   "date": "1492",
+   "start": 1492,
+   "end": 1492,
+   "text": "granada, the last muslim state in spain, falls; spain expels its jews",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "religion",
+    "war"
+   ]
+  },
+  {
+   "id": 278,
+   "date": "1498",
+   "start": 1498,
+   "end": 1498,
+   "text": "vasco da gama reaches calicut in india by sailing around africa",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "exploration",
+    "trade"
+   ]
+  },
+  {
+   "id": 314,
+   "date": "c. 1500",
+   "start": 1500,
+   "end": 1500,
+   "text": "guru nanak begins teaching in the punjab; his followers become the sikhs",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "religion"
+   ]
+  }
+ ]
+}

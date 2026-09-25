@@ -1,0 +1,42 @@
+{
+ "century": -80,
+ "events": [
+  {
+   "id": 74,
+   "date": "c. 8000 bce",
+   "start": -8000,
+   "end": -8000,
+   "text": "jericho is surrounded by a stone wall with a great tower, one of the oldest town walls known",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "cities",
+    "architecture"
+   ]
+  },
+  {
+   "id": 75,
+   "date": "c. 8000 bce",
+   "start": -8000,
+   "end": -8000,
+   "text": "millet is farmed in northern china, along the yellow river",
+   "era": "the-first-farmers",
+   "region": "east-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 76,
+   "date": "c. 8000 bce",
+   "start": -8000,
+   "end": -8000,
+   "text": "squash is domesticated in mexico",
+   "era": "the-first-farmers",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "farming"
+   ]
+  }
+ ]
+}

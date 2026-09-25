@@ -1,0 +1,131 @@
+{
+ "century": 11,
+ "events": [
+  {
+   "id": 261,
+   "date": "c. 1015",
+   "start": 1015,
+   "end": 1015,
+   "text": "ibn al-haytham writes his book of optics in cairo, testing ideas about light and sight with careful experiments",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 262,
+   "date": "1024",
+   "start": 1024,
+   "end": 1024,
+   "text": "the song government issues the jiaozi in sichuan, the world's first official paper money",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 229,
+   "date": "c. 1025",
+   "start": 1025,
+   "end": 1025,
+   "text": "ibn sina (avicenna) completes the canon of medicine, used in europe and the islamic world for centuries",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "science",
+    "medicine"
+   ]
+  },
+  {
+   "id": 263,
+   "date": "c. 1040",
+   "start": 1040,
+   "end": 1040,
+   "text": "bi sheng invents movable type made of baked clay",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  },
+  {
+   "id": 264,
+   "date": "1044",
+   "start": 1044,
+   "end": 1044,
+   "text": "a chinese military handbook records the earliest known formula for gunpowder",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "war"
+   ]
+  },
+  {
+   "id": 231,
+   "date": "c. 1050",
+   "start": 1050,
+   "end": 1050,
+   "text": "cahokia near the mississippi river grows into the largest city north of mexico, with huge earthen mounds",
+   "era": "the-middle-ages",
+   "region": "north-america",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 230,
+   "date": "1054",
+   "start": 1054,
+   "end": 1054,
+   "text": "the great schism: the catholic and orthodox churches formally split",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 232,
+   "date": "1066",
+   "start": 1066,
+   "end": 1066,
+   "text": "william of normandy wins the battle of hastings and conquers england",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "war",
+    "politics"
+   ]
+  },
+  {
+   "id": 233,
+   "date": "1088",
+   "start": 1088,
+   "end": 1088,
+   "text": "the university of bologna is founded, the oldest in continuous operation in europe",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "science",
+    "culture"
+   ]
+  },
+  {
+   "id": 234,
+   "date": "1099",
+   "start": 1099,
+   "end": 1099,
+   "text": "the first crusade captures jerusalem and massacres many of its people",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  }
+ ]
+}

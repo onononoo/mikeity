@@ -1,0 +1,30 @@
+{
+ "century": -19,
+ "events": [
+  {
+   "id": 114,
+   "date": "c. 1900 bce",
+   "start": -1900,
+   "end": -1900,
+   "text": "the indus cities go into decline as rivers shift and the climate dries",
+   "era": "the-first-civilizations",
+   "region": "south-asia",
+   "tags": [
+    "collapse",
+    "environment"
+   ]
+  },
+  {
+   "id": 138,
+   "date": "c. 1850 bce",
+   "start": -1850,
+   "end": -1850,
+   "text": "semitic-speaking workers in egypt scratch the earliest known alphabet onto rocks in sinai and the western desert",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "writing"
+   ]
+  }
+ ]
+}

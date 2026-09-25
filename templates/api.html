@@ -1,0 +1,33 @@
+<h1>json api</h1>
+
+<p>everything on this site is also available as json, for programs, spreadsheets, and other websites. there is no server: every address below is a plain file, made by a typescript program (<tt>tools/api.ts</tt>) each time the site is built, so it works on any static host, and even from a copy on your own computer.</p>
+
+{% if api %}
+<p>there are {{ api.files|commas }} files in all. start with <a href="api/index.json">api/index.json</a>, which lists the rest.</p>
+
+<table class="grid">
+<tr><th>address</th><th>files</th><th>what it holds</th><th>example</th></tr>
+{% for ep in api.endpoints %}<tr><td class="nowrap"><tt>{{ ep.path }}</tt></td><td>{{ ep.files|commas }}</td><td>{{ ep.about }}</td><td>{% if ep.example %}<a href="{{ ep.example }}">{{ ep.example }}</a>{% endif %}</td></tr>
+{% endfor %}</table>
+
+<p class="small">in addresses with <tt>{}</tt>, put a slug in its place: the same short names used in this site's own page addresses, like <tt>the-middle-ages</tt> or <tt>ibn-battuta</tt>. centuries are numbered like the database: <tt>15</tt> is the 15th century (the 1400s), <tt>-5</tt> is the 5th century bce.</p>
+
+<h2 id="using">using it</h2>
+
+<p>from a web page (the files can be read from other websites):</p>
+
+<pre>fetch("https://your-site.vercel.app/api/people/ibn-battuta.json")
+    .then(function (r) { return r.json(); })
+    .then(function (p) { alert(p.name + " (" + p.dates + "): " + p.role); });</pre>
+
+<p>from python:</p>
+
+<pre>import json, urllib.request
+url = "https://your-site.vercel.app/api/centuries/15.json"
+for ev in json.load(urllib.request.urlopen(url))["events"]:
+    print(ev["date"], ev["text"])</pre>
+
+<p>the same data is also in one file, <a href="data/history.json">data/history.json</a>, as a <a href="data/history.db">sqlite database</a>, and as a <a href="data/events.tsv">tab separated timeline</a>.</p>
+{% else %}
+<p>the api was not built this time, because node 22.6 or newer was not installed. the same data is in <a href="data/history.json">data/history.json</a>.</p>
+{% endif %}

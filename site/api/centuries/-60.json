@@ -1,0 +1,44 @@
+{
+ "century": -60,
+ "events": [
+  {
+   "id": 84,
+   "date": "c. 6000 bce",
+   "start": -6000,
+   "end": -6000,
+   "text": "potatoes, quinoa, and beans are being domesticated in the andes",
+   "era": "the-first-farmers",
+   "region": "south-america",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 85,
+   "date": "c. 6000 bce",
+   "start": -6000,
+   "end": -6000,
+   "text": "farmers in mesopotamia dig irrigation canals to water fields with river water",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "technology"
+   ]
+  },
+  {
+   "id": 86,
+   "date": "c. 6000 bce",
+   "start": -6000,
+   "end": -6000,
+   "text": "during the \"green sahara\", herders graze cattle across lands that are now desert, and paint them on rocks",
+   "era": "the-first-farmers",
+   "region": "africa",
+   "tags": [
+    "farming",
+    "animals",
+    "art"
+   ]
+  }
+ ]
+}

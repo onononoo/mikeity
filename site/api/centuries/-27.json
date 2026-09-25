@@ -1,0 +1,17 @@
+{
+ "century": -27,
+ "events": [
+  {
+   "id": 136,
+   "date": "c. 2650 bce",
+   "start": -2650,
+   "end": -2650,
+   "text": "the architect imhotep builds the step pyramid of djoser at saqqara, the first large building made entirely of stone",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "architecture"
+   ]
+  }
+ ]
+}

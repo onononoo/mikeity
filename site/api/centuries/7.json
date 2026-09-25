@@ -1,0 +1,122 @@
+{
+ "century": 7,
+ "events": [
+  {
+   "id": 211,
+   "date": "c. 610 ce",
+   "start": 610,
+   "end": 610,
+   "text": "muhammad begins receiving the revelations that become the quran, according to muslim tradition",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 212,
+   "date": "618 ce",
+   "start": 618,
+   "end": 618,
+   "text": "the tang dynasty begins, a golden age of poetry, trade, and buddhism",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "culture"
+   ]
+  },
+  {
+   "id": 213,
+   "date": "622 ce",
+   "start": 622,
+   "end": 622,
+   "text": "the hijra: muhammad and his followers move from mecca to medina, year one of the islamic calendar",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 258,
+   "date": "629–645 ce",
+   "start": 629,
+   "end": 645,
+   "text": "the monk xuanzang travels from china to india along the silk roads and returns with hundreds of buddhist texts",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "religion",
+    "exploration"
+   ]
+  },
+  {
+   "id": 214,
+   "date": "632 ce",
+   "start": 632,
+   "end": 632,
+   "text": "muhammad dies; abu bakr becomes the first caliph",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "politics"
+   ]
+  },
+  {
+   "id": 215,
+   "date": "c. 632–750 ce",
+   "start": 632,
+   "end": 750,
+   "text": "arab muslim armies conquer the sasanian empire, syria, egypt, north africa, and spain",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 259,
+   "date": "c. 670 ce",
+   "start": 670,
+   "end": 670,
+   "text": "srivijaya, a trading empire based on sumatra, controls the strait of malacca and becomes a center of buddhist learning",
+   "era": "the-middle-ages",
+   "region": "southeast-asia",
+   "tags": [
+    "trade",
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 216,
+   "date": "680 ce",
+   "start": 680,
+   "end": 680,
+   "text": "husayn, grandson of muhammad, is killed at karbala, deepening the split between sunni and shia muslims",
+   "era": "the-middle-ages",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "war"
+   ]
+  },
+  {
+   "id": 260,
+   "date": "c. 700 ce",
+   "start": 700,
+   "end": 700,
+   "text": "the empire of ghana, the \"land of gold\", grows rich on camel caravans carrying gold and salt across the sahara",
+   "era": "the-middle-ages",
+   "region": "africa",
+   "tags": [
+    "trade",
+    "empire"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "slug": "central-asia",
+ "name": "central asia",
+ "description": "the steppe and the silk roads: the home of horse riders, nomad empires, and the great trading cities of the silk roads.",
+ "page": "regions.html#central-asia",
+ "events": [
+  {
+   "id": 94,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "the botai people of kazakhstan use horses, perhaps riding and milking them",
+   "era": "the-first-farmers",
+   "region": "central-asia",
+   "tags": [
+    "animals",
+    "horses"
+   ]
+  },
+  {
+   "id": 112,
+   "date": "c. 2000 bce",
+   "start": -2000,
+   "end": -2000,
+   "text": "people of the sintashta culture on the steppe build light chariots with spoked wheels",
+   "era": "the-first-civilizations",
+   "region": "central-asia",
+   "tags": [
+    "technology",
+    "horses",
+    "war"
+   ]
+  },
+  {
+   "id": 200,
+   "date": "209 bce",
+   "start": -209,
+   "end": -209,
+   "text": "modu chanyu unites the xiongnu nomads of the mongolian steppe into an empire strong enough to make the han pay tribute",
+   "era": "the-classical-world",
+   "region": "central-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 172,
+   "date": "c. 130 bce",
+   "start": -130,
+   "end": -130,
+   "text": "after the travels of the han envoy zhang qian, the trade routes later called the silk roads open between china and the west",
+   "era": "the-classical-world",
+   "region": "central-asia",
+   "tags": [
+    "trade",
+    "exploration"
+   ]
+  },
+  {
+   "id": 258,
+   "date": "629–645 ce",
+   "start": 629,
+   "end": 645,
+   "text": "the monk xuanzang travels from china to india along the silk roads and returns with hundreds of buddhist texts",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "religion",
+    "exploration"
+   ]
+  },
+  {
+   "id": 219,
+   "date": "751 ce",
+   "start": 751,
+   "end": 751,
+   "text": "abbasid and tang armies clash at the talas river; papermaking spreads west to the islamic world",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "war",
+    "technology"
+   ]
+  },
+  {
+   "id": 239,
+   "date": "1206",
+   "start": 1206,
+   "end": 1206,
+   "text": "temüjin unites the mongol tribes and is proclaimed genghis khan",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "empire",
+    "politics"
+   ]
+  },
+  {
+   "id": 270,
+   "date": "1370–1405",
+   "start": 1370,
+   "end": 1405,
+   "text": "timur conquers an empire from his capital at samarkand, from anatolia to india, at a terrible cost in lives",
+   "era": "the-middle-ages",
+   "region": "central-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 496,
+   "date": "1979–1989",
+   "start": 1979,
+   "end": 1989,
+   "text": "the soviet war in afghanistan",
+   "era": "the-modern-world",
+   "region": "central-asia",
+   "tags": [
+    "war",
+    "cold war"
+   ]
+  },
+  {
+   "id": 506,
+   "date": "2001–2021",
+   "start": 2001,
+   "end": 2021,
+   "text": "the united states and allies fight a war in afghanistan",
+   "era": "the-modern-world",
+   "region": "central-asia",
+   "tags": [
+    "war"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "denny",
+   "name": "denny",
+   "dates": "c. 90,000 years ago",
+   "role": "a girl known from a bone fragment in denisova cave, siberia",
+   "url": "api/people/denny.json"
+  },
+  {
+   "slug": "genghis-khan",
+   "name": "genghis khan",
+   "dates": "c. 1162–1227",
+   "role": "founder of the mongol empire",
+   "url": "api/people/genghis-khan.json"
+  },
+  {
+   "slug": "timur",
+   "name": "timur",
+   "dates": "1336–1405",
+   "role": "turco-mongol conqueror",
+   "url": "api/people/timur.json"
+  }
+ ]
+}

@@ -1,0 +1,553 @@
+{
+ "slug": "the-whole-world",
+ "name": "the whole world",
+ "description": "events that touched the entire planet at once: changes in climate, mass extinctions, pandemics, world wars, and global technology.",
+ "page": "regions.html#the-whole-world",
+ "events": [
+  {
+   "id": 6,
+   "date": "4.54 billion years ago",
+   "start": -4539998050,
+   "end": -4539998050,
+   "text": "the earth forms as rock and dust in the young solar system clump together",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "earth"
+   ]
+  },
+  {
+   "id": 7,
+   "date": "4.5 billion years ago",
+   "start": -4499998050,
+   "end": -4499998050,
+   "text": "a mars-sized body, often called theia, strikes the young earth; the debris forms the moon",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "earth",
+    "disaster"
+   ]
+  },
+  {
+   "id": 9,
+   "date": "c. 3.7 billion years ago",
+   "start": -3699998050,
+   "end": -3699998050,
+   "text": "the earliest likely traces of life: chemical signs of microbes preserved in ancient rocks",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "id": 11,
+   "date": "2.4 billion years ago",
+   "start": -2399998050,
+   "end": -2399998050,
+   "text": "the great oxidation event: oxygen made by photosynthesizing cyanobacteria begins to build up in the air",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life",
+    "environment"
+   ]
+  },
+  {
+   "id": 12,
+   "date": "c. 2 billion years ago",
+   "start": -1999998050,
+   "end": -1999998050,
+   "text": "complex cells (eukaryotes) appear, with a nucleus and mitochondria that were once free-living bacteria",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "id": 13,
+   "date": "c. 1 billion years ago",
+   "start": -999998050,
+   "end": -999998050,
+   "text": "the first known multicellular algae, and some of the earliest evidence of sexual reproduction",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "id": 14,
+   "date": "c. 700 million years ago",
+   "start": -699998050,
+   "end": -699998050,
+   "text": "\"snowball earth\": ice spreads close to the equator in one of the most extreme cold periods in the planet's history",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 15,
+   "date": "c. 575 million years ago",
+   "start": -574998050,
+   "end": -574998050,
+   "text": "the ediacaran biota: strange soft-bodied creatures, among the first large complex organisms, live on the sea floor",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "id": 16,
+   "date": "538 million years ago",
+   "start": -537998050,
+   "end": -537998050,
+   "text": "the cambrian explosion begins: most major animal groups appear within a few tens of millions of years",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "id": 17,
+   "date": "c. 470 million years ago",
+   "start": -469998050,
+   "end": -469998050,
+   "text": "simple plants related to mosses begin to colonize the land",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "id": 18,
+   "date": "443 million years ago",
+   "start": -442998050,
+   "end": -442998050,
+   "text": "the end-ordovician extinction, caused by a sharp ice age, wipes out most species in the sea",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "extinction",
+    "disaster"
+   ]
+  },
+  {
+   "id": 20,
+   "date": "372 million years ago",
+   "start": -371998050,
+   "end": -371998050,
+   "text": "the late devonian extinction devastates reefs and ocean life",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "extinction"
+   ]
+  },
+  {
+   "id": 21,
+   "date": "c. 330 million years ago",
+   "start": -329998050,
+   "end": -329998050,
+   "text": "vast swamp forests of giant ferns and club mosses cover the land; their buried remains become much of today's coal",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life",
+    "environment"
+   ]
+  },
+  {
+   "id": 22,
+   "date": "c. 312 million years ago",
+   "start": -311998050,
+   "end": -311998050,
+   "text": "the first amniotes, the ancestors of reptiles, birds, and mammals, lay eggs that can survive on dry land",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "id": 23,
+   "date": "252 million years ago",
+   "start": -251998050,
+   "end": -251998050,
+   "text": "the great dying (permian-triassic extinction), driven by huge volcanic eruptions in siberia, kills about 90 percent of species in the sea",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "extinction",
+    "disaster"
+   ]
+  },
+  {
+   "id": 25,
+   "date": "c. 225 million years ago",
+   "start": -224998050,
+   "end": -224998050,
+   "text": "the first mammal-like animals appear: small, furry, and probably active at night",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life",
+    "mammals"
+   ]
+  },
+  {
+   "id": 26,
+   "date": "201 million years ago",
+   "start": -200998050,
+   "end": -200998050,
+   "text": "the end-triassic extinction clears the way for dinosaurs to dominate",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "extinction",
+    "dinosaurs"
+   ]
+  },
+  {
+   "id": 27,
+   "date": "c. 200 million years ago",
+   "start": -199998050,
+   "end": -199998050,
+   "text": "the supercontinent pangaea begins to split apart, opening the atlantic ocean",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "earth"
+   ]
+  },
+  {
+   "id": 29,
+   "date": "c. 130 million years ago",
+   "start": -129998050,
+   "end": -129998050,
+   "text": "the first flowering plants appear, and later spread alongside pollinating insects",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "id": 31,
+   "date": "c. 55 million years ago",
+   "start": -54998050,
+   "end": -54998050,
+   "text": "a sudden hot spell warms the planet; early primates, horses, and many other mammal groups spread widely",
+   "era": "the-beginning",
+   "region": "the-whole-world",
+   "tags": [
+    "mammals",
+    "environment"
+   ]
+  },
+  {
+   "id": 41,
+   "date": "2.6 million years ago",
+   "start": -2598050,
+   "end": -2598050,
+   "text": "the pleistocene ice ages begin: dozens of cycles of cold glacial and warmer periods",
+   "era": "the-first-humans",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 62,
+   "date": "c. 20,000 years ago",
+   "start": -18050,
+   "end": -18050,
+   "text": "the last glacial maximum: ice sheets are at their largest and sea levels about 120 meters lower than today",
+   "era": "the-first-humans",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 64,
+   "date": "c. 15,000 years ago",
+   "start": -13050,
+   "end": -13050,
+   "text": "dogs, descended from wolves, are firmly established as human companions, the first tamed animal",
+   "era": "the-first-humans",
+   "region": "the-whole-world",
+   "tags": [
+    "humans",
+    "animals"
+   ]
+  },
+  {
+   "id": 67,
+   "date": "c. 13,000 years ago",
+   "start": -10950,
+   "end": -10950,
+   "text": "the younger dryas: a sudden return to near ice-age cold that lasts about 1,200 years",
+   "era": "the-first-humans",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 68,
+   "date": "c. 12,000 years ago",
+   "start": -10050,
+   "end": -10050,
+   "text": "many large animals, including mammoths, giant ground sloths, and woolly rhinos, have died out, likely from climate change and hunting",
+   "era": "the-first-humans",
+   "region": "the-whole-world",
+   "tags": [
+    "extinction",
+    "animals"
+   ]
+  },
+  {
+   "id": 69,
+   "date": "c. 9700 bce",
+   "start": -9700,
+   "end": -9700,
+   "text": "the younger dryas ends and the holocene begins: a warm, stable climate that has lasted to today",
+   "era": "the-first-farmers",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 268,
+   "date": "1325–1354",
+   "start": 1325,
+   "end": 1354,
+   "text": "ibn battuta travels about 120,000 kilometers through the islamic world and beyond, from west africa to china",
+   "era": "the-middle-ages",
+   "region": "the-whole-world",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 285,
+   "date": "1519–1522",
+   "start": 1519,
+   "end": 1522,
+   "text": "the expedition begun by ferdinand magellan becomes the first to sail around the world",
+   "era": "the-early-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 326,
+   "date": "1756–1763",
+   "start": 1756,
+   "end": 1763,
+   "text": "the seven years' war is fought across europe, north america, india, and at sea; britain gains canada and power in india",
+   "era": "the-age-of-revolutions",
+   "region": "the-whole-world",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 370,
+   "date": "1831–1836",
+   "start": 1831,
+   "end": 1836,
+   "text": "charles darwin sails around the world on hms beagle, collecting the evidence for his theory of evolution",
+   "era": "the-age-of-revolutions",
+   "region": "the-whole-world",
+   "tags": [
+    "science",
+    "exploration"
+   ]
+  },
+  {
+   "id": 425,
+   "date": "1914–1918",
+   "start": 1914,
+   "end": 1918,
+   "text": "the first world war: about 20 million soldiers and civilians die",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 432,
+   "date": "1918–1920",
+   "start": 1918,
+   "end": 1920,
+   "text": "an influenza pandemic kills an estimated 50 million people",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "disease",
+    "disaster"
+   ]
+  },
+  {
+   "id": 460,
+   "date": "1927",
+   "start": 1927,
+   "end": 1927,
+   "text": "the world's population reaches two billion",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "humans"
+   ]
+  },
+  {
+   "id": 449,
+   "date": "1939–1945",
+   "start": 1939,
+   "end": 1945,
+   "text": "the second world war: an estimated 70 to 85 million people die, most of them civilians",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 464,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "the united nations is founded",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 467,
+   "date": "1948",
+   "start": 1948,
+   "end": 1948,
+   "text": "the un adopts the universal declaration of human rights",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 497,
+   "date": "1980",
+   "start": 1980,
+   "end": 1980,
+   "text": "the world health organization declares smallpox eradicated",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 528,
+   "date": "1981",
+   "start": 1981,
+   "end": 1981,
+   "text": "doctors first describe aids; hiv goes on to kill more than 40 million people",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "disease"
+   ]
+  },
+  {
+   "id": 508,
+   "date": "2003",
+   "start": 2003,
+   "end": 2003,
+   "text": "the human genome project finishes reading human dna",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 510,
+   "date": "2008",
+   "start": 2008,
+   "end": 2008,
+   "text": "a global financial crisis triggers the worst recession since the 1930s",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 512,
+   "date": "2015",
+   "start": 2015,
+   "end": 2015,
+   "text": "nearly every country signs the paris agreement to limit global warming",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "environment",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 513,
+   "date": "2020–2023",
+   "start": 2020,
+   "end": 2023,
+   "text": "the covid-19 pandemic kills millions and shuts down much of the world",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "disease",
+    "disaster"
+   ]
+  },
+  {
+   "id": 515,
+   "date": "2022",
+   "start": 2022,
+   "end": 2022,
+   "text": "the world's population passes 8 billion; ai chat programs become widely used",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 516,
+   "date": "2024",
+   "start": 2024,
+   "end": 2024,
+   "text": "the hottest year on record so far, and the first calendar year more than 1.5 degrees above pre-industrial levels",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "environment"
+   ]
+  }
+ ],
+ "people": []
+}

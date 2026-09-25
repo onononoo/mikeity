@@ -1,0 +1,1319 @@
+{
+ "century": 20,
+ "events": [
+  {
+   "id": 403,
+   "date": "1903",
+   "start": 1903,
+   "end": 1903,
+   "text": "the wright brothers make the first powered airplane flights",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "technology"
+   ]
+  },
+  {
+   "id": 404,
+   "date": "1903",
+   "start": 1903,
+   "end": 1903,
+   "text": "marie curie shares the nobel prize in physics for research on radioactivity",
+   "era": "industry-and-empire",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 405,
+   "date": "1904–1905",
+   "start": 1904,
+   "end": 1905,
+   "text": "japan defeats russia in the russo-japanese war",
+   "era": "industry-and-empire",
+   "region": "east-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 406,
+   "date": "1904–1908",
+   "start": 1904,
+   "end": 1908,
+   "text": "german colonial forces carry out genocide against the herero and nama in southwest africa (namibia)",
+   "era": "industry-and-empire",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "genocide"
+   ]
+  },
+  {
+   "id": 407,
+   "date": "1905",
+   "start": 1905,
+   "end": 1905,
+   "text": "albert einstein publishes special relativity and his work on light quanta",
+   "era": "industry-and-empire",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 408,
+   "date": "1908",
+   "start": 1908,
+   "end": 1908,
+   "text": "ford begins making the model t, soon on a moving assembly line",
+   "era": "industry-and-empire",
+   "region": "north-america",
+   "tags": [
+    "industry",
+    "technology"
+   ]
+  },
+  {
+   "id": 422,
+   "date": "1908",
+   "start": 1908,
+   "end": 1908,
+   "text": "oil is struck in persia, the first great oil find in the middle east",
+   "era": "industry-and-empire",
+   "region": "the-middle-east",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "id": 409,
+   "date": "1910–1920",
+   "start": 1910,
+   "end": 1920,
+   "text": "the mexican revolution overthrows porfirio díaz",
+   "era": "industry-and-empire",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 423,
+   "date": "1911",
+   "start": 1911,
+   "end": 1911,
+   "text": "roald amundsen's norwegian team is the first to reach the south pole",
+   "era": "industry-and-empire",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 410,
+   "date": "1911–1912",
+   "start": 1911,
+   "end": 1912,
+   "text": "the xinhai revolution ends the qing dynasty and more than 2,000 years of imperial rule in china",
+   "era": "industry-and-empire",
+   "region": "east-asia",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 411,
+   "date": "1914",
+   "start": 1914,
+   "end": 1914,
+   "text": "the panama canal opens",
+   "era": "industry-and-empire",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "trade",
+    "technology"
+   ]
+  },
+  {
+   "id": 424,
+   "date": "1914",
+   "start": 1914,
+   "end": 1914,
+   "text": "archduke franz ferdinand is assassinated in sarajevo; within weeks the great powers are at war",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 425,
+   "date": "1914–1918",
+   "start": 1914,
+   "end": 1918,
+   "text": "the first world war: about 20 million soldiers and civilians die",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 426,
+   "date": "1915",
+   "start": 1915,
+   "end": 1915,
+   "text": "allied troops land at gallipoli but fail to knock the ottoman empire out of the war",
+   "era": "the-world-wars",
+   "region": "the-middle-east",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 427,
+   "date": "1915–1917",
+   "start": 1915,
+   "end": 1917,
+   "text": "the ottoman government carries out the armenian genocide, killing around a million armenians",
+   "era": "the-world-wars",
+   "region": "the-middle-east",
+   "tags": [
+    "genocide"
+   ]
+  },
+  {
+   "id": 428,
+   "date": "1916",
+   "start": 1916,
+   "end": 1916,
+   "text": "the battles of verdun and the somme cause over a million casualties each",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 429,
+   "date": "1917",
+   "start": 1917,
+   "end": 1917,
+   "text": "the russian revolution: the tsar falls, then the bolsheviks under lenin seize power",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "revolution",
+    "communism"
+   ]
+  },
+  {
+   "id": 430,
+   "date": "1917",
+   "start": 1917,
+   "end": 1917,
+   "text": "the united states enters the war against germany",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 431,
+   "date": "1918",
+   "start": 1918,
+   "end": 1918,
+   "text": "the armistice ends the fighting on 11 november",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 432,
+   "date": "1918–1920",
+   "start": 1918,
+   "end": 1920,
+   "text": "an influenza pandemic kills an estimated 50 million people",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "disease",
+    "disaster"
+   ]
+  },
+  {
+   "id": 433,
+   "date": "1919",
+   "start": 1919,
+   "end": 1919,
+   "text": "the treaty of versailles punishes germany; the league of nations is created",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 459,
+   "date": "1919",
+   "start": 1919,
+   "end": 1919,
+   "text": "emiliano zapata, who fought for land for mexico's poor farmers, is assassinated",
+   "era": "the-world-wars",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 434,
+   "date": "1920",
+   "start": 1920,
+   "end": 1920,
+   "text": "the nineteenth amendment gives american women the vote",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 435,
+   "date": "1922",
+   "start": 1922,
+   "end": 1922,
+   "text": "the soviet union is formed; mussolini's fascists march on rome and take power",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "communism",
+    "fascism"
+   ]
+  },
+  {
+   "id": 436,
+   "date": "1923",
+   "start": 1923,
+   "end": 1923,
+   "text": "mustafa kemal atatürk founds the republic of turkey",
+   "era": "the-world-wars",
+   "region": "the-middle-east",
+   "tags": [
+    "nationalism",
+    "politics"
+   ]
+  },
+  {
+   "id": 460,
+   "date": "1927",
+   "start": 1927,
+   "end": 1927,
+   "text": "the world's population reaches two billion",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "humans"
+   ]
+  },
+  {
+   "id": 437,
+   "date": "1928",
+   "start": 1928,
+   "end": 1928,
+   "text": "alexander fleming discovers penicillin, the first antibiotic",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "medicine",
+    "science"
+   ]
+  },
+  {
+   "id": 438,
+   "date": "1929",
+   "start": 1929,
+   "end": 1929,
+   "text": "the wall street crash starts the great depression",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 439,
+   "date": "1930",
+   "start": 1930,
+   "end": 1930,
+   "text": "gandhi leads the salt march against british rule",
+   "era": "the-world-wars",
+   "region": "south-asia",
+   "tags": [
+    "rights",
+    "independence"
+   ]
+  },
+  {
+   "id": 440,
+   "date": "1931",
+   "start": 1931,
+   "end": 1931,
+   "text": "japan invades manchuria",
+   "era": "the-world-wars",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 441,
+   "date": "1932–1933",
+   "start": 1932,
+   "end": 1933,
+   "text": "famine caused by stalin's policies kills millions in ukraine (the holodomor) and kazakhstan",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "communism",
+    "disaster"
+   ]
+  },
+  {
+   "id": 442,
+   "date": "1933",
+   "start": 1933,
+   "end": 1933,
+   "text": "adolf hitler becomes chancellor of germany and quickly makes himself dictator",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "fascism"
+   ]
+  },
+  {
+   "id": 443,
+   "date": "1933",
+   "start": 1933,
+   "end": 1933,
+   "text": "franklin d. roosevelt begins the new deal",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "economy",
+    "politics"
+   ]
+  },
+  {
+   "id": 444,
+   "date": "1935–1936",
+   "start": 1935,
+   "end": 1936,
+   "text": "fascist italy invades and occupies ethiopia, using poison gas",
+   "era": "the-world-wars",
+   "region": "africa",
+   "tags": [
+    "war",
+    "fascism"
+   ]
+  },
+  {
+   "id": 461,
+   "date": "1936",
+   "start": 1936,
+   "end": 1936,
+   "text": "alan turing describes a universal computing machine, the idea behind every modern computer",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "computers",
+    "science"
+   ]
+  },
+  {
+   "id": 445,
+   "date": "1936–1939",
+   "start": 1936,
+   "end": 1939,
+   "text": "the spanish civil war ends with franco's nationalists in power",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war",
+    "fascism"
+   ]
+  },
+  {
+   "id": 446,
+   "date": "1937",
+   "start": 1937,
+   "end": 1937,
+   "text": "japan launches full-scale war on china; japanese troops massacre civilians at nanjing",
+   "era": "the-world-wars",
+   "region": "east-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 447,
+   "date": "1938",
+   "start": 1938,
+   "end": 1938,
+   "text": "germany annexes austria; britain and france let hitler take part of czechoslovakia at munich; the kristallnacht pogrom",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "fascism",
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 462,
+   "date": "1938",
+   "start": 1938,
+   "end": 1938,
+   "text": "otto hahn and fritz strassmann split uranium atoms; lise meitner and otto frisch explain it as nuclear fission",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "science",
+    "nuclear"
+   ]
+  },
+  {
+   "id": 448,
+   "date": "1939",
+   "start": 1939,
+   "end": 1939,
+   "text": "germany invades poland; britain and france declare war",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 449,
+   "date": "1939–1945",
+   "start": 1939,
+   "end": 1945,
+   "text": "the second world war: an estimated 70 to 85 million people die, most of them civilians",
+   "era": "the-world-wars",
+   "region": "the-whole-world",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 450,
+   "date": "1940",
+   "start": 1940,
+   "end": 1940,
+   "text": "germany conquers france; britain wins the battle of britain in the air",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 451,
+   "date": "1941",
+   "start": 1941,
+   "end": 1941,
+   "text": "germany invades the soviet union",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 452,
+   "date": "1941",
+   "start": 1941,
+   "end": 1941,
+   "text": "japan attacks pearl harbor; the united states enters the war",
+   "era": "the-world-wars",
+   "region": "north-america",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 453,
+   "date": "1941–1945",
+   "start": 1941,
+   "end": 1945,
+   "text": "the holocaust: nazi germany murders six million jews, as well as roma, disabled people, and others",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "genocide",
+    "fascism"
+   ]
+  },
+  {
+   "id": 454,
+   "date": "1942",
+   "start": 1942,
+   "end": 1942,
+   "text": "the united states defeats japan at the battle of midway",
+   "era": "the-world-wars",
+   "region": "oceania",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 455,
+   "date": "1942–1943",
+   "start": 1942,
+   "end": 1943,
+   "text": "the soviets destroy a german army at stalingrad",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 463,
+   "date": "1943",
+   "start": 1943,
+   "end": 1943,
+   "text": "the bengal famine kills about three million people under british wartime rule",
+   "era": "the-world-wars",
+   "region": "south-asia",
+   "tags": [
+    "disaster"
+   ]
+  },
+  {
+   "id": 456,
+   "date": "1944",
+   "start": 1944,
+   "end": 1944,
+   "text": "d-day: allied forces land in normandy",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 457,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "soviet troops liberate auschwitz; hitler kills himself; germany surrenders in may",
+   "era": "the-world-wars",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 458,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "the united states drops atomic bombs on hiroshima and nagasaki; japan surrenders",
+   "era": "the-world-wars",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "nuclear"
+   ]
+  },
+  {
+   "id": 464,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "the united nations is founded",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 517,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "sukarno declares indonesia independent; the dutch fight to hold on until 1949",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "independence"
+   ]
+  },
+  {
+   "id": 518,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "ho chi minh declares the independence of vietnam; war with france follows",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "independence",
+    "war"
+   ]
+  },
+  {
+   "id": 465,
+   "date": "1947",
+   "start": 1947,
+   "end": 1947,
+   "text": "india and pakistan become independent; the partition displaces up to 15 million people and kills hundreds of thousands",
+   "era": "the-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "independence",
+    "migration"
+   ]
+  },
+  {
+   "id": 466,
+   "date": "1948",
+   "start": 1948,
+   "end": 1948,
+   "text": "the state of israel is founded; the first arab-israeli war follows and about 700,000 palestinians flee or are expelled",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "independence"
+   ]
+  },
+  {
+   "id": 467,
+   "date": "1948",
+   "start": 1948,
+   "end": 1948,
+   "text": "the un adopts the universal declaration of human rights",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 468,
+   "date": "1948",
+   "start": 1948,
+   "end": 1948,
+   "text": "south africa's government begins the system of apartheid",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 469,
+   "date": "1948–1949",
+   "start": 1948,
+   "end": 1949,
+   "text": "the berlin airlift supplies west berlin during a soviet blockade",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "cold war"
+   ]
+  },
+  {
+   "id": 470,
+   "date": "1949",
+   "start": 1949,
+   "end": 1949,
+   "text": "mao zedong proclaims the people's republic of china",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "communism",
+    "revolution"
+   ]
+  },
+  {
+   "id": 471,
+   "date": "1949",
+   "start": 1949,
+   "end": 1949,
+   "text": "nato is founded; the soviet union tests its first atomic bomb",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "cold war",
+    "nuclear"
+   ]
+  },
+  {
+   "id": 472,
+   "date": "1950–1953",
+   "start": 1950,
+   "end": 1953,
+   "text": "the korean war ends in a stalemate along the 38th parallel",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "cold war"
+   ]
+  },
+  {
+   "id": 473,
+   "date": "1953",
+   "start": 1953,
+   "end": 1953,
+   "text": "the work of watson, crick, franklin, and wilkins reveals the double helix structure of dna",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 474,
+   "date": "1954",
+   "start": 1954,
+   "end": 1954,
+   "text": "the supreme court rules school segregation unconstitutional in brown v. board of education",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights",
+    "law"
+   ]
+  },
+  {
+   "id": 519,
+   "date": "1955",
+   "start": 1955,
+   "end": 1955,
+   "text": "jonas salk's polio vaccine is declared safe and effective",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 475,
+   "date": "1955–1956",
+   "start": 1955,
+   "end": 1956,
+   "text": "the montgomery bus boycott, sparked by rosa parks",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 476,
+   "date": "1955–1975",
+   "start": 1955,
+   "end": 1975,
+   "text": "the vietnam war",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "war",
+    "cold war"
+   ]
+  },
+  {
+   "id": 477,
+   "date": "1957",
+   "start": 1957,
+   "end": 1957,
+   "text": "the soviet union launches sputnik 1, the first artificial satellite",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space",
+    "cold war"
+   ]
+  },
+  {
+   "id": 478,
+   "date": "1957",
+   "start": 1957,
+   "end": 1957,
+   "text": "ghana becomes the first sub-saharan african colony to win independence",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "independence"
+   ]
+  },
+  {
+   "id": 479,
+   "date": "1958–1962",
+   "start": 1958,
+   "end": 1962,
+   "text": "mao's great leap forward causes a famine that kills tens of millions",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "communism",
+    "disaster"
+   ]
+  },
+  {
+   "id": 520,
+   "date": "1959",
+   "start": 1959,
+   "end": 1959,
+   "text": "fidel castro's revolutionaries take power in cuba",
+   "era": "the-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 521,
+   "date": "1959",
+   "start": 1959,
+   "end": 1959,
+   "text": "twelve countries sign the antarctic treaty, keeping the continent for peaceful science",
+   "era": "the-modern-world",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 480,
+   "date": "1960",
+   "start": 1960,
+   "end": 1960,
+   "text": "the \"year of africa\": seventeen african countries become independent",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "independence"
+   ]
+  },
+  {
+   "id": 481,
+   "date": "1961",
+   "start": 1961,
+   "end": 1961,
+   "text": "yuri gagarin becomes the first human in space",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": 482,
+   "date": "1961",
+   "start": 1961,
+   "end": 1961,
+   "text": "the berlin wall is built",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "cold war"
+   ]
+  },
+  {
+   "id": 483,
+   "date": "1962",
+   "start": 1962,
+   "end": 1962,
+   "text": "the cuban missile crisis brings the world close to nuclear war",
+   "era": "the-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cold war",
+    "nuclear"
+   ]
+  },
+  {
+   "id": 484,
+   "date": "1962",
+   "start": 1962,
+   "end": 1962,
+   "text": "algeria wins independence from france after an eight-year war",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "independence",
+    "war"
+   ]
+  },
+  {
+   "id": 522,
+   "date": "1962",
+   "start": 1962,
+   "end": 1962,
+   "text": "rachel carson's silent spring warns about pesticides and helps start the modern environmental movement",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 485,
+   "date": "1963",
+   "start": 1963,
+   "end": 1963,
+   "text": "martin luther king jr. gives his \"i have a dream\" speech at the march on washington",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 523,
+   "date": "1963",
+   "start": 1963,
+   "end": 1963,
+   "text": "valentina tereshkova becomes the first woman in space",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": 486,
+   "date": "1964",
+   "start": 1964,
+   "end": 1964,
+   "text": "the civil rights act bans segregation and discrimination in the united states",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights",
+    "law"
+   ]
+  },
+  {
+   "id": 524,
+   "date": "c. 1965",
+   "start": 1965,
+   "end": 1965,
+   "text": "high-yield wheat and rice spread across india and pakistan in the green revolution, ending the threat of mass famine there",
+   "era": "the-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 487,
+   "date": "1966–1976",
+   "start": 1966,
+   "end": 1976,
+   "text": "mao's cultural revolution brings persecution and chaos to china",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "communism"
+   ]
+  },
+  {
+   "id": 525,
+   "date": "1967",
+   "start": 1967,
+   "end": 1967,
+   "text": "five countries found asean, the association of southeast asian nations",
+   "era": "the-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 488,
+   "date": "1968",
+   "start": 1968,
+   "end": 1968,
+   "text": "martin luther king jr. is assassinated",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 489,
+   "date": "1969",
+   "start": 1969,
+   "end": 1969,
+   "text": "apollo 11: neil armstrong and buzz aldrin walk on the moon",
+   "era": "the-modern-world",
+   "region": "the-universe",
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": 490,
+   "date": "1969",
+   "start": 1969,
+   "end": 1969,
+   "text": "arpanet, the forerunner of the internet, sends its first message",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 491,
+   "date": "1971",
+   "start": 1971,
+   "end": 1971,
+   "text": "bangladesh wins independence from pakistan after a brutal war",
+   "era": "the-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "independence",
+    "war"
+   ]
+  },
+  {
+   "id": 526,
+   "date": "1972",
+   "start": 1972,
+   "end": 1972,
+   "text": "tu youyou's team finds artemisinin, which becomes the main treatment for malaria",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 492,
+   "date": "1973",
+   "start": 1973,
+   "end": 1973,
+   "text": "an arab oil embargo causes a worldwide energy crisis",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 527,
+   "date": "1973",
+   "start": 1973,
+   "end": 1973,
+   "text": "a military coup overthrows chile's elected president salvador allende",
+   "era": "the-modern-world",
+   "region": "south-america",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 493,
+   "date": "1977",
+   "start": 1977,
+   "end": 1977,
+   "text": "mass-market personal computers go on sale",
+   "era": "the-modern-world",
+   "region": "north-america",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 494,
+   "date": "1978",
+   "start": 1978,
+   "end": 1978,
+   "text": "deng xiaoping begins opening china's economy to markets",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 495,
+   "date": "1979",
+   "start": 1979,
+   "end": 1979,
+   "text": "the iranian revolution creates an islamic republic",
+   "era": "the-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "revolution",
+    "religion"
+   ]
+  },
+  {
+   "id": 496,
+   "date": "1979–1989",
+   "start": 1979,
+   "end": 1989,
+   "text": "the soviet war in afghanistan",
+   "era": "the-modern-world",
+   "region": "central-asia",
+   "tags": [
+    "war",
+    "cold war"
+   ]
+  },
+  {
+   "id": 497,
+   "date": "1980",
+   "start": 1980,
+   "end": 1980,
+   "text": "the world health organization declares smallpox eradicated",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 528,
+   "date": "1981",
+   "start": 1981,
+   "end": 1981,
+   "text": "doctors first describe aids; hiv goes on to kill more than 40 million people",
+   "era": "the-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "disease"
+   ]
+  },
+  {
+   "id": 498,
+   "date": "1986",
+   "start": 1986,
+   "end": 1986,
+   "text": "the chernobyl nuclear disaster in soviet ukraine",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "disaster",
+    "nuclear"
+   ]
+  },
+  {
+   "id": 499,
+   "date": "1989",
+   "start": 1989,
+   "end": 1989,
+   "text": "the berlin wall falls as communist governments collapse across eastern europe",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "cold war",
+    "revolution"
+   ]
+  },
+  {
+   "id": 500,
+   "date": "1989",
+   "start": 1989,
+   "end": 1989,
+   "text": "the chinese army crushes protests in and around tiananmen square",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 501,
+   "date": "1989",
+   "start": 1989,
+   "end": 1989,
+   "text": "tim berners-lee proposes the world wide web at cern; it goes public in 1991",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "technology",
+    "computers"
+   ]
+  },
+  {
+   "id": 502,
+   "date": "1991",
+   "start": 1991,
+   "end": 1991,
+   "text": "the soviet union dissolves into fifteen countries; the cold war is over",
+   "era": "the-modern-world",
+   "region": "europe",
+   "tags": [
+    "cold war",
+    "collapse"
+   ]
+  },
+  {
+   "id": 529,
+   "date": "1992",
+   "start": 1992,
+   "end": 1992,
+   "text": "in the mabo case, australia's high court recognizes that indigenous peoples held land before british colonization",
+   "era": "the-modern-world",
+   "region": "oceania",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 503,
+   "date": "1994",
+   "start": 1994,
+   "end": 1994,
+   "text": "nelson mandela becomes president of south africa in its first all-race election",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 504,
+   "date": "1994",
+   "start": 1994,
+   "end": 1994,
+   "text": "the rwandan genocide: about 800,000 people, mostly tutsi, are murdered in about 100 days",
+   "era": "the-modern-world",
+   "region": "africa",
+   "tags": [
+    "genocide"
+   ]
+  },
+  {
+   "id": 530,
+   "date": "1997",
+   "start": 1997,
+   "end": 1997,
+   "text": "britain hands hong kong back to china",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  }
+ ]
+}

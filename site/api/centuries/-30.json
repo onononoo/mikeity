@@ -1,0 +1,31 @@
+{
+ "century": -30,
+ "events": [
+  {
+   "id": 103,
+   "date": "c. 3000 bce",
+   "start": -3000,
+   "end": -3000,
+   "text": "the first stage of stonehenge, a circular ditch and bank, is dug in southern britain",
+   "era": "the-first-civilizations",
+   "region": "europe",
+   "tags": [
+    "architecture",
+    "religion"
+   ]
+  },
+  {
+   "id": 104,
+   "date": "c. 3000 bce",
+   "start": -3000,
+   "end": -3000,
+   "text": "austronesian-speaking peoples begin sailing out of taiwan, starting a migration that will reach madagascar and easter island",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "migration",
+    "exploration"
+   ]
+  }
+ ]
+}

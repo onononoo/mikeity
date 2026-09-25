@@ -1,0 +1,18 @@
+{
+ "century": -21,
+ "events": [
+  {
+   "id": 110,
+   "date": "c. 2100 bce",
+   "start": -2100,
+   "end": -2100,
+   "text": "ur-nammu of ur issues the oldest surviving law code; the first poems about gilgamesh are written down",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "law",
+    "writing"
+   ]
+  }
+ ]
+}

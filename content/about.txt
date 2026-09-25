@@ -35,13 +35,15 @@ the site is built by a small program written for it, using several languages:
 | c++ | draws the charts on the statistics page as svg pictures | tools/chart.cpp |
 | awk | finds the quietest stretches and the busiest years on the timeline | tools/gaps.awk |
 | c# | works out which people were alive at the same time | tools/contemporaries.cs |
+| f# | finds the figures, places, and ideas that different religions share | tools/shared.fsx |
+| typescript | writes the [json api](api.html), a folder of plain files | tools/api.ts |
 | c | a command line tool that prints the timeline as text, filtered by years | tools/timeline.c |
 | perl | counts words, links, and sections in the content files | tools/stats.pl |
-| shell, powershell, and make | run all the steps in order | build.sh, build.ps1, makefile |
+| shell, powershell, batch, and make | run all the steps in order | build.sh, build.ps1, build.cmd, makefile |
 
 every page is plain html. there are no cookies, no tracking, no ads, and nothing is loaded from other websites. the pages work without javascript; with it, you also get sorting, filtering, and search.
 
-the finished site also includes its raw data: [all of it as json](data/history.json), [the timeline as tab-separated text](data/events.tsv), and [a sqlite database](data/history.db) you can query yourself.
+the finished site also includes its raw data: [all of it as json](data/history.json), [the timeline as tab-separated text](data/events.tsv), and [a sqlite database](data/history.db) you can query yourself, and a [json api](api.html).
 
 == a note on fairness {#fairness}
 

@@ -1,0 +1,41 @@
+{
+ "century": -14,
+ "events": [
+  {
+   "id": 121,
+   "date": "c. 1353 bce",
+   "start": -1353,
+   "end": -1353,
+   "text": "akhenaten becomes pharaoh and orders egypt to worship only the sun disk, the aten",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 120,
+   "date": "c. 1350 bce",
+   "start": -1350,
+   "end": -1350,
+   "text": "the hittite empire of anatolia is at the height of its power",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 122,
+   "date": "c. 1323 bce",
+   "start": -1323,
+   "end": -1323,
+   "text": "the young pharaoh tutankhamun dies; his tomb is found almost untouched in 1922",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "archaeology"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "century": -6,
+ "events": [
+  {
+   "id": 195,
+   "date": "c. 600 bce",
+   "start": -600,
+   "end": -600,
+   "text": "the kingdom of lydia in anatolia strikes the first coins, lumps of electrum stamped with a lion's head",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "economy",
+    "trade"
+   ]
+  },
+  {
+   "id": 147,
+   "date": "587 bce",
+   "start": -587,
+   "end": -587,
+   "text": "babylon destroys jerusalem and its temple; many judeans are exiled to babylon",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 149,
+   "date": "551 bce",
+   "start": -551,
+   "end": -551,
+   "text": "confucius is born in the state of lu, according to tradition",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "philosophy"
+   ]
+  },
+  {
+   "id": 150,
+   "date": "550 bce",
+   "start": -550,
+   "end": -550,
+   "text": "cyrus the great founds the achaemenid persian empire",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 151,
+   "date": "539 bce",
+   "start": -539,
+   "end": -539,
+   "text": "cyrus takes babylon and allows the exiled jews to return and rebuild their temple",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 153,
+   "date": "509 bce",
+   "start": -509,
+   "end": -509,
+   "text": "the romans expel their last king and found the republic, by tradition",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 154,
+   "date": "508 bce",
+   "start": -508,
+   "end": -508,
+   "text": "cleisthenes reforms athens, laying the foundations of democracy",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "politics",
+    "democracy"
+   ]
+  }
+ ]
+}

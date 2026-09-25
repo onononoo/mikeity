@@ -1,0 +1,31 @@
+{
+ "century": -10,
+ "events": [
+  {
+   "id": 132,
+   "date": "c. 1000 bce",
+   "start": -1000,
+   "end": -1000,
+   "text": "david rules a kingdom of israel from jerusalem; his son solomon is said to build the first temple",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "religion",
+    "politics"
+   ]
+  },
+  {
+   "id": 133,
+   "date": "c. 1000 bce",
+   "start": -1000,
+   "end": -1000,
+   "text": "bantu-speaking farmers begin spreading south and east from west-central africa, carrying farming and later iron",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "migration",
+    "farming"
+   ]
+  }
+ ]
+}

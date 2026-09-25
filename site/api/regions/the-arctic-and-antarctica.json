@@ -1,0 +1,81 @@
+{
+ "slug": "the-arctic-and-antarctica",
+ "name": "the arctic and antarctica",
+ "description": "the frozen ends of the earth, the last places humans reached.",
+ "page": "regions.html#the-arctic-and-antarctica",
+ "events": [
+  {
+   "id": 33,
+   "date": "c. 34 million years ago",
+   "start": -33998050,
+   "end": -33998050,
+   "text": "permanent ice sheets begin to form on antarctica as the planet cools",
+   "era": "the-beginning",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "id": 267,
+   "date": "c. 1250",
+   "start": 1250,
+   "end": 1250,
+   "text": "the thule people, ancestors of the inuit, spread east across arctic canada to greenland, hunting whales from skin boats",
+   "era": "the-middle-ages",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "migration"
+   ]
+  },
+  {
+   "id": 324,
+   "date": "1741",
+   "start": 1741,
+   "end": 1741,
+   "text": "vitus bering, sailing for russia, reaches alaska",
+   "era": "the-early-modern-world",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 367,
+   "date": "1820",
+   "start": 1820,
+   "end": 1820,
+   "text": "russian and british expeditions make the first confirmed sightings of antarctica",
+   "era": "the-age-of-revolutions",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 423,
+   "date": "1911",
+   "start": 1911,
+   "end": 1911,
+   "text": "roald amundsen's norwegian team is the first to reach the south pole",
+   "era": "industry-and-empire",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 521,
+   "date": "1959",
+   "start": 1959,
+   "end": 1959,
+   "text": "twelve countries sign the antarctic treaty, keeping the continent for peaceful science",
+   "era": "the-modern-world",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "diplomacy"
+   ]
+  }
+ ],
+ "people": []
+}

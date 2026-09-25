@@ -1,0 +1,18 @@
+{
+ "century": -7,
+ "events": [
+  {
+   "id": 146,
+   "date": "612 bce",
+   "start": -612,
+   "end": -612,
+   "text": "babylonians and medes sack nineveh, and the assyrian empire collapses",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "collapse"
+   ]
+  }
+ ]
+}

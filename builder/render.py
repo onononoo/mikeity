@@ -65,7 +65,8 @@ class renderer:
 
     @property
     def more(self):
-        return self.extras or record(charts=None, gaps=None, contemporaries=None, log=[])
+        return self.extras or record(charts=None, gaps=None, contemporaries=None, shared=None,
+                                     api=None, log=[])
 
     def page(self, filename, template, title, crumbs=None, **ctx):
         # pages in a subfolder (like islam/people.html) reach the rest of the site through "../"
@@ -144,6 +145,7 @@ class renderer:
             "religions.html", "religions.html", "religions",
             crumbs=[("index.html", "home")],
             religions=s.religions,
+            shared=self.more.shared,
         )
         pages = [("index.html", "story"), ("timeline.html", "timeline"),
                  ("people.html", "people"), ("glossary.html", "glossary")]
@@ -242,6 +244,13 @@ class renderer:
         rows.sort(key=lambda x: (-x[0], x[1].life.start))
         return [dict(person=p, count=k) for k, p in rows[:n] if k]
 
+    def api(self):
+        self.page(
+            "api.html", "api.html", "json api",
+            crumbs=[("index.html", "home")],
+            api=self.more.api,
+        )
+
     def about(self):
         doc = markup.parse(read(os.path.join(self.s.root, "content", "about.txt")))
         self.page(
@@ -261,6 +270,7 @@ class renderer:
         self.glossary()
         self.search()
         self.statistics()
+        self.api()
         self.about()
         return self.written
 

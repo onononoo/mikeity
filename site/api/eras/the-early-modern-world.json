@@ -1,0 +1,897 @@
+{
+ "slug": "the-early-modern-world",
+ "number": 7,
+ "title": "the early modern world",
+ "starts": "1450",
+ "ends": "1750",
+ "summary": "the printing press, ocean voyages, and the conquest of the americas tie the whole world together for the first time, through trade, disease, and slavery. the reformation splits europe and science is reborn.",
+ "page": "the-early-modern-world.html",
+ "events": [
+  {
+   "id": 273,
+   "date": "c. 1450",
+   "start": 1450,
+   "end": 1450,
+   "text": "johannes gutenberg builds a printing press with movable metal type in mainz",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  },
+  {
+   "id": 274,
+   "date": "1453",
+   "start": 1453,
+   "end": 1453,
+   "text": "the ottomans under mehmed ii capture constantinople, ending the byzantine empire",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "war",
+    "empire",
+    "collapse"
+   ]
+  },
+  {
+   "id": 313,
+   "date": "1464–1492",
+   "start": 1464,
+   "end": 1492,
+   "text": "sonni ali builds the songhai empire along the niger river, taking timbuktu and djenné",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 275,
+   "date": "1488",
+   "start": 1488,
+   "end": 1488,
+   "text": "bartolomeu dias sails around the southern tip of africa",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 276,
+   "date": "1492",
+   "start": 1492,
+   "end": 1492,
+   "text": "christopher columbus, sailing for spain, reaches the caribbean",
+   "era": "the-early-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 277,
+   "date": "1492",
+   "start": 1492,
+   "end": 1492,
+   "text": "granada, the last muslim state in spain, falls; spain expels its jews",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "religion",
+    "war"
+   ]
+  },
+  {
+   "id": 278,
+   "date": "1498",
+   "start": 1498,
+   "end": 1498,
+   "text": "vasco da gama reaches calicut in india by sailing around africa",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "exploration",
+    "trade"
+   ]
+  },
+  {
+   "id": 314,
+   "date": "c. 1500",
+   "start": 1500,
+   "end": 1500,
+   "text": "guru nanak begins teaching in the punjab; his followers become the sikhs",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 279,
+   "date": "1501",
+   "start": 1501,
+   "end": 1501,
+   "text": "ismail i founds the safavid empire in persia and makes shia islam the state religion",
+   "era": "the-early-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 280,
+   "date": "1501–1866",
+   "start": 1501,
+   "end": 1866,
+   "text": "the transatlantic slave trade carries about 12.5 million africans in chains to the americas; nearly 2 million die at sea",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "slavery",
+    "trade"
+   ]
+  },
+  {
+   "id": 281,
+   "date": "1503",
+   "start": 1503,
+   "end": 1503,
+   "text": "leonardo da vinci begins painting the mona lisa",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "art"
+   ]
+  },
+  {
+   "id": 282,
+   "date": "1508–1512",
+   "start": 1508,
+   "end": 1512,
+   "text": "michelangelo paints the ceiling of the sistine chapel",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "art"
+   ]
+  },
+  {
+   "id": 283,
+   "date": "1517",
+   "start": 1517,
+   "end": 1517,
+   "text": "martin luther's 95 theses challenge the catholic church and start the reformation",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "religion"
+   ]
+  },
+  {
+   "id": 284,
+   "date": "1519–1521",
+   "start": 1519,
+   "end": 1521,
+   "text": "hernán cortés and indigenous allies conquer the aztec empire; smallpox kills much of tenochtitlan",
+   "era": "the-early-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "war",
+    "empire",
+    "disease"
+   ]
+  },
+  {
+   "id": 285,
+   "date": "1519–1522",
+   "start": 1519,
+   "end": 1522,
+   "text": "the expedition begun by ferdinand magellan becomes the first to sail around the world",
+   "era": "the-early-modern-world",
+   "region": "the-whole-world",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 315,
+   "date": "1520",
+   "start": 1520,
+   "end": 1520,
+   "text": "smallpox, brought by the spanish, kills a huge share of the people of tenochtitlan",
+   "era": "the-early-modern-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "disease"
+   ]
+  },
+  {
+   "id": 286,
+   "date": "1520–1566",
+   "start": 1520,
+   "end": 1566,
+   "text": "suleiman the magnificent rules the ottoman empire at its height",
+   "era": "the-early-modern-world",
+   "region": "the-middle-east",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 287,
+   "date": "1526",
+   "start": 1526,
+   "end": 1526,
+   "text": "babur wins the battle of panipat and founds the mughal empire",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 288,
+   "date": "1529",
+   "start": 1529,
+   "end": 1529,
+   "text": "the ottomans besiege vienna but fail to take it",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 289,
+   "date": "1532–1533",
+   "start": 1532,
+   "end": 1533,
+   "text": "francisco pizarro captures and executes the inca ruler atahualpa, and the inca empire falls",
+   "era": "the-early-modern-world",
+   "region": "south-america",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 290,
+   "date": "1534",
+   "start": 1534,
+   "end": 1534,
+   "text": "henry viii makes himself head of the church of england",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "religion",
+    "politics"
+   ]
+  },
+  {
+   "id": 291,
+   "date": "1543",
+   "start": 1543,
+   "end": 1543,
+   "text": "copernicus publishes his theory that the earth orbits the sun",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 292,
+   "date": "1545",
+   "start": 1545,
+   "end": 1545,
+   "text": "silver is found at potosí in bolivia; forced native labor makes it one of the richest mines in history",
+   "era": "the-early-modern-world",
+   "region": "south-america",
+   "tags": [
+    "trade",
+    "economy"
+   ]
+  },
+  {
+   "id": 316,
+   "date": "1550–1551",
+   "start": 1550,
+   "end": 1551,
+   "text": "in the valladolid debate, bartolomé de las casas argues against the enslavement and abuse of the peoples of the americas",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 293,
+   "date": "1556–1605",
+   "start": 1556,
+   "end": 1605,
+   "text": "akbar the great rules the mughal empire and welcomes debate between religions",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "empire",
+    "religion"
+   ]
+  },
+  {
+   "id": 294,
+   "date": "1571",
+   "start": 1571,
+   "end": 1571,
+   "text": "spain founds manila; galleons now link the americas and asia, and american silver flows to china",
+   "era": "the-early-modern-world",
+   "region": "southeast-asia",
+   "tags": [
+    "trade"
+   ]
+  },
+  {
+   "id": 295,
+   "date": "1588",
+   "start": 1588,
+   "end": 1588,
+   "text": "the spanish armada fails to invade england",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 296,
+   "date": "1591",
+   "start": 1591,
+   "end": 1591,
+   "text": "a moroccan army with guns defeats the songhai empire",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "war",
+    "collapse"
+   ]
+  },
+  {
+   "id": 297,
+   "date": "1592–1598",
+   "start": 1592,
+   "end": 1598,
+   "text": "japan invades korea; admiral yi sun-sin's navy, with its armored turtle ships, helps drive them back",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 298,
+   "date": "1600",
+   "start": 1600,
+   "end": 1600,
+   "text": "the english east india company is chartered; the dutch company follows in 1602",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "trade",
+    "empire"
+   ]
+  },
+  {
+   "id": 299,
+   "date": "1603",
+   "start": 1603,
+   "end": 1603,
+   "text": "tokugawa ieyasu becomes shogun; japan enters over 250 years of peace and isolation",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 317,
+   "date": "1606",
+   "start": 1606,
+   "end": 1606,
+   "text": "the dutch sailor willem janszoon makes the first recorded european landing in australia",
+   "era": "the-early-modern-world",
+   "region": "oceania",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 300,
+   "date": "1607",
+   "start": 1607,
+   "end": 1607,
+   "text": "the english found jamestown in virginia",
+   "era": "the-early-modern-world",
+   "region": "north-america",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 318,
+   "date": "1609",
+   "start": 1609,
+   "end": 1609,
+   "text": "johannes kepler shows that the planets move around the sun in ellipses, not perfect circles",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 301,
+   "date": "1610",
+   "start": 1610,
+   "end": 1610,
+   "text": "galileo uses a telescope to see the moons of jupiter",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 302,
+   "date": "1618–1648",
+   "start": 1618,
+   "end": 1648,
+   "text": "the thirty years' war devastates central europe; the peace of westphalia ends it",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 303,
+   "date": "1619",
+   "start": 1619,
+   "end": 1619,
+   "text": "the first recorded enslaved africans arrive in english virginia",
+   "era": "the-early-modern-world",
+   "region": "north-america",
+   "tags": [
+    "slavery"
+   ]
+  },
+  {
+   "id": 304,
+   "date": "1632–1653",
+   "start": 1632,
+   "end": 1653,
+   "text": "the taj mahal is built by shah jahan as a tomb for his wife mumtaz mahal",
+   "era": "the-early-modern-world",
+   "region": "south-asia",
+   "tags": [
+    "architecture"
+   ]
+  },
+  {
+   "id": 319,
+   "date": "1642",
+   "start": 1642,
+   "end": 1642,
+   "text": "abel tasman reaches tasmania and new zealand",
+   "era": "the-early-modern-world",
+   "region": "oceania",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 305,
+   "date": "1644",
+   "start": 1644,
+   "end": 1644,
+   "text": "the manchus take beijing and found the qing dynasty, china's last",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 306,
+   "date": "1652",
+   "start": 1652,
+   "end": 1652,
+   "text": "the dutch east india company founds cape town",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "trade"
+   ]
+  },
+  {
+   "id": 321,
+   "date": "1661–1722",
+   "start": 1661,
+   "end": 1722,
+   "text": "the kangxi emperor rules qing china for 61 years, one of the longest reigns in history",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 320,
+   "date": "1665",
+   "start": 1665,
+   "end": 1665,
+   "text": "the great plague of london kills about 100,000 people, nearly a quarter of the city",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "disease"
+   ]
+  },
+  {
+   "id": 307,
+   "date": "1680",
+   "start": 1680,
+   "end": 1680,
+   "text": "the pueblo revolt drives spanish colonists out of new mexico for twelve years",
+   "era": "the-early-modern-world",
+   "region": "north-america",
+   "tags": [
+    "war",
+    "rights"
+   ]
+  },
+  {
+   "id": 308,
+   "date": "1682–1725",
+   "start": 1682,
+   "end": 1725,
+   "text": "peter the great rules russia and forces it to modernize along western lines",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 309,
+   "date": "1683",
+   "start": 1683,
+   "end": 1683,
+   "text": "the ottomans are defeated at the second siege of vienna",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 310,
+   "date": "1687",
+   "start": 1687,
+   "end": 1687,
+   "text": "isaac newton publishes the principia, explaining gravity and the laws of motion",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "id": 311,
+   "date": "1688",
+   "start": 1688,
+   "end": 1688,
+   "text": "the glorious revolution in england limits the power of the crown; a bill of rights follows",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "politics",
+    "rights"
+   ]
+  },
+  {
+   "id": 322,
+   "date": "1689",
+   "start": 1689,
+   "end": 1689,
+   "text": "the treaty of nerchinsk sets the border between russia and qing china, china's first treaty with a european power",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 323,
+   "date": "c. 1700",
+   "start": 1700,
+   "end": 1700,
+   "text": "osei tutu founds the asante kingdom in the gold-rich forests of modern ghana, united by the golden stool",
+   "era": "the-early-modern-world",
+   "region": "africa",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 312,
+   "date": "1712",
+   "start": 1712,
+   "end": 1712,
+   "text": "thomas newcomen builds the first practical steam engine, to pump water from mines",
+   "era": "the-early-modern-world",
+   "region": "europe",
+   "tags": [
+    "technology"
+   ]
+  },
+  {
+   "id": 324,
+   "date": "1741",
+   "start": 1741,
+   "end": 1741,
+   "text": "vitus bering, sailing for russia, reaches alaska",
+   "era": "the-early-modern-world",
+   "region": "the-arctic-and-antarctica",
+   "tags": [
+    "exploration"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "johannes-gutenberg",
+   "name": "johannes gutenberg",
+   "dates": "c. 1400–1468",
+   "role": "german printer",
+   "url": "api/people/johannes-gutenberg.json"
+  },
+  {
+   "slug": "mehmed-ii",
+   "name": "mehmed ii",
+   "dates": "1432–1481",
+   "role": "ottoman sultan",
+   "url": "api/people/mehmed-ii.json"
+  },
+  {
+   "slug": "christopher-columbus",
+   "name": "christopher columbus",
+   "dates": "1451–1506",
+   "role": "genoese navigator sailing for spain",
+   "url": "api/people/christopher-columbus.json"
+  },
+  {
+   "slug": "leonardo-da-vinci",
+   "name": "leonardo da vinci",
+   "dates": "1452–1519",
+   "role": "italian painter, engineer, and scientist",
+   "url": "api/people/leonardo-da-vinci.json"
+  },
+  {
+   "slug": "afonso-i-of-kongo",
+   "name": "afonso i of kongo",
+   "dates": "c. 1456–1542",
+   "role": "king of kongo",
+   "url": "api/people/afonso-i-of-kongo.json"
+  },
+  {
+   "slug": "vasco-da-gama",
+   "name": "vasco da gama",
+   "dates": "c. 1460–1524",
+   "role": "portuguese navigator",
+   "url": "api/people/vasco-da-gama.json"
+  },
+  {
+   "slug": "moctezuma-ii",
+   "name": "moctezuma ii",
+   "dates": "c. 1466–1520",
+   "role": "aztec emperor",
+   "url": "api/people/moctezuma-ii.json"
+  },
+  {
+   "slug": "guru-nanak",
+   "name": "guru nanak",
+   "dates": "1469–1539",
+   "role": "founder of sikhism",
+   "url": "api/people/guru-nanak.json"
+  },
+  {
+   "slug": "nicolaus-copernicus",
+   "name": "nicolaus copernicus",
+   "dates": "1473–1543",
+   "role": "polish astronomer",
+   "url": "api/people/nicolaus-copernicus.json"
+  },
+  {
+   "slug": "michelangelo",
+   "name": "michelangelo",
+   "dates": "1475–1564",
+   "role": "italian sculptor and painter",
+   "url": "api/people/michelangelo.json"
+  },
+  {
+   "slug": "ferdinand-magellan",
+   "name": "ferdinand magellan",
+   "dates": "1480–1521",
+   "role": "portuguese navigator sailing for spain",
+   "url": "api/people/ferdinand-magellan.json"
+  },
+  {
+   "slug": "babur",
+   "name": "babur",
+   "dates": "1483–1530",
+   "role": "founder of the mughal empire",
+   "url": "api/people/babur.json"
+  },
+  {
+   "slug": "martin-luther",
+   "name": "martin luther",
+   "dates": "1483–1546",
+   "role": "german monk and reformer",
+   "url": "api/people/martin-luther.json"
+  },
+  {
+   "slug": "bartolome-de-las-casas",
+   "name": "bartolomé de las casas",
+   "dates": "c. 1484–1566",
+   "role": "spanish priest and historian",
+   "url": "api/people/bartolome-de-las-casas.json"
+  },
+  {
+   "slug": "hernan-cortes",
+   "name": "hernán cortés",
+   "dates": "1485–1547",
+   "role": "spanish conquistador",
+   "url": "api/people/hernan-cortes.json"
+  },
+  {
+   "slug": "suleiman-the-magnificent",
+   "name": "suleiman the magnificent",
+   "dates": "1494–1566",
+   "role": "ottoman sultan",
+   "url": "api/people/suleiman-the-magnificent.json"
+  },
+  {
+   "slug": "malintzin",
+   "name": "malintzin",
+   "dates": "c. 1500–1529",
+   "role": "nahua interpreter",
+   "url": "api/people/malintzin.json"
+  },
+  {
+   "slug": "atahualpa",
+   "name": "atahualpa",
+   "dates": "c. 1502–1533",
+   "role": "last sovereign inca emperor",
+   "url": "api/people/atahualpa.json"
+  },
+  {
+   "slug": "elizabeth-i",
+   "name": "elizabeth i",
+   "dates": "1533–1603",
+   "role": "queen of england",
+   "url": "api/people/elizabeth-i.json"
+  },
+  {
+   "slug": "akbar",
+   "name": "akbar",
+   "dates": "1542–1605",
+   "role": "mughal emperor",
+   "url": "api/people/akbar.json"
+  },
+  {
+   "slug": "tokugawa-ieyasu",
+   "name": "tokugawa ieyasu",
+   "dates": "1543–1616",
+   "role": "japanese shogun",
+   "url": "api/people/tokugawa-ieyasu.json"
+  },
+  {
+   "slug": "yi-sun-sin",
+   "name": "yi sun-sin",
+   "dates": "1545–1598",
+   "role": "korean admiral",
+   "url": "api/people/yi-sun-sin.json"
+  },
+  {
+   "slug": "galileo-galilei",
+   "name": "galileo galilei",
+   "dates": "1564–1642",
+   "role": "italian scientist",
+   "url": "api/people/galileo-galilei.json"
+  },
+  {
+   "slug": "william-shakespeare",
+   "name": "william shakespeare",
+   "dates": "1564–1616",
+   "role": "english playwright and poet",
+   "url": "api/people/william-shakespeare.json"
+  },
+  {
+   "slug": "johannes-kepler",
+   "name": "johannes kepler",
+   "dates": "1571–1630",
+   "role": "german astronomer",
+   "url": "api/people/johannes-kepler.json"
+  },
+  {
+   "slug": "queen-nzinga",
+   "name": "queen nzinga",
+   "dates": "c. 1583–1663",
+   "role": "queen of ndongo and matamba",
+   "url": "api/people/queen-nzinga.json"
+  },
+  {
+   "slug": "shah-jahan",
+   "name": "shah jahan",
+   "dates": "1592–1666",
+   "role": "mughal emperor",
+   "url": "api/people/shah-jahan.json"
+  },
+  {
+   "slug": "aurangzeb",
+   "name": "aurangzeb",
+   "dates": "1618–1707",
+   "role": "mughal emperor",
+   "url": "api/people/aurangzeb.json"
+  },
+  {
+   "slug": "john-locke",
+   "name": "john locke",
+   "dates": "1632–1704",
+   "role": "english philosopher",
+   "url": "api/people/john-locke.json"
+  },
+  {
+   "slug": "isaac-newton",
+   "name": "isaac newton",
+   "dates": "1643–1727",
+   "role": "english mathematician and physicist",
+   "url": "api/people/isaac-newton.json"
+  },
+  {
+   "slug": "matsuo-basho",
+   "name": "matsuo bashō",
+   "dates": "1644–1694",
+   "role": "japanese poet",
+   "url": "api/people/matsuo-basho.json"
+  },
+  {
+   "slug": "sor-juana-ines-de-la-cruz",
+   "name": "sor juana inés de la cruz",
+   "dates": "c. 1648–1695",
+   "role": "mexican nun, poet, and scholar",
+   "url": "api/people/sor-juana-ines-de-la-cruz.json"
+  },
+  {
+   "slug": "kangxi-emperor",
+   "name": "kangxi emperor",
+   "dates": "1654–1722",
+   "role": "emperor of qing china",
+   "url": "api/people/kangxi-emperor.json"
+  },
+  {
+   "slug": "peter-the-great",
+   "name": "peter the great",
+   "dates": "1672–1725",
+   "role": "tsar of russia",
+   "url": "api/people/peter-the-great.json"
+  }
+ ]
+}

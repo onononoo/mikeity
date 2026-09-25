@@ -1,0 +1,55 @@
+{
+ "century": -35,
+ "events": [
+  {
+   "id": 94,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "the botai people of kazakhstan use horses, perhaps riding and milking them",
+   "era": "the-first-farmers",
+   "region": "central-asia",
+   "tags": [
+    "animals",
+    "horses"
+   ]
+  },
+  {
+   "id": 95,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "the wheel appears in mesopotamia and central europe at almost the same time",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "technology"
+   ]
+  },
+  {
+   "id": 96,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "llamas and alpacas are domesticated in the andes",
+   "era": "the-first-farmers",
+   "region": "south-america",
+   "tags": [
+    "farming",
+    "animals"
+   ]
+  },
+  {
+   "id": 97,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "uruk in southern mesopotamia grows into perhaps the first true city, with tens of thousands of people and huge temples",
+   "era": "the-first-civilizations",
+   "region": "the-middle-east",
+   "tags": [
+    "cities"
+   ]
+  }
+ ]
+}

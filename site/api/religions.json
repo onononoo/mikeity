@@ -1,0 +1,74 @@
+[
+ {
+  "slug": "judaism",
+  "name": "judaism",
+  "summary": "the religion of the jewish people: one god, who made a covenant with abraham and gave the torah to moses at sinai. it is the oldest of the three abrahamic faiths, and the root of christianity and islam.",
+  "counts": {
+   "events": 32,
+   "people": 22,
+   "terms": 17
+  },
+  "url": "api/religions/judaism.json",
+  "page": "judaism/index.html"
+ },
+ {
+  "slug": "christianity",
+  "name": "christianity",
+  "summary": "faith in jesus of nazareth as the son of god and savior, who died on the cross and rose from the dead. it began as a movement within judaism and became the religion of the roman empire and then of much of the world.",
+  "counts": {
+   "events": 33,
+   "people": 19,
+   "terms": 19
+  },
+  "url": "api/religions/christianity.json",
+  "page": "christianity/index.html"
+ },
+ {
+  "slug": "islam",
+  "name": "islam",
+  "summary": "submission (islam) to the one god, allah, as revealed in the quran to the prophet muhammad. muslims see it as the same faith taught by every prophet from adam, through abraham, moses, and jesus, to muhammad.",
+  "counts": {
+   "events": 31,
+   "people": 21,
+   "terms": 23
+  },
+  "url": "api/religions/islam.json",
+  "page": "islam/index.html"
+ },
+ {
+  "slug": "hinduism",
+  "name": "hinduism",
+  "summary": "the family of traditions of india, called by many followers sanatana dharma, \"the eternal way\". it includes many gods seen as forms of one reality, and belief in karma, rebirth, and liberation.",
+  "counts": {
+   "events": 25,
+   "people": 18,
+   "terms": 18
+  },
+  "url": "api/religions/hinduism.json",
+  "page": "hinduism/index.html"
+ },
+ {
+  "slug": "buddhism",
+  "name": "buddhism",
+  "summary": "the path taught by the buddha to end suffering, through understanding its causes, living ethically, and training the mind. it does not depend on a creator god.",
+  "counts": {
+   "events": 30,
+   "people": 19,
+   "terms": 19
+  },
+  "url": "api/religions/buddhism.json",
+  "page": "buddhism/index.html"
+ },
+ {
+  "slug": "sikhism",
+  "name": "sikhism",
+  "summary": "devotion to the one creator, remembered through god's name, honest work, and sharing with others. it teaches that all people are equal, and it was shaped by ten gurus over two centuries.",
+  "counts": {
+   "events": 26,
+   "people": 15,
+   "terms": 18
+  },
+  "url": "api/religions/sikhism.json",
+  "page": "sikhism/index.html"
+ }
+]

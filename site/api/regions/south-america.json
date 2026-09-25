@@ -1,0 +1,254 @@
+{
+ "slug": "south-america",
+ "name": "south america",
+ "description": "caral, chavín, the nazca and moche, the inca empire, spanish and portuguese rule, and independence.",
+ "page": "regions.html#south-america",
+ "events": [
+  {
+   "id": 24,
+   "date": "c. 235 million years ago",
+   "start": -234998050,
+   "end": -234998050,
+   "text": "the earliest known dinosaurs, small two-legged hunters, live in what is now argentina and brazil",
+   "era": "the-beginning",
+   "region": "south-america",
+   "tags": [
+    "life",
+    "dinosaurs"
+   ]
+  },
+  {
+   "id": 65,
+   "date": "c. 14,000 years ago",
+   "start": -12550,
+   "end": -12550,
+   "text": "people live at monte verde in southern chile, far down the americas",
+   "era": "the-first-humans",
+   "region": "south-america",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 84,
+   "date": "c. 6000 bce",
+   "start": -6000,
+   "end": -6000,
+   "text": "potatoes, quinoa, and beans are being domesticated in the andes",
+   "era": "the-first-farmers",
+   "region": "south-america",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 96,
+   "date": "c. 3500 bce",
+   "start": -3500,
+   "end": -3500,
+   "text": "llamas and alpacas are domesticated in the andes",
+   "era": "the-first-farmers",
+   "region": "south-america",
+   "tags": [
+    "farming",
+    "animals"
+   ]
+  },
+  {
+   "id": 106,
+   "date": "c. 2600 bce",
+   "start": -2600,
+   "end": -2600,
+   "text": "caral in peru's supe valley builds pyramids and sunken plazas, the oldest city in the americas",
+   "era": "the-first-civilizations",
+   "region": "south-america",
+   "tags": [
+    "cities",
+    "architecture"
+   ]
+  },
+  {
+   "id": 134,
+   "date": "c. 900 bce",
+   "start": -900,
+   "end": -900,
+   "text": "the temple center of chavín de huántar spreads a shared religion and art style through the andes",
+   "era": "the-first-civilizations",
+   "region": "south-america",
+   "tags": [
+    "religion",
+    "art"
+   ]
+  },
+  {
+   "id": 171,
+   "date": "c. 200 bce–500 ce",
+   "start": -200,
+   "end": 500,
+   "text": "the nazca people of peru draw giant lines and animal figures across the desert",
+   "era": "the-classical-world",
+   "region": "south-america",
+   "tags": [
+    "art",
+    "religion"
+   ]
+  },
+  {
+   "id": 181,
+   "date": "c. 100 ce",
+   "start": 100,
+   "end": 100,
+   "text": "the moche culture on peru's north coast builds adobe pyramids and makes fine portrait pottery",
+   "era": "the-classical-world",
+   "region": "south-america",
+   "tags": [
+    "art"
+   ]
+  },
+  {
+   "id": 257,
+   "date": "c. 1438",
+   "start": 1438,
+   "end": 1438,
+   "text": "pachacuti becomes ruler of the inca and begins their rapid expansion",
+   "era": "the-middle-ages",
+   "region": "south-america",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 289,
+   "date": "1532–1533",
+   "start": 1532,
+   "end": 1533,
+   "text": "francisco pizarro captures and executes the inca ruler atahualpa, and the inca empire falls",
+   "era": "the-early-modern-world",
+   "region": "south-america",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 292,
+   "date": "1545",
+   "start": 1545,
+   "end": 1545,
+   "text": "silver is found at potosí in bolivia; forced native labor makes it one of the richest mines in history",
+   "era": "the-early-modern-world",
+   "region": "south-america",
+   "tags": [
+    "trade",
+    "economy"
+   ]
+  },
+  {
+   "id": 363,
+   "date": "1780–1783",
+   "start": 1780,
+   "end": 1783,
+   "text": "tupac amaru ii leads a great indigenous uprising against spanish rule in peru; it is crushed and he is executed",
+   "era": "the-age-of-revolutions",
+   "region": "south-america",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 350,
+   "date": "1819",
+   "start": 1819,
+   "end": 1819,
+   "text": "simón bolívar wins the battle of boyacá, freeing new granada (colombia)",
+   "era": "the-age-of-revolutions",
+   "region": "south-america",
+   "tags": [
+    "revolution",
+    "war"
+   ]
+  },
+  {
+   "id": 352,
+   "date": "1822",
+   "start": 1822,
+   "end": 1822,
+   "text": "brazil declares independence from portugal",
+   "era": "the-age-of-revolutions",
+   "region": "south-america",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 396,
+   "date": "1888",
+   "start": 1888,
+   "end": 1888,
+   "text": "brazil becomes the last country in the americas to abolish slavery",
+   "era": "industry-and-empire",
+   "region": "south-america",
+   "tags": [
+    "slavery",
+    "law"
+   ]
+  },
+  {
+   "id": 527,
+   "date": "1973",
+   "start": 1973,
+   "end": 1973,
+   "text": "a military coup overthrows chile's elected president salvador allende",
+   "era": "the-modern-world",
+   "region": "south-america",
+   "tags": [
+    "politics"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "pachacuti",
+   "name": "pachacuti",
+   "dates": "c. 1418–1471",
+   "role": "ruler of the inca",
+   "url": "api/people/pachacuti.json"
+  },
+  {
+   "slug": "atahualpa",
+   "name": "atahualpa",
+   "dates": "c. 1502–1533",
+   "role": "last sovereign inca emperor",
+   "url": "api/people/atahualpa.json"
+  },
+  {
+   "slug": "tupac-amaru-ii",
+   "name": "tupac amaru ii",
+   "dates": "1738–1781",
+   "role": "leader of an uprising in peru",
+   "url": "api/people/tupac-amaru-ii.json"
+  },
+  {
+   "slug": "simon-bolivar",
+   "name": "simón bolívar",
+   "dates": "1783–1830",
+   "role": "venezuelan revolutionary",
+   "url": "api/people/simon-bolivar.json"
+  },
+  {
+   "slug": "salvador-allende",
+   "name": "salvador allende",
+   "dates": "1908–1973",
+   "role": "president of chile",
+   "url": "api/people/salvador-allende.json"
+  },
+  {
+   "slug": "eva-peron",
+   "name": "eva perón",
+   "dates": "1919–1952",
+   "role": "first lady of argentina",
+   "url": "api/people/eva-peron.json"
+  }
+ ]
+}

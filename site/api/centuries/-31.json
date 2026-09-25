@@ -1,0 +1,18 @@
+{
+ "century": -31,
+ "events": [
+  {
+   "id": 102,
+   "date": "c. 3100 bce",
+   "start": -3100,
+   "end": -3100,
+   "text": "upper and lower egypt are united under one king, remembered as narmer or menes",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "politics",
+    "empire"
+   ]
+  }
+ ]
+}

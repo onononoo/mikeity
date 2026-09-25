@@ -1,0 +1,18 @@
+{
+ "century": -85,
+ "events": [
+  {
+   "id": 72,
+   "date": "c. 8500 bce",
+   "start": -8500,
+   "end": -8500,
+   "text": "sheep and goats are domesticated in the zagros mountains and nearby",
+   "era": "the-first-farmers",
+   "region": "the-middle-east",
+   "tags": [
+    "farming",
+    "animals"
+   ]
+  }
+ ]
+}

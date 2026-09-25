@@ -7,8 +7,10 @@ leave that part out; a step that is there but fails stops the build.
     tools/chart.cpp          c++    svg charts of when events happened
     tools/gaps.awk           awk    the quietest stretches and busiest years
     tools/contemporaries.cs  c#     which people were alive at the same time
+    tools/shared.fsx         f#     figures, places, and ideas shared between religions
+    tools/api.ts             ts     a json api made of plain files, in site/api/
 
-all three read the files that exports.py has already written into site/data/.
+all of them read the files that exports.py has already written into site/data/.
 """
 
 import os
@@ -137,12 +139,80 @@ def parse_contemporaries(text, people):
     return found
 
 
+# ---------------------------------------------------------------- f#
+
+def shared(root, out, s):
+    dotnet = _find("dotnet")
+    if not dotnet:
+        return None, "no dotnet"
+    env = dict(os.environ, DOTNET_NOLOGO="1", DOTNET_CLI_TELEMETRY_OPTOUT="1")
+    text = _run([dotnet, "fsi", "--quiet", "--exec", os.path.join(root, "tools", "shared.fsx"),
+                 os.path.join(out, "data", "history.json"), os.path.join(root, "data", "shared.json")],
+                "tools/shared.fsx", env=env)
+    return parse_shared(text, [r.slug for r in s.religions]), None
+
+
+def parse_shared(text, order):
+    """-> rows for things found in two or more religions, most shared first.
+    each row has one cell per religion, in the given order (none where absent)."""
+    found = {}
+    for kind, label, slug, n, url in _rows(text, "match"):
+        row = found.setdefault(label, record(kind=kind, label=label, cells={}))
+        row.cells[slug] = record(mentions=int(n), url=url)
+    rank = {"figure": 0, "place": 1, "idea": 2}
+    rows = [r for r in found.values() if len(r.cells) > 1]
+    rows.sort(key=lambda r: (rank.get(r.kind, 3), -len(r.cells), r.label))
+    for r in rows:
+        r.faiths = len(r.cells)
+        r.cells = [r.cells.get(slug) for slug in order]
+    return rows
+
+
+# ---------------------------------------------------------------- typescript
+
+def _node_ts(node):
+    """the command that runs a .ts file: node 23.6+ does it by default, 22.6+ with a flag."""
+    try:
+        version = _run([node, "--version"], "node --version").strip().lstrip("v")
+        major, minor = (int(x) for x in version.split(".")[:2])
+    except (extras_error, ValueError):
+        return None
+    if (major, minor) >= (23, 6):
+        return [node]
+    if (major, minor) >= (22, 6):
+        return [node, "--experimental-strip-types", "--no-warnings"]
+    return None
+
+
+def api(root, out, s):
+    node = _find("node")
+    if not node:
+        return None, "no node"
+    cmd = _node_ts(node)
+    if not cmd:
+        return None, "needs node 22.6 or newer to run typescript"
+    text = _run(cmd + [os.path.join(root, "tools", "api.ts"), os.path.join(out, "data", "history.json"),
+                       os.path.join(out, "api")], "tools/api.ts")
+    return parse_api(text), None
+
+
+def parse_api(text):
+    rows = [record(path=p, files=int(n), about=a, example=e) for p, n, a, e in
+            (line.split("\t") for line in text.splitlines() if line.strip())]
+    return record(endpoints=rows, files=sum(r.files for r in rows))
+
+
 # ---------------------------------------------------------------- all of them
 
+# (name, language, source, what it adds to the site, function)
 steps = [
-    ("charts", "c++", "tools/chart.cpp", lambda root, out, s: chart(root, out)),
-    ("gaps", "awk", "tools/gaps.awk", lambda root, out, s: gaps(root, out)),
-    ("contemporaries", "c#", "tools/contemporaries.cs", contemporaries),
+    ("charts", "c++", "tools/chart.cpp", "the charts on this page", lambda root, out, s: chart(root, out)),
+    ("gaps", "awk", "tools/gaps.awk", "the quietest stretches and busiest years",
+     lambda root, out, s: gaps(root, out)),
+    ("contemporaries", "c#", "tools/contemporaries.cs",
+     "the most crowded lifetimes, and who was alive at the same time", contemporaries),
+    ("shared", "f#", "tools/shared.fsx", "what the religions share, on the religions page", shared),
+    ("api", "typescript", "tools/api.ts", "the json api", api),
 ]
 
 
@@ -150,13 +220,13 @@ def run_all(root, out, s, say=print):
     """run every step. returns a record with one field per step (none if it was
     skipped) and a 'log' list saying what happened to each."""
     result = record(log=[])
-    for name, language, source, fn in steps:
+    for name, language, source, adds, fn in steps:
         started = time.perf_counter()
         value, skipped = fn(root, out, s)
         seconds = time.perf_counter() - started
         result[name] = value
         status = f"skipped: {skipped}" if skipped else "ran"
-        result.log.append(record(name=name, language=language, source=source, status=status,
-                                 ran=not skipped))
+        result.log.append(record(name=name, language=language, source=source, adds=adds,
+                                 status=status, ran=not skipped))
         say(f"{language} ({source}): {status}" + ("" if skipped else f" in {seconds:.1f}s"))
     return result

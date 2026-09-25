@@ -1,0 +1,69 @@
+{
+ "century": -8,
+ "events": [
+  {
+   "id": 141,
+   "date": "776 bce",
+   "start": -776,
+   "end": -776,
+   "text": "the first recorded olympic games are held at olympia in greece, according to later tradition",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "culture",
+    "sport"
+   ]
+  },
+  {
+   "id": 143,
+   "date": "753 bce",
+   "start": -753,
+   "end": -753,
+   "text": "the legendary founding of rome by romulus",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "cities"
+   ]
+  },
+  {
+   "id": 142,
+   "date": "c. 750 bce",
+   "start": -750,
+   "end": -750,
+   "text": "the greeks adopt the phoenician alphabet, adding vowels; the iliad and the odyssey take shape",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "writing",
+    "literature"
+   ]
+  },
+  {
+   "id": 144,
+   "date": "c. 750 bce",
+   "start": -750,
+   "end": -750,
+   "text": "kushite kings from nubia conquer egypt and rule it as its 25th dynasty",
+   "era": "the-classical-world",
+   "region": "africa",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 145,
+   "date": "722 bce",
+   "start": -722,
+   "end": -722,
+   "text": "the assyrian empire destroys the northern kingdom of israel and deports much of its population",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,550 @@
+{
+ "slug": "islam",
+ "name": "islam",
+ "began": "610 ce, in mecca, arabia",
+ "followers": "about 2 billion, the second largest religion",
+ "founder": "the prophet muhammad, the last in a line of prophets going back to adam",
+ "scriptures": "the quran; the hadith, reports of the prophet's words and deeds",
+ "places": "mecca and the kaaba, medina, and jerusalem",
+ "summary": "submission (islam) to the one god, allah, as revealed in the quran to the prophet muhammad. muslims see it as the same faith taught by every prophet from adam, through abraham, moses, and jesus, to muhammad.",
+ "creation": "god created the heavens and the earth in six days, commanding \"be\", and it was. he made adam from clay, breathed his spirit into him, and made him his deputy on earth.",
+ "age": "the quran gives no date. many scholars note that a \"day\" with god can be like a thousand or fifty thousand years, and many muslims accept the scientific age. the islamic calendar counts years from the hijra in 622 ce.",
+ "events": [
+  {
+   "id": 1,
+   "kind": "tradition",
+   "when": "before time",
+   "text": "god alone exists. he creates the heavens and the earth in six days, saying \"be\", and it is. he makes the angels from light and the jinn from smokeless fire",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 2,
+   "kind": "tradition",
+   "when": "the creation of adam",
+   "text": "god shapes adam from clay, breathes his spirit into him, and teaches him the names of all things. he tells the angels to bow to adam; iblis refuses in pride and is cast out",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 3,
+   "kind": "tradition",
+   "when": "the garden",
+   "text": "adam and hawwa (eve) eat from the forbidden tree. they repent and god forgives them, then sends them down to earth, where adam becomes the first prophet",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 4,
+   "kind": "tradition",
+   "when": "the flood",
+   "text": "the prophet nuh (noah) calls his people to god for 950 years; the unbelievers drown in the flood and the ark comes to rest on mount judi",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 5,
+   "kind": "tradition",
+   "when": "the time of ibrahim",
+   "text": "ibrahim (abraham) breaks his people's idols and is thrown into a fire that god makes cool. with his son ismail he builds the kaaba in mecca, the first house for the worship of the one god",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 6,
+   "kind": "tradition",
+   "when": "the time of musa",
+   "text": "musa (moses) confronts pharaoh, leads the children of israel to freedom, and receives the tawrat (torah)",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 7,
+   "kind": "tradition",
+   "when": "the time of dawud",
+   "text": "dawud (david) receives the zabur (psalms); his son sulayman (solomon) rules with wisdom and can speak with birds, animals, and jinn",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 8,
+   "kind": "tradition",
+   "when": "the time of isa",
+   "text": "isa (jesus) is born by a miracle to the virgin maryam. he is a prophet who receives the injil (gospel); muslims believe he was not crucified but raised up to god",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 9,
+   "kind": "history",
+   "when": "c. 570 ce",
+   "text": "muhammad is born in mecca, into the clan of hashim of the quraysh tribe; he is orphaned young",
+   "start": 570,
+   "end": 570
+  },
+  {
+   "id": 10,
+   "kind": "history",
+   "when": "c. 595 ce",
+   "text": "muhammad, a trusted merchant, marries khadija, a widow who runs her own trading business",
+   "start": 595,
+   "end": 595
+  },
+  {
+   "id": 11,
+   "kind": "tradition",
+   "when": "610 ce",
+   "text": "in the cave of hira, the angel jibril (gabriel) brings muhammad the first verses of the quran: \"read, in the name of your lord who created\"",
+   "start": 610,
+   "end": 610
+  },
+  {
+   "id": 12,
+   "kind": "history",
+   "when": "c. 613 ce",
+   "text": "muhammad begins preaching in public; the leaders of mecca turn against him and his followers are persecuted",
+   "start": 613,
+   "end": 613
+  },
+  {
+   "id": 13,
+   "kind": "tradition",
+   "when": "c. 621 ce",
+   "text": "the night journey: muhammad is carried to jerusalem and rises through the heavens; the five daily prayers are given",
+   "start": 621,
+   "end": 621
+  },
+  {
+   "id": 14,
+   "kind": "history",
+   "when": "622 ce",
+   "text": "the hijra: muhammad and his followers move to medina. the islamic calendar counts its years from here",
+   "start": 622,
+   "end": 622
+  },
+  {
+   "id": 15,
+   "kind": "history",
+   "when": "624 ce",
+   "text": "the muslims defeat a much larger meccan army at the battle of badr",
+   "start": 624,
+   "end": 624
+  },
+  {
+   "id": 16,
+   "kind": "history",
+   "when": "630 ce",
+   "text": "mecca surrenders; muhammad clears the idols from the kaaba",
+   "start": 630,
+   "end": 630
+  },
+  {
+   "id": 17,
+   "kind": "history",
+   "when": "632 ce",
+   "text": "muhammad makes his farewell pilgrimage and dies in medina; abu bakr becomes the first caliph",
+   "start": 632,
+   "end": 632
+  },
+  {
+   "id": 18,
+   "kind": "history",
+   "when": "c. 650 ce",
+   "text": "the caliph uthman sends out standard copies of the quran to the main cities of the growing empire",
+   "start": 650,
+   "end": 650
+  },
+  {
+   "id": 19,
+   "kind": "history",
+   "when": "656–661 ce",
+   "text": "the first civil war among muslims; ali, the fourth caliph, is assassinated in 661",
+   "start": 656,
+   "end": 661
+  },
+  {
+   "id": 20,
+   "kind": "history",
+   "when": "680 ce",
+   "text": "husayn, grandson of the prophet, is killed at karbala; the division between sunni and shia deepens",
+   "start": 680,
+   "end": 680
+  },
+  {
+   "id": 21,
+   "kind": "history",
+   "when": "691–692 ce",
+   "text": "the dome of the rock is built in jerusalem",
+   "start": 691,
+   "end": 692
+  },
+  {
+   "id": 22,
+   "kind": "history",
+   "when": "762 ce",
+   "text": "the abbasids found baghdad, soon home to the house of wisdom and a golden age of learning",
+   "start": 762,
+   "end": 762
+  },
+  {
+   "id": 23,
+   "kind": "history",
+   "when": "c. 846 ce",
+   "text": "al-bukhari completes his collection of hadith, which sunni muslims regard as the most reliable after the quran",
+   "start": 846,
+   "end": 846
+  },
+  {
+   "id": 24,
+   "kind": "history",
+   "when": "c. 1100",
+   "text": "al-ghazali writes the revival of the religious sciences, bringing law, theology, and sufi devotion together",
+   "start": 1100,
+   "end": 1100
+  },
+  {
+   "id": 25,
+   "kind": "history",
+   "when": "1258",
+   "text": "the mongols sack baghdad and kill the last abbasid caliph there",
+   "start": 1258,
+   "end": 1258
+  },
+  {
+   "id": 26,
+   "kind": "history",
+   "when": "1324",
+   "text": "mansa musa of mali makes his pilgrimage to mecca, showing the islamic world the wealth of west africa",
+   "start": 1324,
+   "end": 1324
+  },
+  {
+   "id": 27,
+   "kind": "history",
+   "when": "c. 1414",
+   "text": "the ruler of malacca becomes muslim; islam spreads through the trading ports of southeast asia",
+   "start": 1414,
+   "end": 1414
+  },
+  {
+   "id": 28,
+   "kind": "history",
+   "when": "1453",
+   "text": "the ottomans take constantinople; the hagia sophia becomes a mosque",
+   "start": 1453,
+   "end": 1453
+  },
+  {
+   "id": 29,
+   "kind": "history",
+   "when": "1924",
+   "text": "the new republic of turkey abolishes the ottoman caliphate",
+   "start": 1924,
+   "end": 1924
+  },
+  {
+   "id": 30,
+   "kind": "history",
+   "when": "today",
+   "text": "about one person in four is muslim; the largest muslim country is indonesia, and most muslims are not arabs",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 31,
+   "kind": "tradition",
+   "when": "the last day",
+   "text": "at the hour known only to god, the dead will rise and every soul will be judged; the righteous enter paradise",
+   "start": null,
+   "end": null
+  }
+ ],
+ "people": [
+  {
+   "slug": "adam",
+   "name": "adam",
+   "dates": "the first human",
+   "kind": "tradition",
+   "role": "the first prophet",
+   "about": "made by god from clay and taught the names of all things; he repented and was forgiven"
+  },
+  {
+   "slug": "nuh",
+   "name": "nuh",
+   "dates": "before the flood",
+   "kind": "tradition",
+   "role": "prophet (noah)",
+   "about": "called his people to god for centuries and was saved from the flood in the ark"
+  },
+  {
+   "slug": "ibrahim",
+   "name": "ibrahim",
+   "dates": "long before musa",
+   "kind": "tradition",
+   "role": "prophet (abraham), \"the friend of god\"",
+   "about": "turned from idols to the one god and built the kaaba with his son ismail; the hajj retraces his family's story"
+  },
+  {
+   "slug": "ismail",
+   "name": "ismail",
+   "dates": "son of ibrahim",
+   "kind": "tradition",
+   "role": "prophet (ishmael)",
+   "about": "the son whom ibrahim was ready to sacrifice, remembered at eid al-adha; ancestor of the arabs of mecca"
+  },
+  {
+   "slug": "musa",
+   "name": "musa",
+   "dates": "the time of pharaoh",
+   "kind": "tradition",
+   "role": "prophet (moses)",
+   "about": "the prophet named most often in the quran; he spoke with god and received the tawrat"
+  },
+  {
+   "slug": "maryam",
+   "name": "maryam",
+   "dates": "mother of isa",
+   "kind": "tradition",
+   "role": "the mother of jesus",
+   "about": "the only woman named in the quran, which has a chapter called by her name"
+  },
+  {
+   "slug": "isa",
+   "name": "isa",
+   "dates": "before muhammad",
+   "kind": "tradition",
+   "role": "prophet and messiah (jesus)",
+   "about": "born of a virgin and given the injil; muslims believe he will return before the last day"
+  },
+  {
+   "slug": "khadija",
+   "name": "khadija",
+   "dates": "c. 555-619",
+   "kind": "history",
+   "role": "wife of muhammad",
+   "about": "a successful merchant and the first person to accept islam"
+  },
+  {
+   "slug": "muhammad",
+   "name": "muhammad",
+   "dates": "c. 570-632",
+   "kind": "history",
+   "role": "the prophet of islam",
+   "about": "received the quran over 23 years and united arabia under islam; muslims call him the seal of the prophets"
+  },
+  {
+   "slug": "abu-bakr",
+   "name": "abu bakr",
+   "dates": "c. 573-634",
+   "kind": "history",
+   "role": "the first caliph",
+   "about": "the prophet's closest friend, who led the community after his death"
+  },
+  {
+   "slug": "umar",
+   "name": "umar",
+   "dates": "c. 584-644",
+   "kind": "history",
+   "role": "the second caliph",
+   "about": "led the conquests of syria, egypt, and persia and set up the islamic calendar"
+  },
+  {
+   "slug": "ali-ibn-abi-talib",
+   "name": "ali ibn abi talib",
+   "dates": "c. 600-661",
+   "kind": "history",
+   "role": "cousin and son-in-law of muhammad, the fourth caliph",
+   "about": "shia muslims regard him as the first imam and the prophet's rightful successor"
+  },
+  {
+   "slug": "fatima",
+   "name": "fatima",
+   "dates": "c. 605-632",
+   "kind": "history",
+   "role": "daughter of muhammad",
+   "about": "wife of ali and mother of hasan and husayn, deeply honored by all muslims"
+  },
+  {
+   "slug": "aisha",
+   "name": "aisha",
+   "dates": "c. 613-678",
+   "kind": "history",
+   "role": "wife of muhammad",
+   "about": "one of the most important sources of hadith and a teacher of the early community"
+  },
+  {
+   "slug": "husayn-ibn-ali",
+   "name": "husayn ibn ali",
+   "dates": "626-680",
+   "kind": "history",
+   "role": "grandson of muhammad",
+   "about": "killed at karbala; his death is mourned every year by shia muslims on ashura"
+  },
+  {
+   "slug": "rabia-of-basra",
+   "name": "rabia of basra",
+   "dates": "c. 714-801",
+   "kind": "history",
+   "role": "sufi saint",
+   "about": "taught that god should be loved for himself alone, not from fear of hell or hope of paradise"
+  },
+  {
+   "slug": "al-bukhari",
+   "name": "al-bukhari",
+   "dates": "810-870",
+   "kind": "history",
+   "role": "scholar of hadith",
+   "about": "is said to have checked some 600,000 reports to choose about 7,000 for his collection"
+  },
+  {
+   "slug": "al-ghazali",
+   "name": "al-ghazali",
+   "dates": "1058-1111",
+   "kind": "history",
+   "role": "theologian and mystic",
+   "about": "left a famous teaching post in baghdad in a spiritual crisis and later wrote the revival of the religious sciences"
+  },
+  {
+   "slug": "rumi",
+   "name": "rumi",
+   "dates": "1207-1273",
+   "kind": "history",
+   "role": "persian poet and sufi",
+   "about": "his poems of love for god are read around the world; his followers became the whirling dervishes"
+  },
+  {
+   "slug": "mansa-musa",
+   "name": "mansa musa",
+   "dates": "c. 1280-1337",
+   "kind": "history",
+   "role": "emperor of mali",
+   "about": "built mosques and schools in timbuktu after his famous pilgrimage"
+  },
+  {
+   "slug": "ibn-battuta",
+   "name": "ibn battuta",
+   "dates": "1304-1369",
+   "kind": "history",
+   "role": "traveler and judge",
+   "about": "journeyed across the islamic world from morocco to china and wrote about it"
+  }
+ ],
+ "glossary": [
+  {
+   "slug": "allah",
+   "term": "allah",
+   "definition": "the arabic word for god, used by arab christians and jews as well as muslims."
+  },
+  {
+   "slug": "caliph",
+   "term": "caliph",
+   "definition": "\"successor\": the leader of the muslim community after muhammad."
+  },
+  {
+   "slug": "eid",
+   "term": "eid",
+   "definition": "a festival: eid al-fitr at the end of ramadan, and eid al-adha at the time of the hajj."
+  },
+  {
+   "slug": "five-pillars",
+   "term": "five pillars",
+   "definition": "the five duties of every muslim: the shahada, prayer (salah), charity (zakat), fasting in ramadan, and the hajj."
+  },
+  {
+   "slug": "hadith",
+   "term": "hadith",
+   "definition": "a report of something the prophet said or did, passed down through a chain of named people."
+  },
+  {
+   "slug": "hajj",
+   "term": "hajj",
+   "definition": "the pilgrimage to mecca, which every muslim who is able should make once in their life."
+  },
+  {
+   "slug": "hijra",
+   "term": "hijra",
+   "definition": "the move of muhammad and his followers from mecca to medina in 622, year 1 of the islamic calendar."
+  },
+  {
+   "slug": "imam",
+   "term": "imam",
+   "definition": "one who leads prayer; for shia muslims, the divinely guided leaders descended from ali."
+  },
+  {
+   "slug": "jinn",
+   "term": "jinn",
+   "definition": "beings made of smokeless fire, with free will like humans, mostly unseen."
+  },
+  {
+   "slug": "kaaba",
+   "term": "kaaba",
+   "definition": "the cube-shaped shrine at the center of the great mosque of mecca, which muslims face when they pray."
+  },
+  {
+   "slug": "mosque",
+   "term": "mosque",
+   "definition": "a muslim place of prayer, in arabic masjid, \"place of bowing down\"."
+  },
+  {
+   "slug": "prophet",
+   "term": "prophet",
+   "definition": "a messenger of god. the quran names 25, from adam to muhammad, the last."
+  },
+  {
+   "slug": "quran",
+   "term": "quran",
+   "definition": "\"the recitation\": the holy book of islam, which muslims believe is the word of god revealed to muhammad in arabic."
+  },
+  {
+   "slug": "ramadan",
+   "term": "ramadan",
+   "definition": "the ninth month of the islamic year, when muslims fast from dawn to sunset."
+  },
+  {
+   "slug": "salah",
+   "term": "salah",
+   "definition": "the ritual prayer, said five times a day facing mecca."
+  },
+  {
+   "slug": "shahada",
+   "term": "shahada",
+   "definition": "the declaration of faith: \"there is no god but god, and muhammad is the messenger of god.\""
+  },
+  {
+   "slug": "sharia",
+   "term": "sharia",
+   "definition": "\"the way\": islamic law and ethics, worked out by scholars from the quran and sunnah."
+  },
+  {
+   "slug": "shia",
+   "term": "shia",
+   "definition": "the second largest branch of islam, about a tenth to an eighth of muslims, who follow the line of ali and the imams."
+  },
+  {
+   "slug": "sufism",
+   "term": "sufism",
+   "definition": "the mystical path in islam, seeking closeness to god through prayer, remembrance, music, and poetry."
+  },
+  {
+   "slug": "sunnah",
+   "term": "sunnah",
+   "definition": "the example of the prophet's words and life, known from the hadith."
+  },
+  {
+   "slug": "sunni",
+   "term": "sunni",
+   "definition": "the largest branch of islam, followed by most muslims, who accept the first four caliphs in order."
+  },
+  {
+   "slug": "ummah",
+   "term": "ummah",
+   "definition": "the worldwide community of all muslims."
+  },
+  {
+   "slug": "zakat",
+   "term": "zakat",
+   "definition": "the yearly giving of a share of one's wealth to the poor and needy."
+  }
+ ],
+ "page": "islam/index.html"
+}

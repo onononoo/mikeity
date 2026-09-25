@@ -1,0 +1,31 @@
+{
+ "century": -9,
+ "events": [
+  {
+   "id": 134,
+   "date": "c. 900 bce",
+   "start": -900,
+   "end": -900,
+   "text": "the temple center of chavín de huántar spreads a shared religion and art style through the andes",
+   "era": "the-first-civilizations",
+   "region": "south-america",
+   "tags": [
+    "religion",
+    "art"
+   ]
+  },
+  {
+   "id": 135,
+   "date": "c. 814 bce",
+   "start": -814,
+   "end": -814,
+   "text": "phoenicians from tyre found carthage in north africa, according to tradition",
+   "era": "the-first-civilizations",
+   "region": "africa",
+   "tags": [
+    "cities",
+    "trade"
+   ]
+  }
+ ]
+}

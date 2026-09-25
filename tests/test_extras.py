@@ -39,6 +39,22 @@ class parse_tests(unittest.TestCase):
         self.assertEqual(t["a"].count, 1)
         self.assertEqual([(o.person, o.years) for o in t["a"].alongside], [("person b", 12)])
 
+    def test_shared_keeps_only_things_in_two_faiths(self):
+        rows = extras.parse_shared(
+            "match\tfigure\tabraham\tjudaism\t4\tjudaism/people.html#abraham\n"
+            "match\tfigure\tabraham\tislam\t6\tislam/people.html#ibrahim\n"
+            "match\tidea\tkarma\thinduism\t4\thinduism/glossary.html#karma\n",
+            ["judaism", "islam", "hinduism"])
+        self.assertEqual([r.label for r in rows], ["abraham"])
+        self.assertEqual(rows[0].faiths, 2)
+        self.assertEqual([c and c.mentions for c in rows[0].cells], [4, 6, None])
+
+    def test_api(self):
+        a = extras.parse_api("api/eras.json\t1\tthe parts\tapi/eras.json\n"
+                             "api/people/{}.json\t205\tone person\tapi/people/lucy.json\n")
+        self.assertEqual(a.files, 206)
+        self.assertEqual(a.endpoints[1].example, "api/people/lucy.json")
+
 
 @unittest.skipUnless(extras._find("awk", "gawk", "mawk"), "no awk")
 class awk_tests(unittest.TestCase):

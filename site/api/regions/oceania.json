@@ -1,0 +1,249 @@
+{
+ "slug": "oceania",
+ "name": "oceania",
+ "description": "australia, new guinea, new zealand, and the islands of the pacific, settled by some of the greatest sailors in history.",
+ "page": "regions.html#oceania",
+ "events": [
+  {
+   "id": 8,
+   "date": "4.4 billion years ago",
+   "start": -4399998050,
+   "end": -4399998050,
+   "text": "the oldest known mineral crystals on earth form; zircons later found in western australia hint that liquid water already existed",
+   "era": "the-beginning",
+   "region": "oceania",
+   "tags": [
+    "earth",
+    "science"
+   ]
+  },
+  {
+   "id": 10,
+   "date": "3.5 billion years ago",
+   "start": -3499998050,
+   "end": -3499998050,
+   "text": "microbial mats build stromatolites, layered rock mounds that are among the oldest clear fossils, found in western australia",
+   "era": "the-beginning",
+   "region": "oceania",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "id": 54,
+   "date": "c. 65,000 years ago",
+   "start": -63050,
+   "end": -63050,
+   "text": "people may have reached australia by now, crossing open sea by boat; the ancestors of aboriginal australians",
+   "era": "the-first-humans",
+   "region": "oceania",
+   "tags": [
+    "humans",
+    "migration"
+   ]
+  },
+  {
+   "id": 80,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "farmers in the highlands of new guinea dig drainage ditches to grow taro and bananas",
+   "era": "the-first-farmers",
+   "region": "oceania",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 123,
+   "date": "c. 1300 bce",
+   "start": -1300,
+   "end": -1300,
+   "text": "lapita peoples sail from the islands off new guinea into the remote pacific, reaching fiji, tonga, and samoa",
+   "era": "the-first-civilizations",
+   "region": "oceania",
+   "tags": [
+    "migration",
+    "exploration"
+   ]
+  },
+  {
+   "id": 228,
+   "date": "c. 1000",
+   "start": 1000,
+   "end": 1000,
+   "text": "polynesian voyagers settle the far corners of the pacific, reaching hawaii and later easter island",
+   "era": "the-middle-ages",
+   "region": "oceania",
+   "tags": [
+    "exploration",
+    "migration"
+   ]
+  },
+  {
+   "id": 265,
+   "date": "c. 1200",
+   "start": 1200,
+   "end": 1200,
+   "text": "polynesian voyagers reach rapa nui (easter island), where their descendants carve the giant moai statues",
+   "era": "the-middle-ages",
+   "region": "oceania",
+   "tags": [
+    "migration",
+    "art"
+   ]
+  },
+  {
+   "id": 244,
+   "date": "c. 1250",
+   "start": 1250,
+   "end": 1250,
+   "text": "the ancestors of the māori, sailing from eastern polynesia, settle new zealand, the last large land mass humans reached",
+   "era": "the-middle-ages",
+   "region": "oceania",
+   "tags": [
+    "exploration",
+    "migration"
+   ]
+  },
+  {
+   "id": 317,
+   "date": "1606",
+   "start": 1606,
+   "end": 1606,
+   "text": "the dutch sailor willem janszoon makes the first recorded european landing in australia",
+   "era": "the-early-modern-world",
+   "region": "oceania",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 319,
+   "date": "1642",
+   "start": 1642,
+   "end": 1642,
+   "text": "abel tasman reaches tasmania and new zealand",
+   "era": "the-early-modern-world",
+   "region": "oceania",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 329,
+   "date": "1768–1779",
+   "start": 1768,
+   "end": 1779,
+   "text": "james cook makes three voyages across the pacific, mapping new zealand and eastern australia",
+   "era": "the-age-of-revolutions",
+   "region": "oceania",
+   "tags": [
+    "exploration"
+   ]
+  },
+  {
+   "id": 336,
+   "date": "1788",
+   "start": 1788,
+   "end": 1788,
+   "text": "the british \"first fleet\" arrives at sydney; the colonization of australia begins",
+   "era": "the-age-of-revolutions",
+   "region": "oceania",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 357,
+   "date": "1840",
+   "start": 1840,
+   "end": 1840,
+   "text": "the treaty of waitangi is signed between the british crown and māori chiefs in new zealand",
+   "era": "the-age-of-revolutions",
+   "region": "oceania",
+   "tags": [
+    "empire",
+    "law"
+   ]
+  },
+  {
+   "id": 397,
+   "date": "1893",
+   "start": 1893,
+   "end": 1893,
+   "text": "new zealand becomes the first self-governing country to give women the vote",
+   "era": "industry-and-empire",
+   "region": "oceania",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 419,
+   "date": "1893",
+   "start": 1893,
+   "end": 1893,
+   "text": "american businessmen backed by us marines overthrow queen liliuokalani of hawaii; the united states annexes the islands in 1898",
+   "era": "industry-and-empire",
+   "region": "oceania",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 454,
+   "date": "1942",
+   "start": 1942,
+   "end": 1942,
+   "text": "the united states defeats japan at the battle of midway",
+   "era": "the-world-wars",
+   "region": "oceania",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 529,
+   "date": "1992",
+   "start": 1992,
+   "end": 1992,
+   "text": "in the mabo case, australia's high court recognizes that indigenous peoples held land before british colonization",
+   "era": "the-modern-world",
+   "region": "oceania",
+   "tags": [
+    "rights"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "mungo-man",
+   "name": "mungo man",
+   "dates": "c. 40,000 years ago",
+   "role": "an ancient aboriginal australian",
+   "url": "api/people/mungo-man.json"
+  },
+  {
+   "slug": "james-cook",
+   "name": "james cook",
+   "dates": "1728–1779",
+   "role": "british navigator",
+   "url": "api/people/james-cook.json"
+  },
+  {
+   "slug": "liliuokalani",
+   "name": "liliuokalani",
+   "dates": "1838–1917",
+   "role": "the last queen of hawaii",
+   "url": "api/people/liliuokalani.json"
+  },
+  {
+   "slug": "eddie-mabo",
+   "name": "eddie mabo",
+   "dates": "1936–1992",
+   "role": "torres strait islander",
+   "url": "api/people/eddie-mabo.json"
+  }
+ ]
+}

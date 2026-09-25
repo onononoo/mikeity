@@ -1,0 +1,79 @@
+{
+ "century": 2,
+ "events": [
+  {
+   "id": 180,
+   "date": "105 ce",
+   "start": 105,
+   "end": 105,
+   "text": "the court official cai lun presents an improved method of making paper",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  },
+  {
+   "id": 183,
+   "date": "117 ce",
+   "start": 117,
+   "end": 117,
+   "text": "the roman empire reaches its largest size under the emperor trajan",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 202,
+   "date": "132 ce",
+   "start": 132,
+   "end": 132,
+   "text": "zhang heng builds a bronze seismoscope that shows the direction of a distant earthquake",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "science",
+    "technology"
+   ]
+  },
+  {
+   "id": 203,
+   "date": "c. 162 ce",
+   "start": 162,
+   "end": 162,
+   "text": "the greek doctor galen begins working in rome; his books on medicine are followed for over a thousand years",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 204,
+   "date": "165–180 ce",
+   "start": 165,
+   "end": 180,
+   "text": "the antonine plague, probably smallpox, spreads through the roman empire and kills millions",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "disease"
+   ]
+  },
+  {
+   "id": 184,
+   "date": "c. 200 ce",
+   "start": 200,
+   "end": 200,
+   "text": "teotihuacan in central mexico, with its pyramid of the sun, becomes one of the largest cities in the world",
+   "era": "the-classical-world",
+   "region": "mesoamerica-and-the-caribbean",
+   "tags": [
+    "cities"
+   ]
+  }
+ ]
+}

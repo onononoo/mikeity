@@ -1,0 +1,834 @@
+{
+ "slug": "east-asia",
+ "name": "east asia",
+ "description": "china, korea, japan, and mongolia: the dynasties of china, the samurai of japan, and the mongol conquests.",
+ "page": "regions.html#east-asia",
+ "events": [
+  {
+   "id": 75,
+   "date": "c. 8000 bce",
+   "start": -8000,
+   "end": -8000,
+   "text": "millet is farmed in northern china, along the yellow river",
+   "era": "the-first-farmers",
+   "region": "east-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 78,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "rice is domesticated in the lower yangtze valley of china",
+   "era": "the-first-farmers",
+   "region": "east-asia",
+   "tags": [
+    "farming"
+   ]
+  },
+  {
+   "id": 82,
+   "date": "c. 7000 bce",
+   "start": -7000,
+   "end": -7000,
+   "text": "people at jiahu in china brew a fermented drink of rice, honey, and fruit, and play bone flutes",
+   "era": "the-first-farmers",
+   "region": "east-asia",
+   "tags": [
+    "culture",
+    "music"
+   ]
+  },
+  {
+   "id": 104,
+   "date": "c. 3000 bce",
+   "start": -3000,
+   "end": -3000,
+   "text": "austronesian-speaking peoples begin sailing out of taiwan, starting a migration that will reach madagascar and easter island",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "migration",
+    "exploration"
+   ]
+  },
+  {
+   "id": 116,
+   "date": "c. 1600 bce",
+   "start": -1600,
+   "end": -1600,
+   "text": "the shang dynasty takes power along the yellow river, the first chinese dynasty with written records",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 125,
+   "date": "c. 1250 bce",
+   "start": -1250,
+   "end": -1250,
+   "text": "shang kings carve questions to their ancestors on oracle bones, the oldest chinese writing",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "writing",
+    "religion"
+   ]
+  },
+  {
+   "id": 131,
+   "date": "c. 1046 bce",
+   "start": -1046,
+   "end": -1046,
+   "text": "the zhou overthrow the shang and claim the \"mandate of heaven\"",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "politics",
+    "philosophy"
+   ]
+  },
+  {
+   "id": 149,
+   "date": "551 bce",
+   "start": -551,
+   "end": -551,
+   "text": "confucius is born in the state of lu, according to tradition",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "philosophy"
+   ]
+  },
+  {
+   "id": 160,
+   "date": "c. 475–221 bce",
+   "start": -475,
+   "end": -221,
+   "text": "the warring states period: rival chinese kingdoms fight for supremacy while philosophy flourishes",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "philosophy"
+   ]
+  },
+  {
+   "id": 169,
+   "date": "221 bce",
+   "start": -221,
+   "end": -221,
+   "text": "the king of qin conquers the last rival state and becomes qin shi huang, the first emperor of china",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "politics"
+   ]
+  },
+  {
+   "id": 170,
+   "date": "206 bce",
+   "start": -206,
+   "end": -206,
+   "text": "the han dynasty begins; it will rule china for about four centuries",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 180,
+   "date": "105 ce",
+   "start": 105,
+   "end": 105,
+   "text": "the court official cai lun presents an improved method of making paper",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  },
+  {
+   "id": 202,
+   "date": "132 ce",
+   "start": 132,
+   "end": 132,
+   "text": "zhang heng builds a bronze seismoscope that shows the direction of a distant earthquake",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "science",
+    "technology"
+   ]
+  },
+  {
+   "id": 185,
+   "date": "220 ce",
+   "start": 220,
+   "end": 220,
+   "text": "the han dynasty falls and china splits into three kingdoms",
+   "era": "the-classical-world",
+   "region": "east-asia",
+   "tags": [
+    "collapse"
+   ]
+  },
+  {
+   "id": 210,
+   "date": "589 ce",
+   "start": 589,
+   "end": 589,
+   "text": "the sui dynasty reunites china after centuries of division and builds the grand canal",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "technology"
+   ]
+  },
+  {
+   "id": 212,
+   "date": "618 ce",
+   "start": 618,
+   "end": 618,
+   "text": "the tang dynasty begins, a golden age of poetry, trade, and buddhism",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "culture"
+   ]
+  },
+  {
+   "id": 225,
+   "date": "868 ce",
+   "start": 868,
+   "end": 868,
+   "text": "the diamond sutra is printed in china, the oldest dated printed book",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  },
+  {
+   "id": 226,
+   "date": "960 ce",
+   "start": 960,
+   "end": 960,
+   "text": "the song dynasty begins; china leads the world in technology, trade, and city life",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "technology"
+   ]
+  },
+  {
+   "id": 262,
+   "date": "1024",
+   "start": 1024,
+   "end": 1024,
+   "text": "the song government issues the jiaozi in sichuan, the world's first official paper money",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 263,
+   "date": "c. 1040",
+   "start": 1040,
+   "end": 1040,
+   "text": "bi sheng invents movable type made of baked clay",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "writing"
+   ]
+  },
+  {
+   "id": 264,
+   "date": "1044",
+   "start": 1044,
+   "end": 1044,
+   "text": "a chinese military handbook records the earliest known formula for gunpowder",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "technology",
+    "war"
+   ]
+  },
+  {
+   "id": 245,
+   "date": "1271–1295",
+   "start": 1271,
+   "end": 1295,
+   "text": "marco polo travels to china and serves at the court of kublai khan",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "exploration",
+    "trade"
+   ]
+  },
+  {
+   "id": 246,
+   "date": "1274–1281",
+   "start": 1274,
+   "end": 1281,
+   "text": "two mongol invasions of japan are wrecked by typhoons, the \"kamikaze\" or divine winds",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 247,
+   "date": "1279",
+   "start": 1279,
+   "end": 1279,
+   "text": "kublai khan completes the conquest of the song; the mongol yuan dynasty rules all of china",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 254,
+   "date": "1368",
+   "start": 1368,
+   "end": 1368,
+   "text": "the ming dynasty drives out the mongols and rules china",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 255,
+   "date": "1405–1433",
+   "start": 1405,
+   "end": 1433,
+   "text": "admiral zheng he leads seven giant treasure fleets as far as east africa",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "exploration",
+    "trade"
+   ]
+  },
+  {
+   "id": 272,
+   "date": "1443",
+   "start": 1443,
+   "end": 1443,
+   "text": "king sejong of korea has hangul created, a simple alphabet for the korean language",
+   "era": "the-middle-ages",
+   "region": "east-asia",
+   "tags": [
+    "writing"
+   ]
+  },
+  {
+   "id": 297,
+   "date": "1592–1598",
+   "start": 1592,
+   "end": 1598,
+   "text": "japan invades korea; admiral yi sun-sin's navy, with its armored turtle ships, helps drive them back",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 299,
+   "date": "1603",
+   "start": 1603,
+   "end": 1603,
+   "text": "tokugawa ieyasu becomes shogun; japan enters over 250 years of peace and isolation",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 305,
+   "date": "1644",
+   "start": 1644,
+   "end": 1644,
+   "text": "the manchus take beijing and found the qing dynasty, china's last",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "war"
+   ]
+  },
+  {
+   "id": 321,
+   "date": "1661–1722",
+   "start": 1661,
+   "end": 1722,
+   "text": "the kangxi emperor rules qing china for 61 years, one of the longest reigns in history",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 322,
+   "date": "1689",
+   "start": 1689,
+   "end": 1689,
+   "text": "the treaty of nerchinsk sets the border between russia and qing china, china's first treaty with a european power",
+   "era": "the-early-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": 364,
+   "date": "1793",
+   "start": 1793,
+   "end": 1793,
+   "text": "the qianlong emperor turns away a british embassy asking for more trade, writing that china needs nothing from britain",
+   "era": "the-age-of-revolutions",
+   "region": "east-asia",
+   "tags": [
+    "diplomacy",
+    "trade"
+   ]
+  },
+  {
+   "id": 356,
+   "date": "1839–1842",
+   "start": 1839,
+   "end": 1842,
+   "text": "the first opium war: britain defeats china and takes hong kong",
+   "era": "the-age-of-revolutions",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "empire",
+    "trade"
+   ]
+  },
+  {
+   "id": 374,
+   "date": "1850–1864",
+   "start": 1850,
+   "end": 1864,
+   "text": "the taiping rebellion in china, one of the deadliest wars in history, kills perhaps 20 to 30 million people",
+   "era": "industry-and-empire",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "religion"
+   ]
+  },
+  {
+   "id": 376,
+   "date": "1853",
+   "start": 1853,
+   "end": 1853,
+   "text": "american warships under commodore perry force japan to open to trade",
+   "era": "industry-and-empire",
+   "region": "east-asia",
+   "tags": [
+    "empire",
+    "trade"
+   ]
+  },
+  {
+   "id": 385,
+   "date": "1868",
+   "start": 1868,
+   "end": 1868,
+   "text": "the meiji restoration begins japan's rapid modernization",
+   "era": "industry-and-empire",
+   "region": "east-asia",
+   "tags": [
+    "politics",
+    "industry"
+   ]
+  },
+  {
+   "id": 402,
+   "date": "1900",
+   "start": 1900,
+   "end": 1900,
+   "text": "the boxer rebellion against foreigners in china is crushed by eight foreign powers",
+   "era": "industry-and-empire",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 405,
+   "date": "1904–1905",
+   "start": 1904,
+   "end": 1905,
+   "text": "japan defeats russia in the russo-japanese war",
+   "era": "industry-and-empire",
+   "region": "east-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 410,
+   "date": "1911–1912",
+   "start": 1911,
+   "end": 1912,
+   "text": "the xinhai revolution ends the qing dynasty and more than 2,000 years of imperial rule in china",
+   "era": "industry-and-empire",
+   "region": "east-asia",
+   "tags": [
+    "revolution"
+   ]
+  },
+  {
+   "id": 440,
+   "date": "1931",
+   "start": 1931,
+   "end": 1931,
+   "text": "japan invades manchuria",
+   "era": "the-world-wars",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "empire"
+   ]
+  },
+  {
+   "id": 446,
+   "date": "1937",
+   "start": 1937,
+   "end": 1937,
+   "text": "japan launches full-scale war on china; japanese troops massacre civilians at nanjing",
+   "era": "the-world-wars",
+   "region": "east-asia",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 458,
+   "date": "1945",
+   "start": 1945,
+   "end": 1945,
+   "text": "the united states drops atomic bombs on hiroshima and nagasaki; japan surrenders",
+   "era": "the-world-wars",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "nuclear"
+   ]
+  },
+  {
+   "id": 470,
+   "date": "1949",
+   "start": 1949,
+   "end": 1949,
+   "text": "mao zedong proclaims the people's republic of china",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "communism",
+    "revolution"
+   ]
+  },
+  {
+   "id": 472,
+   "date": "1950–1953",
+   "start": 1950,
+   "end": 1953,
+   "text": "the korean war ends in a stalemate along the 38th parallel",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "war",
+    "cold war"
+   ]
+  },
+  {
+   "id": 479,
+   "date": "1958–1962",
+   "start": 1958,
+   "end": 1962,
+   "text": "mao's great leap forward causes a famine that kills tens of millions",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "communism",
+    "disaster"
+   ]
+  },
+  {
+   "id": 487,
+   "date": "1966–1976",
+   "start": 1966,
+   "end": 1976,
+   "text": "mao's cultural revolution brings persecution and chaos to china",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "communism"
+   ]
+  },
+  {
+   "id": 526,
+   "date": "1972",
+   "start": 1972,
+   "end": 1972,
+   "text": "tu youyou's team finds artemisinin, which becomes the main treatment for malaria",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "medicine"
+   ]
+  },
+  {
+   "id": 494,
+   "date": "1978",
+   "start": 1978,
+   "end": 1978,
+   "text": "deng xiaoping begins opening china's economy to markets",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "economy"
+   ]
+  },
+  {
+   "id": 500,
+   "date": "1989",
+   "start": 1989,
+   "end": 1989,
+   "text": "the chinese army crushes protests in and around tiananmen square",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "rights"
+   ]
+  },
+  {
+   "id": 530,
+   "date": "1997",
+   "start": 1997,
+   "end": 1997,
+   "text": "britain hands hong kong back to china",
+   "era": "the-modern-world",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "slug": "laozi",
+   "name": "laozi",
+   "dates": "6th century bce",
+   "role": "chinese philosopher",
+   "url": "api/people/laozi.json"
+  },
+  {
+   "slug": "confucius",
+   "name": "confucius",
+   "dates": "551–479 bce",
+   "role": "chinese teacher and philosopher",
+   "url": "api/people/confucius.json"
+  },
+  {
+   "slug": "sun-tzu",
+   "name": "sun tzu",
+   "dates": "c. 544–496 bce",
+   "role": "chinese general and strategist",
+   "url": "api/people/sun-tzu.json"
+  },
+  {
+   "slug": "qin-shi-huang",
+   "name": "qin shi huang",
+   "dates": "259–210 bce",
+   "role": "first emperor of china",
+   "url": "api/people/qin-shi-huang.json"
+  },
+  {
+   "slug": "sima-qian",
+   "name": "sima qian",
+   "dates": "c. 145–86 bce",
+   "role": "han dynasty historian",
+   "url": "api/people/sima-qian.json"
+  },
+  {
+   "slug": "cai-lun",
+   "name": "cai lun",
+   "dates": "c. 50–121 ce",
+   "role": "han court official",
+   "url": "api/people/cai-lun.json"
+  },
+  {
+   "slug": "zhang-heng",
+   "name": "zhang heng",
+   "dates": "78–139 ce",
+   "role": "chinese astronomer, poet, and inventor",
+   "url": "api/people/zhang-heng.json"
+  },
+  {
+   "slug": "xuanzang",
+   "name": "xuanzang",
+   "dates": "c. 602–664 ce",
+   "role": "chinese buddhist monk and traveler",
+   "url": "api/people/xuanzang.json"
+  },
+  {
+   "slug": "wu-zetian",
+   "name": "wu zetian",
+   "dates": "624–705 ce",
+   "role": "empress of china",
+   "url": "api/people/wu-zetian.json"
+  },
+  {
+   "slug": "murasaki-shikibu",
+   "name": "murasaki shikibu",
+   "dates": "c. 973 ce–1014",
+   "role": "japanese court lady and writer",
+   "url": "api/people/murasaki-shikibu.json"
+  },
+  {
+   "slug": "bi-sheng",
+   "name": "bi sheng",
+   "dates": "c. 990 ce–1051",
+   "role": "chinese craftsman",
+   "url": "api/people/bi-sheng.json"
+  },
+  {
+   "slug": "shen-kuo",
+   "name": "shen kuo",
+   "dates": "1031–1095",
+   "role": "chinese scientist and official",
+   "url": "api/people/shen-kuo.json"
+  },
+  {
+   "slug": "kublai-khan",
+   "name": "kublai khan",
+   "dates": "1215–1294",
+   "role": "mongol emperor of china",
+   "url": "api/people/kublai-khan.json"
+  },
+  {
+   "slug": "zheng-he",
+   "name": "zheng he",
+   "dates": "1371–1433",
+   "role": "chinese admiral",
+   "url": "api/people/zheng-he.json"
+  },
+  {
+   "slug": "sejong-the-great",
+   "name": "sejong the great",
+   "dates": "1397–1450",
+   "role": "king of korea",
+   "url": "api/people/sejong-the-great.json"
+  },
+  {
+   "slug": "tokugawa-ieyasu",
+   "name": "tokugawa ieyasu",
+   "dates": "1543–1616",
+   "role": "japanese shogun",
+   "url": "api/people/tokugawa-ieyasu.json"
+  },
+  {
+   "slug": "yi-sun-sin",
+   "name": "yi sun-sin",
+   "dates": "1545–1598",
+   "role": "korean admiral",
+   "url": "api/people/yi-sun-sin.json"
+  },
+  {
+   "slug": "matsuo-basho",
+   "name": "matsuo bashō",
+   "dates": "1644–1694",
+   "role": "japanese poet",
+   "url": "api/people/matsuo-basho.json"
+  },
+  {
+   "slug": "kangxi-emperor",
+   "name": "kangxi emperor",
+   "dates": "1654–1722",
+   "role": "emperor of qing china",
+   "url": "api/people/kangxi-emperor.json"
+  },
+  {
+   "slug": "hong-xiuquan",
+   "name": "hong xiuquan",
+   "dates": "1814–1864",
+   "role": "leader of the taiping rebellion",
+   "url": "api/people/hong-xiuquan.json"
+  },
+  {
+   "slug": "cixi",
+   "name": "cixi",
+   "dates": "1835–1908",
+   "role": "empress dowager of china",
+   "url": "api/people/cixi.json"
+  },
+  {
+   "slug": "emperor-meiji",
+   "name": "emperor meiji",
+   "dates": "1852–1912",
+   "role": "emperor of japan",
+   "url": "api/people/emperor-meiji.json"
+  },
+  {
+   "slug": "sun-yat-sen",
+   "name": "sun yat-sen",
+   "dates": "1866–1925",
+   "role": "chinese revolutionary",
+   "url": "api/people/sun-yat-sen.json"
+  },
+  {
+   "slug": "mao-zedong",
+   "name": "mao zedong",
+   "dates": "1893–1976",
+   "role": "leader of communist china",
+   "url": "api/people/mao-zedong.json"
+  },
+  {
+   "slug": "deng-xiaoping",
+   "name": "deng xiaoping",
+   "dates": "1904–1997",
+   "role": "leader of china",
+   "url": "api/people/deng-xiaoping.json"
+  },
+  {
+   "slug": "tu-youyou",
+   "name": "tu youyou",
+   "dates": "1930–present",
+   "role": "chinese scientist",
+   "url": "api/people/tu-youyou.json"
+  }
+ ]
+}

@@ -1,0 +1,506 @@
+{
+ "slug": "buddhism",
+ "name": "buddhism",
+ "began": "5th century bce, in northern india",
+ "followers": "about 500 million, mostly in east and southeast asia",
+ "founder": "siddhartha gautama, the buddha, \"the awakened one\"",
+ "scriptures": "the pali canon (tipitaka); many mahayana sutras; the tibetan canon",
+ "places": "lumbini, bodh gaya, sarnath, and kushinagar, the places of the buddha's life",
+ "summary": "the path taught by the buddha to end suffering, through understanding its causes, living ethically, and training the mind. it does not depend on a creator god.",
+ "creation": "the buddha set aside the question of how the world began as not helpful for ending suffering. buddhist texts describe countless world systems that form, last, decay, and form again.",
+ "age": "time has no known beginning. it is measured in kalpas, eons so long that a mountain wiped with a silk cloth once a century would wear away first. many buddhas have come in past eons, and one, maitreya, is still to come.",
+ "events": [
+  {
+   "id": 1,
+   "kind": "tradition",
+   "when": "beginningless time",
+   "text": "the buddha teaches that no first beginning of the round of rebirth can be found. world systems without number arise, last, decline, and pass away",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 2,
+   "kind": "tradition",
+   "when": "every great kalpa",
+   "text": "each world passes through four long stages: forming, lasting, falling apart, and emptiness, and then forms again",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 3,
+   "kind": "tradition",
+   "when": "countless eons ago",
+   "text": "the ascetic sumedha meets the buddha dipankara and vows to become a buddha himself. over countless lives he perfects generosity, patience, and wisdom, as told in the jataka tales",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 4,
+   "kind": "tradition",
+   "when": "in the tushita heaven",
+   "text": "the future buddha waits in heaven for the right time, then chooses to be born as prince siddhartha",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 5,
+   "kind": "tradition",
+   "when": "the birth",
+   "text": "queen maya gives birth to siddhartha in the lumbini garden. the baby takes seven steps, and a sage foretells he will be either a great king or a buddha",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 6,
+   "kind": "history",
+   "when": "c. 480 bce",
+   "text": "most historians place the buddha's birth around 480 bce at lumbini, in modern nepal; the theravada tradition dates it to 623 bce",
+   "start": -480,
+   "end": -480
+  },
+  {
+   "id": 7,
+   "kind": "tradition",
+   "when": "at the age of 29",
+   "text": "outside the palace, siddhartha sees an old man, a sick man, a corpse, and a wandering holy man. he leaves his family and his wealth to seek the end of suffering",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 8,
+   "kind": "tradition",
+   "when": "at the age of 35",
+   "text": "sitting under the bodhi tree at bodh gaya, he overcomes the tempter mara and wakes up to the truth: he is now the buddha",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 9,
+   "kind": "tradition",
+   "when": "the first sermon",
+   "text": "in the deer park at sarnath, the buddha teaches the four noble truths to five companions, who become the first monks",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 10,
+   "kind": "tradition",
+   "when": "at the age of 80",
+   "text": "after 45 years of teaching, the buddha passes into final nirvana at kushinagar",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 11,
+   "kind": "history",
+   "when": "c. 400 bce",
+   "text": "according to tradition, 500 monks meet to recite the teachings together; they are passed down by memory for centuries",
+   "start": -400,
+   "end": -400
+  },
+  {
+   "id": 12,
+   "kind": "history",
+   "when": "c. 260 bce",
+   "text": "the emperor ashoka turns to buddhism after the slaughter at kalinga and sends teachers across and beyond india, including his son mahinda to sri lanka",
+   "start": -260,
+   "end": -260
+  },
+  {
+   "id": 13,
+   "kind": "history",
+   "when": "c. 29 bce",
+   "text": "monks in sri lanka write down the teachings in the pali language, the pali canon of theravada buddhism",
+   "start": -29,
+   "end": -29
+  },
+  {
+   "id": 14,
+   "kind": "history",
+   "when": "c. 65 ce",
+   "text": "buddhism reaches china along the silk roads; by tradition the white horse temple is founded at luoyang",
+   "start": 65,
+   "end": 65
+  },
+  {
+   "id": 15,
+   "kind": "history",
+   "when": "c. 100 ce",
+   "text": "mahayana sutras, such as the lotus sutra and the perfection of wisdom, appear, teaching the path of the bodhisattva",
+   "start": 100,
+   "end": 100
+  },
+  {
+   "id": 16,
+   "kind": "history",
+   "when": "c. 150–250 ce",
+   "text": "nagarjuna teaches that all things are empty of fixed, separate existence",
+   "start": 150,
+   "end": 250
+  },
+  {
+   "id": 17,
+   "kind": "history",
+   "when": "372 ce",
+   "text": "buddhism reaches korea",
+   "start": 372,
+   "end": 372
+  },
+  {
+   "id": 18,
+   "kind": "history",
+   "when": "5th century",
+   "text": "the monastery university of nalanda is founded in india; it will draw students from all over asia",
+   "start": 401,
+   "end": 500
+  },
+  {
+   "id": 19,
+   "kind": "history",
+   "when": "538 ce",
+   "text": "a korean king sends an image of the buddha and sutras to japan",
+   "start": 538,
+   "end": 538
+  },
+  {
+   "id": 20,
+   "kind": "history",
+   "when": "629–645 ce",
+   "text": "the chinese monk xuanzang walks to india to collect scriptures and brings back hundreds of texts",
+   "start": 629,
+   "end": 645
+  },
+  {
+   "id": 21,
+   "kind": "history",
+   "when": "c. 779 ce",
+   "text": "samye, the first buddhist monastery in tibet, is completed",
+   "start": 779,
+   "end": 779
+  },
+  {
+   "id": 22,
+   "kind": "history",
+   "when": "c. 800 ce",
+   "text": "the great stupa of borobudur is built on java",
+   "start": 800,
+   "end": 800
+  },
+  {
+   "id": 23,
+   "kind": "history",
+   "when": "868 ce",
+   "text": "the diamond sutra is printed in china, the oldest dated printed book",
+   "start": 868,
+   "end": 868
+  },
+  {
+   "id": 24,
+   "kind": "history",
+   "when": "c. 1193",
+   "text": "invaders destroy nalanda; buddhism fades away in most of india",
+   "start": 1193,
+   "end": 1193
+  },
+  {
+   "id": 25,
+   "kind": "history",
+   "when": "1227",
+   "text": "dogen returns from china and brings soto zen to japan",
+   "start": 1227,
+   "end": 1227
+  },
+  {
+   "id": 26,
+   "kind": "history",
+   "when": "1642",
+   "text": "the fifth dalai lama becomes the ruler of tibet",
+   "start": 1642,
+   "end": 1642
+  },
+  {
+   "id": 27,
+   "kind": "history",
+   "when": "1956",
+   "text": "b. r. ambedkar and about half a million dalits become buddhists at nagpur, rejecting caste",
+   "start": 1956,
+   "end": 1956
+  },
+  {
+   "id": 28,
+   "kind": "history",
+   "when": "1959",
+   "text": "the fourteenth dalai lama flees chinese rule in tibet and settles in india",
+   "start": 1959,
+   "end": 1959
+  },
+  {
+   "id": 29,
+   "kind": "history",
+   "when": "today",
+   "text": "about 500 million buddhists live mostly in east and southeast asia; buddhist meditation has spread worldwide",
+   "start": null,
+   "end": null
+  },
+  {
+   "id": 30,
+   "kind": "tradition",
+   "when": "in the distant future",
+   "text": "when the teaching has been forgotten, maitreya, the next buddha, will be born and teach the path again",
+   "start": null,
+   "end": null
+  }
+ ],
+ "people": [
+  {
+   "slug": "dipankara",
+   "name": "dipankara",
+   "dates": "countless eons ago",
+   "kind": "tradition",
+   "role": "a buddha of the distant past",
+   "about": "the buddha before whom sumedha vowed to become a buddha"
+  },
+  {
+   "slug": "maya",
+   "name": "maya",
+   "dates": "mother of the buddha",
+   "kind": "tradition",
+   "role": "queen of the shakyas",
+   "about": "dreamed of a white elephant before the buddha's birth and died seven days after it"
+  },
+  {
+   "slug": "siddhartha-gautama",
+   "name": "siddhartha gautama",
+   "dates": "c. 480-400 bce",
+   "kind": "history",
+   "role": "the buddha, \"the awakened one\"",
+   "about": "a prince who gave up everything to find the end of suffering, and taught the middle way for 45 years"
+  },
+  {
+   "slug": "yasodhara",
+   "name": "yasodhara",
+   "dates": "wife of siddhartha",
+   "kind": "tradition",
+   "role": "princess, later a nun",
+   "about": "raised their son rahula after siddhartha left, and later joined the order of nuns"
+  },
+  {
+   "slug": "mahapajapati",
+   "name": "mahapajapati",
+   "dates": "aunt and foster mother of the buddha",
+   "kind": "tradition",
+   "role": "the first buddhist nun",
+   "about": "persuaded the buddha to let women join the order"
+  },
+  {
+   "slug": "ananda",
+   "name": "ananda",
+   "dates": "cousin of the buddha",
+   "kind": "tradition",
+   "role": "the buddha's attendant",
+   "about": "remembered all the buddha's sermons; many sutras begin \"thus have i heard\" in his words"
+  },
+  {
+   "slug": "ashoka",
+   "name": "ashoka",
+   "dates": "c. 304-232 bce",
+   "kind": "history",
+   "role": "maurya emperor",
+   "about": "carved edicts on rocks and pillars urging kindness and tolerance, and helped spread buddhism across asia"
+  },
+  {
+   "slug": "nagarjuna",
+   "name": "nagarjuna",
+   "dates": "c. 150-250",
+   "kind": "history",
+   "role": "philosopher",
+   "about": "founder of the middle way school of mahayana philosophy"
+  },
+  {
+   "slug": "buddhaghosa",
+   "name": "buddhaghosa",
+   "dates": "5th century",
+   "kind": "history",
+   "role": "monk and scholar in sri lanka",
+   "about": "wrote the path of purification, the great guide of theravada buddhism"
+  },
+  {
+   "slug": "bodhidharma",
+   "name": "bodhidharma",
+   "dates": "5th or 6th century",
+   "kind": "tradition",
+   "role": "indian monk",
+   "about": "by tradition brought chan (zen) meditation to china and sat facing a wall for nine years"
+  },
+  {
+   "slug": "xuanzang",
+   "name": "xuanzang",
+   "dates": "c. 602-664",
+   "kind": "history",
+   "role": "chinese monk and translator",
+   "about": "walked to india and back, and spent the rest of his life translating the texts he brought home"
+  },
+  {
+   "slug": "padmasambhava",
+   "name": "padmasambhava",
+   "dates": "8th century",
+   "kind": "history",
+   "role": "indian teacher in tibet",
+   "about": "remembered in tibet as guru rinpoche, who helped found samye and tamed the local spirits"
+  },
+  {
+   "slug": "milarepa",
+   "name": "milarepa",
+   "dates": "c. 1040-1123",
+   "kind": "history",
+   "role": "tibetan yogi and poet",
+   "about": "turned from black magic and murder to become tibet's most beloved saint"
+  },
+  {
+   "slug": "dogen",
+   "name": "dogen",
+   "dates": "1200-1253",
+   "kind": "history",
+   "role": "japanese zen master",
+   "about": "taught that \"just sitting\" in meditation is itself awakening"
+  },
+  {
+   "slug": "nichiren",
+   "name": "nichiren",
+   "dates": "1222-1282",
+   "kind": "history",
+   "role": "japanese monk",
+   "about": "taught that chanting the name of the lotus sutra is the way to buddhahood"
+  },
+  {
+   "slug": "b-r-ambedkar",
+   "name": "b. r. ambedkar",
+   "dates": "1891-1956",
+   "kind": "history",
+   "role": "indian lawyer and statesman",
+   "about": "born into an \"untouchable\" family, he wrote india's constitution and led a mass conversion to buddhism"
+  },
+  {
+   "slug": "thich-nhat-hanh",
+   "name": "thich nhat hanh",
+   "dates": "1926-2022",
+   "kind": "history",
+   "role": "vietnamese zen monk",
+   "about": "worked for peace during the vietnam war and taught mindfulness around the world"
+  },
+  {
+   "slug": "tenzin-gyatso",
+   "name": "tenzin gyatso",
+   "dates": "1935-present",
+   "kind": "history",
+   "role": "the fourteenth dalai lama",
+   "about": "spiritual leader of tibetan buddhism, living in exile in india since 1959; nobel peace prize 1989"
+  },
+  {
+   "slug": "maitreya",
+   "name": "maitreya",
+   "dates": "the distant future",
+   "kind": "tradition",
+   "role": "the next buddha",
+   "about": "now waiting in the tushita heaven, he will come when the present teaching has been forgotten"
+  }
+ ],
+ "glossary": [
+  {
+   "slug": "anatta",
+   "term": "anatta",
+   "definition": "\"not-self\": the teaching that there is no fixed, unchanging self inside a person."
+  },
+  {
+   "slug": "bodhisattva",
+   "term": "bodhisattva",
+   "definition": "a being on the way to buddhahood; in mahayana, one who puts off final nirvana to help all beings."
+  },
+  {
+   "slug": "buddha",
+   "term": "buddha",
+   "definition": "\"awakened one\": someone who has fully understood the truth. the buddha of our age is siddhartha gautama."
+  },
+  {
+   "slug": "dalai-lama",
+   "term": "dalai lama",
+   "definition": "the leading teacher of the gelug school of tibetan buddhism, believed to be reborn in each generation."
+  },
+  {
+   "slug": "dharma",
+   "term": "dharma",
+   "definition": "in buddhism, the teaching of the buddha and the truth it points to."
+  },
+  {
+   "slug": "dukkha",
+   "term": "dukkha",
+   "definition": "suffering, or the unsatisfactory nature of life, the first of the four noble truths."
+  },
+  {
+   "slug": "eightfold-path",
+   "term": "eightfold path",
+   "definition": "the way to end suffering: right view, intention, speech, action, livelihood, effort, mindfulness, and concentration."
+  },
+  {
+   "slug": "four-noble-truths",
+   "term": "four noble truths",
+   "definition": "life involves suffering; suffering comes from craving; it can end; and the eightfold path is the way."
+  },
+  {
+   "slug": "kalpa",
+   "term": "kalpa",
+   "definition": "an eon, a span of time so long it can only be described by comparisons."
+  },
+  {
+   "slug": "karma",
+   "term": "karma",
+   "definition": "intentional action, which shapes a person's future in this life and in rebirth."
+  },
+  {
+   "slug": "mahayana",
+   "term": "mahayana",
+   "definition": "\"the great vehicle\": the branch of buddhism of china, korea, japan, and vietnam, centered on the bodhisattva."
+  },
+  {
+   "slug": "meditation",
+   "term": "meditation",
+   "definition": "training the mind in calm and insight, at the heart of buddhist practice."
+  },
+  {
+   "slug": "nirvana",
+   "term": "nirvana",
+   "definition": "\"blowing out\": the end of craving and suffering, and freedom from rebirth."
+  },
+  {
+   "slug": "sangha",
+   "term": "sangha",
+   "definition": "the community of monks and nuns, and in a wider sense all buddhists."
+  },
+  {
+   "slug": "stupa",
+   "term": "stupa",
+   "definition": "a domed monument holding relics of the buddha or a saint."
+  },
+  {
+   "slug": "sutra",
+   "term": "sutra",
+   "definition": "a discourse of the buddha, or a text believed to record his teaching."
+  },
+  {
+   "slug": "theravada",
+   "term": "theravada",
+   "definition": "\"the way of the elders\": the branch of buddhism of sri lanka, myanmar, thailand, laos, and cambodia."
+  },
+  {
+   "slug": "vajrayana",
+   "term": "vajrayana",
+   "definition": "\"the diamond vehicle\": the buddhism of tibet, mongolia, and bhutan, with special rituals and teachers."
+  },
+  {
+   "slug": "zen",
+   "term": "zen",
+   "definition": "a school of mahayana buddhism, chan in chinese, that stresses meditation and sudden insight."
+  }
+ ],
+ "page": "buddhism/index.html"
+}

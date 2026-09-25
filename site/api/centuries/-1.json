@@ -1,0 +1,55 @@
+{
+ "century": -1,
+ "events": [
+  {
+   "id": 173,
+   "date": "c. 100 bce",
+   "start": -100,
+   "end": -100,
+   "text": "the hopewell culture builds large earthworks and trades across much of eastern north america",
+   "era": "the-classical-world",
+   "region": "north-america",
+   "tags": [
+    "trade",
+    "architecture"
+   ]
+  },
+  {
+   "id": 174,
+   "date": "44 bce",
+   "start": -44,
+   "end": -44,
+   "text": "julius caesar is assassinated by senators in rome",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "politics"
+   ]
+  },
+  {
+   "id": 175,
+   "date": "27 bce",
+   "start": -27,
+   "end": -27,
+   "text": "octavian takes the name augustus and becomes the first roman emperor; the pax romana begins",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "empire",
+    "politics"
+   ]
+  },
+  {
+   "id": 176,
+   "date": "c. 4 bce",
+   "start": -4,
+   "end": -4,
+   "text": "jesus of nazareth is born in judea",
+   "era": "the-classical-world",
+   "region": "the-middle-east",
+   "tags": [
+    "religion"
+   ]
+  }
+ ]
+}

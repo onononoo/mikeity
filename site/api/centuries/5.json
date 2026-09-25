@@ -1,0 +1,30 @@
+{
+ "century": 5,
+ "events": [
+  {
+   "id": 194,
+   "date": "410 ce",
+   "start": 410,
+   "end": 410,
+   "text": "the visigoths under alaric sack the city of rome",
+   "era": "the-classical-world",
+   "region": "europe",
+   "tags": [
+    "war"
+   ]
+  },
+  {
+   "id": 205,
+   "date": "476 ce",
+   "start": 476,
+   "end": 476,
+   "text": "the germanic general odoacer deposes romulus augustulus, the last western roman emperor",
+   "era": "the-middle-ages",
+   "region": "europe",
+   "tags": [
+    "collapse",
+    "politics"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "century": -16,
+ "events": [
+  {
+   "id": 116,
+   "date": "c. 1600 bce",
+   "start": -1600,
+   "end": -1600,
+   "text": "the shang dynasty takes power along the yellow river, the first chinese dynasty with written records",
+   "era": "the-first-civilizations",
+   "region": "east-asia",
+   "tags": [
+    "empire"
+   ]
+  },
+  {
+   "id": 117,
+   "date": "c. 1600 bce",
+   "start": -1600,
+   "end": -1600,
+   "text": "the volcano of thera (santorini) erupts in one of the largest blasts in human history; mycenaean greece begins to rise",
+   "era": "the-first-civilizations",
+   "region": "europe",
+   "tags": [
+    "disaster"
+   ]
+  }
+ ]
+}
